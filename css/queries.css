@@ -1,0 +1,109 @@
+/*
+This is the quries css file - meant for media queires.
+
+The main.css file covers for the normal desktop experience which is fine for 
+1200px and above (max-width has been set too 1200px). Below that it looks fine 
+till 1060px, after which the signup box starts creeping. The breakpoints are as follows -
+
+> 1060px (no media queries)
+1060px (signup box adjusting)
+*/
+
+@media only screen and (max-width: 1000px) {
+    /* 
+    1. Fix the main body and aside sections. Move aside to bottom.
+    2. Probably change the into text - have a link that askes people to subscribe,
+         link should scroll them all the way down (?)
+    */
+
+    /* General fix - make both full width*/
+    .wrapper > aside,
+    .wrapper > main {
+        width: 100%;
+        margin: 0;
+        float: none;
+    }
+
+    /* main specific */
+    .wrapper > main {
+        padding: 0 6%;
+    }
+
+    /* aside specific */
+    .wrapper > aside {
+        width: 75%;
+        min-width: 400px;
+        margin: 20px auto;
+    }
+
+}
+
+
+/* 960 - make nav look good on smaller screens */
+@media only screen and (max-width: 960px) {
+    footer > .copyright {
+        padding: 0px;
+        padding-top: 15px;
+        text-align: center;
+    }
+}
+/* 800 (padding(main) = 4%), and then 480px */
+@media only screen and (max-width: 800px) {
+
+/* lessen the padding from 6% to 3% to make it more redable on smaller screens*/
+    .wrapper > main {
+        padding: 0 3%;
+    }
+
+/* make the header responsive by moving logo to center and nav below it*/
+    header > .logo {
+        float: none;
+        margin-left: none;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        height: 50px;
+    }
+    header > .logo  img {
+        display: block;
+        margin: auto;
+    }
+
+    header > nav {
+        float: none;
+        text-align: center;
+        margin: 10px;
+        padding-top: 10px;
+    }
+
+    header > nav > ul > li {
+        padding: 6px;
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .subscribe{
+        text-align: center;
+    }
+    div.subscribe-modal > form > input[type="text"],
+    div.subscribe-modal > form > input[type="submit"]{
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .wrapper > main {
+        padding: 0;
+    }
+    .wrapper > aside {
+        width: 100%;
+        min-width: 0px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    div.subscribe-modal > form > input[type="text"],
+    div.subscribe-modal > form > input[type="submit"]{
+        width: 80%;
+    }
+}

@@ -1,0 +1,66 @@
+
+main.archive-page {
+    padding: 30px 10px;
+    color: black;
+}
+
+.archive-page .heading {
+    font-weight: normal;
+    text-align: center;
+    padding: 10px;
+}
+
+ul.archive-list {
+    max-width: 680px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.archive-page > ul {
+    list-style-type: none;
+    display: block;
+}
+
+.archive-page > ul > li {
+    display: block;
+    padding-bottom: 25px;
+}
+
+.post-item .title {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    display: inline;
+}
+
+.post-item > .title > a {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 0;
+    color: blue;
+}
+
+.post-item > .description {
+    font-size: 16px;
+    padding: 3px 0;
+    color: #333;
+}
+
+.post-item > .tags {
+    font-style: italic;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 800px) {
+    ul.archive-list {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    main.archive-page {
+       padding: 0px;
+    }
+}

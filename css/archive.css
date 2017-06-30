@@ -1,0 +1,30 @@
+
+main.archive-page {
+    padding: 30px 10px;
+    color: black;
+}
+
+.heading {
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+ul.archive-list {
+    padding-left: 10%;
+    padding-top: 20px;
+    list-style-type: square;
+    line-height: 1.7;
+}
+
+
+@media only screen and (max-width: 800px) {
+    ul.archive-list {
+        padding-left: 0px;
+        max-width: 100px;
+        margin: 0 auto;
+        line-height: 1.4;
+        font-size: 18px;
+        text-align: justify;
+    }
+}

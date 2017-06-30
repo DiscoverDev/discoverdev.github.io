@@ -1,0 +1,381 @@
+/* ----------------------------------------------- */
+/* BASIC SETUP */
+/* ----------------------------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%;
+    position: relative;
+}
+html,
+body {
+    background-color: #fff;
+    color: #555;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+    font-family: 'Inconsolata', monospace;
+}
+
+.clearfix {zoom: 1;}
+.clearfix:after {
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* ----------------------------------------------- */
+/* HEADER */
+/* ----------------------------------------------- */
+
+body > header {
+    background-color: white;
+    border-bottom: solid 1.5px black;
+    padding: 0px 10px;
+}
+
+/******** LOGO ********/
+
+.logo {
+    float: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 2%;
+    /*what about when the screen is too big? 
+    % wise padding will work?*/
+    height: 60px;
+}
+
+.logo  img {
+    height: 100%;
+}
+
+/******** Nav bar ********/
+
+header > nav {
+    float: right;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+header > nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header > nav > ul > li {
+    display: inline;
+    padding: 8px;
+}
+
+header > nav > ul > li > a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all ease-in-out 0.3s;
+}
+
+header > nav > ul > li > a:hover {
+    border-color: black;
+}
+
+header > nav > ul > li > a.highlight {
+    color: blue;
+    font-weight: bold;
+}
+
+header > nav > ul > li > a.highlight:hover {
+    border-color: blue;
+}
+
+/* ----------------------------------------------- */
+/* Wrapper */
+/* ----------------------------------------------- */
+/* The wrapper wraps the main element (which contains the week's articles)
+    and the aside element which has the signup button!
+*/
+div.wrapper {
+    background: white;
+    padding: 0 2%;
+    max-width: 1240px;
+    margin: 20px auto;
+    font-size: 17px;
+    color: black;
+}
+
+/**** MAIN *****/
+main {
+    height: 100%;
+    padding: 0 1.5%;
+}
+
+main > .intro {
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+    padding: 15px 0;
+}
+
+.intro > .sub-highlight {
+    color: blue;
+    font-weight: bold;
+}
+section.subscribe-modal-bg {
+    display: none;
+    overflow: auto;
+    z-index: 9999;
+}
+
+section.subscribe-modal-bg:target {
+    position: fixed;
+    background-color: rgba(25,25,25,.5);
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.subscribe-modal {
+    position: relative;
+    border: 2px solid black;
+    padding: 15px;
+    max-width: 720px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+div.subscribe-modal > .close {
+    display: block;
+    padding: 7px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div.subscribe-modal > form {
+    text-align: center;
+    padding: 5px 0;
+}
+
+div.subscribe-modal > form > input[type="text"] {
+    border: 2px solid black;
+    padding-left: 5px;
+    margin: 10px 0;
+    height: 35px;
+    max-width: 300px;
+    min-width: 180px;
+    width: 30%;
+}
+
+div.subscribe-modal > form > input[type="text"]::placeholder {
+    color: #aaa;
+    font-family: 'Inconsolata', monospace;
+}
+
+div.subscribe-modal > form > input[type="submit"] {
+    border: none;
+    background-color: black;
+    font-size: bold;
+    color: white;
+    margin: 5px 0;
+    height: 35px;
+    width: 30%;
+    max-width: 300px;
+    min-width: 180px;
+}
+
+div.subscribe-modal > .privacy-msg {
+    color: #555;
+    font-style: italic;
+    font-size: 14px;
+    /*text-align: center;*/
+}
+
+
+.day-list {
+    display: block;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+
+.day-list > h1 {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.day-list > time {
+    font-size: 14px;
+    vertical-align: sub;
+}
+
+.day-list > time > a {
+    color: black;
+    text-decoration: underline;
+}
+
+.day-list a.read-more {
+    text-decoration: none;
+    font-size: 16px;
+}
+.day-list > ul {
+    list-style-type: none;
+    display: block;
+}
+
+.day-list > ul > li {
+    display: block;
+    padding-bottom: 25px;
+}
+
+.post-link > .title {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    display: inline;
+}
+
+.post-link > .title > a {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 0;
+    color: blue;
+}
+
+span.domain {
+    font-style: italic;
+    font-size: 13px;
+}
+.post-link > .description {
+    font-size: 16px;
+    padding: 3px 0;
+    color: #333;
+}
+
+.post-link > .tags {
+    font-style: italic;
+    font-size: 16px;
+}
+
+/**** ASIDE ****/
+aside.col {
+    border: 2px solid black;
+    padding: 7px;
+    max-width: 500px;
+}
+
+.signup > h1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 4px -4px black;
+}
+
+.signup > .signup-msg {
+    text-align: center;
+}
+
+.signup > .privacy-msg {
+    color: #555;
+    font-style: italic;
+    padding: 5px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.signup > form {
+    padding: 15px 0;
+    text-align: center;
+}
+
+.signup > form > input[type="text"] {
+    border: 2px solid black;
+    padding-left: 5px;
+    margin: 10px 0;
+    height: 35px;
+    width: 75%;
+}
+
+.signup > form > input[type="text"]::placeholder {
+    color: #aaa;
+    font-family: 'Inconsolata', monospace;
+}
+
+.signup > form > input[type="submit"] {
+    border: none;
+    background-color: black;
+    font-size: bold;
+    color: white;
+    margin: 10px 0;
+    height: 35px;
+    width: 50%;
+}
+
+
+/**************
+**** Footer ***
+***************/
+
+footer {
+    padding : 10px 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    /*To make it stick to bottom incase of shortage on content
+      but do I need this level of detail? */
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+
+footer > .msg {
+    padding: 10px 0;
+}
+
+footer > .copyright {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: #ccc;
+    text-align: left;
+}
+
+/* so that the footer with absolute position won't eat off
+the actual content. Other way is to give body a padding
+https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page
+https://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing
+*/
+.ghost-footer {
+    height: 100px;
+}
