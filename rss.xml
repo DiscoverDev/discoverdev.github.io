@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discover Dev</title>
+    <description>Curated list of the top engineering blogs</description>
+    <link>http://discoverdev.io</link>
+     
+      <item>
+        <title>The top engineering blog posts for Wed, 05 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> From Thrift To Finatra </li>
+          
+            <li> Running feature specs with Capybara and Chrome headless </li>
+          
+            <li> Building a privacy-preserving architecture with less server trust </li>
+          
+            <li> How we designed our Kubernetes infrastructure on AWS </li>
+          
+            <li> Three little tools: mmsum, mmwatch, mmhistogram </li>
+          
+            <li> A container identity bootstrapping tool </li>
+          
+            <li> Using Higher-Order Functions to Build Queries in Knex.js </li>
+          
+            <li> Setting up Spark Streaming - Part II </li>
+          
+            <li> Remote device sign-in </li>
+          
+          </ul>
+        </description>
+        <pubDate>Wed, 05 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-05.html</guid>
+      </item>
+      
+      <item>
+        <title>The top engineering blog posts for Sat, 01 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Danger </li>
+          
+            <li> What Kotlin Does to Your Java </li>
+          
+            <li> Exactly-once Semantics are Possible: Here’s How Kafka Does it </li>
+          
+            <li> Introducing esprint: a fast, open source eslint CLI </li>
+          
+            <li> Why We Chose Typescript </li>
+          
+            <li> Integrating React Native in an existing application </li>
+          
+            <li> How to Extend Commerce APIs </li>
+          
+          </ul>
+        </description>
+        <pubDate>Sat, 01 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-01.html</guid>
+      </item>
+      
+      <item>
+        <title>The top engineering blog posts for Fri, 30 Jun 2017</title>
+        <description>
+          <ul>
+          
+            <li> Full-Stack Swift in 30 Minutes </li>
+          
+            <li> 5 Things to Know About Reactive Programming </li>
+          
+            <li> Hacking Blockchain </li>
+          
+            <li> AWS API Gateway, Lambda and Swagger </li>
+          
+            <li> How To Use the JavaScript Developer Console </li>
+          
+            <li> React, Relay and GraphQL: Under the Hood of the Times Website Redesign </li>
+          
+            <li> Moving Yelp&#39;s Core Business Search to Elasticsearch </li>
+          
+            <li> So You Want to Create Excel in the Browser? </li>
+          
+            <li> Image Recognition at the Speed of Memory Bandwidth </li>
+          
+            <li> Introducing HumbleNet: a cross-platform networking library that works in the browser </li>
+          
+          </ul>
+        </description>
+        <pubDate>Fri, 30 Jun 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-06-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-30.html</guid>
+      </item>
+      
+      <item>
+        <title>The top engineering blog posts for Thu, 29 Jun 2017</title>
+        <description>
+          <ul>
+          
+            <li> Open Sourcing Iris and Oncall </li>
+          
+            <li> Delivering Billions of Messages Exactly Once </li>
+          
+            <li> Engineering On-Demand Transportation for Business with Uber Central </li>
+          
+            <li> Scaling the Elastic Stack in a Microservices Architecture @ Rightmove </li>
+          
+            <li> Presto - a small step for DevOps engineer but a big step for BigData analyst </li>
+          
+            <li> Building natural dialogues for your voice assistant </li>
+          
+            <li> Glimmer: Blazing Fast Rendering for Ember.js, Part 2 </li>
+          
+            <li> Building the Web of Things </li>
+          
+            <li> How JSON decoding works in Elm—Part 1 </li>
+          
+            <li> Stupidly Simple DDoS Protocol (SSDP) generates 100 Gbps DDoS </li>
+          
+            <li> Patterns of Service-oriented Architecture: Denormalized
+Cache </li>
+          
+          </ul>
+        </description>
+        <pubDate>Thu, 29 Jun 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-06-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-29.html</guid>
+      </item>
+      
+      <item>
+        <title>The top engineering blog posts for Wed, 28 Jun 2017</title>
+        <description>
+          <ul>
+          
+            <li> Harry Logger and the Metrics’ Stone </li>
+          
+            <li> Democratizing Kaplan-Meier </li>
+          
+            <li> TypeScript and typed JavaScript at Frontend Engineering Sydney </li>
+          
+            <li> Optimizing HapiJS for Benchmarks </li>
+          
+            <li> How to Version a Web API </li>
+          
+            <li> Understanding Linux Container Scheduling </li>
+          
+            <li> Deep learning on Apache Spark and Apache Hadoop with Deeplearning4j </li>
+          
+            <li> Building m.uber: Engineering a High-Performance Web App for the Global Market </li>
+          
+            <li> Yahoo Mail’s New Tech Stack, Built for Performance and Reliability </li>
+          
+            <li> Server Rendering React on Rails </li>
+          
+          </ul>
+        </description>
+        <pubDate>Wed, 28 Jun 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-06-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-28.html</guid>
+      </item>
+      
+      <item>
+        <title>The top engineering blog posts for Tue, 27 Jun 2017</title>
+        <description>
+          <ul>
+          
+            <li> The Modern Architecture of Search </li>
+          
+            <li> The Limits of the CAP Theorem </li>
+          
+            <li> Node.js Performance Monitoring with Prometheus </li>
+          
+            <li> We Analyzed 100 Million Headlines. Here’s What We Learned (New Research) </li>
+          
+            <li> Tutorial: Typing in the air using depth camera, Chrome*, JavaScript*, and WebGL* transform feedback </li>
+          
+            <li> Level-based Compaction Changes </li>
+          
+            <li> Is this metastasis? </li>
+          
+            <li> Declarative Infrastructure with the Jsonnet Templating Language </li>
+          
+            <li> Instrumenting Sidekiq </li>
+          
+            <li> Designing state machines </li>
+          
+          </ul>
+        </description>
+        <pubDate>Tue, 27 Jun 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-06-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-27.html</guid>
+      </item>
+      
+      <item>
+        <title>The top engineering blog posts for Mon, 26 Jun 2017</title>
+        <description>
+          <ul>
+          
+            <li> Two Resources for Introducing Young Developers to Testing and Quality </li>
+          
+            <li> Dealing With Asynchrony in a Synchronous Swift World </li>
+          
+            <li> Multi-domain predictive AI or how to make one thing predict another </li>
+          
+            <li> Patterns of Service-oriented Architecture: Idempotency
+Key </li>
+          
+            <li> Program Like Proteus - A beginner&#39;s guide to polymorphism in Javascript </li>
+          
+            <li> Change your debugging mindset </li>
+          
+            <li> The data engineering ecosystem in 2017 </li>
+          
+            <li> iOS linting at Pinterest </li>
+          
+            <li> Using Deep Learning to Reconstruct High-Resolution Audio </li>
+          
+            <li> Building a Real-Time Streaming ETL Pipeline in 20 Minutes </li>
+          
+          </ul>
+        </description>
+        <pubDate>Mon, 26 Jun 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-06-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-26.html</guid>
+      </item>
+      
+  </channel>
+</rss>
