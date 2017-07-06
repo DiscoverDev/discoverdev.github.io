@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>The top engineering blog posts for Thu, 06 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Visualizing Smog Sensor Data with the help of Vert.x, Prometheus, and Grafana </li>
+          
+            <li> MySQL infrastructure testing automation at GitHub </li>
+          
+            <li> Introducing ELF: An extensive, lightweight and flexible platform for game research </li>
+          
+            <li> Building an Internal Cloud with Docker and CoreOS </li>
+          
+            <li> Bringing Machine Learning to your iOS Apps 🤖📲 </li>
+          
+            <li> Text Mining of Stack Overflow Questions </li>
+          
+            <li> Introducing BDDA, the infrastructure workflow we use for Kubernetes </li>
+          
+            <li> Implementing Unicode Collation in CockroachDB </li>
+          
+          </ul>
+        </description>
+        <pubDate>Thu, 06 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-06.html</guid>
+      </item>
+      
+      <item>
         <title>The top engineering blog posts for Wed, 05 Jul 2017</title>
         <description>
           <ul>
