@@ -179,7 +179,8 @@ div.subscribe-modal > form {
     padding: 5px 0;
 }
 
-div.subscribe-modal > form > input[type="text"] {
+div.subscribe-modal > form > input[type="text"],
+div.subscribe-modal > form > input[type="email"] {
     border: 2px solid black;
     padding-left: 5px;
     margin: 10px 0;
@@ -189,7 +190,8 @@ div.subscribe-modal > form > input[type="text"] {
     width: 30%;
 }
 
-div.subscribe-modal > form > input[type="text"]::placeholder {
+div.subscribe-modal > form > input[type="text"]::placeholder,
+div.subscribe-modal > form > input[type="email"]::placeholder {
     color: #aaa;
     font-family: 'Inconsolata', monospace;
 }
@@ -328,7 +330,8 @@ aside.col {
     text-align: center;
 }
 
-.signup > form > input[type="text"] {
+.signup > form > input[type="text"],
+.signup > form > input[type="email"] {
     border: 2px solid black;
     padding-left: 5px;
     margin: 10px 0;
@@ -336,7 +339,8 @@ aside.col {
     width: 75%;
 }
 
-.signup > form > input[type="text"]::placeholder {
+.signup > form > input[type="text"]::placeholder,
+.signup > form > input[type="email"]::placeholder {
     color: #aaa;
     font-family: 'Inconsolata', monospace;
 }
