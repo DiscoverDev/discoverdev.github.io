@@ -6,6 +6,30 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>The top engineering blog posts for Fri, 07 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Graph(QL)ing Vogue </li>
+          
+            <li> Engineering Uber Trip Distance and Duration Predictions in Real Time with ELK </li>
+          
+            <li> Turbocharging Machine Learning </li>
+          
+            <li> Switching to a Probabilistic Model for Venue Search in Foursquare </li>
+          
+            <li> Probabilistic programming from scratch </li>
+          
+            <li> Generating Web Pages in Parallel with Pagelets, the Building Blocks of Yelp.com </li>
+          
+          </ul>
+        </description>
+        <pubDate>Fri, 07 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-07.html</guid>
+      </item>
+      
+      <item>
         <title>The top engineering blog posts for Thu, 06 Jul 2017</title>
         <description>
           <ul>
