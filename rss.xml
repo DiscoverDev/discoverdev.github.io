@@ -6,7 +6,39 @@
     <link>http://discoverdev.io</link>
      
       <item>
-        <title>The top engineering blog posts for Fri, 07 Jul 2017</title>
+        <title>DiscoverDev - curated engineering articles for Mon, 10 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Android vitals: Increase engagement and installs through improved app performance </li>
+          
+            <li> Using OpenTracing with Jaeger to collect Application Metrics in Kubernetes </li>
+          
+            <li> Helm secrets a missing piece in Kubernetes </li>
+          
+            <li> Why the Func </li>
+          
+            <li> High-reliability OCSP stapling and why it matters </li>
+          
+            <li> Configuring Containerized Services </li>
+          
+            <li> Alternative View Layers for an Elm App </li>
+          
+            <li> Speed Up Your Game – Playing AI with Bitboards </li>
+          
+            <li> MongoDB Indexing Types: How, When and Where Should They Be Used? </li>
+          
+            <li> Advanced tips for building an iOS Notification Service Extension </li>
+          
+          </ul>
+        </description>
+        <pubDate>Mon, 10 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-10.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 07 Jul 2017</title>
         <description>
           <ul>
           
@@ -30,7 +62,7 @@
       </item>
       
       <item>
-        <title>The top engineering blog posts for Thu, 06 Jul 2017</title>
+        <title>DiscoverDev - curated engineering articles for Thu, 06 Jul 2017</title>
         <description>
           <ul>
           
@@ -58,7 +90,7 @@
       </item>
       
       <item>
-        <title>The top engineering blog posts for Wed, 05 Jul 2017</title>
+        <title>DiscoverDev - curated engineering articles for Wed, 05 Jul 2017</title>
         <description>
           <ul>
           
@@ -88,7 +120,7 @@
       </item>
       
       <item>
-        <title>The top engineering blog posts for Sat, 01 Jul 2017</title>
+        <title>DiscoverDev - curated engineering articles for Sat, 01 Jul 2017</title>
         <description>
           <ul>
           
@@ -114,7 +146,7 @@
       </item>
       
       <item>
-        <title>The top engineering blog posts for Fri, 30 Jun 2017</title>
+        <title>DiscoverDev - curated engineering articles for Fri, 30 Jun 2017</title>
         <description>
           <ul>
           
@@ -146,7 +178,7 @@
       </item>
       
       <item>
-        <title>The top engineering blog posts for Thu, 29 Jun 2017</title>
+        <title>DiscoverDev - curated engineering articles for Thu, 29 Jun 2017</title>
         <description>
           <ul>
           
@@ -181,7 +213,7 @@ Cache </li>
       </item>
       
       <item>
-        <title>The top engineering blog posts for Wed, 28 Jun 2017</title>
+        <title>DiscoverDev - curated engineering articles for Wed, 28 Jun 2017</title>
         <description>
           <ul>
           
@@ -213,7 +245,7 @@ Cache </li>
       </item>
       
       <item>
-        <title>The top engineering blog posts for Tue, 27 Jun 2017</title>
+        <title>DiscoverDev - curated engineering articles for Tue, 27 Jun 2017</title>
         <description>
           <ul>
           
@@ -245,7 +277,7 @@ Cache </li>
       </item>
       
       <item>
-        <title>The top engineering blog posts for Mon, 26 Jun 2017</title>
+        <title>DiscoverDev - curated engineering articles for Mon, 26 Jun 2017</title>
         <description>
           <ul>
           
