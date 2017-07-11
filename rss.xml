@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 11 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Developer Experience Lessons Operating a Serverless-like Platform at Netflix </li>
+          
+            <li> Engineering Data Analytics with Presto and Parquet at Uber </li>
+          
+            <li> Microservices Distributed Tracing with Node.js and OpenTracing </li>
+          
+            <li> How To Monitor CPU Use on DigitalOcean Droplets </li>
+          
+            <li> Building Pattern Libraries With Shadow DOM In Markdown </li>
+          
+            <li> Using Sonar in Swift </li>
+          
+            <li> Securing W Magazine: Our Migration to HTTPS </li>
+          
+            <li> A Lesson in Iterative Development </li>
+          
+            <li> Using influxdb with ruby </li>
+          
+            <li> Building an experience framework </li>
+          
+            <li> Introducing Paralayout </li>
+          
+          </ul>
+        </description>
+        <pubDate>Tue, 11 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 10 Jul 2017</title>
         <description>
           <ul>
@@ -274,39 +308,6 @@ Cache </li>
         <pubDate>Tue, 27 Jun 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-06-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 26 Jun 2017</title>
-        <description>
-          <ul>
-          
-            <li> Two Resources for Introducing Young Developers to Testing and Quality </li>
-          
-            <li> Dealing With Asynchrony in a Synchronous Swift World </li>
-          
-            <li> Multi-domain predictive AI or how to make one thing predict another </li>
-          
-            <li> Patterns of Service-oriented Architecture: Idempotency
-Key </li>
-          
-            <li> Program Like Proteus - A beginner&#39;s guide to polymorphism in Javascript </li>
-          
-            <li> Change your debugging mindset </li>
-          
-            <li> The data engineering ecosystem in 2017 </li>
-          
-            <li> iOS linting at Pinterest </li>
-          
-            <li> Using Deep Learning to Reconstruct High-Resolution Audio </li>
-          
-            <li> Building a Real-Time Streaming ETL Pipeline in 20 Minutes </li>
-          
-          </ul>
-        </description>
-        <pubDate>Mon, 26 Jun 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-06-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-26.html</guid>
       </item>
       
   </channel>
