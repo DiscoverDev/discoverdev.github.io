@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 12 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> A Practical Introduction to Elasticsearch </li>
+          
+            <li> Building Your Own Neural Machine Translation System in TensorFlow </li>
+          
+            <li> Converting an App to Use Clean Architecture </li>
+          
+            <li> How We Built An iOS App To Shoot A 3D Video (Case Study) </li>
+          
+            <li> Serverless on Google with Cloud Functions and React </li>
+          
+            <li> BigDB - an ad data pipeline for LINE </li>
+          
+            <li> Strava Mobile App Version Numbers </li>
+          
+            <li> How Discord Scaled Elixir to 5,000,000 Concurrent Users </li>
+          
+            <li> Always Be Closing </li>
+          
+            <li> Revisiting the Unreasonable Effectiveness of Data </li>
+          
+          </ul>
+        </description>
+        <pubDate>Wed, 12 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 11 Jul 2017</title>
         <description>
           <ul>
@@ -276,38 +308,6 @@ Cache </li>
         <pubDate>Wed, 28 Jun 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-06-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 27 Jun 2017</title>
-        <description>
-          <ul>
-          
-            <li> The Modern Architecture of Search </li>
-          
-            <li> The Limits of the CAP Theorem </li>
-          
-            <li> Node.js Performance Monitoring with Prometheus </li>
-          
-            <li> We Analyzed 100 Million Headlines. Here’s What We Learned (New Research) </li>
-          
-            <li> Tutorial: Typing in the air using depth camera, Chrome*, JavaScript*, and WebGL* transform feedback </li>
-          
-            <li> Level-based Compaction Changes </li>
-          
-            <li> Is this metastasis? </li>
-          
-            <li> Declarative Infrastructure with the Jsonnet Templating Language </li>
-          
-            <li> Instrumenting Sidekiq </li>
-          
-            <li> Designing state machines </li>
-          
-          </ul>
-        </description>
-        <pubDate>Tue, 27 Jun 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-06-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-27.html</guid>
       </item>
       
   </channel>
