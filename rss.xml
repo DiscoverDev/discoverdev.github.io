@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 13 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Serverless Continuous Delivery with Databricks and AWS CodePipeline </li>
+          
+            <li> Introducing react-tracking — Declarative Tracking for React Apps </li>
+          
+            <li> Choose PostgreSQL for IoT </li>
+          
+            <li> Introduction to reinforcement learning and OpenAI Gym </li>
+          
+            <li> Packaging and Releasing Private Python Code (Pt.2) </li>
+          
+            <li> Perform sentiment analysis with LSTMs, using TensorFlow </li>
+          
+            <li> Triggering Webhooks with XHR (Advanced Functions Techniques) </li>
+          
+            <li> Whole Lottie Love </li>
+          
+          </ul>
+        </description>
+        <pubDate>Thu, 13 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 12 Jul 2017</title>
         <description>
           <ul>
@@ -276,38 +304,6 @@ Cache </li>
         <pubDate>Thu, 29 Jun 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-06-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 28 Jun 2017</title>
-        <description>
-          <ul>
-          
-            <li> Harry Logger and the Metrics’ Stone </li>
-          
-            <li> Democratizing Kaplan-Meier </li>
-          
-            <li> TypeScript and typed JavaScript at Frontend Engineering Sydney </li>
-          
-            <li> Optimizing HapiJS for Benchmarks </li>
-          
-            <li> How to Version a Web API </li>
-          
-            <li> Understanding Linux Container Scheduling </li>
-          
-            <li> Deep learning on Apache Spark and Apache Hadoop with Deeplearning4j </li>
-          
-            <li> Building m.uber: Engineering a High-Performance Web App for the Global Market </li>
-          
-            <li> Yahoo Mail’s New Tech Stack, Built for Performance and Reliability </li>
-          
-            <li> Server Rendering React on Rails </li>
-          
-          </ul>
-        </description>
-        <pubDate>Wed, 28 Jun 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-06-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-28.html</guid>
       </item>
       
   </channel>
