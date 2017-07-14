@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 14 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Toward Go 2 </li>
+          
+            <li> iOS UserNotifications in Swift </li>
+          
+            <li> Introducing sphinx-js, a better way to document large JavaScript projects </li>
+          
+            <li> Custom Notifications for Android </li>
+          
+            <li> Inventory Time Machine </li>
+          
+            <li> SurveyMonkey Goes Mobile </li>
+          
+            <li> Using Deep Learning to Create Professional-Level Photographs </li>
+          
+          </ul>
+        </description>
+        <pubDate>Fri, 14 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 13 Jul 2017</title>
         <description>
           <ul>
@@ -18,7 +44,7 @@
           
             <li> Introduction to reinforcement learning and OpenAI Gym </li>
           
-            <li> Packaging and Releasing Private Python Code (Pt.2) </li>
+            <li> Packaging and Releasing Private Python Code </li>
           
             <li> Perform sentiment analysis with LSTMs, using TensorFlow </li>
           
@@ -269,41 +295,6 @@
         <pubDate>Fri, 30 Jun 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-06-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 29 Jun 2017</title>
-        <description>
-          <ul>
-          
-            <li> Open Sourcing Iris and Oncall </li>
-          
-            <li> Delivering Billions of Messages Exactly Once </li>
-          
-            <li> Engineering On-Demand Transportation for Business with Uber Central </li>
-          
-            <li> Scaling the Elastic Stack in a Microservices Architecture @ Rightmove </li>
-          
-            <li> Presto - a small step for DevOps engineer but a big step for BigData analyst </li>
-          
-            <li> Building natural dialogues for your voice assistant </li>
-          
-            <li> Glimmer: Blazing Fast Rendering for Ember.js, Part 2 </li>
-          
-            <li> Building the Web of Things </li>
-          
-            <li> How JSON decoding works in Elm—Part 1 </li>
-          
-            <li> Stupidly Simple DDoS Protocol (SSDP) generates 100 Gbps DDoS </li>
-          
-            <li> Patterns of Service-oriented Architecture: Denormalized
-Cache </li>
-          
-          </ul>
-        </description>
-        <pubDate>Thu, 29 Jun 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-06-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-29.html</guid>
       </item>
       
   </channel>
