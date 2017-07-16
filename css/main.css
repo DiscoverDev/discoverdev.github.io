@@ -300,9 +300,32 @@ section.see-more {
 
 /**** ASIDE ****/
 aside.col {
+    max-width: 500px;
+}
+
+.twitter-box {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 10px; 
+    overflow: auto;
+}
+
+.twitter-box p {
+    float: left;
+    font-weight: bold;
+    max-width: 70%;
+    font-size: 20px;
+}
+.twitter-box img{
+    float: right;
+    height:60px;
+    width: 60px;
+    margin: 10px 10px;
+}
+
+.signup {
     border: 2px solid black;
     padding: 7px;
-    max-width: 500px;
 }
 
 .signup > h1 {
