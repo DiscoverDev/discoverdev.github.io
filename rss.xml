@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 17 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Getting a Competitive Edge with a Microservices Based Architecture </li>
+          
+            <li> From MongoDB to DynamoDB </li>
+          
+            <li> Discovering Flynn </li>
+          
+            <li> Using Machine Learning to Predict Value of Homes On Airbnb </li>
+          
+            <li> Textual entailment with TensorFlow </li>
+          
+            <li> A Brief Introduction to Audio and Video Encoding </li>
+          
+            <li> Cutting our Blueteeth on React Native </li>
+          
+            <li> Data Science Simplified: Principles and Process </li>
+          
+            <li> Protecting a Spring Boot App with Apache Shiro </li>
+          
+          </ul>
+        </description>
+        <pubDate>Mon, 17 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 14 Jul 2017</title>
         <description>
           <ul>
@@ -263,38 +293,6 @@
         <pubDate>Sat, 01 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 30 Jun 2017</title>
-        <description>
-          <ul>
-          
-            <li> Full-Stack Swift in 30 Minutes </li>
-          
-            <li> 5 Things to Know About Reactive Programming </li>
-          
-            <li> Hacking Blockchain </li>
-          
-            <li> AWS API Gateway, Lambda and Swagger </li>
-          
-            <li> How To Use the JavaScript Developer Console </li>
-          
-            <li> React, Relay and GraphQL: Under the Hood of the Times Website Redesign </li>
-          
-            <li> Moving Yelp&#39;s Core Business Search to Elasticsearch </li>
-          
-            <li> So You Want to Create Excel in the Browser? </li>
-          
-            <li> Image Recognition at the Speed of Memory Bandwidth </li>
-          
-            <li> Introducing HumbleNet: a cross-platform networking library that works in the browser </li>
-          
-          </ul>
-        </description>
-        <pubDate>Fri, 30 Jun 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-06-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-06-30.html</guid>
       </item>
       
   </channel>
