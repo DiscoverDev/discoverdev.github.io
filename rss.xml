@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 18 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Building Mixed-Language iOS Project with Buck </li>
+          
+            <li> Picasso Tower 360º tour with A-Frame </li>
+          
+            <li> Realtime with React and Rails </li>
+          
+            <li> Tutorial: How to Add Support for other JVM Languages </li>
+          
+            <li> How JSON decoding works in Elm—Part 2 </li>
+          
+            <li> A Guide to Process-oriented Programming in Elixir and OTP </li>
+          
+            <li> Closing the Data-Quality Loop </li>
+          
+            <li> Lambda@Edge – Intelligent Processing of HTTP Requests at the Edge </li>
+          
+          </ul>
+        </description>
+        <pubDate>Tue, 18 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 17 Jul 2017</title>
         <description>
           <ul>
@@ -267,32 +295,6 @@
         <pubDate>Wed, 05 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Sat, 01 Jul 2017</title>
-        <description>
-          <ul>
-          
-            <li> Danger </li>
-          
-            <li> What Kotlin Does to Your Java </li>
-          
-            <li> Exactly-once Semantics are Possible: Here’s How Kafka Does it </li>
-          
-            <li> Introducing esprint: a fast, open source eslint CLI </li>
-          
-            <li> Why We Chose Typescript </li>
-          
-            <li> Integrating React Native in an existing application </li>
-          
-            <li> How to Extend Commerce APIs </li>
-          
-          </ul>
-        </description>
-        <pubDate>Sat, 01 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-01.html</guid>
       </item>
       
   </channel>
