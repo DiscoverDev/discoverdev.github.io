@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 19 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> It’s complex to measure complexity </li>
+          
+            <li> Memory in WebAssembly (and why it’s safer than you think) </li>
+          
+            <li> Inside the Engine Part 8: Handling Advanced Search Use Cases </li>
+          
+            <li> Monitoring Sidekiq queues with middlewares </li>
+          
+            <li> Building a Simple API with Amazon Lambda and Zappa </li>
+          
+            <li> Kubernetes and the Encrypted Voyage on Port 80 </li>
+          
+            <li> Working with Brushes and Content – XAML and Visual Layer Interop, Part One </li>
+          
+            <li> Shut the HAL Up </li>
+          
+          </ul>
+        </description>
+        <pubDate>Wed, 19 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 18 Jul 2017</title>
         <description>
           <ul>
@@ -265,36 +293,6 @@
         <pubDate>Thu, 06 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 05 Jul 2017</title>
-        <description>
-          <ul>
-          
-            <li> From Thrift To Finatra </li>
-          
-            <li> Running feature specs with Capybara and Chrome headless </li>
-          
-            <li> Building a privacy-preserving architecture with less server trust </li>
-          
-            <li> How we designed our Kubernetes infrastructure on AWS </li>
-          
-            <li> Three little tools: mmsum, mmwatch, mmhistogram </li>
-          
-            <li> A container identity bootstrapping tool </li>
-          
-            <li> Using Higher-Order Functions to Build Queries in Knex.js </li>
-          
-            <li> Setting up Spark Streaming - Part II </li>
-          
-            <li> Remote device sign-in </li>
-          
-          </ul>
-        </description>
-        <pubDate>Wed, 05 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-05.html</guid>
       </item>
       
   </channel>
