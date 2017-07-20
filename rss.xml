@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 20 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> WebAssembly for Native Games on the Web </li>
+          
+            <li> Why we use Kotlin in LINE Creators Studio </li>
+          
+            <li> An Introduction to Let&#39;s Encrypt </li>
+          
+            <li> Motion Stills — Now on Android </li>
+          
+            <li> Using Apache Kafka as a Scalable, Event Driven Backbone for Service Architectures </li>
+          
+            <li> Building the Activity Graph, Part 2 </li>
+          
+            <li> JavaScript for Microcontrollers and IoT: Building a Sensor Hub </li>
+          
+          </ul>
+        </description>
+        <pubDate>Thu, 20 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 19 Jul 2017</title>
         <description>
           <ul>
@@ -265,34 +291,6 @@
         <pubDate>Fri, 07 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 06 Jul 2017</title>
-        <description>
-          <ul>
-          
-            <li> Visualizing Smog Sensor Data with the help of Vert.x, Prometheus, and Grafana </li>
-          
-            <li> MySQL infrastructure testing automation at GitHub </li>
-          
-            <li> Introducing ELF: An extensive, lightweight and flexible platform for game research </li>
-          
-            <li> Building an Internal Cloud with Docker and CoreOS </li>
-          
-            <li> Bringing Machine Learning to your iOS Apps 🤖📲 </li>
-          
-            <li> Text Mining of Stack Overflow Questions </li>
-          
-            <li> Introducing BDDA, the infrastructure workflow we use for Kubernetes </li>
-          
-            <li> Implementing Unicode Collation in CockroachDB </li>
-          
-          </ul>
-        </description>
-        <pubDate>Thu, 06 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-06.html</guid>
       </item>
       
   </channel>
