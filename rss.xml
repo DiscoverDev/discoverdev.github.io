@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 21 Jul 2017</title>
+        <description>
+          <ul>
+          
+            <li> Introducing Chameleon: A Global CMS from Uber Engineering </li>
+          
+            <li> How to use Cloudflare for Service Discovery </li>
+          
+            <li> Kotlin for grumpy Java developers </li>
+          
+            <li> Deep Learning for Automated Driving with MATLAB </li>
+          
+            <li> Don’t fear the Monad </li>
+          
+            <li> Increase your code coverage using Istanbul </li>
+          
+            <li> Where Do I Put ProxySQL? </li>
+          
+            <li> Leveraging Node.js, D3.js, and HTML Canvas for Scalable Infographics </li>
+          
+            <li> The Ultimate Guide to Progressive Web Applications </li>
+          
+            <li> A Curious Java Language Feature and How it Produced a Subtle Bug </li>
+          
+          </ul>
+        </description>
+        <pubDate>Fri, 21 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 20 Jul 2017</title>
         <description>
           <ul>
@@ -267,30 +299,6 @@
         <pubDate>Mon, 10 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 07 Jul 2017</title>
-        <description>
-          <ul>
-          
-            <li> Graph(QL)ing Vogue </li>
-          
-            <li> Engineering Uber Trip Distance and Duration Predictions in Real Time with ELK </li>
-          
-            <li> Turbocharging Machine Learning </li>
-          
-            <li> Switching to a Probabilistic Model for Venue Search in Foursquare </li>
-          
-            <li> Probabilistic programming from scratch </li>
-          
-            <li> Generating Web Pages in Parallel with Pagelets, the Building Blocks of Yelp.com </li>
-          
-          </ul>
-        </description>
-        <pubDate>Fri, 07 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-07.html</guid>
       </item>
       
   </channel>
