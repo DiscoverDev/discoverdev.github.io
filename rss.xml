@@ -7,23 +7,23 @@
      
       <item>
         <title>DiscoverDev - curated engineering articles for Tue, 25 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> The Road to uChat: Building Uber’s Internal Chat Solution </li>
+            <li> <a href="https://eng.uber.com/uchat/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uchat">The Road to uChat: Building Uber’s Internal Chat Solution </a></li> 
           
-            <li> A New Redux Action Pattern for TypeScript 2.4+ </li>
+            <li> <a href="https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/">A New Redux Action Pattern for TypeScript 2.4+ </a></li> 
           
-            <li> AWS infrastructure setup: the CleverTap way </li>
+            <li> <a href="https://clevertap.com/blog/aws-infrastructure-setup-the-clevertap-way/">AWS infrastructure setup: the CleverTap way </a></li> 
           
-            <li> Optimizing Performance of A-Frame Scenes for Mobile Devices </li>
+            <li> <a href="https://hacks.mozilla.org/2017/07/optimizing-performance-of-a-frame-scenes-for-mobile-devices/">Optimizing Performance of A-Frame Scenes for Mobile Devices </a></li> 
           
-            <li> Golang slices gotcha </li>
+            <li> <a href="http://allegro.tech/2017/07/golang-slices-gotcha.html">Golang slices gotcha </a></li> 
           
-            <li> Teaching Robots to Understand Semantic Concepts </li>
+            <li> <a href="http://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html">Teaching Robots to Understand Semantic Concepts </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Tue, 25 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-25.html</guid>
@@ -31,31 +31,31 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Fri, 21 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> Introducing Chameleon: A Global CMS from Uber Engineering </li>
+            <li> <a href="https://eng.uber.com/chameleon/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chameleon">Introducing Chameleon: A Global CMS from Uber Engineering </a></li> 
           
-            <li> How to use Cloudflare for Service Discovery </li>
+            <li> <a href="https://blog.cloudflare.com/service-discovery/">How to use Cloudflare for Service Discovery </a></li> 
           
-            <li> Kotlin for grumpy Java developers </li>
+            <li> <a href="https://medium.com/@Pinterest_Engineering/kotlin-for-grumpy-java-developers-8e90875cb6ab?source=rss-ef81ef829bcb------2">Kotlin for grumpy Java developers </a></li> 
           
-            <li> Deep Learning for Automated Driving with MATLAB </li>
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/deep-learning-automated-driving-matlab/">Deep Learning for Automated Driving with MATLAB </a></li> 
           
-            <li> Don’t fear the Monad </li>
+            <li> <a href="https://medium.com/zendesk-engineering/dont-fear-the-monad-f424260f29f6?source=rss----a88376ea904a---4">Don’t fear the Monad </a></li> 
           
-            <li> Increase your code coverage using Istanbul </li>
+            <li> <a href="https://medium.com/walmartlabs/do-you-have-100-code-coverage-10c09a44832b?source=rss----905ea2b3d4d1---4">Increase your code coverage using Istanbul </a></li> 
           
-            <li> Where Do I Put ProxySQL? </li>
+            <li> <a href="https://www.percona.com/blog/2017/07/20/where-do-i-put-proxysql/">Where Do I Put ProxySQL? </a></li> 
           
-            <li> Leveraging Node.js, D3.js, and HTML Canvas for Scalable Infographics </li>
+            <li> <a href="https://www.azavea.com/blog/2017/07/20/node-js-d3-canvas-scalable-graphics/">Leveraging Node.js, D3.js, and HTML Canvas for Scalable Infographics </a></li> 
           
-            <li> The Ultimate Guide to Progressive Web Applications </li>
+            <li> <a href="https://developer.okta.com/blog/2017/07/20/the-ultimate-guide-to-progressive-web-applications">The Ultimate Guide to Progressive Web Applications </a></li> 
           
-            <li> A Curious Java Language Feature and How it Produced a Subtle Bug </li>
+            <li> <a href="https://blog.jooq.org/2017/07/20/a-curious-java-language-feature-and-how-it-produced-a-subtle-bug/">A Curious Java Language Feature and How it Produced a Subtle Bug </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Fri, 21 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-21.html</guid>
@@ -63,25 +63,25 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Thu, 20 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> WebAssembly for Native Games on the Web </li>
+            <li> <a href="https://hacks.mozilla.org/2017/07/webassembly-for-native-games-on-the-web/">WebAssembly for Native Games on the Web </a></li> 
           
-            <li> Why we use Kotlin in LINE Creators Studio </li>
+            <li> <a href="https://engineering.linecorp.com/en/blog/detail/178">Why we use Kotlin in LINE Creators Studio </a></li> 
           
-            <li> An Introduction to Let&#39;s Encrypt </li>
+            <li> <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-let-s-encrypt">An Introduction to Let&#39;s Encrypt </a></li> 
           
-            <li> Motion Stills — Now on Android </li>
+            <li> <a href="http://research.googleblog.com/2017/07/motion-stills-now-on-android.html">Motion Stills — Now on Android </a></li> 
           
-            <li> Using Apache Kafka as a Scalable, Event Driven Backbone for Service Architectures </li>
+            <li> <a href="https://www.confluent.io/blog/apache-kafka-for-service-architectures/">Using Apache Kafka as a Scalable, Event Driven Backbone for Service Architectures </a></li> 
           
-            <li> Building the Activity Graph, Part 2 </li>
+            <li> <a href="https://engineering.linkedin.com/blog/2017/07/building-the-activity-graph--part-2">Building the Activity Graph, Part 2 </a></li> 
           
-            <li> JavaScript for Microcontrollers and IoT: Building a Sensor Hub </li>
+            <li> <a href="https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-2/">JavaScript for Microcontrollers and IoT: Building a Sensor Hub </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Thu, 20 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-20.html</guid>
@@ -89,27 +89,27 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Wed, 19 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> It’s complex to measure complexity </li>
+            <li> <a href="http://blog.klipse.tech//javascript/2017/07/19/random-sequeces.html">It’s complex to measure complexity </a></li> 
           
-            <li> Memory in WebAssembly (and why it’s safer than you think) </li>
+            <li> <a href="https://hacks.mozilla.org/2017/07/memory-in-webassembly-and-why-its-safer-than-you-think/">Memory in WebAssembly (and why it’s safer than you think) </a></li> 
           
-            <li> Inside the Engine Part 8: Handling Advanced Search Use Cases </li>
+            <li> <a href="https://blog.algolia.com/inside-the-engine-part-8-handling-advanced-search-use-cases/">Inside the Engine Part 8: Handling Advanced Search Use Cases </a></li> 
           
-            <li> Monitoring Sidekiq queues with middlewares </li>
+            <li> <a href="http://blog.arkency.com/2017/07/monitoring-sidekiq-queues-with-middlewares/">Monitoring Sidekiq queues with middlewares </a></li> 
           
-            <li> Building a Simple API with Amazon Lambda and Zappa </li>
+            <li> <a href="https://www.viget.com/articles/building-a-simple-api-with-amazon-lambda-and-zappa">Building a Simple API with Amazon Lambda and Zappa </a></li> 
           
-            <li> Kubernetes and the Encrypted Voyage on Port 80 </li>
+            <li> <a href="https://fly.io/articles/fly-kubernetes-encrypted-voyage-port-80/">Kubernetes and the Encrypted Voyage on Port 80 </a></li> 
           
-            <li> Working with Brushes and Content – XAML and Visual Layer Interop, Part One </li>
+            <li> <a href="http://blogs.windows.com/buildingapps/2017/07/18/working-brushes-content-xaml-visual-layer-interop-part-one/">Working with Brushes and Content – XAML and Visual Layer Interop, Part One </a></li> 
           
-            <li> Shut the HAL Up </li>
+            <li> <a href="http://android-developers.googleblog.com/2017/07/shut-hal-up.html">Shut the HAL Up </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Wed, 19 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-19.html</guid>
@@ -117,27 +117,27 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Tue, 18 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> Building Mixed-Language iOS Project with Buck </li>
+            <li> <a href="https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56?source=rss----53c7c27702d5---4">Building Mixed-Language iOS Project with Buck </a></li> 
           
-            <li> Picasso Tower 360º tour with A-Frame </li>
+            <li> <a href="https://hacks.mozilla.org/2017/07/picasso-tower-360o-tour-with-a-frame/">Picasso Tower 360º tour with A-Frame </a></li> 
           
-            <li> Realtime with React and Rails </li>
+            <li> <a href="https://blog.codeship.com/realtime-with-react-and-rails/">Realtime with React and Rails </a></li> 
           
-            <li> Tutorial: How to Add Support for other JVM Languages </li>
+            <li> <a href="https://www.codenameone.com/blog/how-to-port-jvm-languages-to-codename-one.html">Tutorial: How to Add Support for other JVM Languages </a></li> 
           
-            <li> How JSON decoding works in Elm—Part 2 </li>
+            <li> <a href="https://8thlight.com/blog/kofi-gumbs/2017/07/17/elm-json-decoding-data-structures.html">How JSON decoding works in Elm—Part 2 </a></li> 
           
-            <li> A Guide to Process-oriented Programming in Elixir and OTP </li>
+            <li> <a href="https://www.toptal.com/elixir/process-oriented-programming-elixir-and-otp">A Guide to Process-oriented Programming in Elixir and OTP </a></li> 
           
-            <li> Closing the Data-Quality Loop </li>
+            <li> <a href="https://jobs.zalando.com/tech/blog/closing-the-data-quality-loop/index.html">Closing the Data-Quality Loop </a></li> 
           
-            <li> Lambda@Edge – Intelligent Processing of HTTP Requests at the Edge </li>
+            <li> <a href="https://aws.amazon.com/blogs/aws/lambdaedge-intelligent-processing-of-http-requests-at-the-edge/">Lambda@Edge – Intelligent Processing of HTTP Requests at the Edge </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Tue, 18 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-18.html</guid>
@@ -145,29 +145,29 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Mon, 17 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> Getting a Competitive Edge with a Microservices Based Architecture </li>
+            <li> <a href="https://auth0.com/blog/getting-a-competitive-edge-with-a-microservices-based-architecture/">Getting a Competitive Edge with a Microservices Based Architecture </a></li> 
           
-            <li> From MongoDB to DynamoDB </li>
+            <li> <a href="https://auth0.com/blog/how-to-migrate-from-mongodb-to-dynamodb/">From MongoDB to DynamoDB </a></li> 
           
-            <li> Discovering Flynn </li>
+            <li> <a href="https://blog.octo.com/en/discovering-flynn/">Discovering Flynn </a></li> 
           
-            <li> Using Machine Learning to Predict Value of Homes On Airbnb </li>
+            <li> <a href="https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d?source=rss----53c7c27702d5---4">Using Machine Learning to Predict Value of Homes On Airbnb </a></li> 
           
-            <li> Textual entailment with TensorFlow </li>
+            <li> <a href="https://www.oreilly.com/learning/textual-entailment-with-tensorflow">Textual entailment with TensorFlow </a></li> 
           
-            <li> A Brief Introduction to Audio and Video Encoding </li>
+            <li> <a href="https://spin.atomicobject.com/2017/07/16/intro-audio-video-encoding/">A Brief Introduction to Audio and Video Encoding </a></li> 
           
-            <li> Cutting our Blueteeth on React Native </li>
+            <li> <a href="https://robots.thoughtbot.com/cutting-our-blueteeth-on-react-native">Cutting our Blueteeth on React Native </a></li> 
           
-            <li> Data Science Simplified: Principles and Process </li>
+            <li> <a href="https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308?source=rss----5e5bef33608a---4">Data Science Simplified: Principles and Process </a></li> 
           
-            <li> Protecting a Spring Boot App with Apache Shiro </li>
+            <li> <a href="https://developer.okta.com/blog/2017/07/13/apache-shiro-spring-boot">Protecting a Spring Boot App with Apache Shiro </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Mon, 17 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-17.html</guid>
@@ -175,25 +175,25 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Fri, 14 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> Toward Go 2 </li>
+            <li> <a href="https://blog.golang.org/toward-go2">Toward Go 2 </a></li> 
           
-            <li> iOS UserNotifications in Swift </li>
+            <li> <a href="https://twilioinc.wpengine.com/2017/07/ios-usernotifications-in-swift.html">iOS UserNotifications in Swift </a></li> 
           
-            <li> Introducing sphinx-js, a better way to document large JavaScript projects </li>
+            <li> <a href="https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document-large-javascript-projects/">Introducing sphinx-js, a better way to document large JavaScript projects </a></li> 
           
-            <li> Custom Notifications for Android </li>
+            <li> <a href="http://code.hootsuite.com/custom-notifications-for-android/">Custom Notifications for Android </a></li> 
           
-            <li> Inventory Time Machine </li>
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/07/13/inventory-time-machine/">Inventory Time Machine </a></li> 
           
-            <li> SurveyMonkey Goes Mobile </li>
+            <li> <a href="http://engineering.surveymonkey.com/2017/07/12/surveymonkey-goes-mobile/">SurveyMonkey Goes Mobile </a></li> 
           
-            <li> Using Deep Learning to Create Professional-Level Photographs </li>
+            <li> <a href="http://research.googleblog.com/2017/07/using-deep-learning-to-create.html">Using Deep Learning to Create Professional-Level Photographs </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Fri, 14 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-14.html</guid>
@@ -201,27 +201,27 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Thu, 13 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> Serverless Continuous Delivery with Databricks and AWS CodePipeline </li>
+            <li> <a href="https://databricks.com/blog/2017/07/13/serverless-continuous-delivery-with-databricks-and-aws-codepipeline.html">Serverless Continuous Delivery with Databricks and AWS CodePipeline </a></li> 
           
-            <li> Introducing react-tracking — Declarative Tracking for React Apps </li>
+            <li> <a href="https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a?source=rss----51e1d1745b32---4">Introducing react-tracking — Declarative Tracking for React Apps </a></li> 
           
-            <li> Choose PostgreSQL for IoT </li>
+            <li> <a href="https://blog.timescale.com/choose-postgresql-for-iot-19688efc60ca?source=rss----7fa310224bc5---4">Choose PostgreSQL for IoT </a></li> 
           
-            <li> Introduction to reinforcement learning and OpenAI Gym </li>
+            <li> <a href="https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym">Introduction to reinforcement learning and OpenAI Gym </a></li> 
           
-            <li> Packaging and Releasing Private Python Code </li>
+            <li> <a href="https://www.eventbrite.com/engineering/packaging-and-releasing-private-python-code-pt-2/">Packaging and Releasing Private Python Code </a></li> 
           
-            <li> Perform sentiment analysis with LSTMs, using TensorFlow </li>
+            <li> <a href="https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow">Perform sentiment analysis with LSTMs, using TensorFlow </a></li> 
           
-            <li> Triggering Webhooks with XHR (Advanced Functions Techniques) </li>
+            <li> <a href="https://www.pubnub.com/blog/triggering-webhooks-with-xhr-advanced-functions-techniques/">Triggering Webhooks with XHR (Advanced Functions Techniques) </a></li> 
           
-            <li> Whole Lottie Love </li>
+            <li> <a href="https://www.novoda.com/blog/whole-lottie-love/">Whole Lottie Love </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Thu, 13 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-13.html</guid>
@@ -229,31 +229,31 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Wed, 12 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> A Practical Introduction to Elasticsearch </li>
+            <li> <a href="https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch">A Practical Introduction to Elasticsearch </a></li> 
           
-            <li> Building Your Own Neural Machine Translation System in TensorFlow </li>
+            <li> <a href="http://research.googleblog.com/2017/07/building-your-own-neural-machine.html">Building Your Own Neural Machine Translation System in TensorFlow </a></li> 
           
-            <li> Converting an App to Use Clean Architecture </li>
+            <li> <a href="https://realm.io/news/converting-an-app-to-use-clean-architecture/">Converting an App to Use Clean Architecture </a></li> 
           
-            <li> How We Built An iOS App To Shoot A 3D Video (Case Study) </li>
+            <li> <a href="https://www.smashingmagazine.com/2017/07/ios-app-3d-video-case-study/">How We Built An iOS App To Shoot A 3D Video (Case Study) </a></li> 
           
-            <li> Serverless on Google with Cloud Functions and React </li>
+            <li> <a href="https://www.oreilly.com/learning/serverless-on-google-with-cloud-functions-and-react">Serverless on Google with Cloud Functions and React </a></li> 
           
-            <li> BigDB - an ad data pipeline for LINE </li>
+            <li> <a href="https://engineering.linecorp.com/en/blog/detail/146">BigDB - an ad data pipeline for LINE </a></li> 
           
-            <li> Strava Mobile App Version Numbers </li>
+            <li> <a href="https://medium.com/strava-engineering/strava-mobile-app-versions-b7083a7b7322?source=rss----89d4108ce2a3---4">Strava Mobile App Version Numbers </a></li> 
           
-            <li> How Discord Scaled Elixir to 5,000,000 Concurrent Users </li>
+            <li> <a href="https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b?source=rss----cb96a1f03649---4">How Discord Scaled Elixir to 5,000,000 Concurrent Users </a></li> 
           
-            <li> Always Be Closing </li>
+            <li> <a href="https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da?source=rss----3650599ae4e2---4">Always Be Closing </a></li> 
           
-            <li> Revisiting the Unreasonable Effectiveness of Data </li>
+            <li> <a href="http://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html">Revisiting the Unreasonable Effectiveness of Data </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Wed, 12 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-12.html</guid>
@@ -261,33 +261,33 @@
       
       <item>
         <title>DiscoverDev - curated engineering articles for Tue, 11 Jul 2017</title>
-        <description>
+        <description><![CDATA[
           <ul>
           
-            <li> Developer Experience Lessons Operating a Serverless-like Platform at Netflix </li>
+            <li> <a href="https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0?source=rss----2615bd06b42e---4">Developer Experience Lessons Operating a Serverless-like Platform at Netflix </a></li> 
           
-            <li> Engineering Data Analytics with Presto and Parquet at Uber </li>
+            <li> <a href="https://eng.uber.com/presto/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=presto">Engineering Data Analytics with Presto and Parquet at Uber </a></li> 
           
-            <li> Microservices Distributed Tracing with Node.js and OpenTracing </li>
+            <li> <a href="http://blog.risingstack.com/distributed-tracing-opentracing-node-js/">Microservices Distributed Tracing with Node.js and OpenTracing </a></li> 
           
-            <li> How To Monitor CPU Use on DigitalOcean Droplets </li>
+            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-monitor-cpu-use-on-digitalocean-droplets">How To Monitor CPU Use on DigitalOcean Droplets </a></li> 
           
-            <li> Building Pattern Libraries With Shadow DOM In Markdown </li>
+            <li> <a href="https://www.smashingmagazine.com/2017/07/pattern-libraries-in-markdown/">Building Pattern Libraries With Shadow DOM In Markdown </a></li> 
           
-            <li> Using Sonar in Swift </li>
+            <li> <a href="https://www.novoda.com/blog/using-sonar-in-swift/">Using Sonar in Swift </a></li> 
           
-            <li> Securing W Magazine: Our Migration to HTTPS </li>
+            <li> <a href="https://technology.condenast.com/story/securing-w-magazine-our-migration-to-https">Securing W Magazine: Our Migration to HTTPS </a></li> 
           
-            <li> A Lesson in Iterative Development </li>
+            <li> <a href="https://buildingvts.com/a-lesson-in-iterative-development-62ddf17986a4?source=rss----f76c28ec6a84---4">A Lesson in Iterative Development </a></li> 
           
-            <li> Using influxdb with ruby </li>
+            <li> <a href="http://blog.arkency.com/2017/07/using-influxdb-with-ruby/">Using influxdb with ruby </a></li> 
           
-            <li> Building an experience framework </li>
+            <li> <a href="https://medium.com/@Pinterest_Engineering/building-an-experience-framework-ea6c4e619935?source=rss-ef81ef829bcb------2">Building an experience framework </a></li> 
           
-            <li> Introducing Paralayout </li>
+            <li> <a href="https://medium.com/square-corner-blog/introducing-paralayout-d5ac09e93fb0?source=rss----3650599ae4e2---4">Introducing Paralayout </a></li> 
           
           </ul>
-        </description>
+        ]]></description>
         <pubDate>Tue, 11 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-11.html</guid>
