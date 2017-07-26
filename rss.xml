@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 26 Jul 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f?source=rss----2615bd06b42e---4">ChAP: Chaos Automation Platform </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/">Improving Web Performance to Mirror Engine Speed </a></li> 
+          
+            <li> <a href="http://www.bigeng.io/introducing-gruf-ruby-grpc-framework/">BigCommerce, gRPC, and gruf - a Ruby gRPC Framework </a></li> 
+          
+            <li> <a href="https://blog.box.com/blog/introducing-memsniff-robust-memcache-traffic-analyzer/">Introducing Memsniff: A Robust Memcache Traffic Analyzer </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/webpack-optimization-a-case-study-92b130334b6c?source=rss----905ea2b3d4d1---4">webpack optimization — A Case Study </a></li> 
+          
+            <li> <a href="http://tech.gilt.com/deep/learning/2016/12/22/deep-learning-at-gilt">Deep Learning at GILT </a></li> 
+          
+            <li> <a href="https://airbrake.io/blog/design-patterns/chain-of-responsibility">Behavioral Design Patterns: Chain of Responsibility </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2017/7/25/7-interesting-parallels-between-the-invention-of-tiny-satell.html">7 Interesting Parallels Between the Invention of Tiny Satellites and Cloud Computing </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2017/07/prophecy-fulfilled-keras-and-cloudera-data-science-workbench/">Prophecy Fulfilled: Keras and Cloudera Data Science Workbench </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/">Modeling has_many Relationships with DynamoDB </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 26 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 25 Jul 2017</title>
         <description><![CDATA[
           <ul>
@@ -257,40 +289,6 @@
         <pubDate>Wed, 12 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 11 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0?source=rss----2615bd06b42e---4">Developer Experience Lessons Operating a Serverless-like Platform at Netflix </a></li> 
-          
-            <li> <a href="https://eng.uber.com/presto/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=presto">Engineering Data Analytics with Presto and Parquet at Uber </a></li> 
-          
-            <li> <a href="http://blog.risingstack.com/distributed-tracing-opentracing-node-js/">Microservices Distributed Tracing with Node.js and OpenTracing </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-monitor-cpu-use-on-digitalocean-droplets">How To Monitor CPU Use on DigitalOcean Droplets </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/07/pattern-libraries-in-markdown/">Building Pattern Libraries With Shadow DOM In Markdown </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/using-sonar-in-swift/">Using Sonar in Swift </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/securing-w-magazine-our-migration-to-https">Securing W Magazine: Our Migration to HTTPS </a></li> 
-          
-            <li> <a href="https://buildingvts.com/a-lesson-in-iterative-development-62ddf17986a4?source=rss----f76c28ec6a84---4">A Lesson in Iterative Development </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/2017/07/using-influxdb-with-ruby/">Using influxdb with ruby </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-an-experience-framework-ea6c4e619935?source=rss-ef81ef829bcb------2">Building an experience framework </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/introducing-paralayout-d5ac09e93fb0?source=rss----3650599ae4e2---4">Introducing Paralayout </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 11 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-11.html</guid>
       </item>
       
   </channel>
