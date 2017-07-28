@@ -6,6 +6,66 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 28 Jul 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06?source=rss----2615bd06b42e---4">Starting the Avalanche </a></li> 
+          
+            <li> <a href="https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day">How Uploadcare Built a Stack That Handles 350M File API Requests Per Day </a></li> 
+          
+            <li> <a href="https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide">Creating a Ruby DSL: A Guide to Advanced Metaprogramming </a></li> 
+          
+            <li> <a href="https://devblog.kogan.com/blog/a-smarter-local-memory-django-cache-backend">A Smarter, local-memory Django cache backend. </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/versionning-dapi-zero-downtime-deployment-et-migration-sql-theorie-et-cas-pratique/">API, Zero Downtime Deployment and SQL Migration: Theory and Case Study </a></li> 
+          
+            <li> <a href="http://rea.tech/a-journey-into-extensible-effects-in-scala/">A Journey into Extensible Effects in Scala </a></li> 
+          
+            <li> <a href="https://blogs.msdn.microsoft.com/dotnet/2017/07/27/introducing-support-for-brotli-compression/">Introducing Support for Brotli Compression </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/07/26/nodebook/">Nodebook </a></li> 
+          
+            <li> <a href="http://blog.avenuecode.com/a-library-for-data-visualization-d3.js">A Data Visualization Using d3.js From Scratch </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/07/open-sourcing-jaqen--a-tool-for-developing-dns-rebinding-pocs">Open Sourcing Jaqen, A Tool For Developing DNS Rebinding PoCs </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 28 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-28.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 27 Jul 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.confluent.io/blog/chain-services-exactly-guarantees/">Chain Services with Exactly-Once Guarantees </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/csysdig-explained-visually/">Csysdig Explained Visually </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/07/powering-helix_s-auto-rebalancer-with-topology-aware-partition-p">Powering Helix’s Auto Rebalancer with Topology-Aware Partition Placement </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2017/07/progressive-enhancement-with-brotli.html">Progressive Enhancement with Brotli </a></li> 
+          
+            <li> <a href="http://www.ebaytechblog.com/2017/07/26/ebays-new-homepage/">eBay’s New Homepage </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/07/debug-react-redux-firefox-add-ons/">Inspect, Modify, and Debug React and Redux in Firefox with Add-ons </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2017/07/26/breaking-the-curse-of-dimensionality-in-genomics-using-wide-random-forests.html">Breaking the “curse of dimensionality” in Genomics using “wide” Random Forests </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/monitoring-your-synchronous-python-web-applications-using-prometheus/">Monitoring Your Synchronous Python Web Applications Using Prometheus </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 27 Jul 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-07-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 26 Jul 2017</title>
         <description><![CDATA[
           <ul>
@@ -229,66 +289,6 @@
         <pubDate>Fri, 14 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 13 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://databricks.com/blog/2017/07/13/serverless-continuous-delivery-with-databricks-and-aws-codepipeline.html">Serverless Continuous Delivery with Databricks and AWS CodePipeline </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a?source=rss----51e1d1745b32---4">Introducing react-tracking — Declarative Tracking for React Apps </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/choose-postgresql-for-iot-19688efc60ca?source=rss----7fa310224bc5---4">Choose PostgreSQL for IoT </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym">Introduction to reinforcement learning and OpenAI Gym </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/packaging-and-releasing-private-python-code-pt-2/">Packaging and Releasing Private Python Code </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow">Perform sentiment analysis with LSTMs, using TensorFlow </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/triggering-webhooks-with-xhr-advanced-functions-techniques/">Triggering Webhooks with XHR (Advanced Functions Techniques) </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/whole-lottie-love/">Whole Lottie Love </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 13 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 12 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch">A Practical Introduction to Elasticsearch </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/07/building-your-own-neural-machine.html">Building Your Own Neural Machine Translation System in TensorFlow </a></li> 
-          
-            <li> <a href="https://realm.io/news/converting-an-app-to-use-clean-architecture/">Converting an App to Use Clean Architecture </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/07/ios-app-3d-video-case-study/">How We Built An iOS App To Shoot A 3D Video (Case Study) </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/learning/serverless-on-google-with-cloud-functions-and-react">Serverless on Google with Cloud Functions and React </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/detail/146">BigDB - an ad data pipeline for LINE </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/strava-mobile-app-versions-b7083a7b7322?source=rss----89d4108ce2a3---4">Strava Mobile App Version Numbers </a></li> 
-          
-            <li> <a href="https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b?source=rss----cb96a1f03649---4">How Discord Scaled Elixir to 5,000,000 Concurrent Users </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da?source=rss----3650599ae4e2---4">Always Be Closing </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html">Revisiting the Unreasonable Effectiveness of Data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 12 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-12.html</guid>
       </item>
       
   </channel>
