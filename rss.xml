@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 01 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://becominghuman.ai/deep-learning-from-prototype-to-production-d2b08c85af9f">Deep Learning — from Prototype to Production </a></li> 
+          
+            <li> <a href="https://eng.uber.com/driver-profiles/">Driver Profiles: How Uber Engineering Celebrates Drivers </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/machine-learning-translation-96f0ed8f19e4">Machine Learning Translation and the Google Translate Algorithm </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/">Creating Custom Inputs With Vue.js </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2017/07/31/fastlane-travis-weekly-deploys/">Deploying your app on a weekly basis via fastlane + Travis CI </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/vanity-fair-game-of-unknowns">How We Did It: Building &#34;Game of Unknowns&#34; on VanityFair.com </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/2016-social-passwordless-and-sso-data-what-can-we-learn/">2016 Social, Passwordless and SSO Data: What Can We Learn? </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/lessons-from-using-phoenix-1-3">Lessons From Using Phoenix 1.3 </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice">Inside a SoundCloud Microservice </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/controlling-components-react">Controlled/Uncontrolled React Components </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 01 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 31 Jul 2017</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +293,6 @@
         <pubDate>Tue, 18 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 17 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/getting-a-competitive-edge-with-a-microservices-based-architecture/">Getting a Competitive Edge with a Microservices Based Architecture </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/how-to-migrate-from-mongodb-to-dynamodb/">From MongoDB to DynamoDB </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/discovering-flynn/">Discovering Flynn </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d?source=rss----53c7c27702d5---4">Using Machine Learning to Predict Value of Homes On Airbnb </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/learning/textual-entailment-with-tensorflow">Textual entailment with TensorFlow </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/07/16/intro-audio-video-encoding/">A Brief Introduction to Audio and Video Encoding </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/cutting-our-blueteeth-on-react-native">Cutting our Blueteeth on React Native </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/data-science-simplified-principles-and-process-b06304d63308?source=rss----5e5bef33608a---4">Data Science Simplified: Principles and Process </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2017/07/13/apache-shiro-spring-boot">Protecting a Spring Boot App with Apache Shiro </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 17 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-17.html</guid>
       </item>
       
   </channel>
