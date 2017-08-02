@@ -6,6 +6,28 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 02 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.showmax.com/2017/08/shmavplayerinterface-introduction/">Introduction to the SHMAVPlayerInterface </a></li> 
+          
+            <li> <a href="https://eng.uber.com/plugins/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=plugins">Engineering Scalable, Isolated Mobile Features with Plugins at Uber </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-languages-which-almost-became-css/">The Languages Which Almost Became CSS </a></li> 
+          
+            <li> <a href="https://kickstarter.engineering/how-we-built-automated-support-f2ea669252f?source=rss----c5ef8826f270---4">How we built automated support </a></li> 
+          
+            <li> <a href="https://githubengineering.com/topics/">Topic Suggestions for Millions of Repositories </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 02 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 01 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +287,6 @@
         <pubDate>Wed, 19 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 18 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56?source=rss----53c7c27702d5---4">Building Mixed-Language iOS Project with Buck </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/07/picasso-tower-360o-tour-with-a-frame/">Picasso Tower 360º tour with A-Frame </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/realtime-with-react-and-rails/">Realtime with React and Rails </a></li> 
-          
-            <li> <a href="https://www.codenameone.com/blog/how-to-port-jvm-languages-to-codename-one.html">Tutorial: How to Add Support for other JVM Languages </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/kofi-gumbs/2017/07/17/elm-json-decoding-data-structures.html">How JSON decoding works in Elm—Part 2 </a></li> 
-          
-            <li> <a href="https://www.toptal.com/elixir/process-oriented-programming-elixir-and-otp">A Guide to Process-oriented Programming in Elixir and OTP </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/closing-the-data-quality-loop/index.html">Closing the Data-Quality Loop </a></li> 
-          
-            <li> <a href="https://aws.amazon.com/blogs/aws/lambdaedge-intelligent-processing-of-http-requests-at-the-edge/">Lambda@Edge – Intelligent Processing of HTTP Requests at the Edge </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 18 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-18.html</guid>
       </item>
       
   </channel>
