@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 03 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://fly.io/articles/how-to-route-ssl-traffic-to-a-kubernetes-application/">How to Route SSL Traffic to a Kubernetes Application </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2017/08/android-bug-swatting-with-sanitizers.html">Android Bug Swatting with Sanitizers </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/08/migrating-from-oracle-to-espresso">Migrating From Oracle to Espresso </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/08/intersection-observer-comes-to-firefox/">Intersection Observer comes to Firefox </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/messaging-single-source-truth/">Messaging as the Single Source of Truth </a></li> 
+          
+            <li> <a href="https://blogs.msdn.microsoft.com/dotnet/2017/08/02/microservices-and-docker-containers-architecture-patterns-and-development-guidance/">Microservices and Docker containers: Architecture, Patterns and Development guidance </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/prototyping-with-react-vr-4d5ab91b6f5a?source=rss----53c7c27702d5---4">Prototyping with React VR </a></li> 
+          
+            <li> <a href="http://www.ebaytechblog.com/2017/08/02/cube-planner-build-an-apache-kylin-olap-cube-efficiently-and-intelligently/">Cube Planner – Build an Apache Kylin OLAP Cube Efficiently and Intelligently </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/exploring-presto-and-zeppelin-for-fast-data-analytics-and-visualization-9cb4dca91c3d?source=rss----905ea2b3d4d1---4">Exploring Presto and Zeppelin for fast data analytics and visualization </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/08/02/organizing-microservices-modern-integration/">Organizing Microservices – Modern Integration </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 03 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 02 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +291,6 @@
         <pubDate>Thu, 20 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 19 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.klipse.tech//javascript/2017/07/19/random-sequeces.html">It’s complex to measure complexity </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/07/memory-in-webassembly-and-why-its-safer-than-you-think/">Memory in WebAssembly (and why it’s safer than you think) </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/inside-the-engine-part-8-handling-advanced-search-use-cases/">Inside the Engine Part 8: Handling Advanced Search Use Cases </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/2017/07/monitoring-sidekiq-queues-with-middlewares/">Monitoring Sidekiq queues with middlewares </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/building-a-simple-api-with-amazon-lambda-and-zappa">Building a Simple API with Amazon Lambda and Zappa </a></li> 
-          
-            <li> <a href="https://fly.io/articles/fly-kubernetes-encrypted-voyage-port-80/">Kubernetes and the Encrypted Voyage on Port 80 </a></li> 
-          
-            <li> <a href="http://blogs.windows.com/buildingapps/2017/07/18/working-brushes-content-xaml-visual-layer-interop-part-one/">Working with Brushes and Content – XAML and Visual Layer Interop, Part One </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2017/07/shut-hal-up.html">Shut the HAL Up </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 19 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-19.html</guid>
       </item>
       
   </channel>
