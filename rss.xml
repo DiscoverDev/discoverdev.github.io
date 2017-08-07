@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 07 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://research.googleblog.com/2017/08/google-at-icml-2017.html">Google at ICML 2017 </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/introducing-overmind-and-hivemind">Introducing Overmind and Hivemind </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/a-crash-course-in-analyzing-memory-usage-in-ruby">A Crash Course in Analyzing Memory Usage in Ruby </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/">Building A Simple AI Chatbot With Web Speech API And Node.js </a></li> 
+          
+            <li> <a href="https://research.fb.com/sharing-new-machine-learning-advances-at-icml-2017/">Sharing new machine learning insights at ICML 2017 </a></li> 
+          
+            <li> <a href="https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/">Dynamically Routing Requests Across Different Stacks with VCL </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html">JS 💖 Hardware – Getting started with Nodebots and Johnny-Five </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f?source=rss-ef81ef829bcb------2">Manas: A high performing customized search system </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ui/page-speed-101-a-primer-for-ui-designers">Page Speed 101: A Primer for Mobile UI Designers </a></li> 
+          
+            <li> <a href="https://explosion.ai/blog/prodigy-annotation-tool-active-learning">Prodigy: A new tool for radically efficient machine teaching </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 07 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 04 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +297,6 @@
         <pubDate>Tue, 25 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 21 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/chameleon/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chameleon">Introducing Chameleon: A Global CMS from Uber Engineering </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/service-discovery/">How to use Cloudflare for Service Discovery </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/kotlin-for-grumpy-java-developers-8e90875cb6ab?source=rss-ef81ef829bcb------2">Kotlin for grumpy Java developers </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/deep-learning-automated-driving-matlab/">Deep Learning for Automated Driving with MATLAB </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/dont-fear-the-monad-f424260f29f6?source=rss----a88376ea904a---4">Don’t fear the Monad </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/do-you-have-100-code-coverage-10c09a44832b?source=rss----905ea2b3d4d1---4">Increase your code coverage using Istanbul </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/07/20/where-do-i-put-proxysql/">Where Do I Put ProxySQL? </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2017/07/20/node-js-d3-canvas-scalable-graphics/">Leveraging Node.js, D3.js, and HTML Canvas for Scalable Infographics </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2017/07/20/the-ultimate-guide-to-progressive-web-applications">The Ultimate Guide to Progressive Web Applications </a></li> 
-          
-            <li> <a href="https://blog.jooq.org/2017/07/20/a-curious-java-language-feature-and-how-it-produced-a-subtle-bug/">A Curious Java Language Feature and How it Produced a Subtle Bug </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 21 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-21.html</guid>
       </item>
       
   </channel>
