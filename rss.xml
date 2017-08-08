@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 08 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://tech.gilt.com/data/2017/08/04/sundial-batch">Sundial or AWS Batch, Why not both? </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a?source=rss----cfc9f21a543a---4">Introduction to Imitation Learning </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-1-swarm-general-architecture/">How does it work? Docker! Part 1: Swarm general architecture </a></li> 
+          
+            <li> <a href="http://engineering.grab.com/migrating-existing-datastores">Migrating Existing Datastores </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/jeff-ramnani/2017/08/07/project-build-protocol.html">Project Build Protocol </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/08/07/diamond1/">Diamond Part I </a></li> 
+          
+            <li> <a href="http://engineering.remind.com/custom-tabbed-container-view-controller/">Writing a Tabbed Container View Controller </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/ingest-store-analyze-iot-analytics-realtime-with-mnubo/">Ingest, Store and Analyze IoT Analytics in Realtime with mnubo </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 08 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 07 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -273,30 +301,6 @@
         <pubDate>Wed, 26 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 25 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/uchat/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uchat">The Road to uChat: Building Uber’s Internal Chat Solution </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/">A New Redux Action Pattern for TypeScript 2.4+ </a></li> 
-          
-            <li> <a href="https://clevertap.com/blog/aws-infrastructure-setup-the-clevertap-way/">AWS infrastructure setup: the CleverTap way </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/07/optimizing-performance-of-a-frame-scenes-for-mobile-devices/">Optimizing Performance of A-Frame Scenes for Mobile Devices </a></li> 
-          
-            <li> <a href="http://allegro.tech/2017/07/golang-slices-gotcha.html">Golang slices gotcha </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html">Teaching Robots to Understand Semantic Concepts </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 25 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-25.html</guid>
       </item>
       
   </channel>
