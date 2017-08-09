@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 09 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html">Faster Rails: Eliminating N+1 queries </a></li> 
+          
+            <li> <a href="https://facebook.github.io/react-native/blog/2017/08/07/react-native-performance-in-marketplace.html">React Native Performance in Marketplace </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/rob-looby/2017/08/08/elm-and-the-ocp.html">Does the open/closed principle apply to Elm? </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808?source=rss----3650599ae4e2---4">Deep Dive on Ember Events </a></li> 
+          
+            <li> <a href="https://liveramp.com/engineering/running-hank-aws/">Running Hank on AWS </a></li> 
+          
+            <li> <a href="https://blog.imaginea.com/api-automation-using-postman/">API Automation using POSTMAN </a></li> 
+          
+            <li> <a href="http://blog.takipi.com/the-modern-java-monitoring-stack-how-to-reverse-engineer-the-ideal-setup-for-your-production-environment/">The Modern Java Monitoring Stack: How to Reverse Engineer the Ideal Setup for Your Production Environment </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 09 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 08 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -269,38 +295,6 @@
         <pubDate>Thu, 27 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 26 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f?source=rss----2615bd06b42e---4">ChAP: Chaos Automation Platform </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed/">Improving Web Performance to Mirror Engine Speed </a></li> 
-          
-            <li> <a href="http://www.bigeng.io/introducing-gruf-ruby-grpc-framework/">BigCommerce, gRPC, and gruf - a Ruby gRPC Framework </a></li> 
-          
-            <li> <a href="https://blog.box.com/blog/introducing-memsniff-robust-memcache-traffic-analyzer/">Introducing Memsniff: A Robust Memcache Traffic Analyzer </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/webpack-optimization-a-case-study-92b130334b6c?source=rss----905ea2b3d4d1---4">webpack optimization — A Case Study </a></li> 
-          
-            <li> <a href="http://tech.gilt.com/deep/learning/2016/12/22/deep-learning-at-gilt">Deep Learning at GILT </a></li> 
-          
-            <li> <a href="https://airbrake.io/blog/design-patterns/chain-of-responsibility">Behavioral Design Patterns: Chain of Responsibility </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2017/7/25/7-interesting-parallels-between-the-invention-of-tiny-satell.html">7 Interesting Parallels Between the Invention of Tiny Satellites and Cloud Computing </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2017/07/prophecy-fulfilled-keras-and-cloudera-data-science-workbench/">Prophecy Fulfilled: Keras and Cloudera Data Science Workbench </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/">Modeling has_many Relationships with DynamoDB </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 26 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-26.html</guid>
       </item>
       
   </channel>
