@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 11 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/">The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts (Part 1) </a></li> 
+          
+            <li> <a href="https://binary-studio.com/2017/08/11/typescript-helps-write-better-code/">Does Typescript help you write better code? </a></li> 
+          
+            <li> <a href="http://eng.wealthfront.com/2017/08/10/hey-do-you-have-the-time/">Hey do you have the time? </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/timescaledb-vs-6a696248104e?source=rss----7fa310224bc5---4">TimescaleDB vs. Postgres for time-series </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2017/08/10/thinking-of-state-in-a-world-of-urls/">Thinking of State in a World of URLs </a></li> 
+          
+            <li> <a href="http://www.ebaytechblog.com/2017/08/10/introducing-regressr-an-open-source-command-line-tool-to-regression-test-http-services/">Introducing Regressr – An Open Source Command Line Tool to Regression Test HTTP Services </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/working-with-dynamodb/">Working with DynamoDB </a></li> 
+          
+            <li> <a href="https://developers.500px.com/a-basic-principle-for-writing-sane-backbone-marionette-code-a62d2d52bc0f?source=rss----5d9282daaaa1---4">A basic principle for writing sane Backbone Marionette code </a></li> 
+          
+            <li> <a href="https://kinvolk.io/blog/2017/08/introducing-kube-spawn-a-tool-to-create-local-multi-node-kubernetes-clusters/">Introducing kube-spawn: a tool to create local, multi-node Kubernetes clusters </a></li> 
+          
+            <li> <a href="https://hashrocket.com/blog/posts/mysql-has-transactions-sorta">MySQL Has Transactions, Sorta </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html">How I built a bin colour reminder Alexa skill using AWS Lambda and Kotlin </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 11 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 10 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -263,38 +297,6 @@
         <pubDate>Mon, 31 Jul 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-07-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 28 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06?source=rss----2615bd06b42e---4">Starting the Avalanche </a></li> 
-          
-            <li> <a href="https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day">How Uploadcare Built a Stack That Handles 350M File API Requests Per Day </a></li> 
-          
-            <li> <a href="https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide">Creating a Ruby DSL: A Guide to Advanced Metaprogramming </a></li> 
-          
-            <li> <a href="https://devblog.kogan.com/blog/a-smarter-local-memory-django-cache-backend">A Smarter, local-memory Django cache backend. </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/versionning-dapi-zero-downtime-deployment-et-migration-sql-theorie-et-cas-pratique/">API, Zero Downtime Deployment and SQL Migration: Theory and Case Study </a></li> 
-          
-            <li> <a href="http://rea.tech/a-journey-into-extensible-effects-in-scala/">A Journey into Extensible Effects in Scala </a></li> 
-          
-            <li> <a href="https://blogs.msdn.microsoft.com/dotnet/2017/07/27/introducing-support-for-brotli-compression/">Introducing Support for Brotli Compression </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/07/26/nodebook/">Nodebook </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/a-library-for-data-visualization-d3.js">A Data Visualization Using d3.js From Scratch </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/07/open-sourcing-jaqen--a-tool-for-developing-dns-rebinding-pocs">Open Sourcing Jaqen, A Tool For Developing DNS Rebinding PoCs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 28 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-28.html</guid>
       </item>
       
   </channel>
