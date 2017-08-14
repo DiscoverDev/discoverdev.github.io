@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 14 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://building.sentisis.com/hacking-with-dom-mutationobservers-348a50231580?source=rss----46335322f971---4">Hacking with DOM MutationObservers </a></li> 
+          
+            <li> <a href="http://rockthecode.io/blog/bms-blackrock-messaging-system/">The BlackRock Messaging System </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/making-a-simple-neural-network-classification-2449da88c77e?source=rss----5e5bef33608a---4">Making a Simple Neural Network : Classification </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/08/10/genie-in-a-box/">Genie in a Box &amp;colon; Making Spark Easy for Stitch Fix Data Scientists </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/optimizing-video-playback-performance-caf55ce310d1?source=rss-ef81ef829bcb------2">Optimizing video playback performance </a></li> 
+          
+            <li> <a href="http://code.hootsuite.com/how-hootsuite-does-microservices/">How Hootsuite does Microservices </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/08/harness-power-of-machine-learning-in.html">Harness the Power of Machine Learning in Your Browser with Deeplearn.js </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/08/the-tcp-tortoise--optimizations-for-emerging-markets">The TCP Tortoise: Optimizations for Emerging Markets </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 14 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 11 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Tue, 01 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 31 Jul 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/07/handling-high-volume-inbound-sms-and-webhooks-with-twilio-functions-and-amazon-sqs.html">Handling High Volume Inbound SMS and Webhooks with Twilio Functions and Amazon SQS </a></li> 
-          
-            <li> <a href="https://slack.engineering/maximum-warp-building-migrations-for-slack-enterprise-grid-398b41a8816a?source=rss----58820b6d8904---4">Maximum Warp: Building Migrations for Slack Enterprise Grid </a></li> 
-          
-            <li> <a href="http://tech.gilt.com/personalization/2017/05/12/tiefvision-2">Visually Similar Recommendations </a></li> 
-          
-            <li> <a href="https://blog.chef.io/2017/07/31/building-developer-services-habitat/">Building Developer Services with Habitat </a></li> 
-          
-            <li> <a href="http://tech.finn.no/2017/07/31/from-hadoop-and-cassandra-to-kafka-streams/">From Hadoop and Cassandra to Kafka Streams </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/accelerating-services-at-airbnb-by-building-a-blazing-fast-thrift-binding-for-ruby-8f63044ba149?source=rss----53c7c27702d5---4">Accelerating Services at Airbnb by Building a Blazing Fast Thrift Binding for Ruby </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/the-case-against-kotlin-2c574cb87953?source=rss-ef81ef829bcb------2">The Case Against Kotlin </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/07/expressions-in-virtual-reality.html">Expressions in Virtual Reality </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 31 Jul 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-07-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-07-31.html</guid>
       </item>
       
   </channel>
