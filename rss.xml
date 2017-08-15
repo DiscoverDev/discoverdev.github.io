@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 15 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2017/08/15/encartopedia.html">Encartopedia </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93?source=rss----cfc9f21a543a---4">Support Vector Machines Tutorial </a></li> 
+          
+            <li> <a href="http://blog.risingstack.com/designing-microservices-architecture-for-failure/">Designing a Microservices Architecture for Failure </a></li> 
+          
+            <li> <a href="https://www.novoda.com/blog/porting-a-python-library-to-android-things-the-inkyphat/">Porting a python library to Android .. Things - The InkypHat </a></li> 
+          
+            <li> <a href="http://nordicapis.com/digitize-your-notes-with-microsoft-vision-api/">Digitize Your Notes With Microsoft Computer Vision API </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/08/geospatial-analysis-python-geojson-geopandas.html">Getting Started on Geospatial Analysis with Python, GeoJSON and GeoPandas </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/08/scaling-contextual-conversation-suggestions-over-linkedins-graph">Scaling Contextual Conversation Suggestions Over 500 Million Members </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/radial-basis-function-neural-networks-fractal-behavior-d427b2822746?source=rss----5e5bef33608a---4">Radial-basis Function Neural Networks — Fractal Behavior </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html">Why Morningstar Moved to the Cloud: 97% Cost Reduction </a></li> 
+          
+            <li> <a href="https://developer.ibm.com/dwblog/2017/identity-access-management-iam-after-notpetya/">Identity and Access Management (IAM) in the aftermath of NotPetya </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 15 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 14 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +297,6 @@
         <pubDate>Wed, 02 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 01 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://becominghuman.ai/deep-learning-from-prototype-to-production-d2b08c85af9f">Deep Learning — from Prototype to Production </a></li> 
-          
-            <li> <a href="https://eng.uber.com/driver-profiles/">Driver Profiles: How Uber Engineering Celebrates Drivers </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/machine-learning-translation-96f0ed8f19e4">Machine Learning Translation and the Google Translate Algorithm </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/">Creating Custom Inputs With Vue.js </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2017/07/31/fastlane-travis-weekly-deploys/">Deploying your app on a weekly basis via fastlane + Travis CI </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/vanity-fair-game-of-unknowns">How We Did It: Building &#34;Game of Unknowns&#34; on VanityFair.com </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/2016-social-passwordless-and-sso-data-what-can-we-learn/">2016 Social, Passwordless and SSO Data: What Can We Learn? </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/lessons-from-using-phoenix-1-3">Lessons From Using Phoenix 1.3 </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice">Inside a SoundCloud Microservice </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/controlling-components-react">Controlled/Uncontrolled React Components </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 01 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-01.html</guid>
       </item>
       
   </channel>
