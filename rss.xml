@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 16 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://intoli.com/blog/steam-scraper/">Scraping User-Submitted Reviews from the Steam Store </a></li> 
+          
+            <li> <a href="https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/">Autoscaling applications @ PayPal </a></li> 
+          
+            <li> <a href="https://engineering.foursquare.com/fsq-io-open-sourcing-foursquares-production-codebase-af7563cbff31?source=rss----3d158c042765---4">Fsq.io: Open Sourcing Foursquare’s Production Codebase </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/evolution-of-heroku-cli-2008-2017">Evolution of the Heroku CLI: 2008-2017 </a></li> 
+          
+            <li> <a href="https://stripe.com/blog/api-versioning">APIs as infrastructure: future-proofing Stripe with versioning </a></li> 
+          
+            <li> <a href="https://medium.com/retailmenot-engineering/sentiment-analysis-series-1-15-min-reading-b807db860917?source=rss----d6bb34696ef5---4">Sentiment Analysis Series 1 (15-min reading) </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-increase-pagespeed-score-by-changing-your-nginx-configuration-on-ubuntu-16-04">How To Increase PageSpeed Score By Changing Your Nginx Configuration on Ubuntu 16.04 </a></li> 
+          
+            <li> <a href="https://slack.engineering/evolving-api-pagination-at-slack-1c1f644f8e12?source=rss----58820b6d8904---4">Evolving API Pagination at Slack </a></li> 
+          
+            <li> <a href="https://tech.small-improvements.com/2017/08/15/displaying-a-list-of-items-in-react-but-composed/">Displaying a List of Items in React, but Composed </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2017/08/implementing-temporal-graphs-with-apache-tinkerpop-and-hgraphdb/">Implementing Temporal Graphs  with Apache TinkerPop and HGraphDB </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 16 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 15 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -275,28 +307,6 @@
         <pubDate>Thu, 03 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 02 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.showmax.com/2017/08/shmavplayerinterface-introduction/">Introduction to the SHMAVPlayerInterface </a></li> 
-          
-            <li> <a href="https://eng.uber.com/plugins/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=plugins">Engineering Scalable, Isolated Mobile Features with Plugins at Uber </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-languages-which-almost-became-css/">The Languages Which Almost Became CSS </a></li> 
-          
-            <li> <a href="https://kickstarter.engineering/how-we-built-automated-support-f2ea669252f?source=rss----c5ef8826f270---4">How we built automated support </a></li> 
-          
-            <li> <a href="https://githubengineering.com/topics/">Topic Suggestions for Millions of Repositories </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 02 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-02.html</guid>
       </item>
       
   </channel>
