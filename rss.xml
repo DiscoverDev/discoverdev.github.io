@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 18 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://binary-studio.com/2017/08/18/software-versioning-windows-net/">Software versioning in Windows and .NET </a></li> 
+          
+            <li> <a href="http://blog.arkency.com/a-word-about-spreadsheet-architect/">What I learned from reading spreadsheet_architect code </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/deep-learning-can-tell-a-gentleman-by-his-shoes-tensor-flow-e0708d34529e?source=rss----5e5bef33608a---4">Deep Learning can tell a gentleman by his shoes | Tensor Flow </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/leveraging-power-database-unbundled/">Leveraging the Power of a Database ‘Unbundled’ </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/linking-opengl-server-side-rendering/">Pro Tip: Linking OpenGL for Server-Side Rendering </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html">Making Visible Watermarks More Effective </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2017/08/android-instant-apps-best-practices-for.html">Android Instant Apps: Best practices for managing download size </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47?source=rss----cfc9f21a543a---4">Generative Adversarial Networks (GANs): Engine and Applications </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 18 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 17 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +303,6 @@
         <pubDate>Mon, 07 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 04 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/08/ingraphs--monitoring-and-unexpected-artwork">InGraphs: Monitoring and Unexpected Artwork </a></li> 
-          
-            <li> <a href="https://webflow-blog.periscopedata.com/blog/polygon-area-from-latitude-and-longitude-using-sql">Periscope Data | Geographic Analysis in SQL: Measuring Polygon Area from Latitude and Longitude </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/introduction-to-headless-browser-testing-and-integration-with-jenkins">An Introduction to Headless Browser Testing and Integration with Jenkins </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Transitioning entirely to neural machine translation </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/build-a-rottentomatoes-clone-with-graphql-and-auth0/">Build a Rotten Tomatoes Clone with GraphQL and Auth0 </a></li> 
-          
-            <li> <a href="http://blog.risingstack.com/building-an-api-gateway-using-nodejs/">Building an API Gateway using Node.js </a></li> 
-          
-            <li> <a href="https://www.wix.engineering/single-post/2017/08/03/Change-100M-URLs-and-live-to-tell">Change 100M URLs and live to tell </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/when-ddd-clicked-for-me/">When DDD clicked for me </a></li> 
-          
-            <li> <a href="http://engineering.remind.com/permissions-service/">Building a Declarative Permissioning Service </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/08/find-projects-infected-by-malicious-npm-packages.html">Find projects infected by malicious npm packages </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 04 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-04.html</guid>
       </item>
       
   </channel>
