@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 21 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.risingstack.com/node-js-http-2-push/">HTTP/2 Server Push with Node.js </a></li> 
+          
+            <li> <a href="http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/">A Spatial-Temporal Modeling Framework for Large-scale Video Understanding </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens">Why JWTs Suck as Session Tokens </a></li> 
+          
+            <li> <a href="https://medium.com/retailmenot-engineering/smoke-testing-with-swagger-v2-2a844a4a0e1a?source=rss----d6bb34696ef5---4">Smoke Testing with Swagger </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/object-storage-vs-block-storage-services">Object Storage vs. Block Storage Services </a></li> 
+          
+            <li> <a href="http://code.hootsuite.com/5-technologies-we-have-used-at-hootsuite-to-build-a-flexible-distributed-data-pipeline/">5 Technologies We Have Used At Hootsuite to Build a Flexible Distributed Data PipeLine </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/anything-java-can-do-kotlin-can-do-better-a1c1ddae8ffd?source=rss-ef81ef829bcb------2">Anything Java can do Kotlin can do better </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/debugging-a-series-of-miscalculations-in-osquery-14cce2cfe39c?source=rss----3650599ae4e2---4">Debugging a series of miscalculations in osquery </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/ip-fragmentation-is-broken/">Broken packets: IP fragmentation is flawed </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/08/17/imdb-data-in-a-graph-database/">IMDb Data in a Graph Database </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 21 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 18 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -271,38 +303,6 @@
         <pubDate>Tue, 08 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 07 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://research.googleblog.com/2017/08/google-at-icml-2017.html">Google at ICML 2017 </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/introducing-overmind-and-hivemind">Introducing Overmind and Hivemind </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/a-crash-course-in-analyzing-memory-usage-in-ruby">A Crash Course in Analyzing Memory Usage in Ruby </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/">Building A Simple AI Chatbot With Web Speech API And Node.js </a></li> 
-          
-            <li> <a href="https://research.fb.com/sharing-new-machine-learning-advances-at-icml-2017/">Sharing new machine learning insights at ICML 2017 </a></li> 
-          
-            <li> <a href="https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/">Dynamically Routing Requests Across Different Stacks with VCL </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html">JS 💖 Hardware – Getting started with Nodebots and Johnny-Five </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/manas-a-high-performing-customized-search-system-cf189f6ca40f?source=rss-ef81ef829bcb------2">Manas: A high performing customized search system </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ui/page-speed-101-a-primer-for-ui-designers">Page Speed 101: A Primer for Mobile UI Designers </a></li> 
-          
-            <li> <a href="https://explosion.ai/blog/prodigy-annotation-tool-active-learning">Prodigy: A new tool for radically efficient machine teaching </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 07 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-07.html</guid>
       </item>
       
   </channel>
