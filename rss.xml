@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 22 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.statsbot.co/ensemble-learning-d1dcd548e936?source=rss----cfc9f21a543a---4">Ensemble Learning: 3 Basic Techniques </a></li> 
+          
+            <li> <a href="https://blog.booking.com/automated-image-tagging-at-booking.com.html">Automated image tagging at Booking.com </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/josh-mccormick/2017/08/21/refactoring-react.html">Refactoring React </a></li> 
+          
+            <li> <a href="https://buildingvts.com/one-way-data-flow-in-angularjs-1-6-453f97339ae3?source=rss----f76c28ec6a84---4">One-way Data Flow (in AngularJS 1.6) </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/easing-your-development-with-ngrok-5389d6bbbc68?source=rss----3650599ae4e2---4">Easing your development with ngrok </a></li> 
+          
+            <li> <a href="https://software.intel.com/en-us/blogs/2017/08/19/disaster-relief-using-satellite-imagery-and-machine-learning">Disaster Relief using Satellite Imagery and Machine Learning </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/factories-or-fixtures">Factories or fixtures? Give me both! </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/lean-maintainable-reports-with-heroku-dataclips">Lean &amp; Maintainable Reports with Heroku Dataclips </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/565767133547005/steering-oceans-of-content-to-the-world/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Steering oceans of content to the world </a></li> 
+          
+            <li> <a href="https://www.toptal.com/python/orchestrating-celery-python-background-jobs">Orchestrating a Background Job Workflow in Celery for Python </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 22 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 21 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -275,34 +307,6 @@
         <pubDate>Wed, 09 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 08 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://tech.gilt.com/data/2017/08/04/sundial-batch">Sundial or AWS Batch, Why not both? </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a?source=rss----cfc9f21a543a---4">Introduction to Imitation Learning </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-1-swarm-general-architecture/">How does it work? Docker! Part 1: Swarm general architecture </a></li> 
-          
-            <li> <a href="http://engineering.grab.com/migrating-existing-datastores">Migrating Existing Datastores </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/jeff-ramnani/2017/08/07/project-build-protocol.html">Project Build Protocol </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/08/07/diamond1/">Diamond Part I </a></li> 
-          
-            <li> <a href="http://engineering.remind.com/custom-tabbed-container-view-controller/">Writing a Tabbed Container View Controller </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/ingest-store-analyze-iot-analytics-realtime-with-mnubo/">Ingest, Store and Analyze IoT Analytics in Realtime with mnubo </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 08 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-08.html</guid>
       </item>
       
   </channel>
