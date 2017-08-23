@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 23 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting">Pseudo-rehearsal: A simple solution to catastrophic forgetting for NLP </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/08/jarvis--helping-linkedin-navigate-its-source-code">JARVIS: Helping LinkedIn Navigate its Source Code </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/understanding-container-metadata/">Container Metadata – Understanding Metrics, Labels, &amp; Tags </a></li> 
+          
+            <li> <a href="https://advancedweb.hu/2017/08/22/git-commit/">Git: A guide to create self-reviewed merge requests </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Inside a super fast CSS engine: Quantum CSS (aka Stylo) </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/08/21/handling-messaging-failures/">Understanding Failure Modes in Message and Event-based Systems </a></li> 
+          
+            <li> <a href="https://hashrocket.com/blog/posts/a-friendly-introduction-to-convolutional-neural-networks">A Friendly Introduction to Convolutional Neural Networks </a></li> 
+          
+            <li> <a href="https://engineering.zomato.com/learnings-from-the-last-huddle-cybersecurity-684677bf86d1?source=rss----733d090d0d55---4">Learnings from the last Huddle: Cybersecurity </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 23 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 22 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,32 +309,6 @@
         <pubDate>Thu, 10 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 09 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html">Faster Rails: Eliminating N+1 queries </a></li> 
-          
-            <li> <a href="https://facebook.github.io/react-native/blog/2017/08/07/react-native-performance-in-marketplace.html">React Native Performance in Marketplace </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/rob-looby/2017/08/08/elm-and-the-ocp.html">Does the open/closed principle apply to Elm? </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808?source=rss----3650599ae4e2---4">Deep Dive on Ember Events </a></li> 
-          
-            <li> <a href="https://liveramp.com/engineering/running-hank-aws/">Running Hank on AWS </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/api-automation-using-postman/">API Automation using POSTMAN </a></li> 
-          
-            <li> <a href="http://blog.takipi.com/the-modern-java-monitoring-stack-how-to-reverse-engineer-the-ideal-setup-for-your-production-environment/">The Modern Java Monitoring Stack: How to Reverse Engineer the Ideal Setup for Your Production Environment </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 09 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-09.html</guid>
       </item>
       
   </channel>
