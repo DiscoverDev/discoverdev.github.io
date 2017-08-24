@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 24 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://upday.github.io/blog/upday-be-architecture/">Finding yourself in the world of backend architecture </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2017/08/can-ruby-be-massively-parallel/">Waiting in Parallel - Parallel Processing in Ruby </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/strategic-pricing-d1adcc2e0fd6?source=rss----cfc9f21a543a---4">Strategic Pricing in Retail with Machine Learning </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec?source=rss----5e5bef33608a---4">Beat Atari with Deep Reinforcement Learning! (Part 0: Intro to RL) </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/johnny-pi-i-am-your-father-part-1-moving-around-e09fe95bbfce?source=rss----5e5bef33608a---4">Johnny Pi, I am your father — part 1: moving around </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/managing-css-js-http-2">Managing CSS &amp; JS in an HTTP/2 World </a></li> 
+          
+            <li> <a href="http://eng.localytics.com/infrastructure-as-code-with-humidifier-reservoir/">Infrastructure As Code With humidifier-reservoir </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/moving-the-new-york-times-games-platform-to-google-app-engine-e9337f2c9444?source=rss----51e1d1745b32---4">Moving The New York Times Games Platform to Google App Engine </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 24 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 23 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,34 +309,6 @@
         <pubDate>Fri, 11 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 10 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/08/http-requests-in-node-js.html">HTTP Requests in Node.js </a></li> 
-          
-            <li> <a href="https://buildingvts.com/back-to-basics-with-rack-6f0d2fb928c5?source=rss----f76c28ec6a84---4">Back to Basics with Rack </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2017/08/09/six-sankey-diagram-tool/">Sankey Diagrams: Six Tools for Visualizing Flow Data </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/08/09/why-infrastructure-parity-matters-for-developers-too/">Why Infrastructure Parity Matters for Developers Too </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/implementing-backup/">Implementing Backup </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/performant-web-animations/">Performant Web Animations and Interactions: Achieving 60 FPS </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/monitoring-your-asynchronous-python-web-applications-using-prometheus/">Monitoring Your Asynchronous Python Web Applications Using Prometheus </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/toasted-marshmallow-marshmallow-but-15x-faster-17bdcf34c760?source=rss----25cd379abb8---4">Toasted Marshmallow — Marshmallow but 15X Faster. </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 10 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-10.html</guid>
       </item>
       
   </channel>
