@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 25 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17?source=rss-ef81ef829bcb------2">Open sourcing DoctorKafka: Kafka cluster healing and workload balancing </a></li> 
+          
+            <li> <a href="http://rea.tech/game-of-lambdas/">Game of Lambdas </a></li> 
+          
+            <li> <a href="https://backtrace.io/blog/compile-once-debug-twice-picking-a-compiler-for-debuggability-1of3/">Compile Once Debug Twice: Picking a Compiler for Debuggability (1/3) </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2017/08/auto-suppressing-tests-for-more-reliable-code-in-our-android-app.html">Auto-suppressing Tests for More Reliable Code in our Android App </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/how-to-implement-a-graphql-api-in-rails/">How to Implement a GraphQL API in Rails </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html">Understanding the performance benefits of using ConstraintLayout </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/08/24/the-skinny-on-fat-thin-hollow-and-uber/">The Skinny on Fat, Thin, Hollow, and Uber </a></li> 
+          
+            <li> <a href="https://eng.uber.com/xp-background-push/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xp-background-push">Deploying More Reliable Apps with Uber Engineering’s XP Background Push </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-4/">JavaScript for Microcontrollers and IoT: Espruino and the ESP8266 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 25 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 24 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -275,40 +305,6 @@
         <pubDate>Mon, 14 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 11 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/">The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts (Part 1) </a></li> 
-          
-            <li> <a href="https://binary-studio.com/2017/08/11/typescript-helps-write-better-code/">Does Typescript help you write better code? </a></li> 
-          
-            <li> <a href="http://eng.wealthfront.com/2017/08/10/hey-do-you-have-the-time/">Hey do you have the time? </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/timescaledb-vs-6a696248104e?source=rss----7fa310224bc5---4">TimescaleDB vs. Postgres for time-series </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2017/08/10/thinking-of-state-in-a-world-of-urls/">Thinking of State in a World of URLs </a></li> 
-          
-            <li> <a href="http://www.ebaytechblog.com/2017/08/10/introducing-regressr-an-open-source-command-line-tool-to-regression-test-http-services/">Introducing Regressr – An Open Source Command Line Tool to Regression Test HTTP Services </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/working-with-dynamodb/">Working with DynamoDB </a></li> 
-          
-            <li> <a href="https://developers.500px.com/a-basic-principle-for-writing-sane-backbone-marionette-code-a62d2d52bc0f?source=rss----5d9282daaaa1---4">A basic principle for writing sane Backbone Marionette code </a></li> 
-          
-            <li> <a href="https://kinvolk.io/blog/2017/08/introducing-kube-spawn-a-tool-to-create-local-multi-node-kubernetes-clusters/">Introducing kube-spawn: a tool to create local, multi-node Kubernetes clusters </a></li> 
-          
-            <li> <a href="https://hashrocket.com/blog/posts/mysql-has-transactions-sorta">MySQL Has Transactions, Sorta </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html">How I built a bin colour reminder Alexa skill using AWS Lambda and Kotlin </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 11 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-11.html</guid>
       </item>
       
   </channel>
