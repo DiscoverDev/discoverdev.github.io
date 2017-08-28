@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 28 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.oursky.com/built-kubernetes-cluster-coworkers-deploy-apps-faster/">How I built a Kubernetes cluster so my coworkers could deploy apps faster </a></li> 
+          
+            <li> <a href="http://code.hootsuite.com/jenkins-pipelines-monitoring-with-go-and-aws/">Jenkins Pipelines Monitoring with Go and AWS </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/7-docker-security-vulnerabilities/">7 Docker security vulnerabilities and threats </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/08/external-library-management--making-continuous-delivery-reliable">External Library Management </a></li> 
+          
+            <li> <a href="https://www.toptal.com/algorithms/introducing-srvb-cryptosystem">Getting Started with the SRVB Cryptosystem </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/the-little-engine-that-could-linchpin-dsl-for-pinterest-ranking-17699add8e56?source=rss-ef81ef829bcb------2">The little engine that could: Linchpin DSL for Pinterest ranking </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html">Exploring and Visualizing an Open Global Dataset </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/tessa-1-000-000-000-strava-activities-1-spatiotemporal-dataset-d54c1eb0b600?source=rss----89d4108ce2a3---4">Tessa: 1,000,000,000 Strava Activities, 1 Spatiotemporal Dataset </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/embracing-real-time-feature-toggling-in-your-react-application-a5e6052716a9?source=rss----d3d69d818e3d---4">Embracing real-time feature toggling in your React application </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 28 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 25 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +307,6 @@
         <pubDate>Tue, 15 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 14 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://building.sentisis.com/hacking-with-dom-mutationobservers-348a50231580?source=rss----46335322f971---4">Hacking with DOM MutationObservers </a></li> 
-          
-            <li> <a href="http://rockthecode.io/blog/bms-blackrock-messaging-system/">The BlackRock Messaging System </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/making-a-simple-neural-network-classification-2449da88c77e?source=rss----5e5bef33608a---4">Making a Simple Neural Network : Classification </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/08/10/genie-in-a-box/">Genie in a Box &amp;colon; Making Spark Easy for Stitch Fix Data Scientists </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/optimizing-video-playback-performance-caf55ce310d1?source=rss-ef81ef829bcb------2">Optimizing video playback performance </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/how-hootsuite-does-microservices/">How Hootsuite does Microservices </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/08/harness-power-of-machine-learning-in.html">Harness the Power of Machine Learning in Your Browser with Deeplearn.js </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/08/the-tcp-tortoise--optimizations-for-emerging-markets">The TCP Tortoise: Optimizations for Emerging Markets </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 14 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-14.html</guid>
       </item>
       
   </channel>
