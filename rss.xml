@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 29 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/">Introducing KSQL: Open Source Streaming SQL for Apache Kafka </a></li> 
+          
+            <li> <a href="https://eng.uber.com/atg-dataviz/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=atg-dataviz">Engineering Uber’s Self-Driving Car Visualization Platform for the Web </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/08/28/looking-disk-utilization-and-saturation/">Looking at Disk Utilization and Saturation </a></li> 
+          
+            <li> <a href="https://research.fb.com/introducing-social-hash-partitioner-a-scalable-distributed-hypergraph-partitioner/">Introducing Social Hash Partitioner, a scalable distributed hypergraph partitioner </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-wirex-botnet/">The WireX Botnet: How Industry Collaboration Disrupted a DDoS Attack </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/08/open-sourcing-kafka-cruise-control">Open Sourcing Kafka Cruise Control </a></li> 
+          
+            <li> <a href="https://segment.com/blog/the-right-way-to-manage-secrets/">The Right Way to Manage Secrets in AWS </a></li> 
+          
+            <li> <a href="https://www.toptal.com/algorithms/maximum-flow-linear-assignment-problem">Maximum Flow and the Linear Assignment Problem </a></li> 
+          
+            <li> <a href="https://code.oursky.com/restructured-app-react-navigation/">How we restructured our app with React Navigation </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 29 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 28 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +305,6 @@
         <pubDate>Wed, 16 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 15 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2017/08/15/encartopedia.html">Encartopedia </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93?source=rss----cfc9f21a543a---4">Support Vector Machines Tutorial </a></li> 
-          
-            <li> <a href="http://blog.risingstack.com/designing-microservices-architecture-for-failure/">Designing a Microservices Architecture for Failure </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/porting-a-python-library-to-android-things-the-inkyphat/">Porting a python library to Android .. Things - The InkypHat </a></li> 
-          
-            <li> <a href="http://nordicapis.com/digitize-your-notes-with-microsoft-vision-api/">Digitize Your Notes With Microsoft Computer Vision API </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/08/geospatial-analysis-python-geojson-geopandas.html">Getting Started on Geospatial Analysis with Python, GeoJSON and GeoPandas </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/08/scaling-contextual-conversation-suggestions-over-linkedins-graph">Scaling Contextual Conversation Suggestions Over 500 Million Members </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/radial-basis-function-neural-networks-fractal-behavior-d427b2822746?source=rss----5e5bef33608a---4">Radial-basis Function Neural Networks — Fractal Behavior </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html">Why Morningstar Moved to the Cloud: 97% Cost Reduction </a></li> 
-          
-            <li> <a href="https://developer.ibm.com/dwblog/2017/identity-access-management-iam-after-notpetya/">Identity and Access Management (IAM) in the aftermath of NotPetya </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 15 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-15.html</guid>
       </item>
       
   </channel>
