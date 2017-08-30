@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 30 Aug 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://eng.wealthfront.com/2017/08/29/building-a-distributed-work-queue-with-mysql-and-rabbitmq/">Building a Distributed Work Queue with MySQL and RabbitMQ </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library">Test-Driving a Stream-powered Elixir Library </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/integrating-with-amazon-how-we-bridged-two-different-commerce-domain-models">Integrating with Amazon: How We Bridged Two Different Commerce Domain Models </a></li> 
+          
+            <li> <a href="https://blog.asana.com/2017/08/performance-asana-app-rewrite/">Treating performance as a product: The technical story of Asana’s arduous rewrite </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast">The Why and How of Google AMP at Condé Nast </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/08/life-after-flash-multimedia-for-the-open-web/">Life After Flash: Multimedia for the Open Web </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/cloud/Managing-Cloud-Infrastructure-in-Amazon-Web-Service-using-VoiceOps/">Managing Cloud Infrastructure in Amazon Web Service using VoiceOps </a></li> 
+          
+            <li> <a href="http://nordicapis.com/dont-let-api-changes-hit-you-like-a-freight-train/">Don’t Let API Changes Hit You Like A Freight Train! </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 30 Aug 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-08-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 29 Aug 2017</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +301,6 @@
         <pubDate>Thu, 17 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 16 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://intoli.com/blog/steam-scraper/">Scraping User-Submitted Reviews from the Steam Store </a></li> 
-          
-            <li> <a href="https://www.paypal-engineering.com/2017/08/16/autoscaling-applications-paypal/">Autoscaling applications @ PayPal </a></li> 
-          
-            <li> <a href="https://engineering.foursquare.com/fsq-io-open-sourcing-foursquares-production-codebase-af7563cbff31?source=rss----3d158c042765---4">Fsq.io: Open Sourcing Foursquare’s Production Codebase </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/evolution-of-heroku-cli-2008-2017">Evolution of the Heroku CLI: 2008-2017 </a></li> 
-          
-            <li> <a href="https://stripe.com/blog/api-versioning">APIs as infrastructure: future-proofing Stripe with versioning </a></li> 
-          
-            <li> <a href="https://medium.com/retailmenot-engineering/sentiment-analysis-series-1-15-min-reading-b807db860917?source=rss----d6bb34696ef5---4">Sentiment Analysis Series 1 (15-min reading) </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-increase-pagespeed-score-by-changing-your-nginx-configuration-on-ubuntu-16-04">How To Increase PageSpeed Score By Changing Your Nginx Configuration on Ubuntu 16.04 </a></li> 
-          
-            <li> <a href="https://slack.engineering/evolving-api-pagination-at-slack-1c1f644f8e12?source=rss----58820b6d8904---4">Evolving API Pagination at Slack </a></li> 
-          
-            <li> <a href="https://tech.small-improvements.com/2017/08/15/displaying-a-list-of-items-in-react-but-composed/">Displaying a List of Items in React, but Composed </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2017/08/implementing-temporal-graphs-with-apache-tinkerpop-and-hgraphdb/">Implementing Temporal Graphs  with Apache TinkerPop and HGraphDB </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 16 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-16.html</guid>
       </item>
       
   </channel>
