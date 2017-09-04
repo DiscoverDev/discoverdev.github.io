@@ -6,6 +6,37 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 04 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://becominghuman.ai/creating-your-own-neural-network-using-tensorflow-fa8ca7cc4d0e?source=rss----5e5bef33608a---4">Creating your own neural network using TensorFlow </a></li> 
+          
+            <li> <a href="https://data-artisans.com/blog/flink-streaming-sql-ksql-stream-processing">Streaming SQL in Apache Flink, KSQL, and Stream Processing
+for Everyone </a></li> 
+          
+            <li> <a href="https://blog.jooq.org/2017/09/01/join-elimination-an-essential-optimiser-feature-for-advanced-sql-usage/">JOIN Elimination: An Essential Optimiser Feature for Advanced SQL Usage </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d?source=rss-ef81ef829bcb------2">Continuous integration for iOS with Nix and Buildkite </a></li> 
+          
+            <li> <a href="https://code.oursky.com/how-a-robot-sees-visual-odometry/">How a robot finds its location based on what it ‘sees’ </a></li> 
+          
+            <li> <a href="http://alistapart.com/article/yes-that-web-project-should-be-a-pwa">Yes, That Web Project Should Be a PWA </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/08/transformer-novel-neural-network.html">Transformer: A Novel Neural Network Architecture for Language Understanding </a></li> 
+          
+            <li> <a href="https://johanlorenzo.github.io/blog/2017/06/07/part-2-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way.html">Part 2: How Mozilla publishes APKs onto Google Play Store, in a reasonably secure and automated way </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Rapid release at massive scale </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Sun, 03 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -267,38 +298,6 @@
         <pubDate>Tue, 22 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 21 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.risingstack.com/node-js-http-2-push/">HTTP/2 Server Push with Node.js </a></li> 
-          
-            <li> <a href="http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/">A Spatial-Temporal Modeling Framework for Large-scale Video Understanding </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens">Why JWTs Suck as Session Tokens </a></li> 
-          
-            <li> <a href="https://medium.com/retailmenot-engineering/smoke-testing-with-swagger-v2-2a844a4a0e1a?source=rss----d6bb34696ef5---4">Smoke Testing with Swagger </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/object-storage-vs-block-storage-services">Object Storage vs. Block Storage Services </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/5-technologies-we-have-used-at-hootsuite-to-build-a-flexible-distributed-data-pipeline/">5 Technologies We Have Used At Hootsuite to Build a Flexible Distributed Data PipeLine </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/anything-java-can-do-kotlin-can-do-better-a1c1ddae8ffd?source=rss-ef81ef829bcb------2">Anything Java can do Kotlin can do better </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/debugging-a-series-of-miscalculations-in-osquery-14cce2cfe39c?source=rss----3650599ae4e2---4">Debugging a series of miscalculations in osquery </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/ip-fragmentation-is-broken/">Broken packets: IP fragmentation is flawed </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/08/17/imdb-data-in-a-graph-database/">IMDb Data in a Graph Database </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 21 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-21.html</guid>
       </item>
       
   </channel>
