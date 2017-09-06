@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 06 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/09/common-issue-detection-for-cpu-profiling">Common Issue Detection for CPU Profiling </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2017/09/05/Modernizing-Force/">Modernizing Force </a></li> 
+          
+            <li> <a href="https://githubengineering.com/keeping-an-eye-on-our-network/">Keeping an eye on our network </a></li> 
+          
+            <li> <a href="https://eng.uber.com/michelangelo/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=michelangelo">Meet Michelangelo: Uber’s Machine Learning Platform </a></li> 
+          
+            <li> <a href="https://fly.io/articles/unified-logging/">Unified Logging for Serverless Functions </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/grootfs-to-pws/">Deploying GrootFS to Pivotal Web Services (PWS) </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/overview-of-functional-programming/">Overview of Functional Programming </a></li> 
+          
+            <li> <a href="https://www.toptal.com/algorithms/aho-corasick-algorithm">Conquer String Search with the Aho-Corasick Algorithm </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/size-limit-make-the-web-lighter">Size Limit: Make the Web lighter </a></li> 
+          
+            <li> <a href="https://blog.moove-it.com/solving-memory-leak-jruby-1-7-ruby-1-9-redis/">Solving a Memory Leak using jRuby 1.7, Ruby 1.9 and Redis </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 06 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 05 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -270,34 +302,6 @@ for Everyone </a></li>
         <pubDate>Thu, 24 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 23 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://explosion.ai/blog/pseudo-rehearsal-catastrophic-forgetting">Pseudo-rehearsal: A simple solution to catastrophic forgetting for NLP </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/08/jarvis--helping-linkedin-navigate-its-source-code">JARVIS: Helping LinkedIn Navigate its Source Code </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/understanding-container-metadata/">Container Metadata – Understanding Metrics, Labels, &amp; Tags </a></li> 
-          
-            <li> <a href="https://advancedweb.hu/2017/08/22/git-commit/">Git: A guide to create self-reviewed merge requests </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Inside a super fast CSS engine: Quantum CSS (aka Stylo) </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/08/21/handling-messaging-failures/">Understanding Failure Modes in Message and Event-based Systems </a></li> 
-          
-            <li> <a href="https://hashrocket.com/blog/posts/a-friendly-introduction-to-convolutional-neural-networks">A Friendly Introduction to Convolutional Neural Networks </a></li> 
-          
-            <li> <a href="https://engineering.zomato.com/learnings-from-the-last-huddle-cybersecurity-684677bf86d1?source=rss----733d090d0d55---4">Learnings from the last Huddle: Cybersecurity </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 23 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-23.html</guid>
       </item>
       
   </channel>
