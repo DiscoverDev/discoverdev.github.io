@@ -6,11 +6,47 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 08 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.codeship.com/using-the-data-access-object-pattern-in-a-microservice-architecture/">Using the Data Access Object Pattern in a Microservice Architecture </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/open-sourcing-codon-workflow-framework-for-building-aggregator-apis-f8e591a158b4?source=rss----42df4a1e8725---4">Open-sourcing codon: workflow framework for building aggregator APIs </a></li> 
+          
+            <li> <a href="https://blog.asana.com/2017/09/learning-talk-curating-commits-git/">Learning Talk: Curating commits (Git) </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/">Publishing with Apache Kafka at The New York Times </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/09/06/blockchains-cryptocurrencies/">Blockchains Explained: A Primer on Cryptocurrencies, Bitcoin, and Ethereum </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-memories-the-research-behind-the-products-that-connect-you-with-your-past/">Facebook memories:  the research behind the products that connect you with your past </a></li> 
+          
+            <li> <a href="https://blog.chef.io/2017/08/11/continuous-automation-texas-am-university/">Continuous Automation at Texas A&amp;M University </a></li> 
+          
+            <li> <a href="http://www.bigeng.io/elasticsearch-scaling-multitenant/">Elasticsearch: Adventures in scaling a multitenant platform </a></li> 
+          
+            <li> <a href="http://www.bigeng.io/how-we-css-at-bigcommerce/">How we &#34;CSS&#34; at BigCommerce </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2017/09/06/using-convolutional-neural-networks-to-automatically-analyze-aerial-and-satellite-imagery/">Video: Using Convolutional Neural Networks to Automatically Analyze Aerial and Satellite Imagery </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Finding inter-procedural bugs at scale with Infer static analyzer </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/">Optimizing web servers for high throughput and low latency </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 08 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 07 Sep 2017</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://eng.uber.com/neural-networks-uncertainty-estimation/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neural-networks-uncertainty-estimation">Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber </a></li> 
+            <li> <a href="https://eng.uber.com/neural-networks-uncertainty-estimation/">Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber </a></li> 
           
             <li> <a href="https://twilioinc.wpengine.com/2017/09/sentiment-analysis-python-messy-data-nltk.html">Analyzing Messy Data Sentiment with Python and nltk </a></li> 
           
@@ -20,7 +56,7 @@
           
             <li> <a href="https://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/">Deep Learning with Intel’s BigDL and Apache Spark </a></li> 
           
-            <li> <a href="https://medium.com/myntra-engineering/semantic-search-innovation-at-scale-c77ed4412567?source=rss----7484818e9f88---4">Semantic Search — Innovation at scale! </a></li> 
+            <li> <a href="https://medium.com/myntra-engineering/semantic-search-innovation-at-scale-c77ed4412567">Semantic Search — Innovation at scale! </a></li> 
           
             <li> <a href="https://blog.octo.com/en/end-to-end-testing-from-the-trenches-with-protractor/">End to end testing from the trenches with Protractor </a></li> 
           
@@ -278,36 +314,6 @@ for Everyone </a></li>
         <pubDate>Mon, 28 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 25 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17?source=rss-ef81ef829bcb------2">Open sourcing DoctorKafka: Kafka cluster healing and workload balancing </a></li> 
-          
-            <li> <a href="http://rea.tech/game-of-lambdas/">Game of Lambdas </a></li> 
-          
-            <li> <a href="https://backtrace.io/blog/compile-once-debug-twice-picking-a-compiler-for-debuggability-1of3/">Compile Once Debug Twice: Picking a Compiler for Debuggability (1/3) </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2017/08/auto-suppressing-tests-for-more-reliable-code-in-our-android-app.html">Auto-suppressing Tests for More Reliable Code in our Android App </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/how-to-implement-a-graphql-api-in-rails/">How to Implement a GraphQL API in Rails </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html">Understanding the performance benefits of using ConstraintLayout </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/08/24/the-skinny-on-fat-thin-hollow-and-uber/">The Skinny on Fat, Thin, Hollow, and Uber </a></li> 
-          
-            <li> <a href="https://eng.uber.com/xp-background-push/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xp-background-push">Deploying More Reliable Apps with Uber Engineering’s XP Background Push </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-4/">JavaScript for Microcontrollers and IoT: Espruino and the ESP8266 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 25 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-25.html</guid>
       </item>
       
   </channel>
