@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Sat, 09 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac?source=rss----3a69e32e2594---4">How We Built Our React Native App </a></li> 
+          
+            <li> <a href="http://tech.finn.no2017/09/08/NLP-based-recommenders-at-finn/">Deep NLP-based Recommenders at Finn.no </a></li> 
+          
+            <li> <a href="http://rea.tech/how-we-optimize-apache-spark-apps/">How We Optimize Apache Spark Jobs </a></li> 
+          
+            <li> <a href="http://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/">The Search for Better Search at Reddit - Because, certainly, we’ve solved it this time </a></li> 
+          
+            <li> <a href="https://metamarkets.com/2017/behind-the-scenes-of-our-transition-to-a-multi-cloud-environment/">Behind the Scenes of our Transition to a Multi-Cloud Environment </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/09/request-signature-authentication-ivr-python-pyramid.html">Request Signature Authentication for IVRs Built with Python </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-and-microsoft-introduce-new-open-ecosystem-for-interchangeable-ai-frameworks/">Facebook and Microsoft introduce new open ecosystem for interchangeable AI frameworks </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/tips-and-tricks-for-api-pagination-5cacc6f017da?source=rss----3650599ae4e2---4">Tips and tricks for API pagination </a></li> 
+          
+            <li> <a href="http://engineering.skybettingandgaming.com/2017/09/07/trading-on-aws/">Moving Our Trading Engine to AWS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Sat, 09 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 08 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -284,36 +314,6 @@ for Everyone </a></li>
         <pubDate>Tue, 29 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 28 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.oursky.com/built-kubernetes-cluster-coworkers-deploy-apps-faster/">How I built a Kubernetes cluster so my coworkers could deploy apps faster </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/jenkins-pipelines-monitoring-with-go-and-aws/">Jenkins Pipelines Monitoring with Go and AWS </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/7-docker-security-vulnerabilities/">7 Docker security vulnerabilities and threats </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/08/external-library-management--making-continuous-delivery-reliable">External Library Management </a></li> 
-          
-            <li> <a href="https://www.toptal.com/algorithms/introducing-srvb-cryptosystem">Getting Started with the SRVB Cryptosystem </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/the-little-engine-that-could-linchpin-dsl-for-pinterest-ranking-17699add8e56?source=rss-ef81ef829bcb------2">The little engine that could: Linchpin DSL for Pinterest ranking </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html">Exploring and Visualizing an Open Global Dataset </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/tessa-1-000-000-000-strava-activities-1-spatiotemporal-dataset-d54c1eb0b600?source=rss----89d4108ce2a3---4">Tessa: 1,000,000,000 Strava Activities, 1 Spatiotemporal Dataset </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/embracing-real-time-feature-toggling-in-your-react-application-a5e6052716a9?source=rss----d3d69d818e3d---4">Embracing real-time feature toggling in your React application </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 28 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-28.html</guid>
       </item>
       
   </channel>
