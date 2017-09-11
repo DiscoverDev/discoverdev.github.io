@@ -6,13 +6,43 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 11 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://benchling.engineering/performance-engineering-with-react-e03013e53285?source=rss----3d4aa8fb07ea---4">Performance Engineering with React </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/3d-multi-object-gan-7b7cee4abf80?source=rss----5e5bef33608a---4">3D Multi Object GAN </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3?source=rss-ef81ef829bcb------2">Containerization at Pinterest </a></li> 
+          
+            <li> <a href="http://engineering.cerner.com/blog/continuous-delivery-for-dcos-with-spinnaker/">Continuous Delivery for DC/OS With Spinnaker </a></li> 
+          
+            <li> <a href="https://fly.io/articles/all-about-geotraffic-distribution/">A Developer&#39;s Introduction to Geotraffic </a></li> 
+          
+            <li> <a href="http://engineering.invisionapp.com/post/painless-microservices-migration/">9 Tips for a Painless Microservices Migration </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/09/08/time-dependent-classification/">Time Dependent Classification </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/how-to-not-get-your-identity-stolen/">How to Not Get Your Identity Stolen </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/09/meta-2-ar-headset-with-firefox/">Meta 2 AR Headset with Firefox </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 11 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Sat, 09 Sep 2017</title>
         <description><![CDATA[
           <ul>
           
             <li> <a href="https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac?source=rss----3a69e32e2594---4">How We Built Our React Native App </a></li> 
           
-            <li> <a href="http://tech.finn.no2017/09/08/NLP-based-recommenders-at-finn/">Deep NLP-based Recommenders at Finn.no </a></li> 
+            <li> <a href="http://tech.finn.no/2017/09/08/NLP-based-recommenders-at-finn/">Deep NLP-based Recommenders at Finn.no </a></li> 
           
             <li> <a href="http://rea.tech/how-we-optimize-apache-spark-apps/">How We Optimize Apache Spark Jobs </a></li> 
           
@@ -284,36 +314,6 @@ for Everyone </a></li>
         <pubDate>Wed, 30 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 29 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/">Introducing KSQL: Open Source Streaming SQL for Apache Kafka </a></li> 
-          
-            <li> <a href="https://eng.uber.com/atg-dataviz/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=atg-dataviz">Engineering Uber’s Self-Driving Car Visualization Platform for the Web </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/08/28/looking-disk-utilization-and-saturation/">Looking at Disk Utilization and Saturation </a></li> 
-          
-            <li> <a href="https://research.fb.com/introducing-social-hash-partitioner-a-scalable-distributed-hypergraph-partitioner/">Introducing Social Hash Partitioner, a scalable distributed hypergraph partitioner </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-wirex-botnet/">The WireX Botnet: How Industry Collaboration Disrupted a DDoS Attack </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/08/open-sourcing-kafka-cruise-control">Open Sourcing Kafka Cruise Control </a></li> 
-          
-            <li> <a href="https://segment.com/blog/the-right-way-to-manage-secrets/">The Right Way to Manage Secrets in AWS </a></li> 
-          
-            <li> <a href="https://www.toptal.com/algorithms/maximum-flow-linear-assignment-problem">Maximum Flow and the Linear Assignment Problem </a></li> 
-          
-            <li> <a href="https://code.oursky.com/restructured-app-react-navigation/">How we restructured our app with React Navigation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 29 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-29.html</guid>
       </item>
       
   </channel>
