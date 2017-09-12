@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 12 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca?source=rss----905ea2b3d4d1---4">Product Matching in eCommerce </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/09/build-your-own-machine-learning.html">Build your own Machine Learning Visualizations with the new TensorBoard API </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/09/11/profiling-nodejs-applications-with-linux-performance-tools/">Profiling NodeJS applications with Linux Performance Tools </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/why-is-serverless-extensibility-better-than-webhooks/">Why is Serverless Extensibility better than Webhooks? </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595?source=rss----2615bd06b42e---4">Scaling Event Sourcing for Netflix Downloads, Episode 1 </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/boosting-product-categorization-with-machine-learning-ad4dbd30b0e8?source=rss----d3d69d818e3d---4">Boosting Product Categorization with Machine Learning </a></li> 
+          
+            <li> <a href="https://blog.imaginea.com/microservices-architecture-an-experience/">Microservices Architecture – An Experience </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/f-root/">Delivering Dot </a></li> 
+          
+            <li> <a href="https://benchling.engineering/building-a-regex-search-engine-for-dna-e81f967883d3?source=rss----3d4aa8fb07ea---4">Building a Regex Search Engine for DNA </a></li> 
+          
+            <li> <a href="https://developer.ibm.com/dwblog/2017/cognitive-highlights-usopen/">Behind the Code: Cognitive Highlights at the US Open </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 12 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 11 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -286,34 +318,6 @@ for Everyone </a></li>
         <pubDate>Thu, 31 Aug 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-08-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 30 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://eng.wealthfront.com/2017/08/29/building-a-distributed-work-queue-with-mysql-and-rabbitmq/">Building a Distributed Work Queue with MySQL and RabbitMQ </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library">Test-Driving a Stream-powered Elixir Library </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/integrating-with-amazon-how-we-bridged-two-different-commerce-domain-models">Integrating with Amazon: How We Bridged Two Different Commerce Domain Models </a></li> 
-          
-            <li> <a href="https://blog.asana.com/2017/08/performance-asana-app-rewrite/">Treating performance as a product: The technical story of Asana’s arduous rewrite </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast">The Why and How of Google AMP at Condé Nast </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/08/life-after-flash-multimedia-for-the-open-web/">Life After Flash: Multimedia for the Open Web </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/cloud/Managing-Cloud-Infrastructure-in-Amazon-Web-Service-using-VoiceOps/">Managing Cloud Infrastructure in Amazon Web Service using VoiceOps </a></li> 
-          
-            <li> <a href="http://nordicapis.com/dont-let-api-changes-hit-you-like-a-freight-train/">Don’t Let API Changes Hit You Like A Freight Train! </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 30 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-30.html</guid>
       </item>
       
   </channel>
