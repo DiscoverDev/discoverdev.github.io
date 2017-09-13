@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 13 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://nordicapis.com/7-helpful-http-tools/">7 Helpful HTTP Tools </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/">Experimenting with WebAssembly and Computer Vision </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/heart-disease-diagnosis-with-deep-learning-c2d92c27e730?source=rss----d02e65779d7b---4">Heart Disease Diagnosis with Deep Learning </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/partitioning-behavior-of-dynamodb/">Partitioning Behavior of DynamoDB </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-5/">JavaScript for Microcontrollers and IoT: SSL/TLS </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/image-data-pre-processing-for-neural-networks-498289068258?source=rss----5e5bef33608a---4">Image Data Pre-Processing for Neural Networks </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e?source=rss----cfc9f21a543a---4">Chatbots with Machine Learning: Building Neural Conversational Agents </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it">git push --force and how to deal with it </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/gradient-boosting-decision-trees-xgboost-cuda/">Gradient Boosting, Decision Trees and XGBoost with CUDA </a></li> 
+          
+            <li> <a href="https://blog.asana.com/2017/09/circumventing-engineering-complexity-examples-from-asana/">Circumventing engineering complexity: Examples from building Custom Fields </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/09/fax-machine-adafruit-tessel-javascript-twilio.html">How to Build Your Own Fax Machine with Tessel, JavaScript and Twilio </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 13 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 12 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -290,34 +324,6 @@ for Everyone </a></li>
         <pubDate>Sun, 03 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 31 Aug 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.wingify.com/posts/jschannel-graphql/">Demand-driven APIs Using GraphQL </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/leveraging-machine-learning-to-rank-buying-intent/">Leveraging Machine Learning to Rank Buying Intent </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html">Hardening the Kernel in Android Oreo </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2017/08/30/developing-custom-machine-learning-algorithms-in-pyspark.html">Developing Custom Machine Learning Algorithms in PySpark </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/08/30/nested-data-structures-clickhouse/">Nested Data Structures in ClickHouse </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/cross-cloud-migration/">The Cross-Cloud Migration </a></li> 
-          
-            <li> <a href="https://metamarkets.com/2017/moving-real-time-data-flow-across-cloud-providers/">Moving Real-Time Data Flow Across Cloud Providers </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/abra-an-enterprise-framework-for-experimentation-at-the-times-57f8931449cd?source=rss----51e1d1745b32---4">ABRA: An enterprise framework for experimentation at The Times </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 31 Aug 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-08-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-08-31.html</guid>
       </item>
       
   </channel>
