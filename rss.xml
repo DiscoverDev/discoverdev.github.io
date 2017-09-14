@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 14 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/09/13/know-how-restful-your-api-is-an-overview-of-the-richardson-maturity-model/">Know how RESTful your API is: An Overview of the Richardson Maturity Model </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/the-ember-run-loop-and-asynchronous-testing-c03326181623?source=rss----3650599ae4e2---4">The Ember Run Loop and Asynchronous Testing </a></li> 
+          
+            <li> <a href="https://engineering.vena.io/2017/09/13/is-it-possible-to-write-bug-free-code/">Is it Possible to Write Bug-Free Code? A Case for Thorough Specifications </a></li> 
+          
+            <li> <a href="http://blog.risingstack.com/measuring-http-timings-node-js/">Understanding &amp; Measuring HTTP Timings with Node.js </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/dynamic-information-retrieval-modeling-6f4aebbfdb4c?source=rss----5e5bef33608a---4">Dynamic Information Retrieval Modeling </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/09/13/massive-parallel-log-processing-clickhouse/">Massive Parallel Log Processing with ClickHouse </a></li> 
+          
+            <li> <a href="https://software.intel.com/en-us/blogs/2017/09/07/cells-in-the-cloud-distributed-runtime-prototype-implementation">Cells in the Cloud: Distributed Runtime Prototype Implementation </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-load-testing">An Introduction to Load Testing </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/09/12/cscope-searching-code-efficiently/">cscope: Searching Code Efficiently </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/understanding-the-prevalence-of-web-traffic-interception/">Understanding the prevalence of web traffic interception </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 14 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 13 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -294,36 +326,6 @@ for Everyone </a></li>
         <pubDate>Mon, 04 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Sun, 03 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Optimizing 360 photos at scale </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">LogDevice: a distributed data store for logs </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/using-word2vec-to-power-a-recommendation-engine-1c18b93fbb30?source=rss----3650599ae4e2---4">Using Word2Vec to Power a Recommendation Engine </a></li> 
-          
-            <li> <a href="https://software.intel.com/en-us/blogs/SIGGRAPH2017Blurring">High-Fidelity Motion Blurring at SIGGRAPH </a></li> 
-          
-            <li> <a href="https://blog.sqreen.io/detect-block-bad-bots/">Detecting and blocking bad bots </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/secure-tool-for-one-time-self-destructing-messages/">A Simple, Secure Tool for One-time (Self-Destructing) Messages </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/08/31/on-link-modeling-network-emulation-and-its-impacts-on-applications/">On link modeling, network emulation and its impacts on applications </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-managing-secrets-safely-with-version-control-systems">An Introduction to Managing Secrets Safely with Version Control Systems </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/deploying-to-google-cloud-compute-with-compose-v3-swarm-mode/">Deploying to Google Cloud Compute with Compose V3 and Swarm Mode </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Sun, 03 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-03.html</guid>
       </item>
       
   </channel>
