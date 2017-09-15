@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 15 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.elastic.co/blog/psd2-architectures-with-the-elastic-stack">PSD2: Modern Banking API Architectures with the Elastic Stack </a></li> 
+          
+            <li> <a href="https://fly.io/articles/http2-for-devs/">HTTP/2 for Developers </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/overcoming-aws-complexity-with-saltstack-patterns-1472981f43c6?source=rss----25cd379abb8---4">Overcoming AWS Complexity with SaltStack patterns </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2017/09/14/lazy-developers-guide-to-auth-with-vue">The Lazy Developer&#39;s Guide to Authentication with Vue.js </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/">Building the DOM faster: speculative parsing, async, defer and preload </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2017/09/customizing-docker-images-in-cloudera-data-science-workbench/">Customizing Docker Images in Cloudera Data Science Workbench </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/apache-kafka-tested/">How Apache Kafka is Tested </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f?source=rss----3650599ae4e2---4">Autoscaling based on request queuing </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2017/09/11/interpretability-webinar.html">Interpretability in conversation with Patrick Hall and Sameer Singh </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/the-evolution-of-electrode-archetype-d61a5dcc90c9?source=rss----905ea2b3d4d1---4">The Evolution of Electrode Archetype </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 15 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 14 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -295,37 +327,6 @@
         <pubDate>Tue, 05 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 04 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://becominghuman.ai/creating-your-own-neural-network-using-tensorflow-fa8ca7cc4d0e?source=rss----5e5bef33608a---4">Creating your own neural network using TensorFlow </a></li> 
-          
-            <li> <a href="https://data-artisans.com/blog/flink-streaming-sql-ksql-stream-processing">Streaming SQL in Apache Flink, KSQL, and Stream Processing
-for Everyone </a></li> 
-          
-            <li> <a href="https://blog.jooq.org/2017/09/01/join-elimination-an-essential-optimiser-feature-for-advanced-sql-usage/">JOIN Elimination: An Essential Optimiser Feature for Advanced SQL Usage </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d?source=rss-ef81ef829bcb------2">Continuous integration for iOS with Nix and Buildkite </a></li> 
-          
-            <li> <a href="https://code.oursky.com/how-a-robot-sees-visual-odometry/">How a robot finds its location based on what it ‘sees’ </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/yes-that-web-project-should-be-a-pwa">Yes, That Web Project Should Be a PWA </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/08/transformer-novel-neural-network.html">Transformer: A Novel Neural Network Architecture for Language Understanding </a></li> 
-          
-            <li> <a href="https://johanlorenzo.github.io/blog/2017/06/07/part-2-how-mozilla-publishes-apks-onto-google-play-store-in-a-reasonably-secure-and-automated-way.html">Part 2: How Mozilla publishes APKs onto Google Play Store, in a reasonably secure and automated way </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Rapid release at massive scale </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 04 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-04.html</guid>
       </item>
       
   </channel>
