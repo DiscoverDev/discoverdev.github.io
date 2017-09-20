@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 20 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/">Allocation Efficiency in High-Performance Go Services </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/interpreting-decision-trees-and-random-forests/">Interpreting Decision Trees and Random Forests </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2017/09/19/introducing-geopyspark-a-python-binding-of-geotrellis/">Introducing GeoPySpark, a Python Binding of GeoTrellis </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/documenting-graphql/">Does GraphQL Reduce the Need for Documentation? </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/analyzing-one-million-robots-txt-files/">Analyzing One Million robots.txt Files </a></li> 
+          
+            <li> <a href="http://nordicapis.com/safely-throttle-high-traffic-apis/">How to Safely Throttle High Traffic APIs </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2017/9/18/evolution-of-data-structures-in-yandexmetrica.html">Evolution of data structures in Yandex.Metrica </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/poison-packages-in-python/">Poison Packages in Python </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 20 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 19 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -293,40 +321,6 @@
         <pubDate>Fri, 08 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/neural-networks-uncertainty-estimation/">Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/09/sentiment-analysis-python-messy-data-nltk.html">Analyzing Messy Data Sentiment with Python and nltk </a></li> 
-          
-            <li> <a href="https://kinvolk.io/blog/2017/09/an-update-on-gobpf---elf-loading-uprobes-more-program-types/">An update on gobpf - ELF loading, uprobes, more program types </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4?source=rss----d02e65779d7b---4">The Total Newbie’s Guide to Cassandra </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2017/09/deep-learning-with-intels-bigdl-and-apache-spark/">Deep Learning with Intel’s BigDL and Apache Spark </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/semantic-search-innovation-at-scale-c77ed4412567">Semantic Search — Innovation at scale! </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/end-to-end-testing-from-the-trenches-with-protractor/">End to end testing from the trenches with Protractor </a></li> 
-          
-            <li> <a href="https://blog.box.com/blog/connecting-google-vision-api-proxy/">Connecting to the Google Vision API via a Proxy </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/the-big-oom-theory/">The Big OOM Theory </a></li> 
-          
-            <li> <a href="http://development.wombatsecurity.com/hardware/2017/09/05/hardware-hacking-video-games/">Hardware Hacking for Video Games </a></li> 
-          
-            <li> <a href="http://www.codelitt.com/blog/tmux/">Working with tmux </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 07 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-07.html</guid>
       </item>
       
   </channel>
