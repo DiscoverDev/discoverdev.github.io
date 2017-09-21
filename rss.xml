@@ -6,6 +6,39 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 21 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps">A Simple Approach to Thread-Safe Networking in iOS Apps </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/09/serving-top-comments-in-professional-social-networks">Serving Top Comments in Professional Social Networks </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/using-grpc-in-python/">Using gRPC in Python </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/upcoming/enry/">enry: detecting languages </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/ridiculously-fast-shot-boundary-detection-with-fully-convolutional-neural-networks-da9d8c73e86c?source=rss----5e5bef33608a---4">Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural
+Networks </a></li> 
+          
+            <li> <a href="http://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/">Mastering the Node.js Core Modules - The Process Module </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/crossing-streams-joins-apache-kafka/">Crossing the Streams – Joins in Apache Kafka </a></li> 
+          
+            <li> <a href="http://www.ebaytechblog.com/2017/09/19/dissect-helps-engineers-visualize-and-debug-distributed-applications/">Dissect Helps Engineers Visualize and Debug Distributed Applications </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/booleans-and-enums">Booleans and Enums </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2017/09/19/build-a-secure-notes-application-with-kotlin-typescript-and-okta">Build a Secure Notes Application with Kotlin, TypeScript, and Okta </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 21 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 20 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -285,42 +318,6 @@
         <pubDate>Sat, 09 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 08 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.codeship.com/using-the-data-access-object-pattern-in-a-microservice-architecture/">Using the Data Access Object Pattern in a Microservice Architecture </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/open-sourcing-codon-workflow-framework-for-building-aggregator-apis-f8e591a158b4?source=rss----42df4a1e8725---4">Open-sourcing codon: workflow framework for building aggregator APIs </a></li> 
-          
-            <li> <a href="https://blog.asana.com/2017/09/learning-talk-curating-commits-git/">Learning Talk: Curating commits (Git) </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/">Publishing with Apache Kafka at The New York Times </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/09/06/blockchains-cryptocurrencies/">Blockchains Explained: A Primer on Cryptocurrencies, Bitcoin, and Ethereum </a></li> 
-          
-            <li> <a href="https://research.fb.com/facebook-memories-the-research-behind-the-products-that-connect-you-with-your-past/">Facebook memories:  the research behind the products that connect you with your past </a></li> 
-          
-            <li> <a href="https://blog.chef.io/2017/08/11/continuous-automation-texas-am-university/">Continuous Automation at Texas A&amp;M University </a></li> 
-          
-            <li> <a href="http://www.bigeng.io/elasticsearch-scaling-multitenant/">Elasticsearch: Adventures in scaling a multitenant platform </a></li> 
-          
-            <li> <a href="http://www.bigeng.io/how-we-css-at-bigcommerce/">How we &#34;CSS&#34; at BigCommerce </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2017/09/06/using-convolutional-neural-networks-to-automatically-analyze-aerial-and-satellite-imagery/">Video: Using Convolutional Neural Networks to Automatically Analyze Aerial and Satellite Imagery </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Finding inter-procedural bugs at scale with Infer static analyzer </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/">Optimizing web servers for high throughput and low latency </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 08 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-08.html</guid>
       </item>
       
   </channel>
