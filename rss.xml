@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 22 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/serverless-framework-and-auth0-webtasks-hop-on-the-bullet-train/">Serverless and Auth0 Webtasks, hop on the bullet train </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/not-progressive-alien-web-apps">Progressive Web Apps? No, we are building Alien Web Apps </a></li> 
+          
+            <li> <a href="http://www.ebaytechblog.com/2017/09/21/ebays-font-loading-strategy/">eBay’s Font Loading Strategy </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/accelerate-machine-learning-with-active-learning-96cea4b72fdb?source=rss----5e5bef33608a---4">Accelerate Machine Learning with Active Learning </a></li> 
+          
+            <li> <a href="https://www.toptal.com/software/creating-modular-code-with-no-dependencies">Creating Truly Modular Code with No Dependencies </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/taste-graph-part-1-assigning-interests-to-pins-9158b4c25906?source=rss-ef81ef829bcb------2">Taste Graph part 1: Assigning interests to Pins </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/09/21/why-functional-programming/">A Simpler Case for Functional Programming &amp; “Elegant” Code </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/zalando-fulfillment-solutions-and-our-fast-replenishment-algorithm/index.html">Zalando Fulfillment Solutions and our FAST Replenishment Algorithm </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-3-load-balancing-service-discovery-and-security/">How does it work? Docker! Part 3: Load balancing, service discovery and security! </a></li> 
+          
+            <li> <a href="http://nordicapis.com/webhooks-vs-websub-which-one-is-better-to-stream-your-events-in-real-time/">WebHooks vs WebSub: Which Is Better For Real-Time Event Streaming? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 22 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 21 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,36 +320,6 @@ Networks </a></li>
         <pubDate>Mon, 11 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Sat, 09 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac?source=rss----3a69e32e2594---4">How We Built Our React Native App </a></li> 
-          
-            <li> <a href="http://tech.finn.no/2017/09/08/NLP-based-recommenders-at-finn/">Deep NLP-based Recommenders at Finn.no </a></li> 
-          
-            <li> <a href="http://rea.tech/how-we-optimize-apache-spark-apps/">How We Optimize Apache Spark Jobs </a></li> 
-          
-            <li> <a href="http://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/">The Search for Better Search at Reddit - Because, certainly, we’ve solved it this time </a></li> 
-          
-            <li> <a href="https://metamarkets.com/2017/behind-the-scenes-of-our-transition-to-a-multi-cloud-environment/">Behind the Scenes of our Transition to a Multi-Cloud Environment </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/09/request-signature-authentication-ivr-python-pyramid.html">Request Signature Authentication for IVRs Built with Python </a></li> 
-          
-            <li> <a href="https://research.fb.com/facebook-and-microsoft-introduce-new-open-ecosystem-for-interchangeable-ai-frameworks/">Facebook and Microsoft introduce new open ecosystem for interchangeable AI frameworks </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/tips-and-tricks-for-api-pagination-5cacc6f017da?source=rss----3650599ae4e2---4">Tips and tricks for API pagination </a></li> 
-          
-            <li> <a href="http://engineering.skybettingandgaming.com/2017/09/07/trading-on-aws/">Moving Our Trading Engine to AWS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Sat, 09 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-09.html</guid>
       </item>
       
   </channel>
