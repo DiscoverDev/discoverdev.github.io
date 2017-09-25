@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 25 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc?source=rss----51e1d1745b32---4">Register: Better In App Billing Testing on Android </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/code-style-consistency-for-shopify-s-decade-old-codebase">Code Style Consistency for Shopify’s Decade-Old Codebase </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/disaster-recovery-multi-datacenter-apache-kafka-deployments">Disaster Recovery for Multi-Datacenter Apache Kafka Deployments </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/09/boba-python-google-maps-geojson.html">How to Build A Boba Tea Shop Finder with Python, Google Maps and GeoJSON </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/average-draft-position-vs-season-projections/">Fantasy Football for Hackers II — An Interactive Visualization of Average Draft Position vs Season Projections </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/automated-environment-deployments/">Automated environment deployments </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/acid-rain/">Real Transactions are Serializable </a></li> 
+          
+            <li> <a href="https://software.intel.com/en-us/blogs/2017/09/21/art-em-week-2">Art’Em - Week 2 </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/321924918276649/slam-bringing-art-to-life-through-technology-/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">SLAM: Bringing art to life through technology </a></li> 
+          
+            <li> <a href="https://research.fb.com/using-social-media-data-to-help-measure-smoke-exposure/">Using social media data to help measure smoke exposure </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 25 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 22 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -290,36 +322,6 @@ Networks </a></li>
         <pubDate>Tue, 12 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 11 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://benchling.engineering/performance-engineering-with-react-e03013e53285?source=rss----3d4aa8fb07ea---4">Performance Engineering with React </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/3d-multi-object-gan-7b7cee4abf80?source=rss----5e5bef33608a---4">3D Multi Object GAN </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/containerization-at-pinterest-92295347f2f3?source=rss-ef81ef829bcb------2">Containerization at Pinterest </a></li> 
-          
-            <li> <a href="http://engineering.cerner.com/blog/continuous-delivery-for-dcos-with-spinnaker/">Continuous Delivery for DC/OS With Spinnaker </a></li> 
-          
-            <li> <a href="https://fly.io/articles/all-about-geotraffic-distribution/">A Developer&#39;s Introduction to Geotraffic </a></li> 
-          
-            <li> <a href="http://engineering.invisionapp.com/post/painless-microservices-migration/">9 Tips for a Painless Microservices Migration </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/09/08/time-dependent-classification/">Time Dependent Classification </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/how-to-not-get-your-identity-stolen/">How to Not Get Your Identity Stolen </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/09/meta-2-ar-headset-with-firefox/">Meta 2 AR Headset with Firefox </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 11 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-11.html</guid>
       </item>
       
   </channel>
