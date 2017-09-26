@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 26 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.elastic.co/blog/machine-learning-for-nginx-logs">Machine Learning for Nginx Logs - Identifying Operational Issues with Your Website </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/pandas-pivot-table/">Explore Happiness Data Using Python Pivot Tables </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Migrating a database from InnoDB to MyRocks </a></li> 
+          
+            <li> <a href="http://engineering.skybettingandgaming.com/2017/09/25/redis-2-to-redis-3/">Our journey from Redis 2 to Redis 3 while not taking the site down. </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/">Exploring Animation And Interaction Techniques With WebGL (A Case Study) </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/meet-gatebot-a-bot-that-allows-us-to-sleep/">Meet Gatebot - a bot that allows us to sleep </a></li> 
+          
+            <li> <a href="https://engineering.semantics3.com/a-simplified-guide-to-grpc-in-python-6c4e25f0c506?source=rss----1fece9c038a3---4">A simplified  guide to gRPC in Python </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/creating-your-first-webvr-app">Creating Your First WebVR App using React and A-Frame </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-history-of-email/">The History of Email </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/streaming-realtime-data-plotly-dashboard-pubnub-nodejs/">Plotly Goes Realtime with PubNub and Node.js </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 26 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 25 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -290,38 +322,6 @@ Networks </a></li>
         <pubDate>Wed, 13 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 12 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca?source=rss----905ea2b3d4d1---4">Product Matching in eCommerce </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/09/build-your-own-machine-learning.html">Build your own Machine Learning Visualizations with the new TensorBoard API </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/09/11/profiling-nodejs-applications-with-linux-performance-tools/">Profiling NodeJS applications with Linux Performance Tools </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/why-is-serverless-extensibility-better-than-webhooks/">Why is Serverless Extensibility better than Webhooks? </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595?source=rss----2615bd06b42e---4">Scaling Event Sourcing for Netflix Downloads, Episode 1 </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/boosting-product-categorization-with-machine-learning-ad4dbd30b0e8?source=rss----d3d69d818e3d---4">Boosting Product Categorization with Machine Learning </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/microservices-architecture-an-experience/">Microservices Architecture – An Experience </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/f-root/">Delivering Dot </a></li> 
-          
-            <li> <a href="https://benchling.engineering/building-a-regex-search-engine-for-dna-e81f967883d3?source=rss----3d4aa8fb07ea---4">Building a Regex Search Engine for DNA </a></li> 
-          
-            <li> <a href="https://developer.ibm.com/dwblog/2017/cognitive-highlights-usopen/">Behind the Code: Cognitive Highlights at the US Open </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 12 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-12.html</guid>
       </item>
       
   </channel>
