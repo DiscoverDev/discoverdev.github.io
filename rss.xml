@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2017/09/26/crowdwork-for-ml.html">Crowdwork for Machine Learning: An Autoethnography </a></li> 
+          
+            <li> <a href="http://alistapart.com/article/considering-open-source-licenses">Considering Open Source Licenses </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/geo-key-manager-how-it-works/">Geo Key Manager: How It Works </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/bayesian-learning-for-statistical-classification-f2362d620428?source=rss----cfc9f21a543a---4">Bayesian Learning for Statistical Classification </a></li> 
+          
+            <li> <a href="http://research.baidu.com/gnr/">Globally Normalized Reader </a></li> 
+          
+            <li> <a href="https://advancedweb.hu/2017/09/26/generators_js/">Generators in Javascript </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/09/26/low-risk-monolith-microservice-evolution-part/">Low-risk Monolith to Microservice Evolution Part I </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/introducing-imgproxy">imgproxy: Resize your images instantly and securely </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure">What Is Immutable Infrastructure? </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a?source=rss----7fa310224bc5---4">Why SQL is beating NoSQL, and what this means for the future of data </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 27 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 26 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,40 +320,6 @@ Networks </a></li>
         <pubDate>Thu, 14 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 13 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://nordicapis.com/7-helpful-http-tools/">7 Helpful HTTP Tools </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/">Experimenting with WebAssembly and Computer Vision </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/heart-disease-diagnosis-with-deep-learning-c2d92c27e730?source=rss----d02e65779d7b---4">Heart Disease Diagnosis with Deep Learning </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/partitioning-behavior-of-dynamodb/">Partitioning Behavior of DynamoDB </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-5/">JavaScript for Microcontrollers and IoT: SSL/TLS </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/image-data-pre-processing-for-neural-networks-498289068258?source=rss----5e5bef33608a---4">Image Data Pre-Processing for Neural Networks </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e?source=rss----cfc9f21a543a---4">Chatbots with Machine Learning: Building Neural Conversational Agents </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it">git push --force and how to deal with it </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/gradient-boosting-decision-trees-xgboost-cuda/">Gradient Boosting, Decision Trees and XGBoost with CUDA </a></li> 
-          
-            <li> <a href="https://blog.asana.com/2017/09/circumventing-engineering-complexity-examples-from-asana/">Circumventing engineering complexity: Examples from building Custom Fields </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/09/fax-machine-adafruit-tessel-javascript-twilio.html">How to Build Your Own Fax Machine with Tessel, JavaScript and Twilio </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 13 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-13.html</guid>
       </item>
       
   </channel>
