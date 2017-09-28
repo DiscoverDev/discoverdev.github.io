@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 28 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://postmarkapp.com/blog/better-qa-through-automated-user-experience-monitoring">Better QA through automated user experience monitoring </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/typescript-at-lyft-64f0702346ea?source=rss----25cd379abb8---4">TypeScript at Lyft </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-cloudflare-streams/">How Cloudflare Streams </a></li> 
+          
+            <li> <a href="https://umbrella.cisco.com/blog/2017/09/27/protecting-icos-cryptocurrency-users/">Protecting ICOs and cryptocurrency users </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/a-state-of-the-art-method-for-generating-photo-realistic-textures-in-real-time/index.html">A State-of-the-Art Method for Generating Photo-Realistic Textures in Real Time </a></li> 
+          
+            <li> <a href="https://drivy.engineering/continuous-integration/">Evolution Of Our Continuous Delivery Process </a></li> 
+          
+            <li> <a href="http://engineering.curalate.com/2017/09/26/tracing-services.html">Tracing High Volume </a></li> 
+          
+            <li> <a href="https://eng.uber.com/restaurant-manager/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=restaurant-manager">Engineering Restaurant Manager, our UberEATS Analytics Dashboard </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">React 16: A look inside an API-compatible rewrite of our frontend UI library </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1985913448333055/multithreaded-rendering-on-android-with-litho-and-infer/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Multithreaded rendering on Android with Litho and Infer </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 28 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 27 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +320,6 @@ Networks </a></li>
         <pubDate>Fri, 15 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 14 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/09/13/know-how-restful-your-api-is-an-overview-of-the-richardson-maturity-model/">Know how RESTful your API is: An Overview of the Richardson Maturity Model </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/the-ember-run-loop-and-asynchronous-testing-c03326181623?source=rss----3650599ae4e2---4">The Ember Run Loop and Asynchronous Testing </a></li> 
-          
-            <li> <a href="https://engineering.vena.io/2017/09/13/is-it-possible-to-write-bug-free-code/">Is it Possible to Write Bug-Free Code? A Case for Thorough Specifications </a></li> 
-          
-            <li> <a href="http://blog.risingstack.com/measuring-http-timings-node-js/">Understanding &amp; Measuring HTTP Timings with Node.js </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/dynamic-information-retrieval-modeling-6f4aebbfdb4c?source=rss----5e5bef33608a---4">Dynamic Information Retrieval Modeling </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/09/13/massive-parallel-log-processing-clickhouse/">Massive Parallel Log Processing with ClickHouse </a></li> 
-          
-            <li> <a href="https://software.intel.com/en-us/blogs/2017/09/07/cells-in-the-cloud-distributed-runtime-prototype-implementation">Cells in the Cloud: Distributed Runtime Prototype Implementation </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-load-testing">An Introduction to Load Testing </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/09/12/cscope-searching-code-efficiently/">cscope: Searching Code Efficiently </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/understanding-the-prevalence-of-web-traffic-interception/">Understanding the prevalence of web traffic interception </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 14 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-14.html</guid>
       </item>
       
   </channel>
