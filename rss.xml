@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 29 Sep 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html">The Product Possibilities of Interpretability </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/09/rnnoise-deep-learning-noise-suppression/">RNNoise: Using Deep Learning for Noise Suppression </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/">CSS Grid Gotchas And Stumbling Blocks </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/enry/">enry: detecting languages </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/food-ie-for-thought-using-nlp-to-find-familiar-meals-at-new-restaurants-ff9cd2bd46f6?source=rss----d02e65779d7b---4">Food(ie) for Thought: Using NLP to find familiar meals at new restaurants </a></li> 
+          
+            <li> <a href="https://stackshare.io/stitch/how-stitch-consolidates-a-billion-records-per-day">How Stitch Consolidates A Billion Records Per Day </a></li> 
+          
+            <li> <a href="http://code.hootsuite.com/securing-services-for-kubernetes-on-aws/">Securing Services for Kubernetes on AWS </a></li> 
+          
+            <li> <a href="https://slack.engineering/libslack-the-c-library-at-the-foundation-of-our-client-application-architecture-97470b5ef9b3?source=rss----58820b6d8904---4">LibSlack: the C++ library at the foundation of our client application architecture </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/serving-one-billion-javascript-library-downloads/">Serving One Billion JavaScript Library Downloads </a></li> 
+          
+            <li> <a href="https://buildingvts.com/one-repo-to-rule-them-all-df1c190afb27?source=rss----f76c28ec6a84---4">One Repo to Rule them All </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 29 Sep 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-09-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 28 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +320,6 @@ Networks </a></li>
         <pubDate>Mon, 18 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 15 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.elastic.co/blog/psd2-architectures-with-the-elastic-stack">PSD2: Modern Banking API Architectures with the Elastic Stack </a></li> 
-          
-            <li> <a href="https://fly.io/articles/http2-for-devs/">HTTP/2 for Developers </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/overcoming-aws-complexity-with-saltstack-patterns-1472981f43c6?source=rss----25cd379abb8---4">Overcoming AWS Complexity with SaltStack patterns </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2017/09/14/lazy-developers-guide-to-auth-with-vue">The Lazy Developer&#39;s Guide to Authentication with Vue.js </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/">Building the DOM faster: speculative parsing, async, defer and preload </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2017/09/customizing-docker-images-in-cloudera-data-science-workbench/">Customizing Docker Images in Cloudera Data Science Workbench </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/apache-kafka-tested/">How Apache Kafka is Tested </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/autoscaling-based-on-request-queuing-c4c0f57f860f?source=rss----3650599ae4e2---4">Autoscaling based on request queuing </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2017/09/11/interpretability-webinar.html">Interpretability in conversation with Patrick Hall and Sameer Singh </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/the-evolution-of-electrode-archetype-d61a5dcc90c9?source=rss----905ea2b3d4d1---4">The Evolution of Electrode Archetype </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 15 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-15.html</guid>
       </item>
       
   </channel>
