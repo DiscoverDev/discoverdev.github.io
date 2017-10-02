@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 02 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-mobile-with-native-and-web-technology">Building Shopify Mobile with Native and Web Technology </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99?source=rss----2615bd06b42e---4">Serving 100 Gbps from an Open Connect Appliance </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/analyzing-distributed-trace-data-6aae58919949?source=rss-ef81ef829bcb------2">Analyzing distributed trace data </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/">Handling System Failures during Payment Communication </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/electrode-native-the-platform-for-integrating-react-native-into-your-apps-129cbabda7b8?source=rss----905ea2b3d4d1---4">Electrode Native: The Platform For Integrating React Native Into Your Apps </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/solving-schr%C3%B6dingers-equation-with-deep-learning-f9f6950a7c0e?source=rss----5e5bef33608a---4">Solving the Schrödinger equation with deep learning </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/introducing-cloudflare-workers/">Introducing Cloudflare Workers: Run JavaScript Service Workers at the Edge </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?source=rss----51e1d1745b32---4">From Bootstrap to CSS Grid </a></li> 
+          
+            <li> <a href="http://blog.avenuecode.com/microservices-architecture-as-a-large-scale-refactoring-tool">Microservices Architecture As A Large-Scale Refactoring Tool </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/developing-restful-apis-with-python-and-flask/">Developing RESTful APIs with Python and Flask </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 02 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 29 Sep 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +320,6 @@ Networks </a></li>
         <pubDate>Tue, 19 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 18 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/09/query-analyzer--a-tool-for-analyzing-mysql-queries-without-overh">Query Analyzer: A Tool for Analyzing MySQL Queries Without Overhead </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/okay-store-data-apache-kafka/">It’s Okay To Store Data In Apache Kafka </a></li> 
-          
-            <li> <a href="https://blog.developer.bazaarvoice.com/2017/09/15/testing-for-application-front-end-performance-with-web-page-test/">Testing for Application Front End Performance with Web Page Test </a></li> 
-          
-            <li> <a href="https://metamarkets.com/2017/druid-and-spark-together-mixing-analytics-workflows/">Druid and Spark Together – Mixing Analytics Workflows </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/building-account-systems/">Building Account Systems </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2017/09/15/stepping-up-the-cloud-security-game/">Stepping Up the Cloud Security Game </a></li> 
-          
-            <li> <a href="http://tech.transferwise.com/on-the-logging-in-mobile-applications/">On the Logging in Mobile Applications </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/reactive-streams-and-microservices-a-case-study">Reactive Streams And Microservices - A Case Study </a></li> 
-          
-            <li> <a href="https://software.intel.com/en-us/blogs/2017/09/08/pre-processing-geotiff-files-and-training-deepmasksharpmask-model">Pre-Processing GeoTIFF files and training DeepMask/SharpMask model </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/physical-separation-in-rails-apps/">Physical separation in Rails apps </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 18 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-18.html</guid>
       </item>
       
   </channel>
