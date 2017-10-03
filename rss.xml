@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 03 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-4-control-your-swarm/">How does it work? Docker! Part 4: Control your Swarm! </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/10/01/one-million-tables-mysql-8-0/">One Million Tables in MySQL 8.0 </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/redux-for-chrome-extensions">Redux for Chrome Extensions </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/getting-started-with-building-realtime-api-infrastructure-a19601fc794e?source=rss----5e5bef33608a---4">Getting Started with Building Realtime API Infrastructure </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/image-masking-challenge-a-kaggle-competition-5a66f30aa335?source=rss----5e5bef33608a---4">Image Masking Challenge. A Kaggle Competition </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/09/everything-you-ever-wanted-to-know-about-secure-html-forms.html">Everything You Ever Wanted to Know About Secure HTML Forms </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/passing-and-returning-webassembly-array-parameters-a0f572c65d97?source=rss----5e5bef33608a---4">Passing and returning WebAssembly array parameters </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/visualizing-machine-learning-thresholds-to-make-better-business-decisions-4ab07f823415?source=rss----d02e65779d7b---4">Visualizing Machine Learning Thresholds to Make Better Business Decisions </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/">How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2017/09/27/comparison-of-4-point-data-aggregation-methods-for-geospatial-analysis/">Comparison of 4 Point Data Aggregation Methods for Geospatial Analysis </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 03 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 02 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +320,6 @@ Networks </a></li>
         <pubDate>Wed, 20 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 19 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/detail/164">Implementing a queue for LINE LIVE PC transmission </a></li> 
-          
-            <li> <a href="http://engineering.remind.com/docker-image-digests/">Docker image digests </a></li> 
-          
-            <li> <a href="http://engineering.harrys.com/2017/09/01/on-demand-notebook-server.html">An on-demand high-powered Jupyter notebook server </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-2-ce1b54d46eec?source=rss----2615bd06b42e---4">Scaling Event Sourcing for Netflix Downloads, Episode 2 </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2017/09/how-to-predict-icu-mortality-with-digital-health-data-dl4j-apache-spark-and-cloudera/">How To Predict ICU Mortality with Digital Health Data, DL4J, Apache Spark and Cloudera </a></li> 
-          
-            <li> <a href="https://www.wix.engineering/single-post/2017/09/18/The-Cost-of-Streaming-Data-from-MySQL">The Cost of Streaming Data from MySQL </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/putting-the-flow-in-tensor-flow-cd8a4c3a7468?source=rss----5e5bef33608a---4">Putting the Flow in Tensor Flow! </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/improving-web-performance-with-code-splitting-and-resource-hints-3762acb3fd7b?source=rss----42df4a1e8725---4">Improving Web Performance with Code Splitting and Resource Hints </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/09/15/the-mysql-high-availability-landscape-in-2017-the-babies/">The MySQL High Availability Landscape in 2017 (the Babies) </a></li> 
-          
-            <li> <a href="https://www.raizlabs.com/dev/2017/09/automating-input-events-android/">Automating Input Events on Android </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 19 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-19.html</guid>
       </item>
       
   </channel>
