@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 05 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/securing-webtasks-part-1-shared-secret-authorization/">Securing Webtasks Part 1: Shared Secret Authorization </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254?source=rss----cfc9f21a543a---4">Singular Value Decomposition (SVD) Tutorial: Applications, Examples, Exercises </a></li> 
+          
+            <li> <a href="http://blog.arkency.com/one-simple-trick-to-make-event-sourcing-click/">One simple trick to make Event Sourcing click </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/soundclouds-data-science-process">SoundCloud&#39;s Data Science Process </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/cooperative-groups/">Cooperative Groups: Flexible CUDA Thread Programming </a></li> 
+          
+            <li> <a href="http://nordicapis.com/what-is-json-ld/">Using JSON-LD To Establish Semantic Linked Data </a></li> 
+          
+            <li> <a href="https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6?source=rss----cb96a1f03649---4">Lessons from migrating a large codebase to React 16 </a></li> 
+          
+            <li> <a href="http://www.ebaytechblog.com/2017/10/04/beats-ebay-collectbeat-a-journey-where-company-and-community-come-together/">Beats @ eBay – Collectbeat – A Journey where Company and Community Come Together </a></li> 
+          
+            <li> <a href="https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-i">UI Testing at Squarespace: Part I </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/flex-your-code-with-chain-of-responsibility-d3f13c97478f?source=rss----905ea2b3d4d1---4">Flex your code with Chain of Responsibility </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 05 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 04 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -291,39 +323,6 @@
         <pubDate>Fri, 22 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 21 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps">A Simple Approach to Thread-Safe Networking in iOS Apps </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/09/serving-top-comments-in-professional-social-networks">Serving Top Comments in Professional Social Networks </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/using-grpc-in-python/">Using gRPC in Python </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/upcoming/enry/">enry: detecting languages </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/ridiculously-fast-shot-boundary-detection-with-fully-convolutional-neural-networks-da9d8c73e86c?source=rss----5e5bef33608a---4">Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural
-Networks </a></li> 
-          
-            <li> <a href="http://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/">Mastering the Node.js Core Modules - The Process Module </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/crossing-streams-joins-apache-kafka/">Crossing the Streams – Joins in Apache Kafka </a></li> 
-          
-            <li> <a href="http://www.ebaytechblog.com/2017/09/19/dissect-helps-engineers-visualize-and-debug-distributed-applications/">Dissect Helps Engineers Visualize and Debug Distributed Applications </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/booleans-and-enums">Booleans and Enums </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2017/09/19/build-a-secure-notes-application-with-kotlin-typescript-and-okta">Build a Secure Notes Application with Kotlin, TypeScript, and Okta </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 21 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-21.html</guid>
       </item>
       
   </channel>
