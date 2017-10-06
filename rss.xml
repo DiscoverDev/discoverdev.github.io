@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 06 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/10/protect-your-npm-account-with-2fa-and-authy.html">Protect your npm account with 2FA and Authy </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/interactions-in-fraud-experiments-a-case-study-in-multivariable-testing-e0525b11751?source=rss----25cd379abb8---4">Interactions in fraud experiments: A case study in multivariable testing </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/automated-rebalance-and-repair/">Scalable SQL Made Easy: How CockroachDB Automates Operations </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/design/sql-vs-nosql/">To SQL or not to SQL </a></li> 
+          
+            <li> <a href="https://www.codementor.io/ceichelmann/opensource-metric-based-monitoring-ck5v6pukf">OpenSource Metric Based Monitoring </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2017/10/working-with-multiple-jobservices.html">Working with Multiple JobServices </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/using-neural-networks-to-predict-customers-needs-63e5f2715e40?source=rss----3650599ae4e2---4">Using neural networks to predict customers’ needs </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/">Nest.js Brings TypeScript to Node.js and Express </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2017/10/05/build-complex-data-pipelines-with-unified-analytics-platform.html">Building Complex Data Pipelines with Unified Analytics Platform </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/catching-up-the-near-future-of-commercial-ai-95e6fa95069f?source=rss----d02e65779d7b---4">Catching up: The Near-future of Commercial AI </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 06 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 05 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -291,38 +323,6 @@
         <pubDate>Mon, 25 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 22 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/serverless-framework-and-auth0-webtasks-hop-on-the-bullet-train/">Serverless and Auth0 Webtasks, hop on the bullet train </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/not-progressive-alien-web-apps">Progressive Web Apps? No, we are building Alien Web Apps </a></li> 
-          
-            <li> <a href="http://www.ebaytechblog.com/2017/09/21/ebays-font-loading-strategy/">eBay’s Font Loading Strategy </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/accelerate-machine-learning-with-active-learning-96cea4b72fdb?source=rss----5e5bef33608a---4">Accelerate Machine Learning with Active Learning </a></li> 
-          
-            <li> <a href="https://www.toptal.com/software/creating-modular-code-with-no-dependencies">Creating Truly Modular Code with No Dependencies </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/taste-graph-part-1-assigning-interests-to-pins-9158b4c25906?source=rss-ef81ef829bcb------2">Taste Graph part 1: Assigning interests to Pins </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/09/21/why-functional-programming/">A Simpler Case for Functional Programming &amp; “Elegant” Code </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/zalando-fulfillment-solutions-and-our-fast-replenishment-algorithm/index.html">Zalando Fulfillment Solutions and our FAST Replenishment Algorithm </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-3-load-balancing-service-discovery-and-security/">How does it work? Docker! Part 3: Load balancing, service discovery and security! </a></li> 
-          
-            <li> <a href="http://nordicapis.com/webhooks-vs-websub-which-one-is-better-to-stream-your-events-in-real-time/">WebHooks vs WebSub: Which Is Better For Real-Time Event Streaming? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 22 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-22.html</guid>
       </item>
       
   </channel>
