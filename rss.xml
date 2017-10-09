@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 09 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://becominghuman.ai/convolutional-neural-networks-cnn-or-convnets-d7c688b0a207?source=rss----5e5bef33608a---4">Convolutional Neural Networks (CNN, or ConvNets) </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/elm-and-rails-sitting-in-a-tree">Elm and Rails Sitting in a Tree </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/making-interactive-art">Making Interactive Art </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996?source=rss-ef81ef829bcb------2">Using Kafka Streams API for predictive budgeting </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2017/10/signalform-charts-as-code-with-signalfx-and-terraform.html">SignalForm: Charts as Code with SignalFx and Terraform </a></li> 
+          
+            <li> <a href="https://fly.io/articles/app-security-cross-site-scripting/">App Security: Introducing Cross-Site Scripting </a></li> 
+          
+            <li> <a href="https://fly.io/articles/fly-jsdelivr/">Why jsDelivr Uses 2 DNS&#39;, 4 CDNs, and Fly </a></li> 
+          
+            <li> <a href="http://development.wombatsecurity.com/development/2017/10/06/event-driven-design/">Event Driven Design </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 09 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 06 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -291,38 +319,6 @@
         <pubDate>Tue, 26 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 25 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc?source=rss----51e1d1745b32---4">Register: Better In App Billing Testing on Android </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/code-style-consistency-for-shopify-s-decade-old-codebase">Code Style Consistency for Shopify’s Decade-Old Codebase </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/disaster-recovery-multi-datacenter-apache-kafka-deployments">Disaster Recovery for Multi-Datacenter Apache Kafka Deployments </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/09/boba-python-google-maps-geojson.html">How to Build A Boba Tea Shop Finder with Python, Google Maps and GeoJSON </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/average-draft-position-vs-season-projections/">Fantasy Football for Hackers II — An Interactive Visualization of Average Draft Position vs Season Projections </a></li> 
-          
-            <li> <a href="http://engineering.wingify.com/posts/automated-environment-deployments/">Automated environment deployments </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/acid-rain/">Real Transactions are Serializable </a></li> 
-          
-            <li> <a href="https://software.intel.com/en-us/blogs/2017/09/21/art-em-week-2">Art’Em - Week 2 </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/321924918276649/slam-bringing-art-to-life-through-technology-/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">SLAM: Bringing art to life through technology </a></li> 
-          
-            <li> <a href="https://research.fb.com/using-social-media-data-to-help-measure-smoke-exposure/">Using social media data to help measure smoke exposure </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 25 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-25.html</guid>
       </item>
       
   </channel>
