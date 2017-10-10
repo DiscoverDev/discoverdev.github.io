@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 10 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://stackoverflow.blog/2017/10/10/impressive-growth-r/">The Impressive Growth of R </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/should-i-learn-now-or-later-46a72603dc3e?source=rss----5e5bef33608a---4">Machine Learning | For the Fresh Bloods </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/event-first-development---moving-towards-kafka-pipeline-applications/index.html">Event First Development - Moving Towards Kafka Pipeline Applications </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/training-self-driving-vehicles-challenge-scale/">Training AI for Self-Driving Vehicles: the Challenge of Scale </a></li> 
+          
+            <li> <a href="https://www.codementor.io/vuejsdevelopers/code-splitting-with-vue-js-and-webpack-9mopipo13">Code Splitting With Vue.js And Webpack </a></li> 
+          
+            <li> <a href="https://eng.uber.com/athenax/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=athenax">Introducing AthenaX, Uber Engineering’s Open Source Streaming Analytics Platform </a></li> 
+          
+            <li> <a href="https://medium.com/datafire-io/upgrading-to-async-await-with-javascript-es7-3c67602ea7f8?source=rss----71f45f55cf04---4">Upgrading to Async/Await with JavaScript ES8 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 09 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -287,38 +313,6 @@
         <pubDate>Wed, 27 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 26 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.elastic.co/blog/machine-learning-for-nginx-logs">Machine Learning for Nginx Logs - Identifying Operational Issues with Your Website </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/pandas-pivot-table/">Explore Happiness Data Using Python Pivot Tables </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Migrating a database from InnoDB to MyRocks </a></li> 
-          
-            <li> <a href="http://engineering.skybettingandgaming.com/2017/09/25/redis-2-to-redis-3/">Our journey from Redis 2 to Redis 3 while not taking the site down. </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/">Exploring Animation And Interaction Techniques With WebGL (A Case Study) </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/meet-gatebot-a-bot-that-allows-us-to-sleep/">Meet Gatebot - a bot that allows us to sleep </a></li> 
-          
-            <li> <a href="https://engineering.semantics3.com/a-simplified-guide-to-grpc-in-python-6c4e25f0c506?source=rss----1fece9c038a3---4">A simplified  guide to gRPC in Python </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/creating-your-first-webvr-app">Creating Your First WebVR App using React and A-Frame </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-history-of-email/">The History of Email </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/streaming-realtime-data-plotly-dashboard-pubnub-nodejs/">Plotly Goes Realtime with PubNub and Node.js </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 26 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-26.html</guid>
       </item>
       
   </channel>
