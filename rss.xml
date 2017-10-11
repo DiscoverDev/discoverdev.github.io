@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 11 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/">Migrating towards Yarn and Webpack </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka">Getting Started Analyzing Twitter Data in Apache Kafka through KSQL </a></li> 
+          
+            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/open-source/2017/Introducing-Torch-Decision-Trees.html">Introducing Torch Decision Trees </a></li> 
+          
+            <li> <a href="https://blog.twitch.tv/live-video-transmuxing-transcoding-ffmpeg-vs-twitchtranscoder-part-i-489c1c125f28?source=rss----3ae745429979--engineering">Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder, Part I </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867?source=rss----5e5bef33608a---4">Designing AI: Solving Snake with Evolution </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/determinism-league-legends-unified-clock">Determinism in League of Legends: Unified Clock </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f?source=rss----587883b5d2ee---4">No order left behind; no shopper left idle. </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/developing-web-apps-and-restful-apis-with-keystonejs/">Developing Web Apps and RESTful APIs with KeystoneJS </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/">The whole web at maximum FPS: How WebRender gets rid of jank </a></li> 
+          
+            <li> <a href="https://hashrocket.com/blog/posts/create-quick-json-data-dumps-from-postgresql">Create Quick JSON Data Dumps From PostgreSQL </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 11 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 10 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Thu, 28 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 27 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2017/09/26/crowdwork-for-ml.html">Crowdwork for Machine Learning: An Autoethnography </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/considering-open-source-licenses">Considering Open Source Licenses </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/geo-key-manager-how-it-works/">Geo Key Manager: How It Works </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/bayesian-learning-for-statistical-classification-f2362d620428?source=rss----cfc9f21a543a---4">Bayesian Learning for Statistical Classification </a></li> 
-          
-            <li> <a href="http://research.baidu.com/gnr/">Globally Normalized Reader </a></li> 
-          
-            <li> <a href="https://advancedweb.hu/2017/09/26/generators_js/">Generators in Javascript </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/09/26/low-risk-monolith-microservice-evolution-part/">Low-risk Monolith to Microservice Evolution Part I </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/introducing-imgproxy">imgproxy: Resize your images instantly and securely </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure">What Is Immutable Infrastructure? </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a?source=rss----7fa310224bc5---4">Why SQL is beating NoSQL, and what this means for the future of data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 27 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-27.html</guid>
       </item>
       
   </channel>
