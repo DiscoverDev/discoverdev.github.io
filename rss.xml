@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 12 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://research.baidu.com/mixed-precision-training/">Mixed Precision Training </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2017/10/04/using-three-js-for-2d-data-visualization.html">Using Three.js for 2D Data Visualization </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5?source=rss----12d1b859d4e4---4">How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with… </a></li> 
+          
+            <li> <a href="https://slack.engineering/rebuilding-slack-com-b124c405c193?source=rss----58820b6d8904---4">Rebuilding slack.com </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/the-future-of-microservices-monitoring-and-instrumentation/">The Future of Microservices Monitoring &amp; Instrumentation </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/10/service-worker-single-page-application-wordpress-sites/">Implementing A Service Worker For Single-Page App WordPress Sites </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667?source=rss----5e5bef33608a---4">Following Messi with TensorFlow and Object Detection </a></li> 
+          
+            <li> <a href="https://blog.jooq.org/2017/10/11/benchmarking-jdk-string-replace-vs-apache-commons-stringutils-replace/">Benchmarking JDK String.replace() vs Apache Commons StringUtils.replace() </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/designing-the-wayback-machine-loading-animation/">Designing The Wayback Machine Loading Animation </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/sast-dast-rasp/">SAST, DAST, and RASP: A guide to the new security alphabet soup </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 12 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 11 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Fri, 29 Sep 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-09-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 28 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://postmarkapp.com/blog/better-qa-through-automated-user-experience-monitoring">Better QA through automated user experience monitoring </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/typescript-at-lyft-64f0702346ea?source=rss----25cd379abb8---4">TypeScript at Lyft </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-cloudflare-streams/">How Cloudflare Streams </a></li> 
-          
-            <li> <a href="https://umbrella.cisco.com/blog/2017/09/27/protecting-icos-cryptocurrency-users/">Protecting ICOs and cryptocurrency users </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/a-state-of-the-art-method-for-generating-photo-realistic-textures-in-real-time/index.html">A State-of-the-Art Method for Generating Photo-Realistic Textures in Real Time </a></li> 
-          
-            <li> <a href="https://drivy.engineering/continuous-integration/">Evolution Of Our Continuous Delivery Process </a></li> 
-          
-            <li> <a href="http://engineering.curalate.com/2017/09/26/tracing-services.html">Tracing High Volume </a></li> 
-          
-            <li> <a href="https://eng.uber.com/restaurant-manager/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=restaurant-manager">Engineering Restaurant Manager, our UberEATS Analytics Dashboard </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">React 16: A look inside an API-compatible rewrite of our frontend UI library </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1985913448333055/multithreaded-rendering-on-android-with-litho-and-infer/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Multithreaded rendering on Android with Litho and Infer </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 28 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-28.html</guid>
       </item>
       
   </channel>
