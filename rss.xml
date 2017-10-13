@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 13 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.showmax.com/2017/10/convnet-architectures/">State of Deep Learning in Computer Vision </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/10/12/new-api-pattern/">The NEW API Pattern </a></li> 
+          
+            <li> <a href="https://mesosphere.com/blog/containers-distributed-systems/">Containers and Distributed Systems: Where They Came From and Where They’re Going </a></li> 
+          
+            <li> <a href="https://blog.docker.com/2017/10/least-privilege-container-orchestration/">Least Privilege Container Orchestration </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/">Mixed-Precision Training of Deep Neural Networks </a></li> 
+          
+            <li> <a href="https://eng.datafox.com/mongoose/2017/02/22/what-we-wish-we-had-known-about-mongoose/">What We Wish We Had Known About Mongoose </a></li> 
+          
+            <li> <a href="http://engineering.wayfair.com/2017/10/building-a-living-3d-rendering-platform/">Building a Living 3D Rendering Platform </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/10/streaming-data-pipelines-with-brooklin">Streaming Data Pipelines with Brooklin </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f?source=rss----3650599ae4e2---4">Keeping the Daggers Sharp ⚔️ </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html">TensorFlow Lattice: Flexibility Empowered by Prior Knowledge </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 13 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 12 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Mon, 02 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 29 Sep 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html">The Product Possibilities of Interpretability </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/09/rnnoise-deep-learning-noise-suppression/">RNNoise: Using Deep Learning for Noise Suppression </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/">CSS Grid Gotchas And Stumbling Blocks </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/enry/">enry: detecting languages </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/food-ie-for-thought-using-nlp-to-find-familiar-meals-at-new-restaurants-ff9cd2bd46f6?source=rss----d02e65779d7b---4">Food(ie) for Thought: Using NLP to find familiar meals at new restaurants </a></li> 
-          
-            <li> <a href="https://stackshare.io/stitch/how-stitch-consolidates-a-billion-records-per-day">How Stitch Consolidates A Billion Records Per Day </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/securing-services-for-kubernetes-on-aws/">Securing Services for Kubernetes on AWS </a></li> 
-          
-            <li> <a href="https://slack.engineering/libslack-the-c-library-at-the-foundation-of-our-client-application-architecture-97470b5ef9b3?source=rss----58820b6d8904---4">LibSlack: the C++ library at the foundation of our client application architecture </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/serving-one-billion-javascript-library-downloads/">Serving One Billion JavaScript Library Downloads </a></li> 
-          
-            <li> <a href="https://buildingvts.com/one-repo-to-rule-them-all-df1c190afb27?source=rss----f76c28ec6a84---4">One Repo to Rule them All </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 29 Sep 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-09-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-09-29.html</guid>
       </item>
       
   </channel>
