@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 16 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.codementor.io/schumachertony90/scaling-phantomjs-taking-thousands-of-full-page-screenshots-every-day-csvl1j6ur">Scaling PhantomJS: Taking Thousands of Full Page Screenshots Every Day </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228?source=rss----2615bd06b42e---4">Developer Experience Lessons Operating a Serverless-like Platform At Netflix — Part II </a></li> 
+          
+            <li> <a href="https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/">Transit and Peering: How your requests reach GitHub </a></li> 
+          
+            <li> <a href="http://blog.atom.io/2017/10/12/atoms-new-buffer-implementation.html">Atom’s new concurrency-friendly buffer implementation </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2017/10/11/why-are-webhooks-better-than-serverless-extensibility">Why Are Webhooks Better Than Serverless Extensibility? </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/how-shopify-governs-containers-at-scale-with-grafeas-and-kritis">How Shopify Governs Containers at Scale with Grafeas and Kritis </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/10/remaking-lightbeam-as-a-browser-extension/">Remaking Lightbeam as a browser extension </a></li> 
+          
+            <li> <a href="https://hackernoon.com/airflow-the-missing-context-1a04b3a9475c?source=rss----3a8144eabfe3---4">Airflow: The Missing Context </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2017/10/go-python-go-stream-processing-for-python/">Go Python, Go! Stream Processing for Python </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/bayesian-nonparametrics-9f2ce7074b97?source=rss----cfc9f21a543a---4">Bayesian Nonparametrics </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 16 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 13 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Tue, 03 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 02 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-mobile-with-native-and-web-technology">Building Shopify Mobile with Native and Web Technology </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99?source=rss----2615bd06b42e---4">Serving 100 Gbps from an Open Connect Appliance </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/analyzing-distributed-trace-data-6aae58919949?source=rss-ef81ef829bcb------2">Analyzing distributed trace data </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/">Handling System Failures during Payment Communication </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/electrode-native-the-platform-for-integrating-react-native-into-your-apps-129cbabda7b8?source=rss----905ea2b3d4d1---4">Electrode Native: The Platform For Integrating React Native Into Your Apps </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/solving-schr%C3%B6dingers-equation-with-deep-learning-f9f6950a7c0e?source=rss----5e5bef33608a---4">Solving the Schrödinger equation with deep learning </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/introducing-cloudflare-workers/">Introducing Cloudflare Workers: Run JavaScript Service Workers at the Edge </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?source=rss----51e1d1745b32---4">From Bootstrap to CSS Grid </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/microservices-architecture-as-a-large-scale-refactoring-tool">Microservices Architecture As A Large-Scale Refactoring Tool </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/developing-restful-apis-with-python-and-flask/">Developing RESTful APIs with Python and Flask </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 02 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-02.html</guid>
       </item>
       
   </channel>
