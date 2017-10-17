@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 17 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://android-developers.googleblog.com/2017/10/effective-phone-number-verification.html">Effective phone number verification </a></li> 
+          
+            <li> <a href="https://githubengineering.com/stretching-spokes/">Stretching Spokes </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-a-blockchain-dapp-using-truffle-react-next-js-and-mobx-part-2-847193b497e4?source=rss----3a8144eabfe3---4">Building a Blockchain DApp using truffle, React, Next.js and MobX (part 2) </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-future-of-microservices-monitoring-instrumentation-b86fc3f61c9c?source=rss----3a8144eabfe3---4">The Future of Microservices Monitoring &amp; Instrumentation </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/pandas-aggregation/">A Brief Tour of Grouping and Aggregating in Pandas </a></li> 
+          
+            <li> <a href="https://blog.docker.com/2017/10/modernizing-java-apps-for-it-pros/">Videos series: Modernizing Java Apps for IT Pros </a></li> 
+          
+            <li> <a href="https://developers.500px.com/aws-elastic-beanstalk-and-private-docker-hub-repos-8ba823813642?source=rss----5d9282daaaa1---4">AWS Elastic Beanstalk and Private Docker Hub Repos </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 17 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 16 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +307,6 @@
         <pubDate>Wed, 04 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 03 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-4-control-your-swarm/">How does it work? Docker! Part 4: Control your Swarm! </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/10/01/one-million-tables-mysql-8-0/">One Million Tables in MySQL 8.0 </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/redux-for-chrome-extensions">Redux for Chrome Extensions </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/getting-started-with-building-realtime-api-infrastructure-a19601fc794e?source=rss----5e5bef33608a---4">Getting Started with Building Realtime API Infrastructure </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/image-masking-challenge-a-kaggle-competition-5a66f30aa335?source=rss----5e5bef33608a---4">Image Masking Challenge. A Kaggle Competition </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/09/everything-you-ever-wanted-to-know-about-secure-html-forms.html">Everything You Ever Wanted to Know About Secure HTML Forms </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/passing-and-returning-webassembly-array-parameters-a0f572c65d97?source=rss----5e5bef33608a---4">Passing and returning WebAssembly array parameters </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/visualizing-machine-learning-thresholds-to-make-better-business-decisions-4ab07f823415?source=rss----d02e65779d7b---4">Visualizing Machine Learning Thresholds to Make Better Business Decisions </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/">How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2017/09/27/comparison-of-4-point-data-aggregation-methods-for-geospatial-analysis/">Comparison of 4 Point Data Aggregation Methods for Geospatial Analysis </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 03 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-03.html</guid>
       </item>
       
   </channel>
