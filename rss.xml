@@ -6,6 +6,35 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 19 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/krack-attack-wpa2-and-what-it-means/">WPA2 KRACK Attack: The WiFi Hack and What it Means </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/predicting-flight-arrivals-with-the-apache-kafka-streams-api/">Predicting Flight Arrivals with the Apache Kafka Streams
+API </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/infrastructure-monitoring-with-tick-stack/">Infrastructure Monitoring with TICK Stack </a></li> 
+          
+            <li> <a href="https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d?source=rss----3a8144eabfe3---4">MVC vs. MVVM: How a Website Communicates With Its Data Models </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/">Stop Using word2vec </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-brundage-bot-10252facf3d1?source=rss----3a8144eabfe3---4">Building Brundage Bot </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/brain-mri-image-segmentation-using-stacked-denoising-autoencoders-4e91417688f6?source=rss----d02e65779d7b---4">Brain MRI image segmentation using Stacked Denoising Autoencoders </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/10/portrait-mode-on-pixel-2-and-pixel-2-xl.html">Portrait mode on the Pixel 2 and Pixel 2 XL smartphones </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 19 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 18 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +304,6 @@
         <pubDate>Fri, 06 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 05 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/securing-webtasks-part-1-shared-secret-authorization/">Securing Webtasks Part 1: Shared Secret Authorization </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254?source=rss----cfc9f21a543a---4">Singular Value Decomposition (SVD) Tutorial: Applications, Examples, Exercises </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/one-simple-trick-to-make-event-sourcing-click/">One simple trick to make Event Sourcing click </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/soundclouds-data-science-process">SoundCloud&#39;s Data Science Process </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/cooperative-groups/">Cooperative Groups: Flexible CUDA Thread Programming </a></li> 
-          
-            <li> <a href="http://nordicapis.com/what-is-json-ld/">Using JSON-LD To Establish Semantic Linked Data </a></li> 
-          
-            <li> <a href="https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6?source=rss----cb96a1f03649---4">Lessons from migrating a large codebase to React 16 </a></li> 
-          
-            <li> <a href="http://www.ebaytechblog.com/2017/10/04/beats-ebay-collectbeat-a-journey-where-company-and-community-come-together/">Beats @ eBay – Collectbeat – A Journey where Company and Community Come Together </a></li> 
-          
-            <li> <a href="https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-i">UI Testing at Squarespace: Part I </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/flex-your-code-with-chain-of-responsibility-d3f13c97478f?source=rss----905ea2b3d4d1---4">Flex your code with Chain of Responsibility </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 05 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-05.html</guid>
       </item>
       
   </channel>
