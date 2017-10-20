@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 20 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/e2ee-app-backends-286cc94b8a7?source=rss----3a8144eabfe3---4">Building Application Backends with End-to-end Encryption </a></li> 
+          
+            <li> <a href="https://eng.uber.com/nullaway/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nullaway">Engineering NullAway, Uber’s Open Source Tool for Detecting NullPointerExceptions on Android </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open-sourcing RacerD: Fast static race detection at scale </a></li> 
+          
+            <li> <a href="http://alistapart.com/article/the-story-of-css-grid-from-its-creators">The Story of CSS Grid, from Its Creators </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7?source=rss----cfc9f21a543a---4">Improving Real-Time Object Detection with YOLO </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2017/10/how-wallaroo-scales-distributed-state/">How Wallaroo Scales Distributed State </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-5-get-some-workers-done/">How does it work? Docker! Part 5: Get some work(ers) done! </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077?source=rss----51e1d1745b32---4">Publishing with Apache Kafka at The New York Times </a></li> 
+          
+            <li> <a href="https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-ii">UI Testing at Squarespace: Part II </a></li> 
+          
+            <li> <a href="https://benchling.engineering/building-computed-fields-in-a-biological-database-5cb8774c4a2a?source=rss----3d4aa8fb07ea---4">Building Computed Fields in a Biological Database </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 20 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 19 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -272,38 +304,6 @@ API </a></li>
         <pubDate>Mon, 09 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 06 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/10/protect-your-npm-account-with-2fa-and-authy.html">Protect your npm account with 2FA and Authy </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/interactions-in-fraud-experiments-a-case-study-in-multivariable-testing-e0525b11751?source=rss----25cd379abb8---4">Interactions in fraud experiments: A case study in multivariable testing </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/automated-rebalance-and-repair/">Scalable SQL Made Easy: How CockroachDB Automates Operations </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/design/sql-vs-nosql/">To SQL or not to SQL </a></li> 
-          
-            <li> <a href="https://www.codementor.io/ceichelmann/opensource-metric-based-monitoring-ck5v6pukf">OpenSource Metric Based Monitoring </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2017/10/working-with-multiple-jobservices.html">Working with Multiple JobServices </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/using-neural-networks-to-predict-customers-needs-63e5f2715e40?source=rss----3650599ae4e2---4">Using neural networks to predict customers’ needs </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/">Nest.js Brings TypeScript to Node.js and Express </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2017/10/05/build-complex-data-pipelines-with-unified-analytics-platform.html">Building Complex Data Pipelines with Unified Analytics Platform </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/catching-up-the-near-future-of-commercial-ai-95e6fa95069f?source=rss----d02e65779d7b---4">Catching up: The Near-future of Commercial AI </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 06 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-06.html</guid>
       </item>
       
   </channel>
