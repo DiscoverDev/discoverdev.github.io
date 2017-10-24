@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 24 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.toptal.com/designers/ui/augmented-reality-vs-virtual-reality-vs-mixed-reality">Augmented Reality vs. Virtual Reality vs. Mixed Reality – An Introductory Guide </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/deepstream-video-analytics-smart-cities/">DeepStream: Next-Generation Video Analytics for Smart Cities </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/time-series-data-postgresql-10-vs-timescaledb-816ee808bac5?source=rss----7fa310224bc5---4">Time-series data: PostgreSQL 10 vs. TimescaleDB </a></li> 
+          
+            <li> <a href="https://blog.twitch.tv/live-video-transmuxing-transcoding-ffmpeg-vs-twitchtranscoder-part-ii-4973f475f8a3?source=rss----3ae745429979--engineering">Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder, Part II </a></li> 
+          
+            <li> <a href="https://hackernoon.com/high-availability-concepts-and-theory-980c58cbf87b?source=rss----3a8144eabfe3---4">High Availability: Concepts and Theory </a></li> 
+          
+            <li> <a href="http://engineering.skybettingandgaming.com/2017/10/23/performance-left-right-and-center/">Performance Left Right and Center. </a></li> 
+          
+            <li> <a href="https://buildingvts.com/serving-assets-while-rolling-your-deploys-c656ce6a2123?source=rss----f76c28ec6a84---4">Serving Assets while Rolling Your Deploys </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/a-responsive-and-clean-android-app-with-kotlin-actors/">A Responsive and Clean Android App with Kotlin Actors </a></li> 
+          
+            <li> <a href="https://hackernoon.com/an-introduction-to-serverless-devops-with-openfaas-b978ab0eb2b?source=rss----3a8144eabfe3---4">An Introduction to Serverless DevOps with OpenFaaS </a></li> 
+          
+            <li> <a href="https://hackernoon.com/heres-how-i-built-a-private-blockchain-network-and-you-can-too-62ca7db556c0?source=rss----3a8144eabfe3---4">Here’s how I built a private blockchain network, and you can too </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 24 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 23 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,32 +315,6 @@ API </a></li>
         <pubDate>Wed, 11 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 10 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://stackoverflow.blog/2017/10/10/impressive-growth-r/">The Impressive Growth of R </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/should-i-learn-now-or-later-46a72603dc3e?source=rss----5e5bef33608a---4">Machine Learning | For the Fresh Bloods </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/event-first-development---moving-towards-kafka-pipeline-applications/index.html">Event First Development - Moving Towards Kafka Pipeline Applications </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/training-self-driving-vehicles-challenge-scale/">Training AI for Self-Driving Vehicles: the Challenge of Scale </a></li> 
-          
-            <li> <a href="https://www.codementor.io/vuejsdevelopers/code-splitting-with-vue-js-and-webpack-9mopipo13">Code Splitting With Vue.js And Webpack </a></li> 
-          
-            <li> <a href="https://eng.uber.com/athenax/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=athenax">Introducing AthenaX, Uber Engineering’s Open Source Streaming Analytics Platform </a></li> 
-          
-            <li> <a href="https://medium.com/datafire-io/upgrading-to-async-await-with-javascript-es7-3c67602ea7f8?source=rss----71f45f55cf04---4">Upgrading to Async/Await with JavaScript ES8 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 10 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-10.html</guid>
       </item>
       
   </channel>
