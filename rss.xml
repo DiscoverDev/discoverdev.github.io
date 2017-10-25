@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 25 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://robots.thoughtbot.com/bridging-elm-and-javascript-with-ports">Bridging Elm and JavaScript with Ports </a></li> 
+          
+            <li> <a href="https://hackernoon.com/react-redux-with-mapbox-78fa3767211e?source=rss----3a8144eabfe3---4">React/Redux with Mapbox </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/parallel-sql-statements/">Executing Parallel Statements to Improve Performance </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/index.html">Zalando&#39;s Smart Product Platform </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-we-started-sharing-components-as-a-team-d863657afaca?source=rss----3a8144eabfe3---4">How We Started Sharing Components as a Team </a></li> 
+          
+            <li> <a href="http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/">Deep Voice 3: 2000-Speaker Neural Text-to-Speech </a></li> 
+          
+            <li> <a href="https://www.thumbtack.com/engineering/unleash-email-power-composable-language-agnostic-responsive-templates/">Unleash Email Power with Composable, Language-agnostic, and Responsive Templates </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-to-monkey-patch-the-linux-kernel/">How to Monkey-Patch the Linux Kernel </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/https-open-nytimes-com-improving-our-video-experience-part-one-our-on-demand-video-platform-8554968dbd66?source=rss----51e1d1745b32---4">Improving Our Video Experience </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/10/building-smart-replies-for-member-messages">Building Smart Replies for Member Messages </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 25 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 24 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +315,6 @@ API </a></li>
         <pubDate>Thu, 12 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 11 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/">Migrating towards Yarn and Webpack </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka">Getting Started Analyzing Twitter Data in Apache Kafka through KSQL </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/open-source/2017/Introducing-Torch-Decision-Trees.html">Introducing Torch Decision Trees </a></li> 
-          
-            <li> <a href="https://blog.twitch.tv/live-video-transmuxing-transcoding-ffmpeg-vs-twitchtranscoder-part-i-489c1c125f28?source=rss----3ae745429979--engineering">Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder, Part I </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867?source=rss----5e5bef33608a---4">Designing AI: Solving Snake with Evolution </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/determinism-league-legends-unified-clock">Determinism in League of Legends: Unified Clock </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f?source=rss----587883b5d2ee---4">No order left behind; no shopper left idle. </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/developing-web-apps-and-restful-apis-with-keystonejs/">Developing Web Apps and RESTful APIs with KeystoneJS </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/">The whole web at maximum FPS: How WebRender gets rid of jank </a></li> 
-          
-            <li> <a href="https://hashrocket.com/blog/posts/create-quick-json-data-dumps-from-postgresql">Create Quick JSON Data Dumps From PostgreSQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 11 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-11.html</guid>
       </item>
       
   </channel>
