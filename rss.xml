@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 26 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/">High-Performance GPU Computing in the Julia Programming Language </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/rebuilding-the-segment-leaderboards-infrastructure-part-2-first-principles-of-a-new-system-cd2e77c82ba3?source=rss----89d4108ce2a3---4">Rebuilding the Segment Leaderboards Infrastructure — Part 2: First Principles of a New System </a></li> 
+          
+            <li> <a href="http://engineering.wayfair.com/2017/10/why-violin-plots-are-awesome-for-feature-engineering-an-example-using-nlp-to-identify-similar-products/">Why Violin Plots are Awesome for Feature Engineering:  An Example Using NLP to Identify Similar Products </a></li> 
+          
+            <li> <a href="https://hackernoon.com/many-faced-threats-to-serverless-security-519e94d19dba?source=rss----3a8144eabfe3---4">Many-faced threats to Serverless security </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-exactly-is-deep-learning-and-how-does-the-magic-happen-ed53a7b1b98b?source=rss----3a8144eabfe3---4">What exactly is deep learning, and how does the magic happen? </a></li> 
+          
+            <li> <a href="http://blogs.windows.com/msedgedev/2017/10/25/introducing-sonar-site-scanner/">sonar: Linting the web forward </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/">Integrating React in a 6+ Year Old Rails App </a></li> 
+          
+            <li> <a href="https://data-artisans.com/blog/real-time-fraud-detection-ing-bank-apache-flink">StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink® </a></li> 
+          
+            <li> <a href="https://www.toptal.com/front-end/frontend-clean-code-guide">Clean Code: Why HTML/CSS Essentials Still Matter </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/kaggle-fundamentals/">Kaggle Fundamentals: The Titanic Competition </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 26 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 25 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +315,6 @@ API </a></li>
         <pubDate>Fri, 13 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 12 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://research.baidu.com/mixed-precision-training/">Mixed Precision Training </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2017/10/04/using-three-js-for-2d-data-visualization.html">Using Three.js for 2D Data Visualization </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5?source=rss----12d1b859d4e4---4">How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with… </a></li> 
-          
-            <li> <a href="https://slack.engineering/rebuilding-slack-com-b124c405c193?source=rss----58820b6d8904---4">Rebuilding slack.com </a></li> 
-          
-            <li> <a href="https://blog.risingstack.com/the-future-of-microservices-monitoring-and-instrumentation/">The Future of Microservices Monitoring &amp; Instrumentation </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/10/service-worker-single-page-application-wordpress-sites/">Implementing A Service Worker For Single-Page App WordPress Sites </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667?source=rss----5e5bef33608a---4">Following Messi with TensorFlow and Object Detection </a></li> 
-          
-            <li> <a href="https://blog.jooq.org/2017/10/11/benchmarking-jdk-string-replace-vs-apache-commons-stringutils-replace/">Benchmarking JDK String.replace() vs Apache Commons StringUtils.replace() </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/designing-the-wayback-machine-loading-animation/">Designing The Wayback Machine Loading Animation </a></li> 
-          
-            <li> <a href="https://blog.sqreen.io/sast-dast-rasp/">SAST, DAST, and RASP: A guide to the new security alphabet soup </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 12 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-12.html</guid>
       </item>
       
   </channel>
