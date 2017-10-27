@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 27 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://code.hootsuite.com/row-stores-vs-column-stores-why-not-use-both/">Row Stores vs. Column Stores: Why not use both? </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot">Lucky, an experimental new web framework by thoughtbot </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/10/serverless-framework-plugin-aws-lambda-javascript.html">How to Write Your Own Serverless Framework Plugin for AWS Lambda using JavaScript </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1927939227531011/open-sourcing-sections-declarative-data-handling-for-litho-lists/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open-sourcing Sections: Declarative data handling for Litho lists </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/design-patterns-in-api-gateways-and-microservices/">Design Patterns in API Gateways and Microservices </a></li> 
+          
+            <li> <a href="https://hackernoon.com/you-dont-understand-the-single-responsibility-principle-abfdd005b137?source=rss----3a8144eabfe3---4">Think you understand the Single Responsibility Principle? </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/10/build-shared-ar-with-twilio-video-arkit-and-data-track.html">Dive Deeper Into ARKit and Twilio Video With DataTracks API </a></li> 
+          
+            <li> <a href="https://www.codementor.io/davidamerland/computer-vision-and-why-it-is-so-difficult-d8s12hhgg">Computer Vision and Why It is so Difficult </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/machine-learning-algorithms-183cc73197c?source=rss----cfc9f21a543a---4">Machine Learning Algorithms: Which One to Choose for Your Problem </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/">Why we used Pony to write Wallaroo </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 27 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 26 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -58,7 +90,7 @@
           
             <li> <a href="https://blog.cloudflare.com/how-to-monkey-patch-the-linux-kernel/">How to Monkey-Patch the Linux Kernel </a></li> 
           
-            <li> <a href="https://open.nytimes.com/https-open-nytimes-com-improving-our-video-experience-part-one-our-on-demand-video-platform-8554968dbd66?source=rss----51e1d1745b32---4">Improving Our Video Experience </a></li> 
+            <li> <a href="https://open.nytimes.com/improving-our-video-experience-part-one-our-on-demand-video-platform-cf818e03353d">Improving Our Video Experience </a></li> 
           
             <li> <a href="https://engineering.linkedin.com/blog/2017/10/building-smart-replies-for-member-messages">Building Smart Replies for Member Messages </a></li> 
           
@@ -283,38 +315,6 @@ API </a></li>
         <pubDate>Mon, 16 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 13 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.showmax.com/2017/10/convnet-architectures/">State of Deep Learning in Computer Vision </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/10/12/new-api-pattern/">The NEW API Pattern </a></li> 
-          
-            <li> <a href="https://mesosphere.com/blog/containers-distributed-systems/">Containers and Distributed Systems: Where They Came From and Where They’re Going </a></li> 
-          
-            <li> <a href="https://blog.docker.com/2017/10/least-privilege-container-orchestration/">Least Privilege Container Orchestration </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/">Mixed-Precision Training of Deep Neural Networks </a></li> 
-          
-            <li> <a href="https://eng.datafox.com/mongoose/2017/02/22/what-we-wish-we-had-known-about-mongoose/">What We Wish We Had Known About Mongoose </a></li> 
-          
-            <li> <a href="http://engineering.wayfair.com/2017/10/building-a-living-3d-rendering-platform/">Building a Living 3D Rendering Platform </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/10/streaming-data-pipelines-with-brooklin">Streaming Data Pipelines with Brooklin </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f?source=rss----3650599ae4e2---4">Keeping the Daggers Sharp ⚔️ </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html">TensorFlow Lattice: Flexibility Empowered by Prior Knowledge </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 13 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-13.html</guid>
       </item>
       
   </channel>
