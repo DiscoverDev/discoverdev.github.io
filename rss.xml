@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 30 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/brief-history-of-linux">A Brief History of Linux </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/10/http2-issues.html">Discovering Issues in HTTP/2 via Chaos Testing </a></li> 
+          
+            <li> <a href="https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff?source=rss----3a8144eabfe3---4">Explain Like I’m 5: Zero Knowledge Proof (Halloween Edition) </a></li> 
+          
+            <li> <a href="https://www.toptal.com/algorithms/computability-theory-complexity">An Introduction to Computability Theory and Complexity </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/leveraging-kafka-streams-to-reduce-db-hits/">Leveraging Kafka Streams to reduce DB Hits </a></li> 
+          
+            <li> <a href="https://blog.buildo.io/humming-with-the-bot-254808879644?source=rss----5b535635f5fa---4">Humming with the bot </a></li> 
+          
+            <li> <a href="https://hackernoon.com/training-an-architectural-classifier-5f1b4f512368?source=rss----3a8144eabfe3---4">Training an Architectural Classifier </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 30 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 27 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +309,6 @@ API </a></li>
         <pubDate>Tue, 17 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 16 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.codementor.io/schumachertony90/scaling-phantomjs-taking-thousands-of-full-page-screenshots-every-day-csvl1j6ur">Scaling PhantomJS: Taking Thousands of Full Page Screenshots Every Day </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228?source=rss----2615bd06b42e---4">Developer Experience Lessons Operating a Serverless-like Platform At Netflix — Part II </a></li> 
-          
-            <li> <a href="https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/">Transit and Peering: How your requests reach GitHub </a></li> 
-          
-            <li> <a href="http://blog.atom.io/2017/10/12/atoms-new-buffer-implementation.html">Atom’s new concurrency-friendly buffer implementation </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2017/10/11/why-are-webhooks-better-than-serverless-extensibility">Why Are Webhooks Better Than Serverless Extensibility? </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/how-shopify-governs-containers-at-scale-with-grafeas-and-kritis">How Shopify Governs Containers at Scale with Grafeas and Kritis </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/10/remaking-lightbeam-as-a-browser-extension/">Remaking Lightbeam as a browser extension </a></li> 
-          
-            <li> <a href="https://hackernoon.com/airflow-the-missing-context-1a04b3a9475c?source=rss----3a8144eabfe3---4">Airflow: The Missing Context </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2017/10/go-python-go-stream-processing-for-python/">Go Python, Go! Stream Processing for Python </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/bayesian-nonparametrics-9f2ce7074b97?source=rss----cfc9f21a543a---4">Bayesian Nonparametrics </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 16 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-16.html</guid>
       </item>
       
   </channel>
