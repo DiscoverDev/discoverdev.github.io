@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 31 Oct 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.azavea.com/blog/2017/10/30/serving-tiles-geotrellis-lambda-api-gateway/">Serving Tiles with GeoTrellis, Lambda, and API Gateway </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/a-neural-network-primer">A Neural Network Primer </a></li> 
+          
+            <li> <a href="https://hackernoon.com/back-end-performance-those-metrics-we-care-about-ade678e87969?source=rss----3a8144eabfe3---4">Back-end Performance, Those Metrics We Care About </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-sosp-papers-present-real-world-solutions-to-complex-system-challenges/">Facebook SOSP papers present real-world solutions to complex system challenges </a></li> 
+          
+            <li> <a href="https://hackernoon.com/redux-tdd-a-deep-dive-344cd7682a54?source=rss----3a8144eabfe3---4">Redux TDD: a deep dive </a></li> 
+          
+            <li> <a href="https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b?source=rss----58820b6d8904---4">Growing Pains: Migrating Slack’s Desktop App to BrowserView </a></li> 
+          
+            <li> <a href="https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe">Simple React Patterns </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d?source=rss----cfe1120185d3---4">Optimizing Performance with Web Workers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 31 Oct 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-10-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 30 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,32 +311,6 @@ API </a></li>
         <pubDate>Wed, 18 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 17 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://android-developers.googleblog.com/2017/10/effective-phone-number-verification.html">Effective phone number verification </a></li> 
-          
-            <li> <a href="https://githubengineering.com/stretching-spokes/">Stretching Spokes </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-a-blockchain-dapp-using-truffle-react-next-js-and-mobx-part-2-847193b497e4?source=rss----3a8144eabfe3---4">Building a Blockchain DApp using truffle, React, Next.js and MobX (part 2) </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-future-of-microservices-monitoring-instrumentation-b86fc3f61c9c?source=rss----3a8144eabfe3---4">The Future of Microservices Monitoring &amp; Instrumentation </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/pandas-aggregation/">A Brief Tour of Grouping and Aggregating in Pandas </a></li> 
-          
-            <li> <a href="https://blog.docker.com/2017/10/modernizing-java-apps-for-it-pros/">Videos series: Modernizing Java Apps for IT Pros </a></li> 
-          
-            <li> <a href="https://developers.500px.com/aws-elastic-beanstalk-and-private-docker-hub-repos-8ba823813642?source=rss----5d9282daaaa1---4">AWS Elastic Beanstalk and Private Docker Hub Repos </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 17 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-17.html</guid>
       </item>
       
   </channel>
