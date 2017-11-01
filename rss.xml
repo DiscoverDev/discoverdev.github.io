@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 01 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/visual-reasoning-and-dialog-towards-natural-language-conversations-about-visual-data/">Visual reasoning and dialog: Towards natural language conversations about visual data </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/10/fixing-the-plumbing--how-we-identify-and-stop-slow-latency-leaks">Fixing the Plumbing: How We Identify and Stop Slow Latency Leaks at LinkedIn </a></li> 
+          
+            <li> <a href="http://blogs.windows.com/msedgedev/2017/10/31/optimizations-webassembly-sharedarraybuffer-atomics-edgehtml-16/">Introducing new JavaScript optimizations, WebAssembly, SharedArrayBuffer, and Atomics in EdgeHTML 16 </a></li> 
+          
+            <li> <a href="http://research.baidu.com/deep-speech-3%EF%BC%9Aexploring-neural-transducers-end-end-speech-recognition/">Deep Speech 3：Exploring Neural Transducers for End-to-End Speech Recognition </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/an-overview-of-caching-methods/">An Overview of Caching Methods </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/beat-atari-with-deep-reinforcement-learning-part-2-dqn-improvements-d3563f665a2c?source=rss----5e5bef33608a---4">Beat Atari with Deep Reinforcement Learning! (Part 2: DQN improvements) </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html">Closing the Simulation-to-Reality Gap for Deep Robotic Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/git-delta-amplification-4c55b70e5cf0?source=rss----3a8144eabfe3---4">Git delta amplification </a></li> 
+          
+            <li> <a href="https://www.codementor.io/vuejsdevelopers/critical-css-and-webpack-automatically-minimize-render-blocking-css-aaifvn8vw">Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/10/30/using-state-tables-for-testing/">Using State Tables for Testing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 01 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 31 Oct 2017</title>
         <description><![CDATA[
           <ul>
@@ -279,38 +311,6 @@ API </a></li>
         <pubDate>Thu, 19 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 18 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/horovod/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=horovod">Meet Horovod: Uber&amp;rsquo;s Open Source Distributed Deep Learning Framework for TensorFlow </a></li> 
-          
-            <li> <a href="https://www.codementor.io/masonbrowne/on-building-a-cloud-and-choosing-lisp-because-nobody-told-me-i-couldn-t-cys786ejr">On Building a Cloud, and Choosing Lisp: Because Nobody Told Me I Couldn&#39;t </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/an-overview-of-the-security-ecosystem-in-program/">An Overview of the Security Ecosystem in Programming </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/">Naming Things In CSS Grid Layout </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/dangerous-pickles/">Dangerous Pickles &amp;mdash; Malicious Python Serialization </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/programming-tensor-cores-cuda-9/">Programming Tensor Cores in CUDA 9 </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2017/10/16/buttercms-architecture-a-mission-critical-api-serving-millio.html">ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-monad-writer-for-f-26aa987e4a3a?source=rss----3a8144eabfe3---4">A Monad Writer for F# </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-cache-is-fast-enhancing-our-api-with-redis-bd61d13c3ca8?source=rss----3a8144eabfe3---4">A Cache is Fast: Enhancing our API with Redis </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2017/10/16/big-data-processing-at-spotify-the-road-to-scio-part-1/">Big Data Processing at Spotify: The Road to Scio (Part 1) </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 18 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-18.html</guid>
       </item>
       
   </channel>
