@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 03 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898?source=rss----37dc2a3034f2---4">Improving performance with background data prefetching </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/admin-ui-clarity-of-color/">What Does Clarity of Color Have to do with a Mission-Critical Database? </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/11/02/mysql-vs-mariadb-reality-check/">MySQL vs. MariaDB: Reality Check </a></li> 
+          
+            <li> <a href="https://eng.uber.com/on-call-dashboard/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=on-call-dashboard">Engineering Uber’s On-Call Dashboard </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/json-schemas-role-in-building-and-deploying-your-api/">JSON Schema’s Role in Building and Deploying Your API </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-your-own-instagram-discovery-engine-a-step-by-step-tutorial-49f374455636?source=rss----3a8144eabfe3---4">Building Your Own Instagram Discovery Engine: A Step-By-Step Tutorial </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189?source=rss----cfc9f21a543a---4">Probabilistic Graphical Models Tutorial — Part 1 </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/11/understanding-vary-header/">Understanding The Vary Header </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 03 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 02 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -276,38 +304,6 @@ API </a></li>
         <pubDate>Mon, 23 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 20 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/e2ee-app-backends-286cc94b8a7?source=rss----3a8144eabfe3---4">Building Application Backends with End-to-end Encryption </a></li> 
-          
-            <li> <a href="https://eng.uber.com/nullaway/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nullaway">Engineering NullAway, Uber’s Open Source Tool for Detecting NullPointerExceptions on Android </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open-sourcing RacerD: Fast static race detection at scale </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/the-story-of-css-grid-from-its-creators">The Story of CSS Grid, from Its Creators </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/real-time-object-detection-yolo-cd348527b9b7?source=rss----cfc9f21a543a---4">Improving Real-Time Object Detection with YOLO </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2017/10/how-wallaroo-scales-distributed-state/">How Wallaroo Scales Distributed State </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/how-does-it-work-docker-part-5-get-some-workers-done/">How does it work? Docker! Part 5: Get some work(ers) done! </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077?source=rss----51e1d1745b32---4">Publishing with Apache Kafka at The New York Times </a></li> 
-          
-            <li> <a href="https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-ii">UI Testing at Squarespace: Part II </a></li> 
-          
-            <li> <a href="https://benchling.engineering/building-computed-fields-in-a-biological-database-5cb8774c4a2a?source=rss----3d4aa8fb07ea---4">Building Computed Fields in a Biological Database </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 20 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-20.html</guid>
       </item>
       
   </channel>
