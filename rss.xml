@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 06 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.scylladb.com/2017/11/03/secondary/">Scalable, Distributed Secondary Indexing in Scylla </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/11/parseq--asynchronous-java-made-easier">ParSeq: Asynchronous Java Made Easier </a></li> 
+          
+            <li> <a href="https://hackernoon.com/architecting-a-highly-scalable-golang-api-with-docker-swarm-traefik-875d1871cc1f?source=rss----3a8144eabfe3---4">Architecting a Highly Scalable Golang API with Docker Swarm &amp; Traefik </a></li> 
+          
+            <li> <a href="http://nordicapis.com/introduction-to-api-versioning-best-practices/">Introduction to API Versioning Best Practices </a></li> 
+          
+            <li> <a href="https://engineering.instagram.com/app-modularization-and-module-lazy-loading-at-instagram-and-beyond-46b9daa3fea4?source=rss----37dc2a3034f2---4">App modularization and module lazy loading at Instagram and beyond </a></li> 
+          
+            <li> <a href="http://eng.wealthfront.com/2017/11/03/graceful-degradation-in-spark-streaming-applications/">Graceful Degradation in Spark Streaming Applications </a></li> 
+          
+            <li> <a href="https://eng.uber.com/pyro/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pyro">Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/kubernetes-scheduler/">How to write a custom Kubernetes scheduler using your monitoring metrics </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/11/automl-for-large-scale-image.html">AutoML for large scale image classification and object detection </a></li> 
+          
+            <li> <a href="https://hackernoon.com/web-audio-api-series-1-introduction-d073fca62e1d?source=rss----3a8144eabfe3---4">Web Audio API Series 1 — Introduction </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 06 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 03 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -271,39 +303,6 @@
         <pubDate>Tue, 24 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 23 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-a-python-monorepo-for-fast-reliable-development-be763781f67?source=rss-ef81ef829bcb------2">Building a Python monorepo for fast, reliable development </a></li> 
-          
-            <li> <a href="https://hackernoon.com/traffic-sign-recognition-using-convolutional-neural-network-8a1f90e8fb24?source=rss----3a8144eabfe3---4">Traffic Sign Recognition using Convolutional Neural Network </a></li> 
-          
-            <li> <a href="https://medium.com/content-uneditable/ckeditor-5-a-new-era-for-rich-text-editing-9d5a57766a84?source=rss----217c2715f1c8---4">CKEditor 5: A new era for rich text editing </a></li> 
-          
-            <li> <a href="https://www.toptal.com/database/database-design-bad-practices">Bad Practices in Database Design: Are You Making These Mistakes? </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/anomaly-detection-for-writing-styles-bdeb2279a19b?source=rss----d02e65779d7b---4">Anomaly detection for writing styles </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/departures-building-a-docker-container-based-deployment-platform-at-conde-nast">Departures: Building a Docker Container-Based Deployment Platform at Condé Nast </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/10/sleek-and-fast--speeding-up-your-fat-web-client">Sleek and Fast: Speeding Up your Fat Web Client </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/ranking-websites-real-time-apache-kafkas-streams-api/">Ranking Websites in Real-time with Apache Kafka’s Streams
-API </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/oauth-2-best-practices-for-native-apps/">OAuth 2.0 Best Practices for Native Apps </a></li> 
-          
-            <li> <a href="https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d?source=rss----3a8144eabfe3---4">Microservices are hard — an invaluable guide to microservices. </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 23 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-23.html</guid>
       </item>
       
   </channel>
