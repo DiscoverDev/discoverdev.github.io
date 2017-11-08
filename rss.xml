@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 08 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://distill.pub/2017/feature-visualization">Feature Visualization </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-we-keep-dependencies-fresh-across-45-microservices-1d526e1efce2?source=rss----3a8144eabfe3---4">How we keep dependencies fresh across 45+ microservices </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/11/solid-principles-slack-twilio.html">SOLID Principles in Action: From Slack to Twilio </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/rebuilding-the-segment-leaderboards-infrastructure-part-3-design-of-the-new-system-39fdcf0d5eb4?source=rss----89d4108ce2a3---4">Rebuilding the Segment Leaderboards Infrastructure — Part 3: Design of the New System </a></li> 
+          
+            <li> <a href="https://www.novoda.com/blog/safer-swift/">Safer SWIFT – Moving the security game to the level of programming languages </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/partition-and-conquer">Partition and conquer </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/generative-adversarial-networks-a-deep-learning-architecture-4253b6d12347?source=rss----5e5bef33608a---4">Generative Adversarial Networks — A Deep Learning Architecture </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/extract-a-feature-vector-for-any-image-with-pytorch-9717561d1d4c?source=rss----5e5bef33608a---4">Extract a feature vector for any image with PyTorch </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2017/11/attention-mechanism/">State of Deep Learning in Computer Vision </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/">Perfect locality and three epic SystemTap scripts </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 08 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 07 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -271,38 +303,6 @@
         <pubDate>Thu, 26 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 25 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://robots.thoughtbot.com/bridging-elm-and-javascript-with-ports">Bridging Elm and JavaScript with Ports </a></li> 
-          
-            <li> <a href="https://hackernoon.com/react-redux-with-mapbox-78fa3767211e?source=rss----3a8144eabfe3---4">React/Redux with Mapbox </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/parallel-sql-statements/">Executing Parallel Statements to Improve Performance </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/index.html">Zalando&#39;s Smart Product Platform </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-we-started-sharing-components-as-a-team-d863657afaca?source=rss----3a8144eabfe3---4">How We Started Sharing Components as a Team </a></li> 
-          
-            <li> <a href="http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/">Deep Voice 3: 2000-Speaker Neural Text-to-Speech </a></li> 
-          
-            <li> <a href="https://www.thumbtack.com/engineering/unleash-email-power-composable-language-agnostic-responsive-templates/">Unleash Email Power with Composable, Language-agnostic, and Responsive Templates </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-to-monkey-patch-the-linux-kernel/">How to Monkey-Patch the Linux Kernel </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/improving-our-video-experience-part-one-our-on-demand-video-platform-cf818e03353d">Improving Our Video Experience </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/10/building-smart-replies-for-member-messages">Building Smart Replies for Member Messages </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 25 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-25.html</guid>
       </item>
       
   </channel>
