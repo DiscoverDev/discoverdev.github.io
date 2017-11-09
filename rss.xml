@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 09 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/square-corner-blog/so-you-have-some-clusters-now-what-abfd297a575b?source=rss----3650599ae4e2---4">So You Have Some Clusters, Now What? </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/your-options-for-partitioning-in-postgresql-10-explained-6b71a080197c?source=rss----7fa310224bc5---4">Your options for partitioning in PostgreSQL 10, explained </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/arm-takes-wing/">ARM Takes Wing:  Qualcomm vs. Intel CPU comparison </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/taking-ksql-spin-using-real-time-device-data/">Taking KSQL for a Spin Using Real-time Device Data </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/conversational-ui-music-advice-app/">Building an App That Gives Music Advice Through a Conversation </a></li> 
+          
+            <li> <a href="https://stackshare.io/sentry/how-sentry-receives-20-billion-events-per-month-while-preparing-to-handle-twice-that">How Sentry Receives 20 Billion Events Per Month While Preparing to Handle Twice That </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/">Go beyond console.log with the Firefox Debugger </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-the-fork-a-tale-of-many-chains-72ba11ee8987?source=rss----3a8144eabfe3---4">What the fork? A tale of many chains. </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/11/07/restful-api-client-server/">Leveraging the Boundary Between Client and Server in a REST API </a></li> 
+          
+            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2017/Our-Discovery-of-Cramming.html">Our Discovery of Cramming </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 09 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 08 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -271,38 +303,6 @@
         <pubDate>Fri, 27 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 26 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/">High-Performance GPU Computing in the Julia Programming Language </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/rebuilding-the-segment-leaderboards-infrastructure-part-2-first-principles-of-a-new-system-cd2e77c82ba3?source=rss----89d4108ce2a3---4">Rebuilding the Segment Leaderboards Infrastructure — Part 2: First Principles of a New System </a></li> 
-          
-            <li> <a href="http://engineering.wayfair.com/2017/10/why-violin-plots-are-awesome-for-feature-engineering-an-example-using-nlp-to-identify-similar-products/">Why Violin Plots are Awesome for Feature Engineering:  An Example Using NLP to Identify Similar Products </a></li> 
-          
-            <li> <a href="https://hackernoon.com/many-faced-threats-to-serverless-security-519e94d19dba?source=rss----3a8144eabfe3---4">Many-faced threats to Serverless security </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-exactly-is-deep-learning-and-how-does-the-magic-happen-ed53a7b1b98b?source=rss----3a8144eabfe3---4">What exactly is deep learning, and how does the magic happen? </a></li> 
-          
-            <li> <a href="http://blogs.windows.com/msedgedev/2017/10/25/introducing-sonar-site-scanner/">sonar: Linting the web forward </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/">Integrating React in a 6+ Year Old Rails App </a></li> 
-          
-            <li> <a href="https://data-artisans.com/blog/real-time-fraud-detection-ing-bank-apache-flink">StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink® </a></li> 
-          
-            <li> <a href="https://www.toptal.com/front-end/frontend-clean-code-guide">Clean Code: Why HTML/CSS Essentials Still Matter </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/kaggle-fundamentals/">Kaggle Fundamentals: The Titanic Competition </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 26 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-26.html</guid>
       </item>
       
   </channel>
