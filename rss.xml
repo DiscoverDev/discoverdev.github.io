@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 10 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://research.googleblog.com/2017/11/seamless-google-street-view-panoramas.html">Seamless Google Street View Panoramas </a></li> 
+          
+            <li> <a href="https://hackernoon.com/gender-and-race-change-on-your-selfie-with-neural-nets-9a9a1c9c5c16?source=rss----3a8144eabfe3---4">Gender and Race Change on Your Selfie with Neural Nets </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/yarn-search-javascript-packages/">Yarn: From Zero to 700,000 User Searches per Month </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/">How we do Vue: one year later </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/privacy-pass-the-math/">Privacy Pass - “The Math” </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea?source=rss----5e5bef33608a---4">Understand and apply CapsNet on Traffic sign classification </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices">Dashboard Design - Considerations and Best Practices </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/">Creating Secure Password Resets With JSON Web Tokens </a></li> 
+          
+            <li> <a href="https://drivy.engineering/data-quality/">Data quality checkers </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/reliability-under-abnormal-conditions">Reliability under abnormal conditions — Part One </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 10 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 09 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -271,38 +303,6 @@
         <pubDate>Mon, 30 Oct 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-10-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 27 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://code.hootsuite.com/row-stores-vs-column-stores-why-not-use-both/">Row Stores vs. Column Stores: Why not use both? </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot">Lucky, an experimental new web framework by thoughtbot </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/10/serverless-framework-plugin-aws-lambda-javascript.html">How to Write Your Own Serverless Framework Plugin for AWS Lambda using JavaScript </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1927939227531011/open-sourcing-sections-declarative-data-handling-for-litho-lists/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open-sourcing Sections: Declarative data handling for Litho lists </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/design-patterns-in-api-gateways-and-microservices/">Design Patterns in API Gateways and Microservices </a></li> 
-          
-            <li> <a href="https://hackernoon.com/you-dont-understand-the-single-responsibility-principle-abfdd005b137?source=rss----3a8144eabfe3---4">Think you understand the Single Responsibility Principle? </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/10/build-shared-ar-with-twilio-video-arkit-and-data-track.html">Dive Deeper Into ARKit and Twilio Video With DataTracks API </a></li> 
-          
-            <li> <a href="https://www.codementor.io/davidamerland/computer-vision-and-why-it-is-so-difficult-d8s12hhgg">Computer Vision and Why It is so Difficult </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/machine-learning-algorithms-183cc73197c?source=rss----cfc9f21a543a---4">Machine Learning Algorithms: Which One to Choose for Your Problem </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/">Why we used Pony to write Wallaroo </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 27 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-27.html</guid>
       </item>
       
   </channel>
