@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 14 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/reliability-under-abnormal-conditions-part-two">Reliability under abnormal conditions — Part Two </a></li> 
+          
+            <li> <a href="http://nordicapis.com/why-cant-i-just-send-jwts-without-oauth/">Why Can’t I Just Send JWTs Without OAuth? </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/human-pose-matching-on-mobile-a-fun-application-using-human-pose-estimation-part-1-intro-93c5cbe3a096?source=rss----5e5bef33608a---4">Human Pose Matching on mobile — a fun application using Human Pose Estimation (Part 1 Intro) </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/thwarting-the-tactics-of-the-equifax-attackers/">Thwarting the Tactics of the Equifax Attackers </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/embracing-metrics-as-new-tests">Embracing metrics as new tests </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-scalable-visual-search-with-machine-learning-dd4ea38b4bfb?source=rss----3a8144eabfe3---4">Building scalable visual search with machine learning </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/go-dont-collect-my-garbage/">Go, don&#39;t collect my garbage </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/foldable-go-d74fb9cf2fc9?source=rss----a88376ea904a---4">Foldable Go </a></li> 
+          
+            <li> <a href="https://hackernoon.com/real-time-editing-is-kind-of-hard-785622043b7b?source=rss----3a8144eabfe3---4">Real Time Editing is Kind of Hard </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/11/resilience-engineering-at-linkedin-with-project-waterbear">Resilience Engineering at LinkedIn with Project Waterbear </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 14 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 13 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,34 +314,6 @@ KSQL </a></li>
         <pubDate>Wed, 01 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 31 Oct 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.azavea.com/blog/2017/10/30/serving-tiles-geotrellis-lambda-api-gateway/">Serving Tiles with GeoTrellis, Lambda, and API Gateway </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/a-neural-network-primer">A Neural Network Primer </a></li> 
-          
-            <li> <a href="https://hackernoon.com/back-end-performance-those-metrics-we-care-about-ade678e87969?source=rss----3a8144eabfe3---4">Back-end Performance, Those Metrics We Care About </a></li> 
-          
-            <li> <a href="https://research.fb.com/facebook-sosp-papers-present-real-world-solutions-to-complex-system-challenges/">Facebook SOSP papers present real-world solutions to complex system challenges </a></li> 
-          
-            <li> <a href="https://hackernoon.com/redux-tdd-a-deep-dive-344cd7682a54?source=rss----3a8144eabfe3---4">Redux TDD: a deep dive </a></li> 
-          
-            <li> <a href="https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b?source=rss----58820b6d8904---4">Growing Pains: Migrating Slack’s Desktop App to BrowserView </a></li> 
-          
-            <li> <a href="https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe">Simple React Patterns </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d?source=rss----cfe1120185d3---4">Optimizing Performance with Web Workers </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 31 Oct 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-10-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-10-31.html</guid>
       </item>
       
   </channel>
