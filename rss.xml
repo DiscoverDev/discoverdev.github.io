@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 15 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://research.googleblog.com/2017/11/on-device-conversational-modeling-with.html">On-Device Conversational Modeling with TensorFlow Lite </a></li> 
+          
+            <li> <a href="https://hackernoon.com/interactive-charts-with-go-gl-7a30a40162a0?source=rss----3a8144eabfe3---4">Interactive Charts with Go (GL) </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/building-lens-your-look-unifying-text-and-camera-search-1b2f3ef4e393?source=rss-ef81ef829bcb------2">Building Lens your Look: Unifying text and camera search </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/building-pincodes-scannable-codes-for-pinterest-boards-profiles-fa4f43cf8ff0?source=rss-ef81ef829bcb------2">Building Pincodes, scannable codes for Pinterest boards &amp; profiles </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/a-deep-dive-into-influxdb/">A Deep Dive into InfluxDB </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/generative-adversarial-networks">Create Data from Random Noise with Generative Adversarial Networks </a></li> 
+          
+            <li> <a href="https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d?source=rss----cb96a1f03649---4">How Discord Resizes 150 Million Images Every Day with Go and C++ </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 15 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 14 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +308,6 @@ KSQL </a></li>
         <pubDate>Thu, 02 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 01 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://research.fb.com/visual-reasoning-and-dialog-towards-natural-language-conversations-about-visual-data/">Visual reasoning and dialog: Towards natural language conversations about visual data </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/10/fixing-the-plumbing--how-we-identify-and-stop-slow-latency-leaks">Fixing the Plumbing: How We Identify and Stop Slow Latency Leaks at LinkedIn </a></li> 
-          
-            <li> <a href="http://blogs.windows.com/msedgedev/2017/10/31/optimizations-webassembly-sharedarraybuffer-atomics-edgehtml-16/">Introducing new JavaScript optimizations, WebAssembly, SharedArrayBuffer, and Atomics in EdgeHTML 16 </a></li> 
-          
-            <li> <a href="http://research.baidu.com/deep-speech-3%EF%BC%9Aexploring-neural-transducers-end-end-speech-recognition/">Deep Speech 3：Exploring Neural Transducers for End-to-End Speech Recognition </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/an-overview-of-caching-methods/">An Overview of Caching Methods </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/beat-atari-with-deep-reinforcement-learning-part-2-dqn-improvements-d3563f665a2c?source=rss----5e5bef33608a---4">Beat Atari with Deep Reinforcement Learning! (Part 2: DQN improvements) </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html">Closing the Simulation-to-Reality Gap for Deep Robotic Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/git-delta-amplification-4c55b70e5cf0?source=rss----3a8144eabfe3---4">Git delta amplification </a></li> 
-          
-            <li> <a href="https://www.codementor.io/vuejsdevelopers/critical-css-and-webpack-automatically-minimize-render-blocking-css-aaifvn8vw">Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/10/30/using-state-tables-for-testing/">Using State Tables for Testing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 01 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-01.html</guid>
       </item>
       
   </channel>
