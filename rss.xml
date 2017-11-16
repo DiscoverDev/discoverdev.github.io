@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 16 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.scylladb.com/2017/11/15/smf-fastest-rpc/">How to Build the Fastest RPC </a></li> 
+          
+            <li> <a href="https://blog.minio.io/lambda-computing-with-minio-and-kafka-de928897ccdf?source=rss----9183d6601790---4">Lambda computing with Minio and Kafka </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/migrating-angular-1-x-apps-to-react-the-hybrid-way-3267ccf33755?source=rss----905ea2b3d4d1---4">Migrating Angular 1.x apps to React — The Hybrid Way! </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html">SLING: A Natural Language Frame Semantic Parser </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/291641674683314/open-r-open-routing-for-modern-networks/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open/R: Open routing for modern networks </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/quick-guide-to-webpack-bundle-and-code-splitting-with-react-43d1045f1064?source=rss----7f3d96429888---4">Quick guide to Webpack bundle and code splitting with React </a></li> 
+          
+            <li> <a href="https://hackernoon.com/fundamentals-of-system-design-part-3-8da61773a631?source=rss----3a8144eabfe3---4">Fundamentals of System Design — Part 3 </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/the-libraries-and-packages-of-the-code-coverage-ecosystem/">The Libraries and Packages of the Code Coverage Ecosystem </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 16 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 15 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,32 +310,6 @@ KSQL </a></li>
         <pubDate>Fri, 03 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 02 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/content-uneditable/bringing-collaborative-editing-to-any-application-3095767d5920?source=rss----217c2715f1c8---4">Bringing collaborative editing to any application </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7?source=rss----12d1b859d4e4---4">How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/node-js-best-practices/">Node.js Best Practices </a></li> 
-          
-            <li> <a href="https://blog.jooq.org/2017/11/01/squeezing-another-10-speed-increase-out-of-jooq-using-jmc-and-jmh/">Squeezing Another 10% Speed Increase out of jOOQ using JMC and JMH </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/neural-network-learning-internals-error-function-surface-non-convexity-sgd-optimization-c0209d8fdf88?source=rss----5e5bef33608a---4">Neural Network Learning Internals(Error Function Surface, Non-Convexity, SGD Optimization) </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/the-global-heatmap-now-6x-hotter-23fc01d301de?source=rss----89d4108ce2a3---4">The Global Heatmap, Now 6x Hotter </a></li> 
-          
-            <li> <a href="https://airbrake.io/blog/software-testing/security-testing-scaling-with-operation">Is Your Security Scaling Up Along with Your Operation? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 02 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-02.html</guid>
       </item>
       
   </channel>
