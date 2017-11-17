@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 17 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://mesosphere.com/blog/high-performance-edge-load-balancer/">Expose DC/OS Apps to the Outside World with High-Performance Edge Load-Balancing </a></li> 
+          
+            <li> <a href="https://www.codementor.io/koehr/vuejs-reactivity-from-scratch-dwpivg1vf">Vuejs Reactivity From Scratch </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/11/a-super-stable-webvr-user-experience-thanks-to-firefox-quantum/">A super-stable WebVR user experience thanks to Firefox Quantum </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2017/11/chaos-engineering-ratequeue-ha.html">Chaos Engineering at Twilio with Ratequeue HA </a></li> 
+          
+            <li> <a href="http://www.scylladb.com/2017/11/16/hinted-handoff-scylla/">How Hinted Handoff Works in Scylla </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/">Using CSS Grid: Supporting Browsers Without Grid </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca?source=rss----cfc9f21a543a---4">Neural networks for beginners: popular types and applications </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2017/11/non-native-event-driven-windowing-in-wallaroo/">Non-native event-driven windowing in Wallaroo </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/">Speed up your Python using Rust </a></li> 
+          
+            <li> <a href="http://nordicapis.com/the-benefits-of-using-json-api/">The Benefits of Using JSON API </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 17 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 16 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,34 +314,6 @@ KSQL </a></li>
         <pubDate>Mon, 06 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 03 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898?source=rss----37dc2a3034f2---4">Improving performance with background data prefetching </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/admin-ui-clarity-of-color/">What Does Clarity of Color Have to do with a Mission-Critical Database? </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/11/02/mysql-vs-mariadb-reality-check/">MySQL vs. MariaDB: Reality Check </a></li> 
-          
-            <li> <a href="https://eng.uber.com/on-call-dashboard/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=on-call-dashboard">Engineering Uber’s On-Call Dashboard </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/json-schemas-role-in-building-and-deploying-your-api/">JSON Schema’s Role in Building and Deploying Your API </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-your-own-instagram-discovery-engine-a-step-by-step-tutorial-49f374455636?source=rss----3a8144eabfe3---4">Building Your Own Instagram Discovery Engine: A Step-By-Step Tutorial </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189?source=rss----cfc9f21a543a---4">Probabilistic Graphical Models Tutorial — Part 1 </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/11/understanding-vary-header/">Understanding The Vary Header </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 03 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-03.html</guid>
       </item>
       
   </channel>
