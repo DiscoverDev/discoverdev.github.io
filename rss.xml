@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 20 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/maximizing-unified-memory-performance-cuda/">Maximizing Unified Memory Performance in CUDA </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/two-ways-of-looking-at-map-functions">Two ways of looking at map functions </a></li> 
+          
+            <li> <a href="https://hackernoon.com/front-end-microservices-with-web-components-597759313393?source=rss----3a8144eabfe3---4">Front-end microservices with Web Components </a></li> 
+          
+            <li> <a href="http://www.scylladb.com/2017/11/17/7-rules-planning-queries-maximum-performance/">7 Rules for Planning Your Queries for Maximum Performance </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/open-sourcing-ptracer-a-syscall-tracing-library-for-python-b0fe0d91105d?source=rss-ef81ef829bcb------2">Open sourcing ptracer, a syscall-tracing library for Python </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/pragmatic-releasing/">Pragmatic Releasing: Less Worry, More Shipping </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/moving-your-app-to-cloud/">Moving Your App to the Cloud </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/the-new-york-times-now-on-apollo-b9a78a5038c?source=rss----51e1d1745b32---4">The New York Times — Now On Apollo </a></li> 
+          
+            <li> <a href="https://developers.livechatinc.com/blog/livechat-technology-stack/">React + Backbone: Keeping the LiveChat Tech Stack Fresh </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/running-online-services-riot-part-iv">Running Online Services at Riot: Part IV </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 20 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 17 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +314,6 @@ KSQL </a></li>
         <pubDate>Tue, 07 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 06 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.scylladb.com/2017/11/03/secondary/">Scalable, Distributed Secondary Indexing in Scylla </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/11/parseq--asynchronous-java-made-easier">ParSeq: Asynchronous Java Made Easier </a></li> 
-          
-            <li> <a href="https://hackernoon.com/architecting-a-highly-scalable-golang-api-with-docker-swarm-traefik-875d1871cc1f?source=rss----3a8144eabfe3---4">Architecting a Highly Scalable Golang API with Docker Swarm &amp; Traefik </a></li> 
-          
-            <li> <a href="http://nordicapis.com/introduction-to-api-versioning-best-practices/">Introduction to API Versioning Best Practices </a></li> 
-          
-            <li> <a href="https://engineering.instagram.com/app-modularization-and-module-lazy-loading-at-instagram-and-beyond-46b9daa3fea4?source=rss----37dc2a3034f2---4">App modularization and module lazy loading at Instagram and beyond </a></li> 
-          
-            <li> <a href="http://eng.wealthfront.com/2017/11/03/graceful-degradation-in-spark-streaming-applications/">Graceful Degradation in Spark Streaming Applications </a></li> 
-          
-            <li> <a href="https://eng.uber.com/pyro/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pyro">Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/kubernetes-scheduler/">How to write a custom Kubernetes scheduler using your monitoring metrics </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/11/automl-for-large-scale-image.html">AutoML for large scale image classification and object detection </a></li> 
-          
-            <li> <a href="https://hackernoon.com/web-audio-api-series-1-introduction-d073fca62e1d?source=rss----3a8144eabfe3---4">Web Audio API Series 1 — Introduction </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 06 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-06.html</guid>
       </item>
       
   </channel>
