@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 22 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/how-we-monitor-serverless-apps-with-hundreds-of-functions-d0f1fa938d1e?source=rss----3a8144eabfe3---4">How we monitor Serverless apps with hundreds of functions </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79?source=rss----12d1b859d4e4---4">How JavaScript works: A comparison with WebAssembly + why in certain cases it’s better to use it… </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/diy-node-apm/">Monitoring the performance of a Node.js web application </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/ok-google-how-do-you-run-deep-learning-inference-on-android-using-tensorflow-c39fd00c427b?source=rss----d02e65779d7b---4">“Ok, Google — How do you run Deep Learning Inference on Android Using TensorFlow?” </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/improving-ruby-performance-with-rust/">Improving Ruby Performance with Rust </a></li> 
+          
+            <li> <a href="http://alistapart.com/article/faux-grid-tracks">Faux Grid Tracks </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/gans-for-simulation-representation-and-inference-d215c251ed12?source=rss----5e5bef33608a---4">GANs for Simulation, Representation and Inference </a></li> 
+          
+            <li> <a href="https://drivy.engineering/sending-mass-emails/">Sending an e-mail to millions of users </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/why-event-driven/index.html">Why Event Driven? </a></li> 
+          
+            <li> <a href="https://www.hostinger.com/blog/moving-towards-full-stack-automation/">Moving Towards Full Stack Automation </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 22 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 21 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +314,6 @@ KSQL </a></li>
         <pubDate>Thu, 09 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 08 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://distill.pub/2017/feature-visualization">Feature Visualization </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-we-keep-dependencies-fresh-across-45-microservices-1d526e1efce2?source=rss----3a8144eabfe3---4">How we keep dependencies fresh across 45+ microservices </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/11/solid-principles-slack-twilio.html">SOLID Principles in Action: From Slack to Twilio </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/rebuilding-the-segment-leaderboards-infrastructure-part-3-design-of-the-new-system-39fdcf0d5eb4?source=rss----89d4108ce2a3---4">Rebuilding the Segment Leaderboards Infrastructure — Part 3: Design of the New System </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/safer-swift/">Safer SWIFT – Moving the security game to the level of programming languages </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/partition-and-conquer">Partition and conquer </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/generative-adversarial-networks-a-deep-learning-architecture-4253b6d12347?source=rss----5e5bef33608a---4">Generative Adversarial Networks — A Deep Learning Architecture </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/extract-a-feature-vector-for-any-image-with-pytorch-9717561d1d4c?source=rss----5e5bef33608a---4">Extract a feature vector for any image with PyTorch </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2017/11/attention-mechanism/">State of Deep Learning in Computer Vision </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts/">Perfect locality and three epic SystemTap scripts </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 08 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-08.html</guid>
       </item>
       
   </channel>
