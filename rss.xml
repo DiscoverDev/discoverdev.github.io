@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 23 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://becominghuman.ai/backprop-and-systolic-arrays-24e925d2050?source=rss----5e5bef33608a---4">Backprop and systolic arrays. </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/node-js-native-modules-with-rust/">Writing fast and safe native Node.js modules with Rust </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-high-availability-setup-with-heartbeat-and-floating-ips-on-ubuntu-16-04">How To Create a High Availability Setup with Heartbeat and Floating IPs on Ubuntu 16.04 </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/11/21/hexagonal-architecture/">Hexagonal Architecture in Action </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/malware-detection-neural-networks/">Malware Detection in Executables Using Neural Networks </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/securing-webtasks-part-2-using-middleware/">Securing Webtasks Part 2: Using Middleware </a></li> 
+          
+            <li> <a href="http://www.scylladb.com/2017/11/21/snapfish-journey-scylla/">Snapfish’s Journey Towards Scylla </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/11/understanding-medical-conversations.html">Understanding Medical Conversations </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/11/14/common-mongodb-topologies/">Common MongoDB Topologies </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2017/11/09/mysql-linux-context-switches/">MySQL and Linux Context Switches </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 23 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 22 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +314,6 @@ KSQL </a></li>
         <pubDate>Fri, 10 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 09 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/square-corner-blog/so-you-have-some-clusters-now-what-abfd297a575b?source=rss----3650599ae4e2---4">So You Have Some Clusters, Now What? </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/your-options-for-partitioning-in-postgresql-10-explained-6b71a080197c?source=rss----7fa310224bc5---4">Your options for partitioning in PostgreSQL 10, explained </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/arm-takes-wing/">ARM Takes Wing:  Qualcomm vs. Intel CPU comparison </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/taking-ksql-spin-using-real-time-device-data/">Taking KSQL for a Spin Using Real-time Device Data </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/conversational-ui-music-advice-app/">Building an App That Gives Music Advice Through a Conversation </a></li> 
-          
-            <li> <a href="https://stackshare.io/sentry/how-sentry-receives-20-billion-events-per-month-while-preparing-to-handle-twice-that">How Sentry Receives 20 Billion Events Per Month While Preparing to Handle Twice That </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/">Go beyond console.log with the Firefox Debugger </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-the-fork-a-tale-of-many-chains-72ba11ee8987?source=rss----3a8144eabfe3---4">What the fork? A tale of many chains. </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/11/07/restful-api-client-server/">Leveraging the Boundary Between Client and Server in a REST API </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2017/Our-Discovery-of-Cramming.html">Our Discovery of Cramming </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 09 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-09.html</guid>
       </item>
       
   </channel>
