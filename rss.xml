@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 24 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://mesosphere.com/blog/machine-talk-data-in-real-time/">[Episode 02] Machine Talk: Data in Real-Time </a></li> 
+          
+            <li> <a href="https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6?source=rss----c98dcd6fa33c---4">How to greatly improve your React app performance </a></li> 
+          
+            <li> <a href="https://hackernoon.com/solid-principles-made-easy-67b1246bcdf?source=rss----3a8144eabfe3---4">SOLID Principles made easy </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1?source=rss----cfc9f21a543a---4">Probabilistic Graphical Models Tutorial — Part 2 </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/real-time-ranking-kafka/index.html">Real-time Ranking with Apache Kafka’s Streams API </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/11/incremental-data-capture-for-oracle-databases-at-linkedin--then-">Incremental Data Capture for Oracle Databases at LinkedIn: Then and Now </a></li> 
+          
+            <li> <a href="https://mesosphere.com/blog/hpe-stack-podcast-airbnb-machine-learning-future-travel/">[Episode 01] Airbnb, Machine Learning &amp; the Future of Travel </a></li> 
+          
+            <li> <a href="https://hackernoon.com/chaos-testing-for-docker-containers-bc6e9d66645?source=rss----3a8144eabfe3---4">Chaos Testing for Docker Containers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 24 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 23 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +310,6 @@ KSQL </a></li>
         <pubDate>Mon, 13 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 10 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://research.googleblog.com/2017/11/seamless-google-street-view-panoramas.html">Seamless Google Street View Panoramas </a></li> 
-          
-            <li> <a href="https://hackernoon.com/gender-and-race-change-on-your-selfie-with-neural-nets-9a9a1c9c5c16?source=rss----3a8144eabfe3---4">Gender and Race Change on Your Selfie with Neural Nets </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/yarn-search-javascript-packages/">Yarn: From Zero to 700,000 User Searches per Month </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/">How we do Vue: one year later </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/privacy-pass-the-math/">Privacy Pass - “The Math” </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea?source=rss----5e5bef33608a---4">Understand and apply CapsNet on Traffic sign classification </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices">Dashboard Design - Considerations and Best Practices </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/">Creating Secure Password Resets With JSON Web Tokens </a></li> 
-          
-            <li> <a href="https://drivy.engineering/data-quality/">Data quality checkers </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/reliability-under-abnormal-conditions">Reliability under abnormal conditions — Part One </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 10 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-10.html</guid>
       </item>
       
   </channel>
