@@ -6,6 +6,39 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 27 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://aws.amazon.com/blogs/aws/launch-presenting-amazon-sumerian/">Presenting Amazon Sumerian: An easy way to create VR, AR, and 3D experiences </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/deep-learning-in-courier-thoughts-tips-and-whatnot-ce91141348e9?source=rss----5e5bef33608a---4">Deep Learning in Courier: Thoughts, Tips And Whatnot </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/representation-learning-and-language-63bfa4f91f1f?source=rss----5e5bef33608a---4">Representation learning and language </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/starting-with-react-native-at-grofers-a-guide-to-using-react-native-components-inside-native-bbdd6a3470d4?source=rss----42df4a1e8725---4">React Native at Grofers: 
+Using React Native components inside native views </a></li> 
+          
+            <li> <a href="https://hackernoon.com/docker-as-build-environment-50d6797e2e7a?source=rss----3a8144eabfe3---4">Docker as Build Environment </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2017/11/grapql-in-browser/">Implementing GraphQL API In The Browser </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/event-stream-analytics-at-walmart-with-druid-dcf1a37ceda7?source=rss----905ea2b3d4d1---4">Event Stream Analytics at Walmart with Druid </a></li> 
+          
+            <li> <a href="https://hackernoon.com/webhook-for-you-and-me-54b83f5e31d0?source=rss----3a8144eabfe3---4">Webhook for you and me </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-new-ddos-landscape/">The New DDoS Landscape </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/better-security-design">Better security by design </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 27 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 24 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -277,39 +310,6 @@
         <pubDate>Tue, 14 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 13 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://open.nytimes.com/improving-our-video-experience-part-two-our-live-streaming-platform-68d27104e844?source=rss----51e1d1745b32---4">Improving Our Video Experience </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/11/fused-video-stabilization-on-pixel-2.html">Fused Video Stabilization on the Pixel 2 and Pixel 2 XL </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-build-your-own-reactivity-system-fc48863a1b7c?source=rss----3a8144eabfe3---4">How to Build Your Own Reactivity System </a></li> 
-          
-            <li> <a href="https://eng.uber.com/machine-learning/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=machine-learning">Engineering More Reliable Transportation with Machine Learning and AI at Uber </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/11/10/gdb-python-api/">The GDB Python API </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/">Building a Microservices Ecosystem with Kafka Streams and
-KSQL </a></li> 
-          
-            <li> <a href="https://medium.com/studioarmix/learn-restful-api-design-ideals-c5ec915a430f?source=rss----a40c8a627e48---4">RESTful API Design Tips from Experience </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/11/dali-views--functions-as-a-service-for-big-data">Dali Views: Functions as a Service for Big Data </a></li> 
-          
-            <li> <a href="https://hackernoon.com/create-a-twitter-politician-bot-with-markov-chains-node-js-and-stdlib-14df8cc1c68a?source=rss----3a8144eabfe3---4">Create a Twitter Politician Bot with Markov Chains, Node.js and StdLib </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1894440204217410/rethinking-android-app-compilation-with-buck/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Rethinking Android app compilation with Buck </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 13 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-13.html</guid>
       </item>
       
   </channel>
