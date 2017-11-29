@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 29 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/">Box Graph: how we built a spontaneous social network </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/evolution-security-riot">The Evolution of Security at Riot </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/rebuilding-the-segment-leaderboards-infrastructure-part-4-accessory-systems-5e98dc9a3d78?source=rss----89d4108ce2a3---4">Rebuilding the Segment Leaderboards Infrastructure: Part 4: Accessory Systems </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/entity2vec-dad368c5b830?source=rss----d02e65779d7b---4">Transform anything into a vector </a></li> 
+          
+            <li> <a href="https://hackernoon.com/full-stack-smart-contract-development-fccdfe5176ce?source=rss----3a8144eabfe3---4">Full-stack smart contract development </a></li> 
+          
+            <li> <a href="http://alistapart.com/article/the-best-request-is-no-request-revisited">The Best Request Is No Request, Revisited </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/landing-page-designers/effective-landing-page-design">How to Design an Effective Landing Page </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/11/27/redux-model-in-c-cedux/">Cedux: Experimenting with the Redux Model in C </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2017/11/breaking-down-the-monolith-with-aws-step-functions.html">Breaking down the monolith with AWS Step Functions </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/graceful-switching-of-worker-processes">Graceful Switching of Worker Processes </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 29 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 28 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -280,32 +312,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Thu, 16 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 15 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://research.googleblog.com/2017/11/on-device-conversational-modeling-with.html">On-Device Conversational Modeling with TensorFlow Lite </a></li> 
-          
-            <li> <a href="https://hackernoon.com/interactive-charts-with-go-gl-7a30a40162a0?source=rss----3a8144eabfe3---4">Interactive Charts with Go (GL) </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-lens-your-look-unifying-text-and-camera-search-1b2f3ef4e393?source=rss-ef81ef829bcb------2">Building Lens your Look: Unifying text and camera search </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-pincodes-scannable-codes-for-pinterest-boards-profiles-fa4f43cf8ff0?source=rss-ef81ef829bcb------2">Building Pincodes, scannable codes for Pinterest boards &amp; profiles </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/a-deep-dive-into-influxdb/">A Deep Dive into InfluxDB </a></li> 
-          
-            <li> <a href="https://www.toptal.com/machine-learning/generative-adversarial-networks">Create Data from Random Noise with Generative Adversarial Networks </a></li> 
-          
-            <li> <a href="https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d?source=rss----cb96a1f03649---4">How Discord Resizes 150 Million Images Every Day with Go and C++ </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 15 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-15.html</guid>
       </item>
       
   </channel>
