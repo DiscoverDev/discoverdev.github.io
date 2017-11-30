@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 30 Nov 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://deezer.io/matching-albums-through-cover-art-fingerprinting-bdca82cd17dc?source=rss----2ab7e077175a---4">Matching Albums through Cover Art Fingerprinting </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2017/11/a-journey-to-10-word-error-rate/">A Journey to &amp;lt;10% Word Error Rate </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial">Getting Started with TensorFlow: A Machine Learning Tutorial </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/luigi-jupyter-notebooks/">Building Data Science Pipelines with Luigi and Jupyter Notebooks </a></li> 
+          
+            <li> <a href="https://blog.yld.io/2017/11/29/microservices-in-the-microcosm/">Microservices in the microcosm </a></li> 
+          
+            <li> <a href="http://www.vertabelo.com/blog/technical-articles/an-introduction-to-mysql-indexes">An Introduction to MySQL Indexes </a></li> 
+          
+            <li> <a href="https://blog.box.com/blog/how-we-built-differences-box-notes/">How we built Differences in Box Notes </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-incredible-convergence-of-deep-learning-and-genomics-2f86838ecb7d?source=rss----3a8144eabfe3---4">The Incredible Convergence Of Deep Learning And Genomics </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-monolithic-a">Improving Resiliency and Stability of a Large-scale Monolithic API Service </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html">Interpreting Deep Neural Networks with SVCCA </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 30 Nov 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-11-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 29 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -284,34 +316,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Fri, 17 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 16 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.scylladb.com/2017/11/15/smf-fastest-rpc/">How to Build the Fastest RPC </a></li> 
-          
-            <li> <a href="https://blog.minio.io/lambda-computing-with-minio-and-kafka-de928897ccdf?source=rss----9183d6601790---4">Lambda computing with Minio and Kafka </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/migrating-angular-1-x-apps-to-react-the-hybrid-way-3267ccf33755?source=rss----905ea2b3d4d1---4">Migrating Angular 1.x apps to React — The Hybrid Way! </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html">SLING: A Natural Language Frame Semantic Parser </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/291641674683314/open-r-open-routing-for-modern-networks/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open/R: Open routing for modern networks </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/quick-guide-to-webpack-bundle-and-code-splitting-with-react-43d1045f1064?source=rss----7f3d96429888---4">Quick guide to Webpack bundle and code splitting with React </a></li> 
-          
-            <li> <a href="https://hackernoon.com/fundamentals-of-system-design-part-3-8da61773a631?source=rss----3a8144eabfe3---4">Fundamentals of System Design — Part 3 </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/the-libraries-and-packages-of-the-code-coverage-ecosystem/">The Libraries and Packages of the Code Coverage Ecosystem </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 16 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-16.html</guid>
       </item>
       
   </channel>
