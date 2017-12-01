@@ -6,6 +6,39 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 01 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://codeascraft.com/2017/11/30/how-etsy-caches/">How Etsy caches: hashing, Ketama, and cache smearing </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/erlang-garbage-collector.html">Erlang Garbage Collector </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2017/11/ddos-attack-detection-with-wallaroo-a-real-time-time-series-analysis-example/">DDoS Attack Detection with Wallaroo: A Real-time Time Series Analysis Example </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/running-kafka-streams-applications-aws/index.html">Running Kafka Streams applications in AWS </a></li> 
+          
+            <li> <a href="http://engineering.skybettingandgaming.com/2017/11/30/exploring-our-serverless-architecture/">An Exploration of Our Serverless Architecture </a></li> 
+          
+            <li> <a href="http://nordicapis.com/using-a-schema-first-design-as-your-single-source-of-truth/">Using A Schema-First Design As Your Single Source of Truth </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/sass-inheritance-removal/">Why we&#39;ve removed Inheritance/Extend from SASS &amp; you
+should do the same! </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-automate-the-scaling-of-your-web-application-on-digitalocean-1604">How To Automate the Scaling of Your Web Application on DigitalOcean Ubuntu 16.04 Droplets </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55?source=rss----2615bd06b42e---4">Using Interleaving in Online Experiments to Accelerate Algorithm Innovation at Netflix </a></li> 
+          
+            <li> <a href="https://fly.io/articles/how-rsa-works-tls-foundations/">How RSA Works: TLS Foundations </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 01 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 30 Nov 2017</title>
         <description><![CDATA[
           <ul>
@@ -284,38 +317,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Mon, 20 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 17 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://mesosphere.com/blog/high-performance-edge-load-balancer/">Expose DC/OS Apps to the Outside World with High-Performance Edge Load-Balancing </a></li> 
-          
-            <li> <a href="https://www.codementor.io/koehr/vuejs-reactivity-from-scratch-dwpivg1vf">Vuejs Reactivity From Scratch </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/11/a-super-stable-webvr-user-experience-thanks-to-firefox-quantum/">A super-stable WebVR user experience thanks to Firefox Quantum </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/11/chaos-engineering-ratequeue-ha.html">Chaos Engineering at Twilio with Ratequeue HA </a></li> 
-          
-            <li> <a href="http://www.scylladb.com/2017/11/16/hinted-handoff-scylla/">How Hinted Handoff Works in Scylla </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/">Using CSS Grid: Supporting Browsers Without Grid </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca?source=rss----cfc9f21a543a---4">Neural networks for beginners: popular types and applications </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2017/11/non-native-event-driven-windowing-in-wallaroo/">Non-native event-driven windowing in Wallaroo </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/">Speed up your Python using Rust </a></li> 
-          
-            <li> <a href="http://nordicapis.com/the-benefits-of-using-json-api/">The Benefits of Using JSON API </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 17 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-17.html</guid>
       </item>
       
   </channel>
