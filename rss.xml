@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 04 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://research.googleblog.com/2017/12/google-at-nips-2017.html">Google at NIPS 2017 </a></li> 
+          
+            <li> <a href="https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d?source=rss----3a8144eabfe3---4">Uncovering the Intuition behind Capsule Networks and Inverse Graphics: Part I </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/machine-learning-wave-files-with-tensorflow-5a990385fb3e?source=rss----5e5bef33608a---4">Machine Learning WAVE Files with TensorFlow </a></li> 
+          
+            <li> <a href="https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154?source=rss----32c64651a75---4">A Pinterest Progressive Web App Performance Case Study </a></li> 
+          
+            <li> <a href="http://tech.wayfair.com/2017/12/recommending-visually-similar-products-using-content-based-features/">Recommending Visually Similar Products Using Content Based Features </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/jet-gpu-powered-fulfillment/">How Jet Built a GPU-Powered Fulfillment Engine with F# and CUDA </a></li> 
+          
+            <li> <a href="http://blog.avenuecode.com/how-to-build-a-recommender-system-in-less-than-1-hour">How to Build A Recommender System In Less Than 1 Hour </a></li> 
+          
+            <li> <a href="https://hackernoon.com/curry-away-in-react-7c4ed110c65a?source=rss----3a8144eabfe3---4">Curry away in React </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-research-at-nips-2017/">Facebook showcases latest research at NIPS 2017 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 04 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 01 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -285,38 +315,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Tue, 21 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 20 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/maximizing-unified-memory-performance-cuda/">Maximizing Unified Memory Performance in CUDA </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/two-ways-of-looking-at-map-functions">Two ways of looking at map functions </a></li> 
-          
-            <li> <a href="https://hackernoon.com/front-end-microservices-with-web-components-597759313393?source=rss----3a8144eabfe3---4">Front-end microservices with Web Components </a></li> 
-          
-            <li> <a href="http://www.scylladb.com/2017/11/17/7-rules-planning-queries-maximum-performance/">7 Rules for Planning Your Queries for Maximum Performance </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/open-sourcing-ptracer-a-syscall-tracing-library-for-python-b0fe0d91105d?source=rss-ef81ef829bcb------2">Open sourcing ptracer, a syscall-tracing library for Python </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/pragmatic-releasing/">Pragmatic Releasing: Less Worry, More Shipping </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/moving-your-app-to-cloud/">Moving Your App to the Cloud </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/the-new-york-times-now-on-apollo-b9a78a5038c?source=rss----51e1d1745b32---4">The New York Times — Now On Apollo </a></li> 
-          
-            <li> <a href="https://developers.livechatinc.com/blog/livechat-technology-stack/">React + Backbone: Keeping the LiveChat Tech Stack Fresh </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/running-online-services-riot-part-iv">Running Online Services at Riot: Part IV </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 20 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-20.html</guid>
       </item>
       
   </channel>
