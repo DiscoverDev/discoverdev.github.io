@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 05 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/transfer-learning-from-multiple-pre-trained-computer-vision-models">Transfer learning from multiple pre-trained computer vision models </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/id2vec/">Source Code Identifier Embeddings </a></li> 
+          
+            <li> <a href="https://distill.pub/2017/aia">Using Artificial Intelligence to Augment Human Intelligence </a></li> 
+          
+            <li> <a href="https://engineering.canva.com/2017/12/04/WebGL-David-Guan/">Alpha Blending and WebGL </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html">DeepVariant: Highly Accurate Genomes With Deep Neural Networks </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/tensorrt-3-faster-tensorflow-inference/">TensorRT 3: Faster TensorFlow Inference and Volta Support </a></li> 
+          
+            <li> <a href="https://www.toptal.com/api-development/graphql-vs-rest-tutorial">GraphQL vs. REST - A GraphQL Tutorial </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2017/12/grid-inspector/">Debugging CSS Grid Layouts With Firefox Grid Inspector </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/understanding-genetic-algorithms-a-use-case-in-organizational-field-2087c30fb61e?source=rss----5e5bef33608a---4">Understanding Genetic Algorithms. A use case in organizational field </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71?source=rss----f5105b08f43a---4">Here’s what people in tech had to say about JavaScript when it debuted in 1995 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 05 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 04 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +315,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Wed, 22 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 21 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/supervised-machine-learning-linear-regression-in-python-541a5d8141ce?source=rss----3a8144eabfe3---4">Supervised Machine Learning — Linear Regression in Python </a></li> 
-          
-            <li> <a href="https://www.elastic.co/blog/machine-learning-anomaly-scoring-elasticsearch-how-it-works">Machine Learning Anomaly Scoring and Elasticsearch - How it Works </a></li> 
-          
-            <li> <a href="http://blog.memsql.com/scaling-distributed-joins/">Scaling Distributed Joins </a></li> 
-          
-            <li> <a href="http://engineering.monsanto.com/2017/11/20/serverless-dynamic-pages/">Serverless Dynamic Web Pages in AWS </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/a-sub-optimal-approach-for-predicting-real-estate-prices-by-zillow-ad1bcd8197cd?source=rss----5e5bef33608a---4">A sub-optimal approach for predicting real estate prices by Zillow </a></li> 
-          
-            <li> <a href="https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1?source=rss----c5ef8826f270---4">Namespacing Actions for Redux </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/11/comparing-browser-page-load-time-an-introduction-to-methodology/">Comparing Browser Page Load Time: An Introduction to Methodology </a></li> 
-          
-            <li> <a href="http://engineering.tripadvisor.com/improving-tripadvisor-photo-selection-deep-learning/">Improving TripAdvisor Photo Selection With Deep Learning </a></li> 
-          
-            <li> <a href="https://www.toptal.com/react/tdd-react-unit-testing-enzyme-jest">Test-driven React.js Development: React.js Unit Testing with Enzyme and Jest </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/transactions-apache-kafka/">Transactions in Apache Kafka </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 21 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-21.html</guid>
       </item>
       
   </channel>
