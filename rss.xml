@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 06 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/webpack-a-gentle-introduction/">Webpack: A Gentle Introduction to the Module Bundler </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2017/12/05/hexagonal-architecture-natural-fit-apache-camel/">Hexagonal Architecture  as a Natural fit for Apache Camel </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/">CUTLASS: Fast Linear Algebra in CUDA C++ </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/follow-the-workload/">Using “Follow-the-Workload” to Beat the Latency-Survivability Tradeoff in CockroachDB </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/12/introducing-new-foveation-pipeline-for.html">Introducing a New Foveation Pipeline for Virtual/Mixed Reality </a></li> 
+          
+            <li> <a href="https://eng.uber.com/denial-by-dns/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=denial-by-dns">Denial By DNS: Uber’s Open Source Tool for Preventing Resource Exhaustion by DNS Outages </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/word-embeddings-with-gensim-68e6322afdca?source=rss----5e5bef33608a---4">Word Embeddings with Gensim </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4?source=rss----53c7c27702d5---4">Recent web performance fixes on Airbnb listing pages </a></li> 
+          
+            <li> <a href="https://blog.buildo.io/the-trees-behind-your-tools-63b01daa58f?source=rss----5b535635f5fa---4">The trees behind your tools </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/evil-front-part-1">Evil Front Part 1: Modern Front-end in Rails </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 06 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 05 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +315,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Thu, 23 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 22 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/how-we-monitor-serverless-apps-with-hundreds-of-functions-d0f1fa938d1e?source=rss----3a8144eabfe3---4">How we monitor Serverless apps with hundreds of functions </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79?source=rss----12d1b859d4e4---4">How JavaScript works: A comparison with WebAssembly + why in certain cases it’s better to use it… </a></li> 
-          
-            <li> <a href="https://blog.sqreen.io/diy-node-apm/">Monitoring the performance of a Node.js web application </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/ok-google-how-do-you-run-deep-learning-inference-on-android-using-tensorflow-c39fd00c427b?source=rss----d02e65779d7b---4">“Ok, Google — How do you run Deep Learning Inference on Android Using TensorFlow?” </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/improving-ruby-performance-with-rust/">Improving Ruby Performance with Rust </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/faux-grid-tracks">Faux Grid Tracks </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/gans-for-simulation-representation-and-inference-d215c251ed12?source=rss----5e5bef33608a---4">GANs for Simulation, Representation and Inference </a></li> 
-          
-            <li> <a href="https://drivy.engineering/sending-mass-emails/">Sending an e-mail to millions of users </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/why-event-driven/index.html">Why Event Driven? </a></li> 
-          
-            <li> <a href="https://www.hostinger.com/blog/moving-towards-full-stack-automation/">Moving Towards Full Stack Automation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 22 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-22.html</guid>
       </item>
       
   </channel>
