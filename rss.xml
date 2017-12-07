@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 07 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.dataquest.io/blog/regular-expressions-data-scientists/">Regular Expressions for Data Scientists </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin">Couchbase Ecosystem at LinkedIn </a></li> 
+          
+            <li> <a href="https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=rss----3a8144eabfe3---4">Announcing Parcel: A blazing fast, zero configuration web application bundler </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/master-git-rebase/">Master the Rebase (and the Other Way Around) </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569?source=rss----51e1d1745b32---4">Play by Play: Moving the NYT Games Platform to GCP With Zero Downtime </a></li> 
+          
+            <li> <a href="https://mixmax.com/blog/database-backed-job">Database-backed job processing </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/mocking-api-calls-in-python/">Mocking API calls in Python </a></li> 
+          
+            <li> <a href="https://hackernoon.com/tutorial-faster-ai-development-with-serverless-684f3701b004?source=rss----3a8144eabfe3---4">Tutorial: Faster AI Development with Serverless </a></li> 
+          
+            <li> <a href="https://hackernoon.com/from-on-prem-to-aws-to-ecs-and-beyond-the-past-5-years-at-arthrex-digital-media-f68bc2bc534e?source=rss----3a8144eabfe3---4">From on-prem to AWS to ECS and beyond. The past 5 years at Arthrex Digital Media. </a></li> 
+          
+            <li> <a href="https://slack.engineering/scaling-slacks-job-queue-687222e9d100?source=rss----58820b6d8904---4">Scaling Slack’s Job Queue </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 07 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 06 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +315,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Fri, 24 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 23 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://becominghuman.ai/backprop-and-systolic-arrays-24e925d2050?source=rss----5e5bef33608a---4">Backprop and systolic arrays. </a></li> 
-          
-            <li> <a href="https://blog.risingstack.com/node-js-native-modules-with-rust/">Writing fast and safe native Node.js modules with Rust </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-high-availability-setup-with-heartbeat-and-floating-ips-on-ubuntu-16-04">How To Create a High Availability Setup with Heartbeat and Floating IPs on Ubuntu 16.04 </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/11/21/hexagonal-architecture/">Hexagonal Architecture in Action </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/malware-detection-neural-networks/">Malware Detection in Executables Using Neural Networks </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/securing-webtasks-part-2-using-middleware/">Securing Webtasks Part 2: Using Middleware </a></li> 
-          
-            <li> <a href="http://www.scylladb.com/2017/11/21/snapfish-journey-scylla/">Snapfish’s Journey Towards Scylla </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/11/understanding-medical-conversations.html">Understanding Medical Conversations </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/11/14/common-mongodb-topologies/">Common MongoDB Topologies </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/11/09/mysql-linux-context-switches/">MySQL and Linux Context Switches </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 23 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-23.html</guid>
       </item>
       
   </channel>
