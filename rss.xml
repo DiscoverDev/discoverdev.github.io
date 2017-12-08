@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 08 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blogs.windows.com/msedgedev/2017/12/07/better-precision-touchpad-experience-ptp-pointer-events/">Building a great touchpad experience for the web with Pointer Events </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience">The Glimmer Binary Experience </a></li> 
+          
+            <li> <a href="http://research.baidu.com/deep-learning-scaling-predictable-empirically/">Deep Learning Scaling is Predictable, Empirically </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/multi-row-dml/">How to Improve IoT Application Performance with Multi-Row DML </a></li> 
+          
+            <li> <a href="https://eng.uber.com/activity-matrix/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=activity-matrix">Gleaning Insights from Uber’s Partner Activity Matrix with Genomic Biclustering and Machine Learning </a></li> 
+          
+            <li> <a href="http://blog.url.com/blog/2017/11/26/testing-kafka-streams-topologies-with-kafka-interceptors/">Testing Kafka Streams topologies with Kafka Interceptors </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2017/12/hadoop-delegation-tokens-explained/">Hadoop Delegation Tokens Explained </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2017/12/stateful-multi-stream-processing-in-python-with-wallaroo/">Stateful Multi-Stream Processing in Python with Wallaroo </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-to-bring-fast-data-access-to-microservice-architecture-with-in-memory-data-grids">How to bring fast data access to microservice architecture with in-memory data grids </a></li> 
+          
+            <li> <a href="https://clevertap.com/blog/clevertap-engineering-behavioral-messaging-at-scale/">CleverTap Engineering – Behavioral Messaging at 100B Scale </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 08 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 07 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -287,34 +319,6 @@ Using React Native components inside native views </a></li>
         <pubDate>Mon, 27 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 24 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://mesosphere.com/blog/machine-talk-data-in-real-time/">[Episode 02] Machine Talk: Data in Real-Time </a></li> 
-          
-            <li> <a href="https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6?source=rss----c98dcd6fa33c---4">How to greatly improve your React app performance </a></li> 
-          
-            <li> <a href="https://hackernoon.com/solid-principles-made-easy-67b1246bcdf?source=rss----3a8144eabfe3---4">SOLID Principles made easy </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1?source=rss----cfc9f21a543a---4">Probabilistic Graphical Models Tutorial — Part 2 </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/real-time-ranking-kafka/index.html">Real-time Ranking with Apache Kafka’s Streams API </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/11/incremental-data-capture-for-oracle-databases-at-linkedin--then-">Incremental Data Capture for Oracle Databases at LinkedIn: Then and Now </a></li> 
-          
-            <li> <a href="https://mesosphere.com/blog/hpe-stack-podcast-airbnb-machine-learning-future-travel/">[Episode 01] Airbnb, Machine Learning &amp; the Future of Travel </a></li> 
-          
-            <li> <a href="https://hackernoon.com/chaos-testing-for-docker-containers-bc6e9d66645?source=rss----3a8144eabfe3---4">Chaos Testing for Docker Containers </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 24 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-24.html</guid>
       </item>
       
   </channel>
