@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 12 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://technology.condenast.com/story/evolving-google-amp-at-conde-nast">Evolving Google AMP at Condé Nast </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/webassembly-an-executable-format-for-the-web/">WebAssembly, an executable format for the web </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html">Netflix: What Happens When You Press Play? </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/agrarian-scale-kubernetes-part-1-7ea703d4de08?source=rss----51e1d1745b32---4">Agrarian-Scale Kubernetes: Part 1 </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2017/12/11/viper-on-ios-at-etsy/">VIPER on iOS at Etsy </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/implementing-japanese-subtitles-on-netflix-c165fbe61989?source=rss----2615bd06b42e---4">Implementing Japanese Subtitles on Netflix </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/handling-user-initiated-actions-in-an-asynchronous-message-based-architecture">Handling user-initiated actions in an asynchronous, message-based architecture </a></li> 
+          
+            <li> <a href="https://mixmax.com/blog/improving-mongo-performance-by-managing-indexes">Improving Mongo performance by managing indexes </a></li> 
+          
+            <li> <a href="https://hackernoon.com/probabilistic-data-structures-bloom-filter-5374112a7832?source=rss----3a8144eabfe3---4">Probabilistic Data structures: Bloom filter </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 12 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 11 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -290,34 +320,6 @@ should do the same! </a></li>
         <pubDate>Wed, 29 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 28 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.thumbtack.com/engineering/scaling-postgresql-load-balancing-healthchecks/">Scaling PostgreSQL: load balancing and healthchecks </a></li> 
-          
-            <li> <a href="https://heap.engineering/analyzing-performance-millions-sql-queries-one-special-snowflake/">Analyzing the Performance of Millions of SQL Queries When Each One is a Special Snowflake </a></li> 
-          
-            <li> <a href="https://distill.pub/2017/ctc">Sequence Modeling with CTC </a></li> 
-          
-            <li> <a href="https://hackernoon.com/unit-testing-redux-connected-components-692fa3c4441c?source=rss----3a8144eabfe3---4">Unit Testing Redux Connected Components </a></li> 
-          
-            <li> <a href="https://research.fb.com/bringing-still-photos-to-life-and-3d-photography-to-your-phone/">Bringing still photos to life and 3D photography to your phone </a></li> 
-          
-            <li> <a href="https://hackernoon.com/transmission-tx-a-flux-alternative-fe0630eed2a3?source=rss----3a8144eabfe3---4">Transmission (TX)— a Flux alternative </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/kubernetes-security-harden-kube-system/">Kubernetes Security: How to harden internal kube-system services </a></li> 
-          
-            <li> <a href="http://blog.mallow-tech.com/2017/11/a-guide-for-making-energy-efficient-apps-i/">A Guide for making Energy Efficient Apps – I </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 28 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-28.html</guid>
       </item>
       
   </channel>
