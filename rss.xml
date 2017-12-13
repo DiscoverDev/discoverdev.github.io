@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 13 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/building-facebooks-platform-for-large-scale-ar-experiences/">Building Facebook’s platform for large-scale AR experiences </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9?source=rss----2615bd06b42e---4">Distributing Content to Open Connect </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/evil-front-part-2">Evil Front Part&amp;nbsp;2: Modern Front-end in Rails </a></li> 
+          
+            <li> <a href="http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/">PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/combatting-phishing-with-dns/">Why Some Phishing Emails Are Mysteriously Disappearing </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/animations-in-vue-js/">Animations in VueJS </a></li> 
+          
+            <li> <a href="https://advancedweb.hu/2017/12/12/chaining/">Demystifying chaining in Javascript </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/user-experience-threejs/">Building User Experiences with Three.js </a></li> 
+          
+            <li> <a href="http://nordicapis.com/securing-medical-iot-devices/">Securing Medical IoT Devices </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/int8-inference-autonomous-vehicles-tensorrt/">Fast INT8 Inference for Autonomous Vehicles with TensorRT 3 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 13 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 12 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +320,6 @@ should do the same! </a></li>
         <pubDate>Thu, 30 Nov 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-11-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 29 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/">Box Graph: how we built a spontaneous social network </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/evolution-security-riot">The Evolution of Security at Riot </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/rebuilding-the-segment-leaderboards-infrastructure-part-4-accessory-systems-5e98dc9a3d78?source=rss----89d4108ce2a3---4">Rebuilding the Segment Leaderboards Infrastructure: Part 4: Accessory Systems </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/entity2vec-dad368c5b830?source=rss----d02e65779d7b---4">Transform anything into a vector </a></li> 
-          
-            <li> <a href="https://hackernoon.com/full-stack-smart-contract-development-fccdfe5176ce?source=rss----3a8144eabfe3---4">Full-stack smart contract development </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/the-best-request-is-no-request-revisited">The Best Request Is No Request, Revisited </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/landing-page-designers/effective-landing-page-design">How to Design an Effective Landing Page </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2017/11/27/redux-model-in-c-cedux/">Cedux: Experimenting with the Redux Model in C </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2017/11/breaking-down-the-monolith-with-aws-step-functions.html">Breaking down the monolith with AWS Step Functions </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/graceful-switching-of-worker-processes">Graceful Switching of Worker Processes </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 29 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-29.html</guid>
       </item>
       
   </channel>
