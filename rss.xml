@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 14 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://intoli.com/blog/saving-images/">Saving Images from a Headless Browser </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-curious-case-of-caching-csrf-tokens/">The Curious Case of Caching CSRF Tokens </a></li> 
+          
+            <li> <a href="https://kickstarter.engineering/oncreate-ing-kickstarters-android-app-90f567846750?source=rss----c5ef8826f270---4">onCreate()-ing Kickstarter’s Android app </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/container-security-terminology/">The Definitive Guide to Container Security Terminology </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/our-top-4-tips-for-massive-data-migrations-565daaa83cfc?source=rss----cfe1120185d3---4">Our Top 4 Tips for Massive Data Migrations </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html">TFGAN: A Lightweight Library for Generative Adversarial Networks </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/geo-spatial-search-on-mobile/">Geo-Spatial Search on Mobile: Quick but Not Dirty </a></li> 
+          
+            <li> <a href="https://aerolab.co/blog/react-nextjs-pwa/">Using React and Next.JS to build a PWA – The Beginner’s Guide </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2017/12/12/gitlab-design-library/">Scaling design: The start of system thinking </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b?source=rss----53c7c27702d5---4">Building Services at Airbnb, Part 1: </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 14 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 13 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +320,6 @@ should do the same! </a></li>
         <pubDate>Fri, 01 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 30 Nov 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://deezer.io/matching-albums-through-cover-art-fingerprinting-bdca82cd17dc?source=rss----2ab7e077175a---4">Matching Albums through Cover Art Fingerprinting </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/11/a-journey-to-10-word-error-rate/">A Journey to &amp;lt;10% Word Error Rate </a></li> 
-          
-            <li> <a href="https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial">Getting Started with TensorFlow: A Machine Learning Tutorial </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/luigi-jupyter-notebooks/">Building Data Science Pipelines with Luigi and Jupyter Notebooks </a></li> 
-          
-            <li> <a href="https://blog.yld.io/2017/11/29/microservices-in-the-microcosm/">Microservices in the microcosm </a></li> 
-          
-            <li> <a href="http://www.vertabelo.com/blog/technical-articles/an-introduction-to-mysql-indexes">An Introduction to MySQL Indexes </a></li> 
-          
-            <li> <a href="https://blog.box.com/blog/how-we-built-differences-box-notes/">How we built Differences in Box Notes </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-incredible-convergence-of-deep-learning-and-genomics-2f86838ecb7d?source=rss----3a8144eabfe3---4">The Incredible Convergence Of Deep Learning And Genomics </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-monolithic-a">Improving Resiliency and Stability of a Large-scale Monolithic API Service </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html">Interpreting Deep Neural Networks with SVCCA </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 30 Nov 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-11-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-11-30.html</guid>
       </item>
       
   </channel>
