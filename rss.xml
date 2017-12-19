@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 19 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://mesosphere.com/blog/uber-distributed-deep-learning/">Uber Drives Distributed Deep Learning Forward </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/exploratory-data-analysis-of-orders-at-grofers-63ccc571719e?source=rss----42df4a1e8725---4">Exploratory Data Analysis of orders on Grofers </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8?source=rss----5e5bef33608a---4">Simple Image Classification using Convolutional Neural Network — Deep Learning in python. </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/blog-post-on-monitoring-an-apache-kafka-deployment-to-end-most-blog-posts">The Blog Post on Monitoring an Apache Kafka Deployment to End Most Blog Posts </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e?source=rss----51e1d1745b32---4">Agrarian-Scale Kubernetes: Part 3 </a></li> 
+          
+            <li> <a href="https://www.thumbtack.com/engineering/seedfinder-infrastructure-improve-sample-balance-online-b-tests/">Seedfinder – Infrastructure to Improve Sample Balance in Online A/B Tests </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/android-accessibility-automation-with-espresso/">Android Accessibility Automation with Espresso </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html">Improving End-to-End Models For Speech Recognition </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/inside-mirai-the-infamous-iot-botnet-a-retrospective-analysis/">Inside the infamous Mirai IoT Botnet: A Retrospective Analysis </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/stopping-fraudsters-by-changing-products-452240f2d2cc?source=rss----25cd379abb8---4">Stopping fraudsters by changing products </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 19 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 18 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -289,38 +321,6 @@
         <pubDate>Wed, 06 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 05 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/transfer-learning-from-multiple-pre-trained-computer-vision-models">Transfer learning from multiple pre-trained computer vision models </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/id2vec/">Source Code Identifier Embeddings </a></li> 
-          
-            <li> <a href="https://distill.pub/2017/aia">Using Artificial Intelligence to Augment Human Intelligence </a></li> 
-          
-            <li> <a href="https://engineering.canva.com/2017/12/04/WebGL-David-Guan/">Alpha Blending and WebGL </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html">DeepVariant: Highly Accurate Genomes With Deep Neural Networks </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/tensorrt-3-faster-tensorflow-inference/">TensorRT 3: Faster TensorFlow Inference and Volta Support </a></li> 
-          
-            <li> <a href="https://www.toptal.com/api-development/graphql-vs-rest-tutorial">GraphQL vs. REST - A GraphQL Tutorial </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/12/grid-inspector/">Debugging CSS Grid Layouts With Firefox Grid Inspector </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/understanding-genetic-algorithms-a-use-case-in-organizational-field-2087c30fb61e?source=rss----5e5bef33608a---4">Understanding Genetic Algorithms. A use case in organizational field </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71?source=rss----f5105b08f43a---4">Here’s what people in tech had to say about JavaScript when it debuted in 1995 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 05 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-05.html</guid>
       </item>
       
   </channel>
