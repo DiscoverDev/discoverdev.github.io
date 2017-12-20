@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 20 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://mesosphere.com/blog/deep-learning-pytorch-gpus/">Deep Learning with PyTorch and GPUs on DC/OS </a></li> 
+          
+            <li> <a href="https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e?source=rss----c98dcd6fa33c---4">How “Controllable” React components maximize reusability </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/static-websites-security/">Security for Static Websites </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/backing-up-kafka-zookeeper/index.html">Surviving Data Loss </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html">Introducing NIMA: Neural Image Assessment </a></li> 
+          
+            <li> <a href="https://blog.moove-it.com/machine-learning-javascript-part-neural-networks/">Machine Learning on JavaScript, Part I: Neural Networks </a></li> 
+          
+            <li> <a href="https://eng.uber.com/deep-neuroevolution/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deep-neuroevolution">Welcoming the Era of Deep Neuroevolution </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/our-journey-to-a-near-perfect-log-pipeline-6ae2f80cf7a0?source=rss----cfe1120185d3---4">Our Journey to a Near Perfect Log Pipeline </a></li> 
+          
+            <li> <a href="https://www.toptal.com/javascript/are-big-front-end-frameworks-bad">Front-end Frameworks: Solutions or Bloated Problems? </a></li> 
+          
+            <li> <a href="https://deezer.io/a-distributed-computation-system-for-deep-learning-experiments-with-docker-compose-and-rabbitmq-5ac4ab344406?source=rss----2ab7e077175a---4">A distributed computation system for deep learning experiments with Docker Compose and RabbitMQ. </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 20 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 19 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -289,38 +321,6 @@
         <pubDate>Thu, 07 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 06 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/webpack-a-gentle-introduction/">Webpack: A Gentle Introduction to the Module Bundler </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/12/05/hexagonal-architecture-natural-fit-apache-camel/">Hexagonal Architecture  as a Natural fit for Apache Camel </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/">CUTLASS: Fast Linear Algebra in CUDA C++ </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/follow-the-workload/">Using “Follow-the-Workload” to Beat the Latency-Survivability Tradeoff in CockroachDB </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/12/introducing-new-foveation-pipeline-for.html">Introducing a New Foveation Pipeline for Virtual/Mixed Reality </a></li> 
-          
-            <li> <a href="https://eng.uber.com/denial-by-dns/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=denial-by-dns">Denial By DNS: Uber’s Open Source Tool for Preventing Resource Exhaustion by DNS Outages </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/word-embeddings-with-gensim-68e6322afdca?source=rss----5e5bef33608a---4">Word Embeddings with Gensim </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4?source=rss----53c7c27702d5---4">Recent web performance fixes on Airbnb listing pages </a></li> 
-          
-            <li> <a href="https://blog.buildo.io/the-trees-behind-your-tools-63b01daa58f?source=rss----5b535635f5fa---4">The trees behind your tools </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/evil-front-part-1">Evil Front Part 1: Modern Front-end in Rails </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 06 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-06.html</guid>
       </item>
       
   </channel>
