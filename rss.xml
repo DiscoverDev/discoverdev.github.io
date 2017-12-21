@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 21 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/distributed-tensorflow">Distributed TensorFlow </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/metadata-software-the-way-you-want-it-2367b179558d?source=rss----cfe1120185d3---4">Metadata: Software The Way You Want It </a></li> 
+          
+            <li> <a href="http://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/">Service Workers: Going beyond the page </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/apache-mxnet-in-the-wolfram-language">Apache MXNet in the Wolfram Language </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html">Tacotron 2: Generating Human-like Speech from Text </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/12/statistical-modeling-for-linkedin-salary">The Statistical Modeling System Powering LinkedIn Salary </a></li> 
+          
+            <li> <a href="https://hackernoon.com/i-hacked-hq-trivia-but-heres-how-they-can-stop-me-68750ed16365?source=rss----3a8144eabfe3---4">I Hacked HQ Trivia But Here’s How They Can Stop Me </a></li> 
+          
+            <li> <a href="https://hackernoon.com/formik-handling-files-and-recaptcha-209cbeae10bc?source=rss----3a8144eabfe3---4">Formik — Handling files and reCaptcha </a></li> 
+          
+            <li> <a href="https://hackernoon.com/machine-learning-bit-by-bit-multivariate-gradient-descent-e198fdd0df85?source=rss----3a8144eabfe3---4">Machine Learning Bit by Bit — Multivariate Gradient Descent </a></li> 
+          
+            <li> <a href="https://umbrella.cisco.com/blog/2017/12/19/mounting-mining-mayhem/">Mounting Mining Mayhem </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 21 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 20 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -289,38 +321,6 @@
         <pubDate>Fri, 08 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.dataquest.io/blog/regular-expressions-data-scientists/">Regular Expressions for Data Scientists </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin">Couchbase Ecosystem at LinkedIn </a></li> 
-          
-            <li> <a href="https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1?source=rss----3a8144eabfe3---4">Announcing Parcel: A blazing fast, zero configuration web application bundler </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/master-git-rebase/">Master the Rebase (and the Other Way Around) </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569?source=rss----51e1d1745b32---4">Play by Play: Moving the NYT Games Platform to GCP With Zero Downtime </a></li> 
-          
-            <li> <a href="https://mixmax.com/blog/database-backed-job">Database-backed job processing </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/mocking-api-calls-in-python/">Mocking API calls in Python </a></li> 
-          
-            <li> <a href="https://hackernoon.com/tutorial-faster-ai-development-with-serverless-684f3701b004?source=rss----3a8144eabfe3---4">Tutorial: Faster AI Development with Serverless </a></li> 
-          
-            <li> <a href="https://hackernoon.com/from-on-prem-to-aws-to-ecs-and-beyond-the-past-5-years-at-arthrex-digital-media-f68bc2bc534e?source=rss----3a8144eabfe3---4">From on-prem to AWS to ECS and beyond. The past 5 years at Arthrex Digital Media. </a></li> 
-          
-            <li> <a href="https://slack.engineering/scaling-slacks-job-queue-687222e9d100?source=rss----58820b6d8904---4">Scaling Slack’s Job Queue </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 07 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-07.html</guid>
       </item>
       
   </channel>
