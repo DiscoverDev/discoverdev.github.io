@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 25 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://code.hootsuite.com/setting-up-a-machine-learning-framework-for-production/">Setting up a Machine Learning Framework for Production </a></li> 
+          
+            <li> <a href="http://code.hootsuite.com/how-and-why-we-adopted-graphql/">How and Why We Adopted GraphQL </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2017/12/xenia-framework-for-building-optimized-seo-experiences">Xenia: A Domain-Specific Framework for Building Optimized SEO Guest Experiences </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec">How to design a RESTful API architecture from a human-language spec </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/uncovering-hidden-patterns-through-machine-learning">Uncovering hidden patterns through machine learning </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/an-applied-introduction-to-generative-adversarial-networks">An applied introduction to generative adversarial networks </a></li> 
+          
+            <li> <a href="https://segment.com/blog/5-advanced-testing-techniques-in-go/">5 Advanced Testing Techniques in Go </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-machine-learning-will-accelerate-data-management-systems">How machine learning will accelerate data management systems </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2017/12/large-scale-health-data-analytics-with-ohdsi/">Large-Scale Health Data Analytics with OHDSI </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/beyond-https/">Beyond HTTPS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 25 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 22 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -289,38 +321,6 @@
         <pubDate>Tue, 12 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 11 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/migrating-large-enterprise-to-nodejs-6c38523d2b33?source=rss----905ea2b3d4d1---4">Migrating Large Enterprise to NodeJS </a></li> 
-          
-            <li> <a href="https://engblog.nextdoor.com/3-hard-lessons-from-scaling-continuous-deployment-to-a-monolith-with-70-engineers-99fb6dfe3c38?source=rss----5e54f11cdfdf---4">3 Hard Lessons from Scaling Continuous Deployment to a Monolith with 70+ Engineers </a></li> 
-          
-            <li> <a href="https://drivy.engineering/taskqueues-tips/">Taskqueues tips </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2017/12/sentiment-analysis-scikit-learn.html">Making Sentiment Analysis Easy With Scikit-Learn </a></li> 
-          
-            <li> <a href="https://mixmax.com/blog/beating-spam-detection-bots">Beating Spam Detection Bots </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/excel-and-pandas/">Using Excel with pandas </a></li> 
-          
-            <li> <a href="https://stackshare.io/thumbtack/scaling-postgresql-at-thumbtack-load-balancing-and-health-checks">Scaling PostgreSQL at Thumbtack: Load Balancing And Health Checks </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/how-soundcloud-uses-haproxy-with-kubernetes-for-user-facing-traffic">How SoundCloud uses HAProxy with Kubernetes for user-facing traffic </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76?source=rss----2615bd06b42e---4">Artwork Personalization at Netflix </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2017/12/07/hands-look-zfs-with-mysql/">Hands-On Look at ZFS with MySQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 11 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-11.html</guid>
       </item>
       
   </channel>
