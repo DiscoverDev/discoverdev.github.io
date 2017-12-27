@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e?source=rss----7f60cf5620c9---4">One-Shot Learning: Face Recognition using Siamese Neural Network </a></li> 
+          
+            <li> <a href="https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds">Introduction to Deep Learning Trading in Hedge Funds </a></li> 
+          
+            <li> <a href="https://www.wix.engineering/single-post/2017/12/27/How-to-Test-Your-Redux-App">How to Test Your Redux App </a></li> 
+          
+            <li> <a href="https://airbrake.io/blog/devops/techniques-for-preventing-software-bugs">Techniques for Preventing Software Bugs </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-promise-of-ai-in-audio-processing-a7e4996eb2ca?source=rss----7f60cf5620c9---4">The promise of AI in audio processing </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/mixing-ruby-and-rust-on-heroku/">Mixing Ruby and Rust on Heroku </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications">Gathering Metrics from Your Infrastructure and Applications </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-i-learned-while-building-my-own-keyboard-8b3bbc7ac3c3?source=rss----3a8144eabfe3---4">How I Built My Own Keyboard </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 27 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 26 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -291,38 +319,6 @@
         <pubDate>Thu, 14 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 13 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://research.fb.com/building-facebooks-platform-for-large-scale-ar-experiences/">Building Facebook’s platform for large-scale AR experiences </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9?source=rss----2615bd06b42e---4">Distributing Content to Open Connect </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/evil-front-part-2">Evil Front Part&amp;nbsp;2: Modern Front-end in Rails </a></li> 
-          
-            <li> <a href="http://research.baidu.com/paddlepaddle-fluid-elastic-deep-learning-kubernetes/">PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/combatting-phishing-with-dns/">Why Some Phishing Emails Are Mysteriously Disappearing </a></li> 
-          
-            <li> <a href="http://engineering.wingify.com/posts/animations-in-vue-js/">Animations in VueJS </a></li> 
-          
-            <li> <a href="https://advancedweb.hu/2017/12/12/chaining/">Demystifying chaining in Javascript </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/user-experience-threejs/">Building User Experiences with Three.js </a></li> 
-          
-            <li> <a href="http://nordicapis.com/securing-medical-iot-devices/">Securing Medical IoT Devices </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/int8-inference-autonomous-vehicles-tensorrt/">Fast INT8 Inference for Autonomous Vehicles with TensorRT 3 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 13 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-13.html</guid>
       </item>
       
   </channel>
