@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 28 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://x-team.com/blog/functional-programming-composition-associativity/">Functional Programming: Composition and Associativity </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/mobile-ui/fundamental-guide-mobile-usability">The Fundamental Guide to Mobile Usability </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-a-restful-api-server-reacts-to-requests">How a RESTful API server reacts to requests </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/top-javascript-trends-2018/">The Top JavaScript Trends to Watch in 2018 </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/12/27/elixir-mox-introduction/">Unit Testing Phoenix Controllers with Mox </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e?source=rss----5e5bef33608a---4">From Perceptron to Deep Neural Nets </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/lets-talk-about-advanced-analytics-a-brief-look-at-artificial-intelligence-bf1c7a7d3f96?source=rss----5e5bef33608a---4">Let’s talk about Advanced Analytics: A brief look at Artificial Intelligence </a></li> 
+          
+            <li> <a href="https://hackernoon.com/a-modern-home-karaoke-system-built-with-youtube-api-websocket-redis-qr-codes-and-a-chrome-dc8c23a52985?source=rss----3a8144eabfe3---4">A Modern Home Karaoke System built with YouTube API, WebSocket, Redis, QR codes, and a Chrome… </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 28 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 27 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -287,38 +315,6 @@
         <pubDate>Fri, 15 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 14 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://intoli.com/blog/saving-images/">Saving Images from a Headless Browser </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-curious-case-of-caching-csrf-tokens/">The Curious Case of Caching CSRF Tokens </a></li> 
-          
-            <li> <a href="https://kickstarter.engineering/oncreate-ing-kickstarters-android-app-90f567846750?source=rss----c5ef8826f270---4">onCreate()-ing Kickstarter’s Android app </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/container-security-terminology/">The Definitive Guide to Container Security Terminology </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/our-top-4-tips-for-massive-data-migrations-565daaa83cfc?source=rss----cfe1120185d3---4">Our Top 4 Tips for Massive Data Migrations </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html">TFGAN: A Lightweight Library for Generative Adversarial Networks </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/geo-spatial-search-on-mobile/">Geo-Spatial Search on Mobile: Quick but Not Dirty </a></li> 
-          
-            <li> <a href="https://aerolab.co/blog/react-nextjs-pwa/">Using React and Next.JS to build a PWA – The Beginner’s Guide </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2017/12/12/gitlab-design-library/">Scaling design: The start of system thinking </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b?source=rss----53c7c27702d5---4">Building Services at Airbnb, Part 1: </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 14 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-14.html</guid>
       </item>
       
   </channel>
