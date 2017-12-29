@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 29 Dec 2017</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://confluentio.wpengine.com/blog/transactions-apache-kafka/">Transactions in Apache Kafka </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7?source=rss----7f60cf5620c9---4">Another Twitter sentiment analysis with Python — Part 3 (Zipf’s Law, data visualisation) </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/semi-supervised-learning-with-gans-9f3cb128c5e?source=rss----7f60cf5620c9---4">Semi-supervised Learning with GANs </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-expensive-is-crypto-anyway/">How &#34;expensive&#34; is crypto anyway? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f?source=rss----3a8144eabfe3---4">Fair and Balanced? Thoughts on Bias in Probabilistic Modeling </a></li> 
+          
+            <li> <a href="https://hackernoon.com/my-process-became-pid-1-and-now-signals-behave-strangely-b05c52cc551c?source=rss----3a8144eabfe3---4">My process became PID 1 and now signals behave strangely </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2017/12/28/practices-scss-react/">Practices for Harnessing SCSS with React </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 29 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 28 Dec 2017</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +309,6 @@
         <pubDate>Mon, 18 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 15 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.confluent.io/blog/enabling-exactly-kafka-streams/">Enabling Exactly-Once in Kafka Streams </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/agrarian-scale-kubernetes-part-2-91cb88dfd7a3?source=rss----51e1d1745b32---4">Agrarian-Scale Kubernetes: Part 2 </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/">What the SATs Taught Us about Finding the Perfect Fit </a></li> 
-          
-            <li> <a href="https://hackernoon.com/wrestling-with-blockchain-scalability-a1295e47962f?source=rss----3a8144eabfe3---4">Wrestling With Blockchain Scalability </a></li> 
-          
-            <li> <a href="https://yahooeng.tumblr.com/post/168508200981">How to Make Your Web App More Reliable and Performant Using webpack: a Yahoo Mail Case Study </a></li> 
-          
-            <li> <a href="https://www.paypal-engineering.com/2017/12/13/learnings-from-using-a-reactive-platform-akkasqubs/">Learnings from Using a Reactive Platform – Akka/Squbs </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2017/12/securing-communications-between-google.html">Securing communications between Google services with Application Layer Transport Security </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/codeships-philosophical-approach-to-frontend-testing/">Codeship’s Philosophical Approach to Frontend Testing </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2017/12/13/introducing-stapbpf-systemtaps-new-bpf-backend/">Introducing stapbpf – SystemTap’s new BPF backend </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2017/12/actual-input-latency-and-the-hasal-testing-framework/">Actual Input Latency: cross-browser measurement and the Hasal testing framework </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 15 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-15.html</guid>
       </item>
       
   </channel>
