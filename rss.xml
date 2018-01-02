@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 02 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/01/online-purchase-payment-request-api/">Introducing Web Payments: Easier Online Purchases With The Payment Request API </a></li> 
+          
+            <li> <a href="http://engineering.skybettingandgaming.com/2018/01/02/challenges-faced-moving-to-serverless-in-aws/">Technical Challenges We Encountered When Moving to a Serverless Architecture in AWS </a></li> 
+          
+            <li> <a href="http://nordicapis.com/7-unique-benefits-of-using-graphql-in-microservices/">7 Unique Benefits of Using GraphQL in Microservices </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introducing-pydqc-7f23d04076b3?source=rss----7f60cf5620c9---4">Introducing pydqc </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/towards-forms-text-recognition-using-deep-learning-f8b39840b984?source=rss----5e5bef33608a---4">Towards Forms Text Recognition using Deep Learning </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/out-of-core-genomics-8aa5ef487d1e?source=rss----7f60cf5620c9---4">Out of Core Genomics </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead?source=rss----5e5bef33608a---4">Priming neural networks with an appropriate initializer. </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-url-shortener-using-react-apollo-and-graphql-part-ii-d686dd797c71?source=rss----3a8144eabfe3---4">Building URL shortener using React, Apollo and GraphQL — Part II </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 02 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 01 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +303,6 @@
         <pubDate>Wed, 20 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 19 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://mesosphere.com/blog/uber-distributed-deep-learning/">Uber Drives Distributed Deep Learning Forward </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/exploratory-data-analysis-of-orders-at-grofers-63ccc571719e?source=rss----42df4a1e8725---4">Exploratory Data Analysis of orders on Grofers </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8?source=rss----5e5bef33608a---4">Simple Image Classification using Convolutional Neural Network — Deep Learning in python. </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/blog-post-on-monitoring-an-apache-kafka-deployment-to-end-most-blog-posts">The Blog Post on Monitoring an Apache Kafka Deployment to End Most Blog Posts </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/agrarian-scale-kubernetes-part-3-ee459887ed7e?source=rss----51e1d1745b32---4">Agrarian-Scale Kubernetes: Part 3 </a></li> 
-          
-            <li> <a href="https://www.thumbtack.com/engineering/seedfinder-infrastructure-improve-sample-balance-online-b-tests/">Seedfinder – Infrastructure to Improve Sample Balance in Online A/B Tests </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/android-accessibility-automation-with-espresso/">Android Accessibility Automation with Espresso </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html">Improving End-to-End Models For Speech Recognition </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/inside-mirai-the-infamous-iot-botnet-a-retrospective-analysis/">Inside the infamous Mirai IoT Botnet: A Retrospective Analysis </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/stopping-fraudsters-by-changing-products-452240f2d2cc?source=rss----25cd379abb8---4">Stopping fraudsters by changing products </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 19 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-19.html</guid>
       </item>
       
   </channel>
