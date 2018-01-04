@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 04 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/how-i-used-npm-to-setup-a-python-project-dac33f0c7997?source=rss----3a8144eabfe3---4">NPM as a build tool for a Python Project </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1?source=rss----7f60cf5620c9---4">Probability concepts explained: Maximum likelihood estimation </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/calibrating-videos-vrworks-360-video/">Calibrating Stitched Videos with VRWorks 360 Video SDK </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2018/01/todays-cpu-vulnerability-what-you-need.html">Today&#39;s CPU vulnerability: what you need to know </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks">Ember Timer Leaks: The Bad Apples in Your Test Infrastructure </a></li> 
+          
+            <li> <a href="https://hackernoon.com/strengthening-oauth2-for-mobile-f4f3925dbf18?source=rss----3a8144eabfe3---4">Strengthening OAuth2 for Mobile </a></li> 
+          
+            <li> <a href="https://eng.uber.com/cota/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cota">COTA: Improving Uber Customer Care with NLP &amp; Machine Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/graphcool-the-graphql-backend-development-framework-9f9a4f4d6ade?source=rss----3a8144eabfe3---4">Graphcool, the GraphQL Backend Development Framework </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2018/01/03/amazon-deep-learning/">Predicting Land Use in the Amazon using Deep Learning </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/reinforcement-learning-with-tensorflow">Reinforcement learning with TensorFlow </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 04 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 03 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +305,6 @@
         <pubDate>Fri, 22 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 21 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/distributed-tensorflow">Distributed TensorFlow </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/metadata-software-the-way-you-want-it-2367b179558d?source=rss----cfe1120185d3---4">Metadata: Software The Way You Want It </a></li> 
-          
-            <li> <a href="http://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/">Service Workers: Going beyond the page </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/apache-mxnet-in-the-wolfram-language">Apache MXNet in the Wolfram Language </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html">Tacotron 2: Generating Human-like Speech from Text </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/12/statistical-modeling-for-linkedin-salary">The Statistical Modeling System Powering LinkedIn Salary </a></li> 
-          
-            <li> <a href="https://hackernoon.com/i-hacked-hq-trivia-but-heres-how-they-can-stop-me-68750ed16365?source=rss----3a8144eabfe3---4">I Hacked HQ Trivia But Here’s How They Can Stop Me </a></li> 
-          
-            <li> <a href="https://hackernoon.com/formik-handling-files-and-recaptcha-209cbeae10bc?source=rss----3a8144eabfe3---4">Formik — Handling files and reCaptcha </a></li> 
-          
-            <li> <a href="https://hackernoon.com/machine-learning-bit-by-bit-multivariate-gradient-descent-e198fdd0df85?source=rss----3a8144eabfe3---4">Machine Learning Bit by Bit — Multivariate Gradient Descent </a></li> 
-          
-            <li> <a href="https://umbrella.cisco.com/blog/2017/12/19/mounting-mining-mayhem/">Mounting Mining Mayhem </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-21.html</guid>
       </item>
       
   </channel>
