@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 05 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/aws-lambda-use-the-invocation-context-to-better-handle-slow-http-responses-16fbfecfa4e9?source=rss----3a8144eabfe3---4">AWS Lambda — use the invocation context to better handle slow HTTP responses </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/medical-imaging-meets-nips-a-summary-43bf1b0d0c62?source=rss----7f60cf5620c9---4">Medical Imaging Meets NIPS: A summary </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/">Selecting a Cloud Provider </a></li> 
+          
+            <li> <a href="http://www.scylladb.com/2018/01/04/seastar-futures/">Seastar: The future is Here </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/big-data-information-visualization-techniques-f29150dea190?source=rss----7f60cf5620c9---4">Big Data: Information visualization techniques </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/react-composing-higher-order-components-hocs-3a5288e78f55?source=rss----f5105b08f43a---4">React — Composing Higher-Order Components (HOCs) </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/01/rise-state-machines/">The Rise Of The State Machines </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/rock-solid-kafka/index.html">Rock Solid Kafka and ZooKeeper Ops on AWS </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-a-restful-api-represents-resources">How a RESTful API represents resources </a></li> 
+          
+            <li> <a href="http://nordicapis.com/scalable-apis-are-built-from-consistency/">Scalable APIs are Built From Consistency </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 05 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 04 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +305,6 @@
         <pubDate>Mon, 25 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 22 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/square-corner-blog/topic-modeling-optimizing-for-human-interpretability-48a81f6ce0ed?source=rss----3650599ae4e2---4">Topic Modeling </a></li> 
-          
-            <li> <a href="https://stripe.com/blog/operating-kubernetes">Learning to operate Kubernetes reliably </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better">Venice Hybrid: Doing Lambda Better </a></li> 
-          
-            <li> <a href="https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf?source=rss----37dc2a3034f2---4">Copy-on-write friendly Python garbage collection </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/understanding-capsnet-part-1-e274943a018d?source=rss----5e5bef33608a---4">Understanding CapsNet (Part 1) </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/evil-front-part-3">Evil Front Part&amp;nbsp;3: Modern Front-end in Rails </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2017/12/keeping-yelp-two-steps-ahead-how-we-built-gset-to-protect-employee-email.html">Keeping Yelp two steps ahead: How we built GSET to protect employee email </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6?source=rss----2615bd06b42e---4">Integrating imperative APIs into a React application </a></li> 
-          
-            <li> <a href="https://galois.com/blog/2017/12/revolution-evolution-fully-homomorphic-encryption/">Revolution and Evolution: Fully Homomorphic Encryption </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/smart-instant-book-filter-book-with-confidence-ab3d6dace0b2?source=rss----53c7c27702d5---4">Smart Instant Book Filter: Book with Confidence </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 22 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-22.html</guid>
       </item>
       
   </channel>
