@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 08 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-iii-69c2711c5f33?source=rss----3a8144eabfe3---4">Understanding The React Source Code — Initial Rendering (Simple Component) III </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/the-magic-of-multitenancy-2daf71d99735?source=rss----cfe1120185d3---4">The Magic of Multitenancy </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/demystifying-memory-usage-using-es6-react-classes-d9d904bc4557?source=rss----f5105b08f43a---4">Demystifying Memory Usage using ES6 React Classes </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/artistic-style-transfer-b7566a216431?source=rss----7f60cf5620c9---4">Artistic Style Transfer </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/web-based-voice-command-recognition-58a9bb1ec8db?source=rss----7f60cf5620c9---4">Web based voice command recognition </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-conclave-a-decentralized-real-time-collaborative-text-editor-a6ab438fe79f?source=rss----3a8144eabfe3---4">Building Conclave: a decentralized, real time, collaborative text editor </a></li> 
+          
+            <li> <a href="http://engineering.cerner.com/blog/bad-design-is-bad-for-your-health-why-data-visualization-details-matter/">Bad Design Is Bad for Your Health: Why Data Visualization Details Matter </a></li> 
+          
+            <li> <a href="https://blog.bugsnag.com/dex-and-d8/">The Dex File Format </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 08 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 05 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +301,6 @@
         <pubDate>Tue, 26 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 25 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://code.hootsuite.com/setting-up-a-machine-learning-framework-for-production/">Setting up a Machine Learning Framework for Production </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/how-and-why-we-adopted-graphql/">How and Why We Adopted GraphQL </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2017/12/xenia-framework-for-building-optimized-seo-experiences">Xenia: A Domain-Specific Framework for Building Optimized SEO Guest Experiences </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec">How to design a RESTful API architecture from a human-language spec </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/uncovering-hidden-patterns-through-machine-learning">Uncovering hidden patterns through machine learning </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/an-applied-introduction-to-generative-adversarial-networks">An applied introduction to generative adversarial networks </a></li> 
-          
-            <li> <a href="https://segment.com/blog/5-advanced-testing-techniques-in-go/">5 Advanced Testing Techniques in Go </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-machine-learning-will-accelerate-data-management-systems">How machine learning will accelerate data management systems </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2017/12/large-scale-health-data-analytics-with-ohdsi/">Large-Scale Health Data Analytics with OHDSI </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/beyond-https/">Beyond HTTPS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 25 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-25.html</guid>
       </item>
       
   </channel>
