@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 09 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.grab.com/dealing-with-the-meltdown-patch-at-grab">Dealing with the Meltdown patch at Grab </a></li> 
+          
+            <li> <a href="https://hackernoon.com/events-as-first-class-citizens-8633e8479493?source=rss----3a8144eabfe3---4">Events As First-Class Citizens </a></li> 
+          
+            <li> <a href="https://benchling.engineering/from-200k-lines-of-coffeescript-to-zero-making-decaffeinate-super-stable-4de0ca68d9bc?source=rss----3d4aa8fb07ea---4">From 200K lines of CoffeeScript to zero: making decaffeinate super-stable </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/how-to-build-a-deep-learning-server-based-on-docker-bea70b8bd2c7?source=rss----5e5bef33608a---4">How to build a deep learning server based on Docker </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63?source=rss----7f60cf5620c9---4">Understanding Feature Engineering (Part 2) — Categorical Data </a></li> 
+          
+            <li> <a href="https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5?source=rss----3a8144eabfe3---4">I’m harvesting credit card numbers and passwords from your site. Here’s how. </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-modern-web-browsers-accelerate-performance-the-networking-layer-f6efaf7bfcf4?source=rss----12d1b859d4e4---4">How Modern Web Browsers Accelerate Performance: The Networking Layer </a></li> 
+          
+            <li> <a href="https://heap.engineering/structure-permissions-saas-app/">How To Structure Permissions In A SaaS App </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348?source=rss----7f60cf5620c9---4">Probability concepts explained: Bayesian inference for parameter estimation. </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 09 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 08 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,38 +299,6 @@
         <pubDate>Wed, 27 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 26 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.octo.com/en/kubernetes-vs-swarm-volumes/">Kubernetes vs Swarm: Volumes! </a></li> 
-          
-            <li> <a href="https://hackernoon.com/numerai-walkthrough-quantitative-analysis-machine-learning-for-fun-and-profit-3dcdccabd920?source=rss----3a8144eabfe3---4">Numerai walkthrough: Quantitative Analysis &amp; Machine learning for fun and profit. </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/why-iot-is-insecure/">TLS 1.3 is going to save us all, and other reasons why IoT is still insecure </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/intro-to-pcfgs-left-most-derivations-chomsky-nf-cky-algorithm-and-many-other-scary-words-80114e896369?source=rss----7f60cf5620c9---4">Intro to PCFGs, left-most derivations, Chomsky NF, CKY algorithm and many other scary words… </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/what-if-i-told-you-database-indexes-could-be-learned-6cf8f59bff94?source=rss----7f60cf5620c9---4">What if I told you database indexes could be learned? </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/meet-artificial-neural-networks-ae5939b1dd3a?source=rss----7f60cf5620c9---4">Meet Artificial Neural Networks </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-monorepo-github-flow-and-automation-ftw-c41a2d9c48bb?source=rss----3a8144eabfe3---4">A monorepo, GitHub Flow and automation FTW </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/appdirectorymigration/">App Directory: MongoDB to SQL </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/how-our-service-mesh-eased-migrating-from-mesos-to-kubernetes/">How Our Service Mesh Eased Migrating From Mesos To Kubernetes </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-blockchain-experiment-with-apache-kafka-97ee0ab6aefc?source=rss----3a8144eabfe3---4">A Blockchain Experiment With Apache Kafka </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 26 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-26.html</guid>
       </item>
       
   </channel>
