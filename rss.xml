@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 10 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.pic-collage.com/a-gentle-introduction-to-reactive-programming-via-rxjs-52d801228763?source=rss----3819a69148cb---4">A Gentle Introduction to Reactive Programming (via RxJS) </a></li> 
+          
+            <li> <a href="https://fly.io/articles/whats-a-load-balancer-rabbit-holes-and-wormholes/">What&#39;s a Load Balancer? Rabbit Holes and Wormholes </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/elasticsearch-performance-tuning-practice-at-ebay/">Elasticsearch Performance Tuning Practice at eBay </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/webspellchecker-stack-buffer-overflow-830865fe1e94?source=rss----cfe1120185d3---4">WebSpellChecker Stack Buffer Overflow </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/meltdown-spectre-non-technical/">An Explanation of the Meltdown/Spectre Bugs for a Non-Technical Audience </a></li> 
+          
+            <li> <a href="https://hackernoon.com/webpack-bundle-analysis-a-necessary-step-for-all-react-angular-vue-application-developers-fe6564fa62ca?source=rss----3a8144eabfe3---4">Webpack Bundle Analysis — A necessary step for all React, Angular, Vue application developers! </a></li> 
+          
+            <li> <a href="https://hackernoon.com/transfer-learning-with-mxnet-gluon-8203005afafe?source=rss----3a8144eabfe3---4">Transfer learning with MXNet Gluon </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/cloud-native-part-6-security/">Cloud Native Part 6: Security </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-yelp-data-to-predict-restaurant-closure-8aafa4f72ad6?source=rss----7f60cf5620c9---4">Using Yelp Data to Predict Restaurant Closure </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd?source=rss----7f60cf5620c9---4">Improving the Random Forest in Python Part 1 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 10 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 09 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +303,6 @@
         <pubDate>Thu, 28 Dec 2017 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2017-12-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 27 Dec 2017</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e?source=rss----7f60cf5620c9---4">One-Shot Learning: Face Recognition using Siamese Neural Network </a></li> 
-          
-            <li> <a href="https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds">Introduction to Deep Learning Trading in Hedge Funds </a></li> 
-          
-            <li> <a href="https://www.wix.engineering/single-post/2017/12/27/How-to-Test-Your-Redux-App">How to Test Your Redux App </a></li> 
-          
-            <li> <a href="https://airbrake.io/blog/devops/techniques-for-preventing-software-bugs">Techniques for Preventing Software Bugs </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-promise-of-ai-in-audio-processing-a7e4996eb2ca?source=rss----7f60cf5620c9---4">The promise of AI in audio processing </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/mixing-ruby-and-rust-on-heroku/">Mixing Ruby and Rust on Heroku </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications">Gathering Metrics from Your Infrastructure and Applications </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-i-learned-while-building-my-own-keyboard-8b3bbc7ac3c3?source=rss----3a8144eabfe3---4">How I Built My Own Keyboard </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 27 Dec 2017 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2017-12-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-27.html</guid>
       </item>
       
   </channel>
