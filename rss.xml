@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 15 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.toptal.com/ruby-on-rails/field-level-rails-cache-invalidation">Field-level Rails Cache Invalidation: A DSL Solution </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/scrape-infinite-scroll/">Using Puppeteer to Scrape Websites with Infinite Scrolling </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-8-neural-network-architectures-machine-learning-researchers-need-to-learn-11a0c96d6073?source=rss----7f60cf5620c9---4">The 8 Neural Network Architectures Machine Learning Researchers Need to Learn </a></li> 
+          
+            <li> <a href="http://allegro.tech/2018/01/mesos_executor.html">Mesos Executor </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow">Introduction to LSTMs with TensorFlow </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/what-is-a-design-pattern">What is a design pattern? </a></li> 
+          
+            <li> <a href="https://www.future-processing.pl/blog/the-hitchhikers-guide-spacecraft-software/">The hitchhiker’s guide to spacecraft software </a></li> 
+          
+            <li> <a href="https://blog.bugsnag.com/envoy/">Using Envoy to Load Balance gRPC Traffic </a></li> 
+          
+            <li> <a href="https://hackernoon.com/get-on-the-good-foot-with-micropython-on-the-esp32-decdd32c4720?source=rss----3a8144eabfe3---4">Get on the Good Foot with MicroPython on the ESP32 </a></li> 
+          
+            <li> <a href="https://hackernoon.com/another-way-to-find-max-partitions-36005590a2a5?source=rss----3a8144eabfe3---4">Another Way to Find Max Partitions </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 15 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 12 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,36 +315,6 @@
         <pubDate>Tue, 02 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 01 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/read-marble-diagrams-like-a-pro-3d72934d3ef5?source=rss----3a8144eabfe3---4">Read Rx Marble Diagrams Like a Pro </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/developing-a-fully-serverless-web-app/">Developing a fully Serverless Web app </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1?source=rss----3a8144eabfe3---4">Understanding The React Source Code — Initial Rendering (Simple Component) I </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/an-introduction-to-gpu-optimization-6ea255ef6360?source=rss----7f60cf5620c9---4">An Introduction to GPU Optimization </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0?source=rss----7f60cf5620c9---4">Various Implementations of Collaborative Filtering </a></li> 
-          
-            <li> <a href="http://tech.wayfair.com/2017/12/automating-production-operations-by-building-a-smart-mini-fridge/">Automating Production Operations by Building a Smart Mini Fridge </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/javascript-injection/">JavaScript Injection with Selenium, Puppeteer, and Marionette in Chrome and Firefox </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2017/12/after-effects-css-transitions-keyframes/">Making The Transition From After Effects To CSS Transitions And Keyframes </a></li> 
-          
-            <li> <a href="http://confluentio.wpengine.com/blog/toward-functional-programming-analogy-microservices/">Toward a Functional Programming Analogy for Microservices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 01 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-01.html</guid>
       </item>
       
   </channel>
