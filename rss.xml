@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 16 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://code.hootsuite.com/the-universal-polling-system/">The Universal Polling System </a></li> 
+          
+            <li> <a href="https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/">How we improved webpack build performance by 95% </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557?source=rss----5e5bef33608a---4">Transfer Learning: retraining Inception V3 for custom image classification </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/introduction-to-ensembles/">Introduction to Python Ensembles </a></li> 
+          
+            <li> <a href="https://blog.developer.bazaarvoice.com/2018/01/02/event-stream-modeling/">Event Stream Modeling </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2018/01/11/testing-of-microservices/">Testing of Microservices </a></li> 
+          
+            <li> <a href="https://eng.uber.com/code-generation/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=code-generation">Harnessing Code Generation to Increase Reliability &amp; Productivity on iOS at Uber </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/apigateway-microservices-superglue/">API Gateway: the Microservices Superglue </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/tracking-object-allocations-in-ruby/">Tracking Object Allocation in Ruby </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 16 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 15 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,34 +317,6 @@
         <pubDate>Wed, 03 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 02 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/01/online-purchase-payment-request-api/">Introducing Web Payments: Easier Online Purchases With The Payment Request API </a></li> 
-          
-            <li> <a href="http://engineering.skybettingandgaming.com/2018/01/02/challenges-faced-moving-to-serverless-in-aws/">Technical Challenges We Encountered When Moving to a Serverless Architecture in AWS </a></li> 
-          
-            <li> <a href="http://nordicapis.com/7-unique-benefits-of-using-graphql-in-microservices/">7 Unique Benefits of Using GraphQL in Microservices </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introducing-pydqc-7f23d04076b3?source=rss----7f60cf5620c9---4">Introducing pydqc </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/towards-forms-text-recognition-using-deep-learning-f8b39840b984?source=rss----5e5bef33608a---4">Towards Forms Text Recognition using Deep Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/out-of-core-genomics-8aa5ef487d1e?source=rss----7f60cf5620c9---4">Out of Core Genomics </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead?source=rss----5e5bef33608a---4">Priming neural networks with an appropriate initializer. </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-url-shortener-using-react-apollo-and-graphql-part-ii-d686dd797c71?source=rss----3a8144eabfe3---4">Building URL shortener using React, Apollo and GraphQL — Part II </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 02 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-02.html</guid>
       </item>
       
   </channel>
