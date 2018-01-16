@@ -46,6 +46,10 @@ body > header {
     padding: 0px 10px;
 }
 
+.tags a.tlink {
+    color: black;
+}
+
 /******** LOGO ********/
 
 .logo {
