@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 17 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial">Asynchronous JavaScript: From Callback Hell to Async and Await </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/apache-mesos-apache-kafka-kafka-streams-highly-scalable-microservices/">Apache Mesos, Apache Kafka and Kafka Streams for Highly Scalable Microservices </a></li> 
+          
+            <li> <a href="http://tech.gilt.com/aws/2018/01/03/instant-voucher-serverless">Revitalize Gilt City&#39;s Order Processing with Serverless Architecture </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/understanding-and-building-generative-adversarial-networks-gans-8de7c1dc0e25?source=rss----5e5bef33608a---4">Understanding and building Generative Adversarial Networks(GANs)- Deep Learning with PyTorch. </a></li> 
+          
+            <li> <a href="https://hackernoon.com/exploiting-spectre-with-deep-learning-d8ec2ba4c8ca?source=rss----3a8144eabfe3---4">Exploiting Spectre with Deep learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-iv-e3c4b66da12c?source=rss----3a8144eabfe3---4">Understanding The React Source Code IV </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-3-tricks-that-made-alphago-zero-work-f3d47b6686ef?source=rss----3a8144eabfe3---4">The 3 Tricks That Made AlphaGo Zero Work </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/composable-go-a0d9e65a85e?source=rss----a88376ea904a---4">Composable Go </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 17 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 16 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,40 +311,6 @@
         <pubDate>Thu, 04 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 03 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/liskov-substitution-principle-a982551d584a?source=rss----3a8144eabfe3---4">Liskov Substitution Principle </a></li> 
-          
-            <li> <a href="https://www.hostinger.com/blog/scaling-ftp-at-000webhost">Scaling FTP at 000webhost.com </a></li> 
-          
-            <li> <a href="http://code.hootsuite.com/service-health-checks-alerts-and-a-bit-of-graphite-plotting/">Service Health Checks, Alerts and a bit of Graphite Plotting </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/speeding-up-maven-snapshots">Need for Speed: Accelerating Maven Snapshots </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/01/02/referenced-tables-with-generated-columns/">Generated Columns and ProxySQL Instead of Referenced Tables </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/meraki-rce-when-red-team-and-vulnerability-research-fell-in-love-3a119ce2cf56?source=rss----cfe1120185d3---4">Meraki RCE: When Red Team and Vulnerability Research fell in love </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/congressional-partisanship-a-visualization-c7bc448fd3e?source=rss----7f60cf5620c9---4">Congressional Partisanship: A Visualization </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/the-road-to-cloud-native/">The Road to Cloud Native </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c?source=rss----3a8144eabfe3---4">Understanding The React Source Code — Initial Rendering (Simple Component) II </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/fishing-hackers-2-kubernetes-boogaloo/">Fishing for Hackers 2 – Kubernetes Boogaloo </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/connected-things-not-devices">Connected things, not devices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 03 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-03.html</guid>
       </item>
       
   </channel>
