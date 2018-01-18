@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 18 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://galois.com/blog/2018/01/javert-javascript-verification-toolchain/">JaVerT: a JavaScript Verification Toolchain </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/syn-packet-handling-in-the-wild/">SYN packet handling in the wild </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57?source=rss----7f60cf5620c9---4">The Art of Effective Visualization of Multi-dimensional Data </a></li> 
+          
+            <li> <a href="https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8?source=rss----a41470515491---4">Why aren’t you using Prettier? </a></li> 
+          
+            <li> <a href="https://engineering.hexacta.com/didact-instances-reconciliation-and-virtual-dom-9316d650f1d0?source=rss----a41470515491---4">Didact: Instances, reconciliation and virtual DOM </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-gravity-of-kubernetes-33126a96ee23?source=rss----3a8144eabfe3---4">The Gravity of Kubernetes </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/how-we-sped-up-eventually-consistent-databases-global-syncs-through-caching/">How We Sped Up Eventually-Consistent Databases Global Syncs Through Caching </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/why-factories">Why Factories? </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf">Now You See Me, Now You Don’t: LinkedIn’s Real-Time Presence Platform </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/evolving-search-recommendations-on-pinterest-136e26e0468a?source=rss-ef81ef829bcb------2">Evolving search recommendations on Pinterest </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 18 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 17 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,38 +311,6 @@
         <pubDate>Fri, 05 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 04 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/how-i-used-npm-to-setup-a-python-project-dac33f0c7997?source=rss----3a8144eabfe3---4">NPM as a build tool for a Python Project </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1?source=rss----7f60cf5620c9---4">Probability concepts explained: Maximum likelihood estimation </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/parallelforall/calibrating-videos-vrworks-360-video/">Calibrating Stitched Videos with VRWorks 360 Video SDK </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2018/01/todays-cpu-vulnerability-what-you-need.html">Today&#39;s CPU vulnerability: what you need to know </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks">Ember Timer Leaks: The Bad Apples in Your Test Infrastructure </a></li> 
-          
-            <li> <a href="https://hackernoon.com/strengthening-oauth2-for-mobile-f4f3925dbf18?source=rss----3a8144eabfe3---4">Strengthening OAuth2 for Mobile </a></li> 
-          
-            <li> <a href="https://eng.uber.com/cota/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cota">COTA: Improving Uber Customer Care with NLP &amp; Machine Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/graphcool-the-graphql-backend-development-framework-9f9a4f4d6ade?source=rss----3a8144eabfe3---4">Graphcool, the GraphQL Backend Development Framework </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2018/01/03/amazon-deep-learning/">Predicting Land Use in the Amazon using Deep Learning </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/reinforcement-learning-with-tensorflow">Reinforcement learning with TensorFlow </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 04 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-04.html</guid>
       </item>
       
   </channel>
