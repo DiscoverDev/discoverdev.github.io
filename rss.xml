@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 19 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f?source=rss----3ae745429979--engineering">Twirp: a sweet new RPC framework for Go </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/the-vogue-augmented-reality-experience">The Vogue Augmented Reality Experience: How We Did It </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-frequency-of-tags-on-stack-overflow-2fb47600e2b2?source=rss----7f60cf5620c9---4">The frequency of tags on Stack Overflow </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/a-comparison-between-websockets-server-sent-events-and-polling-7a27c98cb1e3?source=rss----f5105b08f43a---4">A comparison between WebSockets, server-sent events, and polling </a></li> 
+          
+            <li> <a href="https://eng.uber.com/sbnet/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sbnet">SBNet: Leveraging Activation Block Sparsity for Speeding up Convolutional Neural Networks </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/01/using-hardware-token-based-2fa-with-the-webauthn-api/">Using Hardware Token-based 2FA with the WebAuthn API </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/">How Big Is That Box? Understanding Sizing In CSS Layout </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/parallelforall/using-cuda-warp-level-primitives/">Using CUDA Warp-Level Primitives </a></li> 
+          
+            <li> <a href="https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd?source=rss----3a8144eabfe3---4">Async/Await Essentials for Production: Loops, Control Flows &amp; Limits </a></li> 
+          
+            <li> <a href="https://hackernoon.com/supervised-machine-learning-dimensional-reduction-and-principal-component-analysis-614dec1f6b4c?source=rss----3a8144eabfe3---4">Supervised Machine Learning — Dimensional Reduction and Principal Component Analysis </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 19 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 18 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,38 +311,6 @@
         <pubDate>Mon, 08 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 05 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/aws-lambda-use-the-invocation-context-to-better-handle-slow-http-responses-16fbfecfa4e9?source=rss----3a8144eabfe3---4">AWS Lambda — use the invocation context to better handle slow HTTP responses </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/medical-imaging-meets-nips-a-summary-43bf1b0d0c62?source=rss----7f60cf5620c9---4">Medical Imaging Meets NIPS: A summary </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/">Selecting a Cloud Provider </a></li> 
-          
-            <li> <a href="http://www.scylladb.com/2018/01/04/seastar-futures/">Seastar: The future is Here </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/big-data-information-visualization-techniques-f29150dea190?source=rss----7f60cf5620c9---4">Big Data: Information visualization techniques </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/react-composing-higher-order-components-hocs-3a5288e78f55?source=rss----f5105b08f43a---4">React — Composing Higher-Order Components (HOCs) </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/01/rise-state-machines/">The Rise Of The State Machines </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/rock-solid-kafka/index.html">Rock Solid Kafka and ZooKeeper Ops on AWS </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-a-restful-api-represents-resources">How a RESTful API represents resources </a></li> 
-          
-            <li> <a href="http://nordicapis.com/scalable-apis-are-built-from-consistency/">Scalable APIs are Built From Consistency </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 05 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-05.html</guid>
       </item>
       
   </channel>
