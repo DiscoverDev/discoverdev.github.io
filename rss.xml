@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 23 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/">Faster E-commerce Search </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/not-possible-to-block-chrome-headless/">It is *not* possible to detect and block Chrome headless </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/">Oxidizing Source Maps with Rust and WebAssembly </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/convolutional-neural-networks-for-language-tasks">Convolutional neural networks for language tasks </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/using-cuda-warp-level-primitives/">Using CUDA Warp-Level Primitives </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-machine-learning-can-be-used-to-write-more-secure-computer-programs">How machine learning can be used to write more secure computer programs </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/01/go-go-go-stream-processing-for-go/">Go Go, Go! Stream Processing for Go </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/however-improbable-the-story-of-a-processor-bug/">However improbable: The story of a processor bug </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/what-is-a-reactive-microservice">What is a reactive microservice? </a></li> 
+          
+            <li> <a href="https://nordicapis.com/optimize-developer-experience-api/">How to Optimize Developer Experience for Your API </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 23 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 22 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,36 +317,6 @@
         <pubDate>Wed, 10 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 09 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.grab.com/dealing-with-the-meltdown-patch-at-grab">Dealing with the Meltdown patch at Grab </a></li> 
-          
-            <li> <a href="https://hackernoon.com/events-as-first-class-citizens-8633e8479493?source=rss----3a8144eabfe3---4">Events As First-Class Citizens </a></li> 
-          
-            <li> <a href="https://benchling.engineering/from-200k-lines-of-coffeescript-to-zero-making-decaffeinate-super-stable-4de0ca68d9bc?source=rss----3d4aa8fb07ea---4">From 200K lines of CoffeeScript to zero: making decaffeinate super-stable </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/how-to-build-a-deep-learning-server-based-on-docker-bea70b8bd2c7?source=rss----5e5bef33608a---4">How to build a deep learning server based on Docker </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63?source=rss----7f60cf5620c9---4">Understanding Feature Engineering (Part 2) — Categorical Data </a></li> 
-          
-            <li> <a href="https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5?source=rss----3a8144eabfe3---4">I’m harvesting credit card numbers and passwords from your site. Here’s how. </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-modern-web-browsers-accelerate-performance-the-networking-layer-f6efaf7bfcf4?source=rss----12d1b859d4e4---4">How Modern Web Browsers Accelerate Performance: The Networking Layer </a></li> 
-          
-            <li> <a href="https://heap.engineering/structure-permissions-saas-app/">How To Structure Permissions In A SaaS App </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348?source=rss----7f60cf5620c9---4">Probability concepts explained: Bayesian inference for parameter estimation. </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 09 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-09.html</guid>
       </item>
       
   </channel>
