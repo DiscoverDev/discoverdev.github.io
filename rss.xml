@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 24 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/creating-a-scalable-website-analysis-tool-using-lambda-and-api-gateway-and-s3-66df47506371?source=rss----3a8144eabfe3---4">Creating a Scalable Website Analysis Tool using Lambda and API Gateway and S3 </a></li> 
+          
+            <li> <a href="https://blog.twitch.tv/a-million-little-pieces-functional-css-in-react-9c2779873e67?source=rss----3ae745429979---4">A Million Little Pieces: Functional CSS in React </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/01/enabling-dual-stack-on-linkedin-cdns">Enabling Dual Stack on LinkedIn CDNs </a></li> 
+          
+            <li> <a href="https://hackernoon.com/automated-text-classification-using-machine-learning-c1b735aa5b99?source=rss----3a8144eabfe3---4">Automated Text Classification Using Machine Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-v-812d69a79fb9?source=rss----3a8144eabfe3---4">Understanding The React Source Code V </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/when-and-when-not-to-use-redux-41807f29a7fb?source=rss----7f3d96429888---4">When (and when not) to use Redux </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/introducing-rllib-a-composable-and-scalable-reinforcement-learning-library">Introducing RLlib: A composable and scalable reinforcement learning library </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/deploy-kubernetes-cfcr/">Simplify Deploying Kubernetes with Cloud Foundry Container Runtime </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/creating-intricate-art-with-neural-style-transfer-e5fee5f89481?source=rss----5e5bef33608a---4">Creating Intricate Art with Neural Style Transfer </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 24 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 23 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,38 +315,6 @@
         <pubDate>Thu, 11 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 10 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.pic-collage.com/a-gentle-introduction-to-reactive-programming-via-rxjs-52d801228763?source=rss----3819a69148cb---4">A Gentle Introduction to Reactive Programming (via RxJS) </a></li> 
-          
-            <li> <a href="https://fly.io/articles/whats-a-load-balancer-rabbit-holes-and-wormholes/">What&#39;s a Load Balancer? Rabbit Holes and Wormholes </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/elasticsearch-performance-tuning-practice-at-ebay/">Elasticsearch Performance Tuning Practice at eBay </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/webspellchecker-stack-buffer-overflow-830865fe1e94?source=rss----cfe1120185d3---4">WebSpellChecker Stack Buffer Overflow </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/meltdown-spectre-non-technical/">An Explanation of the Meltdown/Spectre Bugs for a Non-Technical Audience </a></li> 
-          
-            <li> <a href="https://hackernoon.com/webpack-bundle-analysis-a-necessary-step-for-all-react-angular-vue-application-developers-fe6564fa62ca?source=rss----3a8144eabfe3---4">Webpack Bundle Analysis — A necessary step for all React, Angular, Vue application developers! </a></li> 
-          
-            <li> <a href="https://hackernoon.com/transfer-learning-with-mxnet-gluon-8203005afafe?source=rss----3a8144eabfe3---4">Transfer learning with MXNet Gluon </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/cloud-native-part-6-security/">Cloud Native Part 6: Security </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-yelp-data-to-predict-restaurant-closure-8aafa4f72ad6?source=rss----7f60cf5620c9---4">Using Yelp Data to Predict Restaurant Closure </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd?source=rss----7f60cf5620c9---4">Improving the Random Forest in Python Part 1 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 10 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-10.html</guid>
       </item>
       
   </channel>
