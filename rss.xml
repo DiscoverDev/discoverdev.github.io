@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 25 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/facebook-open-sources-detectron/">Facebook open sources Detectron </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10?source=rss----7f60cf5620c9---4">Understanding Learning Rates and How It Improves Performance in Deep Learning </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html">Exploring Recommendation Systems </a></li> 
+          
+            <li> <a href="https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c?source=rss----3a8144eabfe3---4">Do more with less! Using render props </a></li> 
+          
+            <li> <a href="https://hackernoon.com/migrating-wemove-co-from-azure-to-ubuntu-vm-on-digital-ocean-96280ce24777?source=rss----3a8144eabfe3---4">Migrating WeMove.co from Azure to Ubuntu VM on Digital Ocean </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/">Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/transfer-learning-leveraging-insights-from-large-data-sets-d5435071ec5a?source=rss----7f60cf5620c9---4">Transfer learning: leveraging insights from large data sets </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/uber-driver-schedule-optimization-62879ea41658?source=rss----7f60cf5620c9---4">Uber Driver Schedule Optimization </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b?source=rss----7f60cf5620c9---4">Basics of image classification with Keras </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 25 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 24 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +313,6 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 11 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70?source=rss----53c7c27702d5---4">Server Rendering, Code Splitting, and Lazy Loading with React Router v4 </a></li> 
-          
-            <li> <a href="https://hackernoon.com/webassembly-the-journey-a069d6ea18a?source=rss----3a8144eabfe3---4">WebAssembly, the journey </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-spectre-of-the-zygote-6ade7eed8a37?source=rss----3a8144eabfe3---4">The Spectre of the Zygote </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/01/building-a-distributed-ml-pipeline-part1.html">Scaling Gradient Boosted Trees for CTR Prediction - Part I </a></li> 
-          
-            <li> <a href="https://blog.minio.io/highwayhash-fast-hashing-at-over-10-gb-s-per-core-in-golang-fee938b5218a?source=rss----9183d6601790---4">HighwayHash: Fast hashing at over 10 GB/s per core in Golang </a></li> 
-          
-            <li> <a href="https://techblog.expedia.com/2018/01/09/advice-on-freeing-features-from-a-monolith/">Advice on Freeing Features From a Monolith </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/why-mutation-can-be-scary">Why Mutation Can Be Scary </a></li> 
-          
-            <li> <a href="https://kickstarter.engineering/return-to-the-temple-of-elk-emental-evil-part-1-535b68e39848?source=rss----c5ef8826f270---4">Return to the Temple of ELK-emental evil, Part 1 </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/microservices-at-scale">Microservices at scale </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/why-we-do-scala/index.html">Why We Do Scala in Zalando </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-11.html</guid>
       </item>
       
   </channel>
