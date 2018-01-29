@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 29 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.pubnub.com/blog/everything-you-wanted-to-know-about-serverless-but-were-afraid-to-ask/">Everything you Wanted to Know about Serverless (But Were Afraid to Ask) </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/anomaly-detection-with-apache-mxnet">Anomaly detection with Apache MXNet </a></li> 
+          
+            <li> <a href="https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3?source=rss----3d158c042765---4">Finding the Perfect 10: How We Developed the Foursquare Venue Rating System </a></li> 
+          
+            <li> <a href="https://blog.takipi.com/clr-vs-jvm-how-the-battle-between-net-and-java-extends-to-the-vm-level/">CLR vs JVM: How the Battle Between .NET and Java Extends to The VM-Level </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/550719898617409/under-the-hood-multilingual-embeddings/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Under the hood: Multilingual embeddings </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/react-and-visual-automata-based-programming-c1d13e153cde?source=rss----f5105b08f43a---4">React and visual automata-based programming </a></li> 
+          
+            <li> <a href="https://eng.uber.com/omphalos/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=omphalos">Omphalos, Uber’s Parallel and Language-Extensible Time Series Backtesting Tool </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/">A GraphQL Primer: Why We Need A New Kind Of API (Part 1) </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/tensorflow-brings-ai-to-the-connected-device">TensorFlow brings AI to the connected device </a></li> 
+          
+            <li> <a href="https://engineering.semantics3.com/partitioning-in-postgresql-161e52c367ba?source=rss----1fece9c038a3---4">Partitioning in PostgreSQL </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 29 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 26 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Tue, 16 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 15 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.toptal.com/ruby-on-rails/field-level-rails-cache-invalidation">Field-level Rails Cache Invalidation: A DSL Solution </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/scrape-infinite-scroll/">Using Puppeteer to Scrape Websites with Infinite Scrolling </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-8-neural-network-architectures-machine-learning-researchers-need-to-learn-11a0c96d6073?source=rss----7f60cf5620c9---4">The 8 Neural Network Architectures Machine Learning Researchers Need to Learn </a></li> 
-          
-            <li> <a href="http://allegro.tech/2018/01/mesos_executor.html">Mesos Executor </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow">Introduction to LSTMs with TensorFlow </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/what-is-a-design-pattern">What is a design pattern? </a></li> 
-          
-            <li> <a href="https://www.future-processing.pl/blog/the-hitchhikers-guide-spacecraft-software/">The hitchhiker’s guide to spacecraft software </a></li> 
-          
-            <li> <a href="https://blog.bugsnag.com/envoy/">Using Envoy to Load Balance gRPC Traffic </a></li> 
-          
-            <li> <a href="https://hackernoon.com/get-on-the-good-foot-with-micropython-on-the-esp32-decdd32c4720?source=rss----3a8144eabfe3---4">Get on the Good Foot with MicroPython on the ESP32 </a></li> 
-          
-            <li> <a href="https://hackernoon.com/another-way-to-find-max-partitions-36005590a2a5?source=rss----3a8144eabfe3---4">Another Way to Find Max Partitions </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 15 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-15.html</guid>
       </item>
       
   </channel>
