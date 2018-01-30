@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 30 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f?source=rss----3a8144eabfe3---4">AWS Lambda — should you have few monolithic functions or many single-purposed functions? </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/reactive-programming-in-python/">Reactive Programming in Python </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33?source=rss----f5105b08f43a---4">Decouple Business Logic using Async Generators </a></li> 
+          
+            <li> <a href="https://www.toptal.com/software/best-command-line-tools">Command Line Tools for Developers </a></li> 
+          
+            <li> <a href="https://www.future-processing.pl/blog/improving-security-of-your-web-application-with-security-headers/">Improving security of your web application with Security Headers </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/paul-bakker-and-sander-mak-on-java-9-modularity">Paul Bakker and Sander Mak on Java 9 modularity </a></li> 
+          
+            <li> <a href="https://www.novoda.com/blog/react-native-flutter-xamarin-a-comparison/">React Native, Flutter, Xamarin: a comparison </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/introduction-functional-programming-python/">Introduction to Functional Programming in Python </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/pagerank-in-spark">PageRank in Spark </a></li> 
+          
+            <li> <a href="https://nordicapis.com/should-you-start-with-a-monolith-or-microservices/">Should You Start With A Monolith or Microservices? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 30 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 29 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,36 +315,6 @@
         <pubDate>Wed, 17 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 16 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://code.hootsuite.com/the-universal-polling-system/">The Universal Polling System </a></li> 
-          
-            <li> <a href="https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/">How we improved webpack build performance by 95% </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557?source=rss----5e5bef33608a---4">Transfer Learning: retraining Inception V3 for custom image classification </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/introduction-to-ensembles/">Introduction to Python Ensembles </a></li> 
-          
-            <li> <a href="https://blog.developer.bazaarvoice.com/2018/01/02/event-stream-modeling/">Event Stream Modeling </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2018/01/11/testing-of-microservices/">Testing of Microservices </a></li> 
-          
-            <li> <a href="https://eng.uber.com/code-generation/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=code-generation">Harnessing Code Generation to Increase Reliability &amp; Productivity on iOS at Uber </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/apigateway-microservices-superglue/">API Gateway: the Microservices Superglue </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/tracking-object-allocations-in-ruby/">Tracking Object Allocation in Ruby </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 16 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-16.html</guid>
       </item>
       
   </channel>
