@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 31 Jan 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0?source=rss----3a8144eabfe3---4">Kubernetes for dev infrastructure </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/four-lessons-in-making-pinterest-faster-on-android-5a3c69c045af?source=rss-ef81ef829bcb------2">Four lessons in making Pinterest faster on Android </a></li> 
+          
+            <li> <a href="https://hackernoon.com/i-tried-my-hand-at-deep-learning-and-made-some-poetry-along-the-way-2e350c33376f?source=rss----3a8144eabfe3---4">How to write some Walt Whitman style poetry using Deep Learning </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a?source=rss----12d1b859d4e4---4">How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/stream-all-the-things">Stream all the things </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39?source=rss----2615bd06b42e---4">Scaling Time Series Data Storage — Part I </a></li> 
+          
+            <li> <a href="http://eng.localytics.com/introducing-exploranda-a-set-of-tools-for-exploring-complex-systems/">Introducing Exploranda, a set of tools for exploring complex systems. </a></li> 
+          
+            <li> <a href="https://hackernoon.com/visualizing-how-raiblocks-works-8c70678ef082?source=rss----3a8144eabfe3---4">Visualizing How RaiBlocks Works </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/time-series-forecasting-with-splunk-part-i-intro-kalman-filter-46e4bff1abff?source=rss----7f60cf5620c9---4">Time Series Forecasting with Splunk. Part I. Intro &amp; Kalman Filter. </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/improving-performance-by-writing-a-custom-static-asset-server-in-rust/">Improving Performance by Writing a Custom Static Asset Server in Rust </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 31 Jan 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-01-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 30 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,34 +319,6 @@
         <pubDate>Thu, 18 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 17 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial">Asynchronous JavaScript: From Callback Hell to Async and Await </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/apache-mesos-apache-kafka-kafka-streams-highly-scalable-microservices/">Apache Mesos, Apache Kafka and Kafka Streams for Highly Scalable Microservices </a></li> 
-          
-            <li> <a href="http://tech.gilt.com/aws/2018/01/03/instant-voucher-serverless">Revitalize Gilt City&#39;s Order Processing with Serverless Architecture </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/understanding-and-building-generative-adversarial-networks-gans-8de7c1dc0e25?source=rss----5e5bef33608a---4">Understanding and building Generative Adversarial Networks(GANs)- Deep Learning with PyTorch. </a></li> 
-          
-            <li> <a href="https://hackernoon.com/exploiting-spectre-with-deep-learning-d8ec2ba4c8ca?source=rss----3a8144eabfe3---4">Exploiting Spectre with Deep learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-iv-e3c4b66da12c?source=rss----3a8144eabfe3---4">Understanding The React Source Code IV </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-3-tricks-that-made-alphago-zero-work-f3d47b6686ef?source=rss----3a8144eabfe3---4">The 3 Tricks That Made AlphaGo Zero Work </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/composable-go-a0d9e65a85e?source=rss----a88376ea904a---4">Composable Go </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 17 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-17.html</guid>
       </item>
       
   </channel>
