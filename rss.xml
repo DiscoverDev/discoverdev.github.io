@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 01 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/stream-go-news-feeds-for-over-300-million-end-users-b227614cf32f?source=rss----3a8144eabfe3---4">Stream &amp; Go: News Feeds for Over 300 Million End Users </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/caviars-word2vec-tagging-for-menu-item-recommendations-13f63d7f09d8?source=rss----3650599ae4e2---4">Caviar’s Word2Vec Tagging For Menu Item Recommendations </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/monitoring-for-distributed-and-microservices-deployments">Monitoring for Distributed and Microservices Deployments </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/using-synthetic-data-modeling-to-enhance-machine-learning-675175beed45?source=rss----cfe1120185d3---4">Using Synthetic Data Modeling to Enhance Machine Learning </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms">Exploring Supervised Machine Learning Algorithms </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f?source=rss----7f60cf5620c9---4">What is wrong with Convolutional neural networks ? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/byzantine-fault-tolerance-in-proof-of-stake-protocols-ab9746521b24?source=rss----3a8144eabfe3---4">Byzantine Fault Tolerance in Proof-of-stake protocols </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/pinterests-visual-lens-how-computer-vision-explores-your-taste-5470f87502ad?source=rss----7f60cf5620c9---4">Pinterest’s Visual Lens: How computer vision explores your taste </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675?source=rss----7f60cf5620c9---4">Building a Deep Neural Network to play FIFA 18 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 01 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 31 Jan 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,38 +317,6 @@
         <pubDate>Fri, 19 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 18 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://galois.com/blog/2018/01/javert-javascript-verification-toolchain/">JaVerT: a JavaScript Verification Toolchain </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/syn-packet-handling-in-the-wild/">SYN packet handling in the wild </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57?source=rss----7f60cf5620c9---4">The Art of Effective Visualization of Multi-dimensional Data </a></li> 
-          
-            <li> <a href="https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8?source=rss----a41470515491---4">Why aren’t you using Prettier? </a></li> 
-          
-            <li> <a href="https://engineering.hexacta.com/didact-instances-reconciliation-and-virtual-dom-9316d650f1d0?source=rss----a41470515491---4">Didact: Instances, reconciliation and virtual DOM </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-gravity-of-kubernetes-33126a96ee23?source=rss----3a8144eabfe3---4">The Gravity of Kubernetes </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/how-we-sped-up-eventually-consistent-databases-global-syncs-through-caching/">How We Sped Up Eventually-Consistent Databases Global Syncs Through Caching </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/why-factories">Why Factories? </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf">Now You See Me, Now You Don’t: LinkedIn’s Real-Time Presence Platform </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/evolving-search-recommendations-on-pinterest-136e26e0468a?source=rss-ef81ef829bcb------2">Evolving search recommendations on Pinterest </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 18 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-18.html</guid>
       </item>
       
   </channel>
