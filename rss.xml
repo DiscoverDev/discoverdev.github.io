@@ -6,6 +6,47 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 05 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/be-fast-be-secure-be-accessible">Be fast, be secure, be accessible </a></li> 
+          
+            <li> <a href="http://blog.avenuecode.com/understanding-the-underlying-principles-of-smart-contracts">Understanding the Underlying Principles of Smart Contracts </a></li> 
+          
+            <li> <a href="https://blog.bugsnag.com/grpc-and-microservices-architecture/">Building scalable microservices with
+gRPC </a></li> 
+          
+            <li> <a href="https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps-f9474d62eccc?source=rss----58820b6d8904---4">Interop&amp;rsquo;s Labyrinth: Sharing Code Between Web &amp; Electron Apps </a></li> 
+          
+            <li> <a href="https://eng.uber.com/neal/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neal">NEAL, Uber’s Open Source Language-Agnostic Linting Platform </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310?source=rss----f5105b08f43a---4">The State of Immutability </a></li> 
+          
+            <li> <a href="https://www.toptal.com/algorithms/mixed-integer-programming">Mixed-integer Programming:  A Guide to Computational Decision-making </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-to-solve-90-of-nlp-problems--a-step-by-step-guide">How to solve 90% of NLP problems: A step-by-step guide </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/2032921950067737/improving-android-video-on-news-feed-with-litho/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Improving Android video on News Feed with Litho </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/writing-complex-macros-in-rust-reverse-polish-notation/">Writing complex macros in Rust: Reverse Polish Notation </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-2/">A GraphQL Primer: The Evolution Of API Design (Part 2) </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-a-seamless-image-and-video-experience-for-the-web-62d7406f3ef2?source=rss----3a8144eabfe3---4">Building a Seamless Image and Video Experience for the Web </a></li> 
+          
+            <li> <a href="https://hackernoon.com/web-components-from-scratch-bringing-back-the-blink-tag-783743a0589e?source=rss----3a8144eabfe3---4">Web Components from Scratch — Bringing Back the Blink Tag </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/natural-languages-in-search/">Handling natural languages in search </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 05 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 02 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +324,6 @@
         <pubDate>Tue, 23 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 22 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users">Stream &amp; Go: News Feeds for Over 300 Million End Users </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/01/growing-cache-friendly-trees-part2.html">Scaling Gradient Boosted Trees for CTR Prediction - Part II </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/introducing-ponce-one-click-symbolic-execution-3d90a513e83a?source=rss----cfe1120185d3---4">Introducing Ponce: One-click Symbolic Execution </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/using-docker-in-api-gateway-and-microservice-development/">Using Docker in API Gateway and Microservice Development </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/">Making WebAssembly even faster: Firefox’s new streaming and tiering compiler </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/how-do-you-todo-a-microcosm-redux-comparison/">How Do You Todo? A Microcosm / Redux Comparison </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/measuring-transactional-integrity-in-airbnbs-distributed-payment-ecosystem-a670d6926d22?source=rss----53c7c27702d5---4">Measuring Transactional Integrity in Airbnb’s Distributed Payment Ecosystem </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/troubleshooting-containers/">In search of 0xffffffffff600400: troubleshooting containers, system calls and performance </a></li> 
-          
-            <li> <a href="https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8?source=rss----3a8144eabfe3---4">Avoiding Memory Leak in Golang API </a></li> 
-          
-            <li> <a href="https://nodesource.com/blog/speaker-focus-trevor-norris-on-the-birth-and-evolution-of-async-hooks-at-utahjs">Speaker Focus: Trevor Norris on &#34;The Birth and Evolution of Async Hooks&#34; at UtahJS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 22 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-22.html</guid>
       </item>
       
   </channel>
