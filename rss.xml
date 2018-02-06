@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 06 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet">Logo detection using Apache MXNet </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63?source=rss----cfe1120185d3---4">How Apache Kafka Inspired Our Platform Events Architecture </a></li> 
+          
+            <li> <a href="https://hashrocket.com/blog/posts/fun-with-views-and-ctes">Fun with Views and CTEs </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ui/designing-a-vui">Designing a VUI – Voice User Interface </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/02/idiomatic-python-stream-processing-in-wallaroo/">Idiomatic Python Stream Processing in Wallaroo </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/">Debugging JavaScript With A Real Debugger You Did Not Know You Already Have </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/machine-learning-needs-machine-teaching">Machine learning needs machine teaching </a></li> 
+          
+            <li> <a href="https://technology.skybettingandgaming.com/2018/01/02/challenges-faced-moving-to-serverless-in-aws/">Technical Challenges We Encountered When Moving to a Serverless Architecture in AWS </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2018/01/31/create-graphql-api/">Building a Family Tree With GraphQL – Part 1: Creating a Simple GraphQL API </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-generative-models-25ab2821afd3?source=rss----7f60cf5620c9---4">Deep Generative Models </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 06 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 05 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -292,38 +324,6 @@ gRPC </a></li>
         <pubDate>Wed, 24 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 23 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/making-e-commerce-search-faster/">Faster E-commerce Search </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/not-possible-to-block-chrome-headless/">It is *not* possible to detect and block Chrome headless </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/">Oxidizing Source Maps with Rust and WebAssembly </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/convolutional-neural-networks-for-language-tasks">Convolutional neural networks for language tasks </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/using-cuda-warp-level-primitives/">Using CUDA Warp-Level Primitives </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-machine-learning-can-be-used-to-write-more-secure-computer-programs">How machine learning can be used to write more secure computer programs </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/01/go-go-go-stream-processing-for-go/">Go Go, Go! Stream Processing for Go </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/however-improbable-the-story-of-a-processor-bug/">However improbable: The story of a processor bug </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/what-is-a-reactive-microservice">What is a reactive microservice? </a></li> 
-          
-            <li> <a href="https://nordicapis.com/optimize-developer-experience-api/">How to Optimize Developer Experience for Your API </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 23 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-23.html</guid>
       </item>
       
   </channel>
