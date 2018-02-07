@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 07 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6?source=rss----3a8144eabfe3---4">Converting Shaders from Shadertoy to ThreeJS </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/deep-functor-14d0dac194fb?source=rss----5e5bef33608a---4">Deep Functor </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/css-best-practices/">CSS best practices: scaling CSS in a fast-growing SaaS startup </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/geo-blocking-media-content-at-pinterest-ea11c8f8c2b7?source=rss-ef81ef829bcb------2">Geo-blocking media content on Pinterest </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/making-page-load-even-faster/">How we made our page-load optimisations even faster </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/02/dynamic-website-static-content-cdn/">How To Make A Dynamic Website Become Static Through A Content CDN </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/learning-artistic-styles-from-images-fa14c60890c1?source=rss----7f60cf5620c9---4">Learning Artistic Styles from Images </a></li> 
+          
+            <li> <a href="https://www.novoda.com/blog/getting-started-with-arkit/">Getting Started with ARKit </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/autoencoder-zoo-669d6490895f?source=rss----7f60cf5620c9---4">Autoencoder Zoo – Image correction with TensorFlow </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/getting-started-with-reinforcement-q-learning-77499b1766b6?source=rss----7f60cf5620c9---4">Getting Started with Reinforcement Q Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 07 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 06 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -294,36 +326,6 @@ gRPC </a></li>
         <pubDate>Thu, 25 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 24 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/creating-a-scalable-website-analysis-tool-using-lambda-and-api-gateway-and-s3-66df47506371?source=rss----3a8144eabfe3---4">Creating a Scalable Website Analysis Tool using Lambda and API Gateway and S3 </a></li> 
-          
-            <li> <a href="https://blog.twitch.tv/a-million-little-pieces-functional-css-in-react-9c2779873e67?source=rss----3ae745429979---4">A Million Little Pieces: Functional CSS in React </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/01/enabling-dual-stack-on-linkedin-cdns">Enabling Dual Stack on LinkedIn CDNs </a></li> 
-          
-            <li> <a href="https://hackernoon.com/automated-text-classification-using-machine-learning-c1b735aa5b99?source=rss----3a8144eabfe3---4">Automated Text Classification Using Machine Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-v-812d69a79fb9?source=rss----3a8144eabfe3---4">Understanding The React Source Code V </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/when-and-when-not-to-use-redux-41807f29a7fb?source=rss----7f3d96429888---4">When (and when not) to use Redux </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/introducing-rllib-a-composable-and-scalable-reinforcement-learning-library">Introducing RLlib: A composable and scalable reinforcement learning library </a></li> 
-          
-            <li> <a href="http://engineering.pivotal.io/post/deploy-kubernetes-cfcr/">Simplify Deploying Kubernetes with Cloud Foundry Container Runtime </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/creating-intricate-art-with-neural-style-transfer-e5fee5f89481?source=rss----5e5bef33608a---4">Creating Intricate Art with Neural Style Transfer </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 24 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-24.html</guid>
       </item>
       
   </channel>
