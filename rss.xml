@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 08 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/introducing-capsule-networks">Introducing capsule networks </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/integrating-continuous-testing-for-improved-open-source-security">Integrating continuous testing for improved open source security </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/the-twelve-factors-kubernetes/">The Twelve-Factors Kubernetes </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html">Making 30x performance improvements on Yelp’s MySQLStreamer </a></li> 
+          
+            <li> <a href="https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254?source=rss----3a8144eabfe3---4">Becoming fully reactive: an in-depth explanation of MobX </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b?source=rss----7f60cf5620c9---4">Analyzing Climate Patterns with Self-Organizing Maps (SOMs) </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/graph-based-recommendation-engine-for-amazon-products-1a373e639263?source=rss----7f60cf5620c9---4">Graph based recommendation engine for Amazon products </a></li> 
+          
+            <li> <a href="https://hackernoon.com/are-computers-better-than-doctors-2e07a05ae7ea?source=rss----3a8144eabfe3---4">Are computers better than doctors ? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/react-webgl-different-ways-of-creating-3d-apps-with-react-3af844f61257?source=rss----3a8144eabfe3---4">React + WebGL. Different ways of creating 3D apps with React. </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 08 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 07 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -296,36 +326,6 @@ gRPC </a></li>
         <pubDate>Fri, 26 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 25 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://research.fb.com/facebook-open-sources-detectron/">Facebook open sources Detectron </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10?source=rss----7f60cf5620c9---4">Understanding Learning Rates and How It Improves Performance in Deep Learning </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html">Exploring Recommendation Systems </a></li> 
-          
-            <li> <a href="https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c?source=rss----3a8144eabfe3---4">Do more with less! Using render props </a></li> 
-          
-            <li> <a href="https://hackernoon.com/migrating-wemove-co-from-azure-to-ubuntu-vm-on-digital-ocean-96280ce24777?source=rss----3a8144eabfe3---4">Migrating WeMove.co from Azure to Ubuntu VM on Digital Ocean </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/">Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/transfer-learning-leveraging-insights-from-large-data-sets-d5435071ec5a?source=rss----7f60cf5620c9---4">Transfer learning: leveraging insights from large data sets </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/uber-driver-schedule-optimization-62879ea41658?source=rss----7f60cf5620c9---4">Uber Driver Schedule Optimization </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b?source=rss----7f60cf5620c9---4">Basics of image classification with Keras </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 25 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-25.html</guid>
       </item>
       
   </channel>
