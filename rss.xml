@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 09 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.riotgames.com/news/profiling-measurement-and-analysis">Profiling: Measurement and Analysis </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/the-peak-performance-analysis-method-for-optimizing-any-gpu-workload/">The Peak-Performance Analysis Method for Optimizing Any GPU Workload </a></li> 
+          
+            <li> <a href="https://hackernoon.com/introducing-the-hardware-robot-information-model-hrim-8f0da3f22f67?source=rss----3a8144eabfe3---4">Introducing the Hardware Robot Information Model (HRIM) </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/">How to build your own private smart home with a Raspberry Pi and Mozilla’s Things Gateway </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e?source=rss----53c7c27702d5---4">Fighting Financial Fraud with Targeted Friction </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/">Developing Games with React, Redux, and SVG - Part 1 </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/02/the-instant-motion-tracking-behind.html">The Instant Motion Tracking Behind Motion Stills AR </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/02/mobile-app-facial-recognition-feature/">Mobile App With Facial Recognition Feature: How To Make It Real </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 09 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 08 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -294,38 +322,6 @@ gRPC </a></li>
         <pubDate>Mon, 29 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 26 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/autoworkout-how-to-improve-motion-activity-classifier-predictions-d047feead616?source=rss----7f60cf5620c9---4">AutoWorkout: How to Improve Motion Activity Classifier Predictions? </a></li> 
-          
-            <li> <a href="https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0?source=rss----2817475205d3---4">Mapping Medium’s Tags </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/finding-vulnerable-open-source-packages">Finding vulnerable open source packages </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/405334539915815/android-native-library-merging/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Android native library merging </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/machine-learning-for-a-secure-available-and-performant-infrastructure-519b41c79211?source=rss----cfe1120185d3---4">Machine Learning for a Secure, Available, and Performant Infrastructure </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/fishing-for-graphs-in-a-hadoop-data-lake">Fishing for graphs in a Hadoop data lake </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/01/firefox-58-the-quantum-era-continues/">Firefox 58: The Quantum Era Continues </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/01/15/proxysql-firewalling/">ProxySQL Firewalling </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8?source=rss----f5105b08f43a---4">How to use JavaScript Proxies for Fun and Profit </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/simplicity-by-distributing-complexity/index.html">Simplicity by Distributing Complexity </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 26 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-26.html</guid>
       </item>
       
   </channel>
