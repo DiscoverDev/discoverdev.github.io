@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 12 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/">GraphQL as an API Gateway to Microservices </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum">Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58?source=rss----12d1b859d4e4---4">How JavaScript works: Service Workers, their lifecycle and use cases </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/02/a-scikit-learn-pipeline-in-wallaroo/">A Scikit-learn pipeline in Wallaroo </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/search-deep-neural-network/index.html">Cross-Lingual End-to-End Product Search with Deep Learning </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2018/02/07/developers-guide-to-docker-part-4">A Developer&#39;s Guide To Docker - Docker Swarm </a></li> 
+          
+            <li> <a href="https://www.novoda.com/blog/designing-for-ar-with-arkit/">Designing for AR with ARKit </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/its-hard-to-change-the-keys-to-the-internet-and-it-involves-destroying-hsms/">It’s Hard To Change The Keys To The Internet And It Involves Destroying HSM’s </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-deep-learning-to-generate-offensive-license-plates-619b163ed937?source=rss----7f60cf5620c9---4">Using deep learning to generate offensive license plates </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 12 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 09 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -290,38 +320,6 @@ gRPC </a></li>
         <pubDate>Tue, 30 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 29 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.pubnub.com/blog/everything-you-wanted-to-know-about-serverless-but-were-afraid-to-ask/">Everything you Wanted to Know about Serverless (But Were Afraid to Ask) </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/anomaly-detection-with-apache-mxnet">Anomaly detection with Apache MXNet </a></li> 
-          
-            <li> <a href="https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3?source=rss----3d158c042765---4">Finding the Perfect 10: How We Developed the Foursquare Venue Rating System </a></li> 
-          
-            <li> <a href="https://blog.takipi.com/clr-vs-jvm-how-the-battle-between-net-and-java-extends-to-the-vm-level/">CLR vs JVM: How the Battle Between .NET and Java Extends to The VM-Level </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/550719898617409/under-the-hood-multilingual-embeddings/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Under the hood: Multilingual embeddings </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/react-and-visual-automata-based-programming-c1d13e153cde?source=rss----f5105b08f43a---4">React and visual automata-based programming </a></li> 
-          
-            <li> <a href="https://eng.uber.com/omphalos/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=omphalos">Omphalos, Uber’s Parallel and Language-Extensible Time Series Backtesting Tool </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/">A GraphQL Primer: Why We Need A New Kind Of API (Part 1) </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/tensorflow-brings-ai-to-the-connected-device">TensorFlow brings AI to the connected device </a></li> 
-          
-            <li> <a href="https://engineering.semantics3.com/partitioning-in-postgresql-161e52c367ba?source=rss----1fece9c038a3---4">Partitioning in PostgreSQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 29 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-29.html</guid>
       </item>
       
   </channel>
