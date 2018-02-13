@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 13 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/keeping-related-pins-fresh-6b0e2876d7e?source=rss-ef81ef829bcb------2">Keeping Related Pins fresh </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6?source=rss----2615bd06b42e---4">AVA: The Art and Science of Image Discovery at Netflix </a></li> 
+          
+            <li> <a href="https://medium.com/dev-channel/how-to-add-full-text-search-to-your-website-4e9c80ce2bf4?source=rss----32c64651a75---4">How to add full text search to your website </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/plotting-in-many-dimensions-382fbd7fe76e?source=rss----7f60cf5620c9---4">Mis-employing radar charts to distinguish multidimensional data </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/automatic-stubbing-of-network-requests-to-de-flakify-automation-testing">Automatic stubbing of Network Requests to de-flakify Automation Testing </a></li> 
+          
+            <li> <a href="https://devblog.songkick.com/creating-a-musical-data-pipeline-72673faf8f2e?source=rss----e0e3c74f91b8---4">Creating a musical (data) pipeline </a></li> 
+          
+            <li> <a href="https://hackernoon.com/docker-quotas-and-mario-bros-706aad98ba72?source=rss----3a8144eabfe3---4">Docker Quotas and Mario Bros </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/buzzword-microservices-serverless-functions-programmable-infrastructur/">Buzzword Central — Microservices, Serverless, Functions, Programmable Infrastructure </a></li> 
+          
+            <li> <a href="https://hackernoon.com/rethinking-front-end-error-reporting-57c11728314?source=rss----3a8144eabfe3---4">Rethinking front-end error reporting </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 13 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 12 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -288,38 +318,6 @@ gRPC </a></li>
         <pubDate>Wed, 31 Jan 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-01-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 30 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f?source=rss----3a8144eabfe3---4">AWS Lambda — should you have few monolithic functions or many single-purposed functions? </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/reactive-programming-in-python/">Reactive Programming in Python </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33?source=rss----f5105b08f43a---4">Decouple Business Logic using Async Generators </a></li> 
-          
-            <li> <a href="https://www.toptal.com/software/best-command-line-tools">Command Line Tools for Developers </a></li> 
-          
-            <li> <a href="https://www.future-processing.pl/blog/improving-security-of-your-web-application-with-security-headers/">Improving security of your web application with Security Headers </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/paul-bakker-and-sander-mak-on-java-9-modularity">Paul Bakker and Sander Mak on Java 9 modularity </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/react-native-flutter-xamarin-a-comparison/">React Native, Flutter, Xamarin: a comparison </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/introduction-functional-programming-python/">Introduction to Functional Programming in Python </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/pagerank-in-spark">PageRank in Spark </a></li> 
-          
-            <li> <a href="https://nordicapis.com/should-you-start-with-a-monolith-or-microservices/">Should You Start With A Monolith or Microservices? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 30 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-30.html</guid>
       </item>
       
   </channel>
