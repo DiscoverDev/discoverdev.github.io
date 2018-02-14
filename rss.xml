@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 14 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.octo.com/en/how-to-hack-spark-to-do-some-data-lineage/">How to hack Spark to do some data lineage </a></li> 
+          
+            <li> <a href="https://hackernoon.com/debugging-memory-leaks-in-node-js-applications-84125c0530d2?source=rss----3a8144eabfe3---4">Debugging Memory Leaks in Node.js Applications </a></li> 
+          
+            <li> <a href="https://hackernoon.com/a-technical-deep-dive-on-meltdown-and-does-it-work-5c395579b2a1?source=rss----3a8144eabfe3---4">A technical deep dive on Meltdown and does it work? </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0?source=rss----7f60cf5620c9---4">Building a Deep Neural Net In Google Sheets </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b?source=rss----f5105b08f43a---4">React’s ⚛️ new Context API </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-learning-with-python-703e26853820?source=rss----7f60cf5620c9---4">Deep Learning with Python </a></li> 
+          
+            <li> <a href="http://engineering.opensooq.com/android-continuous-integration/">Android Continuous Integration </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/automatic-feature-engineering-using-deep-learning-and-bayesian-inference-application-to-computer-7b2bb8dc7351?source=rss----7f60cf5620c9---4">Automatic feature engineering using deep learning and Bayesian inference </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 14 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 13 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -286,38 +314,6 @@ gRPC </a></li>
         <pubDate>Thu, 01 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 31 Jan 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0?source=rss----3a8144eabfe3---4">Kubernetes for dev infrastructure </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/four-lessons-in-making-pinterest-faster-on-android-5a3c69c045af?source=rss-ef81ef829bcb------2">Four lessons in making Pinterest faster on Android </a></li> 
-          
-            <li> <a href="https://hackernoon.com/i-tried-my-hand-at-deep-learning-and-made-some-poetry-along-the-way-2e350c33376f?source=rss----3a8144eabfe3---4">How to write some Walt Whitman style poetry using Deep Learning </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a?source=rss----12d1b859d4e4---4">How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/stream-all-the-things">Stream all the things </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39?source=rss----2615bd06b42e---4">Scaling Time Series Data Storage — Part I </a></li> 
-          
-            <li> <a href="http://eng.localytics.com/introducing-exploranda-a-set-of-tools-for-exploring-complex-systems/">Introducing Exploranda, a set of tools for exploring complex systems. </a></li> 
-          
-            <li> <a href="https://hackernoon.com/visualizing-how-raiblocks-works-8c70678ef082?source=rss----3a8144eabfe3---4">Visualizing How RaiBlocks Works </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/time-series-forecasting-with-splunk-part-i-intro-kalman-filter-46e4bff1abff?source=rss----7f60cf5620c9---4">Time Series Forecasting with Splunk. Part I. Intro &amp; Kalman Filter. </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/improving-performance-by-writing-a-custom-static-asset-server-in-rust/">Improving Performance by Writing a Custom Static Asset Server in Rust </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 31 Jan 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-01-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-01-31.html</guid>
       </item>
       
   </channel>
