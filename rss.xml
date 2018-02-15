@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 15 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.pubnub.com/blog/what-is-functions-as-a-service-faas/">What’s All the FaaS About? </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/2/12/hellofresh-navigating-the-rough-seas-of-environment-scaling.html">HelloFresh: Navigating the rough seas of environment scaling with Aho </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/architecture-overview-of-a-conversational-ai-chat-bot-4ef3dfefd52e?source=rss----7f60cf5620c9---4">Conversational AI chat-bot — Architecture overview </a></li> 
+          
+            <li> <a href="https://hackernoon.com/https-medium-com-matteoronchetti-pointillism-with-python-and-opencv-f4274e6bbb7b?source=rss----3a8144eabfe3---4">Creating Pointillist Paintings with Python and OpenCV </a></li> 
+          
+            <li> <a href="https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711?source=rss----3a8144eabfe3---4">Chroot: the magical healing powers of the original Linux virtualization tool </a></li> 
+          
+            <li> <a href="https://blog.minio.io/iot-data-storage-and-analysis-with-fluentd-minio-and-spark-26f183381183?source=rss----9183d6601790---4">IoT data storage and analysis with Fluentd, Minio and Spark </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">How production engineers support global events on Facebook </a></li> 
+          
+            <li> <a href="https://buildingvts.com/testing-presentational-components-36fb035f46ee?source=rss----f76c28ec6a84---4">Testing Presentational Components </a></li> 
+          
+            <li> <a href="https://hackernoon.com/why-is-occlusion-in-augmented-reality-so-hard-7bc8041607f9?source=rss----3a8144eabfe3---4">Why is Occlusion in Augmented Reality So Hard? </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/">Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 15 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 14 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -284,36 +316,6 @@ gRPC </a></li>
         <pubDate>Fri, 02 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 01 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/stream-go-news-feeds-for-over-300-million-end-users-b227614cf32f?source=rss----3a8144eabfe3---4">Stream &amp; Go: News Feeds for Over 300 Million End Users </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/caviars-word2vec-tagging-for-menu-item-recommendations-13f63d7f09d8?source=rss----3650599ae4e2---4">Caviar’s Word2Vec Tagging For Menu Item Recommendations </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/monitoring-for-distributed-and-microservices-deployments">Monitoring for Distributed and Microservices Deployments </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/using-synthetic-data-modeling-to-enhance-machine-learning-675175beed45?source=rss----cfe1120185d3---4">Using Synthetic Data Modeling to Enhance Machine Learning </a></li> 
-          
-            <li> <a href="https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms">Exploring Supervised Machine Learning Algorithms </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f?source=rss----7f60cf5620c9---4">What is wrong with Convolutional neural networks ? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/byzantine-fault-tolerance-in-proof-of-stake-protocols-ab9746521b24?source=rss----3a8144eabfe3---4">Byzantine Fault Tolerance in Proof-of-stake protocols </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/pinterests-visual-lens-how-computer-vision-explores-your-taste-5470f87502ad?source=rss----7f60cf5620c9---4">Pinterest’s Visual Lens: How computer vision explores your taste </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675?source=rss----7f60cf5620c9---4">Building a Deep Neural Network to play FIFA 18 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 01 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-01.html</guid>
       </item>
       
   </channel>
