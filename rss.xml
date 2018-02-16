@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 16 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-viii-b704eb4bf4d0?source=rss----3a8144eabfe3---4">Understanding The React Source Code VIII </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/">Replacing jQuery With Vue.js: No Build Step Necessary </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/travis-encrypted-variables-external-contributions/">Travis encrypted variables and external contributions </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/how-we-built-the-codeship-api-v2/">How We Built the Codeship API v2 </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations">How neural networks learn distributed representations </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/unraveling-bayesian-dark-magic-non-bayesianist-implementing-bayesian-regression-e4336ef32e61?source=rss----7f60cf5620c9---4">Unravelling Bayesian Dark Magic: Non-Bayesianist Implementing Bayesian Regression </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/02/reflecting-on-wayfairs-conversion-to-react-and-redux/">Reflecting on Wayfair’s Conversion to React and Redux </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56?source=rss----3a8144eabfe3---4">How Immutable Data Structures (E.g. Immutable.js) are Optimized </a></li> 
+          
+            <li> <a href="https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3?source=rss----3a8144eabfe3---4">A Hitchhiker’s Guide to Consensus Algorithms </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2018/02/12/coordinated-cache-refill-redis-node/">Coordinated Cache Refill with Redis and Node </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 16 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 15 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -286,36 +318,6 @@ gRPC </a></li>
         <pubDate>Mon, 05 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 02 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/01/automated-testing/">Automated Browser Testing With The WebDriver API </a></li> 
-          
-            <li> <a href="https://hackernoon.com/more-functional-refactoring-a-vector-library-4bf3d6b88612?source=rss----3a8144eabfe3---4">More functional: A story in refactoring a 2d vector library </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/01/shrinking-webassembly-and-javascript-code-sizes-in-emscripten/">Shrinking WebAssembly and JavaScript code sizes in Emscripten </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/practical-text-generation-with-tensorflow-serving-3fa5c792605e?source=rss----7f60cf5620c9---4">Practical Text Generation with Tensorflow Serving </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/architecture-for-large-scale-web-app-development-6bba324fa231?source=rss----7f60cf5620c9---4">Architecture for Large Scale App Development </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/01/why-we-wrote-our-kafka-client-in-pony/">Why we wrote our Kafka Client in Pony </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/mitigating-known-security-risks-in-open-source-libraries">Mitigating known security risks in open source libraries </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/two-hardware-lessons-from-the-front-line/">Two Hardware Lessons from the Front Line: PID Loops and Bootloading </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/from-big-data-to-fast-data">From big data to fast data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 02 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-02.html</guid>
       </item>
       
   </channel>
