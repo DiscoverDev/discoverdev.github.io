@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 19 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/announcing-tensor-comprehensions/">Announcing Tensor Comprehensions </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/02/css-grid-for-ui-layouts/">CSS Grid for UI Layouts </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/building-deep-learning-neural-networks-using-tensorflow-layers">Building deep learning neural networks using TensorFlow layers </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-most-controversial-html5-extension-7adc66bbc291?source=rss----7f3d96429888---4">The most controversial HTML5 extension </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/how-we-built-rearranging-pins-b11052e95c8b?source=rss-ef81ef829bcb------2">How we built rearranging Pins </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2018/02/creating-and-publishing-web-components-with-stencil.html">Creating and Publishing Web Components with Stencil </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/golang-rpc-twirp/">Simple, minimal, production-ready RPC in golang with twirp </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-hci-researchers-summary-on-aaai-2018-conference-6496d6328aa4?source=rss----7f60cf5620c9---4">A HCI Researcher’s Summary on AAAI 2018 Conference! </a></li> 
+          
+            <li> <a href="http://blog.honeybadger.io/rustic_explicit_nil_handling_in_ruby/">Rustic Nil Handling in Ruby </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/implementing-chatops-into-our-incident-management-procedure">Implementing ChatOps into our Incident Management Procedure </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-quest-for-availability-771fa8a94a7c?source=rss----3a8144eabfe3---4">The Quest for Availability. </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 19 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 16 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,47 +311,6 @@
         <pubDate>Tue, 06 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 05 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/be-fast-be-secure-be-accessible">Be fast, be secure, be accessible </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/understanding-the-underlying-principles-of-smart-contracts">Understanding the Underlying Principles of Smart Contracts </a></li> 
-          
-            <li> <a href="https://blog.bugsnag.com/grpc-and-microservices-architecture/">Building scalable microservices with
-gRPC </a></li> 
-          
-            <li> <a href="https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps-f9474d62eccc?source=rss----58820b6d8904---4">Interop&amp;rsquo;s Labyrinth: Sharing Code Between Web &amp; Electron Apps </a></li> 
-          
-            <li> <a href="https://eng.uber.com/neal/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neal">NEAL, Uber’s Open Source Language-Agnostic Linting Platform </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310?source=rss----f5105b08f43a---4">The State of Immutability </a></li> 
-          
-            <li> <a href="https://www.toptal.com/algorithms/mixed-integer-programming">Mixed-integer Programming:  A Guide to Computational Decision-making </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-to-solve-90-of-nlp-problems--a-step-by-step-guide">How to solve 90% of NLP problems: A step-by-step guide </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/2032921950067737/improving-android-video-on-news-feed-with-litho/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Improving Android video on News Feed with Litho </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/writing-complex-macros-in-rust-reverse-polish-notation/">Writing complex macros in Rust: Reverse Polish Notation </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-2/">A GraphQL Primer: The Evolution Of API Design (Part 2) </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-a-seamless-image-and-video-experience-for-the-web-62d7406f3ef2?source=rss----3a8144eabfe3---4">Building a Seamless Image and Video Experience for the Web </a></li> 
-          
-            <li> <a href="https://hackernoon.com/web-components-from-scratch-bringing-back-the-blink-tag-783743a0589e?source=rss----3a8144eabfe3---4">Web Components from Scratch — Bringing Back the Blink Tag </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/natural-languages-in-search/">Handling natural languages in search </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 05 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-05.html</guid>
       </item>
       
   </channel>
