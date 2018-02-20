@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 20 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://webuild.envato.com/blog/building-a-scalable-elk-stack/">Building a scalable ELK stack </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/deep-dive-into-cephs-kernel-client-edea75787528?source=rss----cfe1120185d3---4">Deep Dive Into Ceph’s Kernel Client </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/02/15/memory-barriers-seastar-linux/">Adventures with Memory Barriers and Seastar on Linux </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/02/15/culture-of-quality-measuring-code-coverage-at-etsy/">Culture of Quality: Measuring Code Coverage at Etsy </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/graphs-as-the-front-end-for-machine-learning">Graphs as the front end for machine learning </a></li> 
+          
+            <li> <a href="https://nordicapis.com/serverless-graphql-architecture-with-graphcool/">Serverless GraphQL Architecture With Graphcool </a></li> 
+          
+            <li> <a href="https://hackernoon.com/a-hitchhikers-tour-of-the-beam-cdcfb11f0a6c?source=rss----3a8144eabfe3---4">A Hitchhiker’s Tour of the BEAM </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/what-every-web-app-developer-must-know-about-security-3b4345353133?source=rss----905ea2b3d4d1---4">What every web app developer must know about security </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10?source=rss----3650599ae4e2---4">Ruby’s New JIT </a></li> 
+          
+            <li> <a href="https://eng.uber.com/anomaly-detection/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anomaly-detection">Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 20 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 19 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,38 +311,6 @@
         <pubDate>Wed, 07 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 06 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet">Logo detection using Apache MXNet </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63?source=rss----cfe1120185d3---4">How Apache Kafka Inspired Our Platform Events Architecture </a></li> 
-          
-            <li> <a href="https://hashrocket.com/blog/posts/fun-with-views-and-ctes">Fun with Views and CTEs </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ui/designing-a-vui">Designing a VUI – Voice User Interface </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/02/idiomatic-python-stream-processing-in-wallaroo/">Idiomatic Python Stream Processing in Wallaroo </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/">Debugging JavaScript With A Real Debugger You Did Not Know You Already Have </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/machine-learning-needs-machine-teaching">Machine learning needs machine teaching </a></li> 
-          
-            <li> <a href="https://technology.skybettingandgaming.com/2018/01/02/challenges-faced-moving-to-serverless-in-aws/">Technical Challenges We Encountered When Moving to a Serverless Architecture in AWS </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2018/01/31/create-graphql-api/">Building a Family Tree With GraphQL – Part 1: Creating a Simple GraphQL API </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-generative-models-25ab2821afd3?source=rss----7f60cf5620c9---4">Deep Generative Models </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-06.html</guid>
       </item>
       
   </channel>
