@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 22 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://sysdig.com/blog/kubernetes-scaler/">How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/02/continuous-shared-element-transitions.html">Continuous Shared Element Transitions: RecyclerView to ViewPager </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/continuous-delivery-for-static-sites/">Continuous Delivery for Static Sites </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/solving-spacenet-road-detection-challenge-deep-learning/">Solving SpaceNet Road Detection Challenge With Deep Learning </a></li> 
+          
+            <li> <a href="https://kinvolk.io/blog/2018/02/timing-issues-when-using-bpf-with-virtual-cpus/">Timing issues when using BPF with virtual CPUs </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/02/will-a-diverse-set-of-choices-help-customers-find-more-of-what-they-love/">A Cornucopia of Area Rugs: Will a Diverse Set of Choices Help Customers Find More of What They Love? </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html">Assessing Cardiovascular Risk Factors with Computer Vision </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?source=rss----3a8144eabfe3---4">The best architecture with Docker and Kubernetes — myth or reality? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?source=rss----3a8144eabfe3---4">Chaos Engineering using Amazon EC2 Systems Manager </a></li> 
+          
+            <li> <a href="https://blog.yld.io/2018/02/19/reuse/">Reuse reviewed </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 22 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 21 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,36 +313,6 @@
         <pubDate>Fri, 09 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 08 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/introducing-capsule-networks">Introducing capsule networks </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/integrating-continuous-testing-for-improved-open-source-security">Integrating continuous testing for improved open source security </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/the-twelve-factors-kubernetes/">The Twelve-Factors Kubernetes </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html">Making 30x performance improvements on Yelp’s MySQLStreamer </a></li> 
-          
-            <li> <a href="https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254?source=rss----3a8144eabfe3---4">Becoming fully reactive: an in-depth explanation of MobX </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b?source=rss----7f60cf5620c9---4">Analyzing Climate Patterns with Self-Organizing Maps (SOMs) </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/graph-based-recommendation-engine-for-amazon-products-1a373e639263?source=rss----7f60cf5620c9---4">Graph based recommendation engine for Amazon products </a></li> 
-          
-            <li> <a href="https://hackernoon.com/are-computers-better-than-doctors-2e07a05ae7ea?source=rss----3a8144eabfe3---4">Are computers better than doctors ? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/react-webgl-different-ways-of-creating-3d-apps-with-react-3af844f61257?source=rss----3a8144eabfe3---4">React + WebGL. Different ways of creating 3D apps with React. </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 08 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-08.html</guid>
       </item>
       
   </channel>
