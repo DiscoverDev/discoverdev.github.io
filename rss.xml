@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 23 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/building-mrbuffer-a-text-editor-for-a-31-year-old-computer-59d5ea450507?source=rss----3a8144eabfe3---4">Building mrbuffer: a text editor for a 31 year old computer </a></li> 
+          
+            <li> <a href="https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43?source=rss----3a8144eabfe3---4">Running a scalable &amp; reliable GraphQL endpoint with Serverless </a></li> 
+          
+            <li> <a href="http://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/">How Algolia built their frontend search widgets with React.js by following redux principles </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2018/02/21/application-deployment.html">Application Deployment at Deliveroo </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088?source=rss----7f60cf5620c9---4">Using Deep Learning for Structured Data with Entity Embeddings </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/build-a-recurrent-neural-network-using-apache-mxnet">Build a recurrent neural network using Apache MXNet </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/02/how-showmax-got-into-live-streaming/">How Showmax got into live streaming </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/cool-hacks-with-pubnub-and-ibm-watson-apis/">Cool Hacks with PubNub and IBM Watson APIs </a></li> 
+          
+            <li> <a href="http://research.baidu.com/neural-voice-cloning-samples/">Neural Voice Cloning with a Few Samples </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/visualizing-archer-bcb80e319625?source=rss----7f60cf5620c9---4">Visualizing Archer </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 23 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 22 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,34 +317,6 @@
         <pubDate>Mon, 12 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 09 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.riotgames.com/news/profiling-measurement-and-analysis">Profiling: Measurement and Analysis </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/the-peak-performance-analysis-method-for-optimizing-any-gpu-workload/">The Peak-Performance Analysis Method for Optimizing Any GPU Workload </a></li> 
-          
-            <li> <a href="https://hackernoon.com/introducing-the-hardware-robot-information-model-hrim-8f0da3f22f67?source=rss----3a8144eabfe3---4">Introducing the Hardware Robot Information Model (HRIM) </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/">How to build your own private smart home with a Raspberry Pi and Mozilla’s Things Gateway </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e?source=rss----53c7c27702d5---4">Fighting Financial Fraud with Targeted Friction </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/">Developing Games with React, Redux, and SVG - Part 1 </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/02/the-instant-motion-tracking-behind.html">The Instant Motion Tracking Behind Motion Stills AR </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/02/mobile-app-facial-recognition-feature/">Mobile App With Facial Recognition Feature: How To Make It Real </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 09 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-09.html</guid>
       </item>
       
   </channel>
