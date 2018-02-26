@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 26 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/dissecting-the-bitcoin-whitepaper-in-four-minutes-5c8c5e5f8010?source=rss----3a8144eabfe3---4">Dissecting the Bitcoin whitepaper in four minutes </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/what-cant-react-do/">What Can’t React Do? </a></li> 
+          
+            <li> <a href="https://eng.uber.com/schemaless-rewrite/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=schemaless-rewrite">Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/">A Practical Introduction to Container Terminology </a></li> 
+          
+            <li> <a href="https://hackernoon.com/event-driven-architecture-implementation-140c51820845?source=rss----3a8144eabfe3---4">Event-Driven Architecture Implementation </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Under the hood: Suicide prevention tools powered by AI </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/">Validating Leaked Passwords with k-Anonymity </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/">How Developers got Password Security so Wrong </a></li> 
+          
+            <li> <a href="https://hackernoon.com/my-first-attempt-at-systematic-trading-algorithms-21a023d37d46?source=rss----3a8144eabfe3---4">My First Attempt At Systematic Trading Algorithms </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 26 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 23 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,36 +317,6 @@
         <pubDate>Tue, 13 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 12 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/">GraphQL as an API Gateway to Microservices </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum">Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58?source=rss----12d1b859d4e4---4">How JavaScript works: Service Workers, their lifecycle and use cases </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/02/a-scikit-learn-pipeline-in-wallaroo/">A Scikit-learn pipeline in Wallaroo </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/search-deep-neural-network/index.html">Cross-Lingual End-to-End Product Search with Deep Learning </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2018/02/07/developers-guide-to-docker-part-4">A Developer&#39;s Guide To Docker - Docker Swarm </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/designing-for-ar-with-arkit/">Designing for AR with ARKit </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/its-hard-to-change-the-keys-to-the-internet-and-it-involves-destroying-hsms/">It’s Hard To Change The Keys To The Internet And It Involves Destroying HSM’s </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-deep-learning-to-generate-offensive-license-plates-619b163ed937?source=rss----7f60cf5620c9---4">Using deep learning to generate offensive license plates </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 12 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-12.html</guid>
       </item>
       
   </channel>
