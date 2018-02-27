@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 27 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://levelup.gitconnected.com/learn-redux-by-building-redux-from-scratch-dcbcbd31b0d0?source=rss----5517fd7b58a6---4">Learn Redux by Building Redux from Scratch </a></li> 
+          
+            <li> <a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf?source=rss----3a8144eabfe3---4">Why Flutter Uses Dart </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/218840725330904/global-connectivity-working-together-to-bring-more-people-online/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Global connectivity: Working together to bring more people online </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/mechanisms-securing-blockchain-data-9e762513ae28?source=rss----7f60cf5620c9---4">Mechanisms Securing Blockchain Data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f?source=rss----7f60cf5620c9---4">Deep inside: Autoencoders </a></li> 
+          
+            <li> <a href="https://hackernoon.com/raschietto-a-simple-library-for-web-scraping-46957c6aa5b7?source=rss----3a8144eabfe3---4">Raschietto: a simple library for web scraping </a></li> 
+          
+            <li> <a href="https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c?source=rss----3a8144eabfe3---4">O API — an alternative to REST APIs </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-use-deep-learning-to-quantify-pollinator-behavior-i-5fc8000a9bde?source=rss----7f60cf5620c9---4">How to use deep-learning to quantify pollinator behavior I </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 27 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 26 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,36 +315,6 @@
         <pubDate>Wed, 14 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 13 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/keeping-related-pins-fresh-6b0e2876d7e?source=rss-ef81ef829bcb------2">Keeping Related Pins fresh </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6?source=rss----2615bd06b42e---4">AVA: The Art and Science of Image Discovery at Netflix </a></li> 
-          
-            <li> <a href="https://medium.com/dev-channel/how-to-add-full-text-search-to-your-website-4e9c80ce2bf4?source=rss----32c64651a75---4">How to add full text search to your website </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/plotting-in-many-dimensions-382fbd7fe76e?source=rss----7f60cf5620c9---4">Mis-employing radar charts to distinguish multidimensional data </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/automatic-stubbing-of-network-requests-to-de-flakify-automation-testing">Automatic stubbing of Network Requests to de-flakify Automation Testing </a></li> 
-          
-            <li> <a href="https://devblog.songkick.com/creating-a-musical-data-pipeline-72673faf8f2e?source=rss----e0e3c74f91b8---4">Creating a musical (data) pipeline </a></li> 
-          
-            <li> <a href="https://hackernoon.com/docker-quotas-and-mario-bros-706aad98ba72?source=rss----3a8144eabfe3---4">Docker Quotas and Mario Bros </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/buzzword-microservices-serverless-functions-programmable-infrastructur/">Buzzword Central — Microservices, Serverless, Functions, Programmable Infrastructure </a></li> 
-          
-            <li> <a href="https://hackernoon.com/rethinking-front-end-error-reporting-57c11728314?source=rss----3a8144eabfe3---4">Rethinking front-end error reporting </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 13 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-13.html</guid>
       </item>
       
   </channel>
