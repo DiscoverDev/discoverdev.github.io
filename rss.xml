@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 28 Feb 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/introducing-wrek-a-miniature-erlang-graph-engine-79196e7ea457?source=rss----3a8144eabfe3---4">Introducing Wrek — A Miniature Erlang Graph Engine </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/asyncio/">Context information storage for asyncio </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/deep-neural-networks-for-survival-analysis-based-on-a-multi-task-framework-ded8697be85c?source=rss----3650599ae4e2---4">Deep Neural Networks for Survival Analysis Based on a Multi-Task Framework </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage">Future Proofing Our Cloud Storage Usage </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/writing-slackbots-with-goroutines/">Writing Slackbots With Goroutines </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-ix-949de347e5b9?source=rss----3a8144eabfe3---4">Understanding The React Source Code IX </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f?source=rss----3a8144eabfe3---4">What I learnt from building 3 high traffic web applications on an embedded key value store. </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20?source=rss----3a8144eabfe3---4">The dramatic impersonation : a developer horror tale </a></li> 
+          
+            <li> <a href="https://hackernoon.com/attoparsec-the-clarity-of-do-syntax-95bf47846855?source=rss----3a8144eabfe3---4">Attoparsec: The Clarity of Do-Syntax </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/02/its-resilient-css-week/">It’s Resilient CSS Week </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 28 Feb 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-02-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 27 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,34 +319,6 @@
         <pubDate>Thu, 15 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 14 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.octo.com/en/how-to-hack-spark-to-do-some-data-lineage/">How to hack Spark to do some data lineage </a></li> 
-          
-            <li> <a href="https://hackernoon.com/debugging-memory-leaks-in-node-js-applications-84125c0530d2?source=rss----3a8144eabfe3---4">Debugging Memory Leaks in Node.js Applications </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-technical-deep-dive-on-meltdown-and-does-it-work-5c395579b2a1?source=rss----3a8144eabfe3---4">A technical deep dive on Meltdown and does it work? </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0?source=rss----7f60cf5620c9---4">Building a Deep Neural Net In Google Sheets </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b?source=rss----f5105b08f43a---4">React’s ⚛️ new Context API </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-with-python-703e26853820?source=rss----7f60cf5620c9---4">Deep Learning with Python </a></li> 
-          
-            <li> <a href="http://engineering.opensooq.com/android-continuous-integration/">Android Continuous Integration </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/automatic-feature-engineering-using-deep-learning-and-bayesian-inference-application-to-computer-7b2bb8dc7351?source=rss----7f60cf5620c9---4">Automatic feature engineering using deep learning and Bayesian inference </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 14 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-14.html</guid>
       </item>
       
   </channel>
