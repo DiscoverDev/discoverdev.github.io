@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 01 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.riotgames.com/news/animation-league-legends-client">Animation in the League of Legends Client </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-devs-need-to-know-about-encoding-encryption-hashing-salting-stretching-76a3da32e0fd?source=rss----3a8144eabfe3---4">What devs need to know about Encoding / Encryption / Hashing / Salting / Stretching </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3?source=rss----7f60cf5620c9---4">ResNet for Traffic Sign Classification With PyTorch </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/">Using Apache Kafka for Asynchronous Communication in Microservices </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile">Clowne: Clone Ruby models with&amp;nbsp;a smile </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/gary-sloper-on-the-evolving-role-of-dns-in-building-resilient-infrastructure">Gary Sloper on the evolving role of DNS in building resilient infrastructure </a></li> 
+          
+            <li> <a href="https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/">What to expect when you decide to migrate from Javascript to Typescript </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/">How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/detail/236">Buffer overflow in PJSIP, a VoIP open source library </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 01 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 28 Feb 2018</title>
         <description><![CDATA[
           <ul>
@@ -287,38 +317,6 @@
         <pubDate>Fri, 16 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 15 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.pubnub.com/blog/what-is-functions-as-a-service-faas/">What’s All the FaaS About? </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/2/12/hellofresh-navigating-the-rough-seas-of-environment-scaling.html">HelloFresh: Navigating the rough seas of environment scaling with Aho </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/architecture-overview-of-a-conversational-ai-chat-bot-4ef3dfefd52e?source=rss----7f60cf5620c9---4">Conversational AI chat-bot — Architecture overview </a></li> 
-          
-            <li> <a href="https://hackernoon.com/https-medium-com-matteoronchetti-pointillism-with-python-and-opencv-f4274e6bbb7b?source=rss----3a8144eabfe3---4">Creating Pointillist Paintings with Python and OpenCV </a></li> 
-          
-            <li> <a href="https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711?source=rss----3a8144eabfe3---4">Chroot: the magical healing powers of the original Linux virtualization tool </a></li> 
-          
-            <li> <a href="https://blog.minio.io/iot-data-storage-and-analysis-with-fluentd-minio-and-spark-26f183381183?source=rss----9183d6601790---4">IoT data storage and analysis with Fluentd, Minio and Spark </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">How production engineers support global events on Facebook </a></li> 
-          
-            <li> <a href="https://buildingvts.com/testing-presentational-components-36fb035f46ee?source=rss----f76c28ec6a84---4">Testing Presentational Components </a></li> 
-          
-            <li> <a href="https://hackernoon.com/why-is-occlusion-in-augmented-reality-so-hard-7bc8041607f9?source=rss----3a8144eabfe3---4">Why is Occlusion in Augmented Reality So Hard? </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/">Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 15 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-15.html</guid>
       </item>
       
   </channel>
