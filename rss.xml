@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 02 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">HotSwap: Bringing hot code reloading to Buck </a></li> 
+          
+            <li> <a href="https://www.toptal.com/database/database-migrations-caterpillars-butterflies">Database Migrations: Turning Caterpillars into Butterflies </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/comparing-production-grade-nlp-libraries-training-spark-nlp-and-spacy-pipelines">Comparing production-grade NLP libraries: Training Spark-NLP and spaCy pipelines </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql">Big, fast, easy data with KSQL </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/">OpenAPI–An eBay Perspective </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/monitor-istio/">How to monitor Istio, the Kubernetes service mesh </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e?source=rss----587883b5d2ee---4">How to build a deep learning model in 15 minutes </a></li> 
+          
+            <li> <a href="https://blog.bugsnag.com/using-grpc-in-production/">Our experience designing and building gRPC services </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 02 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 01 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,38 +313,6 @@
         <pubDate>Mon, 19 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 16 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-viii-b704eb4bf4d0?source=rss----3a8144eabfe3---4">Understanding The React Source Code VIII </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/">Replacing jQuery With Vue.js: No Build Step Necessary </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/travis-encrypted-variables-external-contributions/">Travis encrypted variables and external contributions </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/how-we-built-the-codeship-api-v2/">How We Built the Codeship API v2 </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations">How neural networks learn distributed representations </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/unraveling-bayesian-dark-magic-non-bayesianist-implementing-bayesian-regression-e4336ef32e61?source=rss----7f60cf5620c9---4">Unravelling Bayesian Dark Magic: Non-Bayesianist Implementing Bayesian Regression </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/02/reflecting-on-wayfairs-conversion-to-react-and-redux/">Reflecting on Wayfair’s Conversion to React and Redux </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56?source=rss----3a8144eabfe3---4">How Immutable Data Structures (E.g. Immutable.js) are Optimized </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3?source=rss----3a8144eabfe3---4">A Hitchhiker’s Guide to Consensus Algorithms </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2018/02/12/coordinated-cache-refill-redis-node/">Coordinated Cache Refill with Redis and Node </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 16 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-16.html</guid>
       </item>
       
   </channel>
