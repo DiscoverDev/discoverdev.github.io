@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 07 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.remind.com/building-infrastructure-in-parallel/">Building Infrastructure in Parallel </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/squeezing-the-firehose/">Squeezing the firehose: getting the most from Kafka compression </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html">A Preview of Bristlecone, Google’s New Quantum Processor </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/">How to Write CSS That Works in Every Browser, Even the Old Ones </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277?source=rss----7f60cf5620c9---4">Black-Box Attacks on Perceptual Image Hashes with GANs </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-to-do-real-time-trigger-word-detection-with-keras-b8a56ab106b7?source=rss----3a8144eabfe3---4">How to do Real Time Trigger Word Detection with Keras </a></li> 
+          
+            <li> <a href="https://hackernoon.com/hierarchical-classification-at-forge-ai-5745160f01c7?source=rss----3a8144eabfe3---4">Hierarchical Classification at Forge.AI </a></li> 
+          
+            <li> <a href="https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c?source=rss----3a8144eabfe3---4">Hacking a $30 IoT camera to do more than it’s worth. </a></li> 
+          
+            <li> <a href="https://hackernoon.com/creating-webassembly-powered-library-for-modern-web-846da334f8fc?source=rss----3a8144eabfe3---4">Creating WebAssembly-powered library for modern web </a></li> 
+          
+            <li> <a href="https://www.bitovi.com/blog/a-refactoring">A Refactoring </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 07 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 06 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,38 +309,6 @@
         <pubDate>Thu, 22 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 21 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/lessons-learned-implementing-redux-on-android-cba1bed40c41?source=rss----3a8144eabfe3---4">Lessons Learned Implementing Redux on Android </a></li> 
-          
-            <li> <a href="https://www.novoda.com/blog/arkit-coreml/">Making AR more precise with CoreML </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-build-an-audio-processor-in-your-browser-302cb7aa502a?source=rss----3a8144eabfe3---4">How To Build An Audio Processor In Your Browser </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad?source=rss----7f60cf5620c9---4">Evolution of Object Detection and Localization Algorithms </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae?source=rss----3a8144eabfe3---4">How to Debug Any Problem </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9?source=rss----7f60cf5620c9---4">Intro to Descriptive Statistics </a></li> 
-          
-            <li> <a href="https://hackernoon.com/migrating-to-microservices-and-event-sourcing-the-dos-and-donts-195153c7487d?source=rss----3a8144eabfe3---4">Migrating to Microservices and Event-Sourcing: the Dos and Dont’s </a></li> 
-          
-            <li> <a href="https://hackernoon.com/overly-defensive-programming-e7a1b3d234c2?source=rss----3a8144eabfe3---4">Overly defensive programming </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/02/16/why-zfs-affects-mysql-performance/">Why ZFS Affects MySQL Performance </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/generative-model-using-apache-mxnet">Build generative models using Apache MXNet </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 21 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-21.html</guid>
       </item>
       
   </channel>
