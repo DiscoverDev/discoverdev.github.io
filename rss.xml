@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 08 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa?source=rss----d02e65779d7b---4">Always start with a stupid model, no exceptions. </a></li> 
+          
+            <li> <a href="https://segment.com/blog/secure-access-to-100-aws-accounts/">Secure Access to 100 AWS Accounts </a></li> 
+          
+            <li> <a href="https://hackernoon.com/back-to-the-future-with-smalltalk-57c68fab583a?source=rss----3a8144eabfe3---4">Back to the Future with Smalltalk </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/">Introduction to Istio; It Makes A Mesh Of Things </a></li> 
+          
+            <li> <a href="https://advancedweb.hu/2018/03/06/dependency-injection-boundaries/">Dependency Injection Boundaries </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f?source=rss----2615bd06b42e---4">Dynamic optimizer — a perceptual video encoding optimization framework </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html">CSS in the Age of React: How We Traded the Cascade for Consistency </a></li> 
+          
+            <li> <a href="https://hackernoon.com/marketstore-the-financial-time-series-database-is-now-open-source-fd04343f439?source=rss----3a8144eabfe3---4">MarketStore, the financial time series database, is now open source </a></li> 
+          
+            <li> <a href="https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589?source=rss----37dc2a3034f2---4">Open-sourcing a 10x reduction in Apache Cassandra tail latency </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 08 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 07 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,38 +307,6 @@
         <pubDate>Fri, 23 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 22 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://sysdig.com/blog/kubernetes-scaler/">How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/02/continuous-shared-element-transitions.html">Continuous Shared Element Transitions: RecyclerView to ViewPager </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/continuous-delivery-for-static-sites/">Continuous Delivery for Static Sites </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/solving-spacenet-road-detection-challenge-deep-learning/">Solving SpaceNet Road Detection Challenge With Deep Learning </a></li> 
-          
-            <li> <a href="https://kinvolk.io/blog/2018/02/timing-issues-when-using-bpf-with-virtual-cpus/">Timing issues when using BPF with virtual CPUs </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/02/will-a-diverse-set-of-choices-help-customers-find-more-of-what-they-love/">A Cornucopia of Area Rugs: Will a Diverse Set of Choices Help Customers Find More of What They Love? </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html">Assessing Cardiovascular Risk Factors with Computer Vision </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?source=rss----3a8144eabfe3---4">The best architecture with Docker and Kubernetes — myth or reality? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?source=rss----3a8144eabfe3---4">Chaos Engineering using Amazon EC2 Systems Manager </a></li> 
-          
-            <li> <a href="https://blog.yld.io/2018/02/19/reuse/">Reuse reviewed </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 22 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-22.html</guid>
       </item>
       
   </channel>
