@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 09 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams">Transforming enterprise integration with reactive streams </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-first-principles-e5df8835ae18?source=rss----7f60cf5620c9---4">Understanding and optimizing GANs (Going back to first principles) </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/03/immersive-aframe-low-poly/">Building an Immersive Game with A-Frame and Low Poly Models </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/">How To Build A Skin For Your Web App With React And WordPress </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html">How I Potty Trained My Kid Using Twilio and an AWS IoT Button </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/">HTTP Analytics for 6M requests per second using ClickHouse </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff?source=rss----7f60cf5620c9---4">Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code </a></li> 
+          
+            <li> <a href="https://hackernoon.com/serverless-application-with-flutter-lambda-aa0d264fbefd?source=rss----3a8144eabfe3---4">Serverless Application with Flutter &amp; Lambda </a></li> 
+          
+            <li> <a href="https://distill.pub/2018/building-blocks">The Building Blocks of Interpretability </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 09 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 08 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +305,6 @@
         <pubDate>Mon, 26 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 23 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/building-mrbuffer-a-text-editor-for-a-31-year-old-computer-59d5ea450507?source=rss----3a8144eabfe3---4">Building mrbuffer: a text editor for a 31 year old computer </a></li> 
-          
-            <li> <a href="https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43?source=rss----3a8144eabfe3---4">Running a scalable &amp; reliable GraphQL endpoint with Serverless </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/">How Algolia built their frontend search widgets with React.js by following redux principles </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2018/02/21/application-deployment.html">Application Deployment at Deliveroo </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088?source=rss----7f60cf5620c9---4">Using Deep Learning for Structured Data with Entity Embeddings </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/build-a-recurrent-neural-network-using-apache-mxnet">Build a recurrent neural network using Apache MXNet </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2018/02/how-showmax-got-into-live-streaming/">How Showmax got into live streaming </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/cool-hacks-with-pubnub-and-ibm-watson-apis/">Cool Hacks with PubNub and IBM Watson APIs </a></li> 
-          
-            <li> <a href="http://research.baidu.com/neural-voice-cloning-samples/">Neural Voice Cloning with a Few Samples </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/visualizing-archer-bcb80e319625?source=rss----7f60cf5620c9---4">Visualizing Archer </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 23 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-23.html</guid>
       </item>
       
   </channel>
