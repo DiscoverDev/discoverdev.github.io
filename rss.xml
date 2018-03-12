@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 12 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.heroku.com/exploration-of-security-when-building-docker-containers">A House of Cards: An Exploration of Security When Building Docker Containers </a></li> 
+          
+            <li> <a href="https://hackernoon.com/real-time-api-monitoring-using-go-and-pusher-4e57c4e80cac?source=rss----3a8144eabfe3---4">Real-time API Monitoring Using GO and Pusher </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/">Learn How to Build a Time Series Database </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401?source=rss----12d1b859d4e4---4">How JavaScript works: tracking changes in the DOM using MutationObserver </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/03/performance-testing-a-low-latency-stream-processing-system/">Performance testing a low-latency stream processing system </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/tobi-knaup-and-gou-rao-on-stateful-containers">Tobi Knaup and Gou Rao on stateful containers </a></li> 
+          
+            <li> <a href="https://nordicapis.com/is-graphql-moving-toward-ubiquity/">Is GraphQL Moving Toward Ubiquity? </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/">Introducing conu – Scripting Containers Made Easier </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/03/using-codable-protocol-in-swift-4/">How We’re Using Codable Protocol in Swift 4 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 09 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +305,6 @@
         <pubDate>Tue, 27 Feb 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-02-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 26 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/dissecting-the-bitcoin-whitepaper-in-four-minutes-5c8c5e5f8010?source=rss----3a8144eabfe3---4">Dissecting the Bitcoin whitepaper in four minutes </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/what-cant-react-do/">What Can’t React Do? </a></li> 
-          
-            <li> <a href="https://eng.uber.com/schemaless-rewrite/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=schemaless-rewrite">Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/">A Practical Introduction to Container Terminology </a></li> 
-          
-            <li> <a href="https://hackernoon.com/event-driven-architecture-implementation-140c51820845?source=rss----3a8144eabfe3---4">Event-Driven Architecture Implementation </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Under the hood: Suicide prevention tools powered by AI </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/">Validating Leaked Passwords with k-Anonymity </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/">How Developers got Password Security so Wrong </a></li> 
-          
-            <li> <a href="https://hackernoon.com/my-first-attempt-at-systematic-trading-algorithms-21a023d37d46?source=rss----3a8144eabfe3---4">My First Attempt At Systematic Trading Algorithms </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 26 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-26.html</guid>
       </item>
       
   </channel>
