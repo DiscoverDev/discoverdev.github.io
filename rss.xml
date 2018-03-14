@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 14 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?source=rss----2615bd06b42e---4">Project Nimble: Region Evacuation Reimagined </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/semantic-image-segmentation-with.html">Semantic Image Segmentation with DeepLab in Tensorflow </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs">Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js </a></li> 
+          
+            <li> <a href="https://hackernoon.com/is-bft-consensus-effective-for-proof-of-stake-blockchain-implementations-dc01f429d225?source=rss----3a8144eabfe3---4">Is BFT Consensus effective for Proof-of-Stake Blockchain Implementations </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138?source=rss----7f60cf5620c9---4">Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e?source=rss----7f60cf5620c9---4">Using Deep Learning to improve FIFA 18 graphics </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-redux-type-flow-93aada6964e5?source=rss----3a8144eabfe3---4">The Redux Type Flow </a></li> 
+          
+            <li> <a href="https://blog.novoda.com/designing-for-ar-with-arkit/">Designing for AR with ARKit </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-an-arm-kubernetes-cluster-ef31032636f9?source=rss----3a8144eabfe3---4">Building an ARM Kubernetes Cluster </a></li> 
+          
+            <li> <a href="https://crystal-lang.org/2018/03/09/crystal-automated-release.html">Crystal Automated Release </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 14 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 13 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -276,38 +308,6 @@ Now Streaming! </a></li>
         <pubDate>Thu, 01 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 28 Feb 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/introducing-wrek-a-miniature-erlang-graph-engine-79196e7ea457?source=rss----3a8144eabfe3---4">Introducing Wrek — A Miniature Erlang Graph Engine </a></li> 
-          
-            <li> <a href="https://blog.sqreen.io/asyncio/">Context information storage for asyncio </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/deep-neural-networks-for-survival-analysis-based-on-a-multi-task-framework-ded8697be85c?source=rss----3650599ae4e2---4">Deep Neural Networks for Survival Analysis Based on a Multi-Task Framework </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/future-proofing-our-cloud-storage-usage">Future Proofing Our Cloud Storage Usage </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/writing-slackbots-with-goroutines/">Writing Slackbots With Goroutines </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-the-react-source-code-ix-949de347e5b9?source=rss----3a8144eabfe3---4">Understanding The React Source Code IX </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f?source=rss----3a8144eabfe3---4">What I learnt from building 3 high traffic web applications on an embedded key value store. </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-dramatic-impersonation-a-developer-horror-tale-c794b1ab5c20?source=rss----3a8144eabfe3---4">The dramatic impersonation : a developer horror tale </a></li> 
-          
-            <li> <a href="https://hackernoon.com/attoparsec-the-clarity-of-do-syntax-95bf47846855?source=rss----3a8144eabfe3---4">Attoparsec: The Clarity of Do-Syntax </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/02/its-resilient-css-week/">It’s Resilient CSS Week </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 28 Feb 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-02-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-02-28.html</guid>
       </item>
       
   </channel>
