@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 15 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/">Shattering the Trillion-Rows-Per-Second Barrier With MemSQL </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/event-sourcing-using-apache-kafka/">Event Sourcing Using Apache Kafka </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?source=rss----3a8144eabfe3---4">How GraphQL Replaces Redux </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e?source=rss----53c7c27702d5---4">Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-neural-network-implemented-in-pure-sql-over-bigquery-f3ed245814d3?source=rss----7f60cf5620c9---4">Deep Neural Network implemented in pure SQL over BigQuery </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/cloudflare-workers-unleashed/">Everyone can now run JavaScript on Cloudflare with Workers </a></li> 
+          
+            <li> <a href="http://blog.klipse.tech//reason/2018/03/12/blog-reason-types.html">Polymorphic vs. ordinary variants in reason </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2018/03/12/excel-snapshot-testing-node/">Excel Snapshot Testing with Node </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d?source=rss----7f60cf5620c9---4">How I implemented iPhone X’s FaceID using Deep Learning in Python. </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/03/caching-internal-service-calls-at-yelp.html">Caching Internal Service Calls at Yelp </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 15 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 14 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -278,36 +310,6 @@ Now Streaming! </a></li>
         <pubDate>Fri, 02 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 01 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.riotgames.com/news/animation-league-legends-client">Animation in the League of Legends Client </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-devs-need-to-know-about-encoding-encryption-hashing-salting-stretching-76a3da32e0fd?source=rss----3a8144eabfe3---4">What devs need to know about Encoding / Encryption / Hashing / Salting / Stretching </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3?source=rss----7f60cf5620c9---4">ResNet for Traffic Sign Classification With PyTorch </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/">Using Apache Kafka for Asynchronous Communication in Microservices </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile">Clowne: Clone Ruby models with&amp;nbsp;a smile </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/gary-sloper-on-the-evolving-role-of-dns-in-building-resilient-infrastructure">Gary Sloper on the evolving role of DNS in building resilient infrastructure </a></li> 
-          
-            <li> <a href="https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/">What to expect when you decide to migrate from Javascript to Typescript </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/">How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/detail/236">Buffer overflow in PJSIP, a VoIP open source library </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 01 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-01.html</guid>
       </item>
       
   </channel>
