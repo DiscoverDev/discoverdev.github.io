@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 16 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.forge.ai/blog/knowledge-graphs-for-enhanced-machine-reasoning-at-forge.ai">Knowledge Graphs for Enhanced Machine Reasoning at Forge.AI </a></li> 
+          
+            <li> <a href="https://developers.500px.com/understanding-rendering-in-react-redux-7044c6402a75?source=rss----5d9282daaaa1---4">Understanding Rendering in React + Redux </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/mobile-search-ux-part-three-seach-results-display/">Mobile Search UX – Part Three: Displaying the Hard Work </a></li> 
+          
+            <li> <a href="http://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/">How to Release a Buggy App (And Live to Tell the Tale) </a></li> 
+          
+            <li> <a href="https://eng.uber.com/grail/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grail">Scaling Infrastructure Management with Grail </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/profiling-optimisation">Profiling: Optimisation </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/behind-motion-photos-technology-in.html">Behind the Motion Photos Technology in Pixel 2 </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/356115241551826/profilo-understanding-app-performance-in-the-wild/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Profilo: Understanding app performance in the wild </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/monolithic-applications-into-services">SHIFT Commerce&#39;s Journey: Deconstructing Monolithic Applications into Services </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/shape-context-descriptor-and-fast-characters-recognition-c031eac726f9?source=rss----7f60cf5620c9---4">Shape Context descriptor and fast characters recognition </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 16 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 15 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -282,34 +314,6 @@ Now Streaming! </a></li>
         <pubDate>Mon, 05 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 02 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.facebook.com/posts/331133477380576/hotswap-bringing-hot-code-reloading-to-buck/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">HotSwap: Bringing hot code reloading to Buck </a></li> 
-          
-            <li> <a href="https://www.toptal.com/database/database-migrations-caterpillars-butterflies">Database Migrations: Turning Caterpillars into Butterflies </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/comparing-production-grade-nlp-libraries-training-spark-nlp-and-spacy-pipelines">Comparing production-grade NLP libraries: Training Spark-NLP and spaCy pipelines </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/big-fast-easy-data-with-ksql">Big, fast, easy data with KSQL </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/openapi-an-ebay-perspective/">OpenAPI–An eBay Perspective </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/monitor-istio/">How to monitor Istio, the Kubernetes service mesh </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e?source=rss----587883b5d2ee---4">How to build a deep learning model in 15 minutes </a></li> 
-          
-            <li> <a href="https://blog.bugsnag.com/using-grpc-in-production/">Our experience designing and building gRPC services </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 02 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-02.html</guid>
       </item>
       
   </channel>
