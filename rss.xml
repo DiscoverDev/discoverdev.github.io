@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 19 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.codeship.com/vuejs-as-a-frontend-for-rails/">VueJS as a Frontend for Rails </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/parallel-and-distributed-genetic-algorithms-1ed2e76866e3?source=rss----7f60cf5620c9---4">Parallel and distributed genetic algorithms </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/">How BBC Interactive Content Works Across AMP, Apps, And The Web </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/why-mobx/index.html">Why MobX? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/migrating-from-heroku-to-aws-with-kubernates-and-without-stopping-production-4ff6346cccf8?source=rss----3a8144eabfe3---4">Migrating from Heroku to AWS with kubernates and without stopping production </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin">Search Federation Architecture at LinkedIn </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/engineering-to-improve-marketing-effectiveness-part-1-a6dd5d02bab7?source=rss----2615bd06b42e---4">Engineering to Improve Marketing Effectiveness (Part 1) </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/balanced-partitioning-and-hierarchical.html">Balanced Partitioning and Hierarchical Clustering at Scale </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/">Making WebAssembly better for Rust &amp; for all languages </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 19 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 16 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +312,6 @@ Now Streaming! </a></li>
         <pubDate>Tue, 06 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 05 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/redesigning-redux-b2baee8b8a38?source=rss----3a8144eabfe3---4">Redesigning Redux </a></li> 
-          
-            <li> <a href="https://eng.uber.com/queryparser/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=queryparser">Queryparser, an Open Source Tool for Parsing and Analyzing SQL </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/">Meet Bandaid, the Dropbox service proxy </a></li> 
-          
-            <li> <a href="http://engineering.pivotal.io/post/event-source-kafka-rabbit-jpa/">Event Sourcing with Kafka, RabbitMQ and JPA </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/data-analysis-spark/index.html">Data Analysis with Spark </a></li> 
-          
-            <li> <a href="http://www.olioapps.com/blog/the-lost-art-of-the-makefile/">The Lost Art of the Makefile </a></li> 
-          
-            <li> <a href="https://www.zillow.com/engineering/debugging-production-event-logging/">Debugging Production with Event Logging </a></li> 
-          
-            <li> <a href="https://facebook.github.io/react-native/blog/2018/01/18/implementing-twitters-app-loading-animation-in-react-native.html">Implementing Twitter’s App Loading Animation in React Native </a></li> 
-          
-            <li> <a href="https://redditblog.com/2018/02/28/the-evolution-of-data-at-reddit/">The Evolution of Data at Reddit </a></li> 
-          
-            <li> <a href="https://hackernoon.com/exploring-new-frontiers-in-ci-cd-and-devops-420b0f9bde53?source=rss----3a8144eabfe3---4">Exploring new frontiers in CI/CD and DevOps </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 05 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-05.html</guid>
       </item>
       
   </channel>
