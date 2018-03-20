@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 20 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.klipse.tech//ocaml/2018/03/16/ocaml-polymorphic-types.html">Polymorphic vs. ordinary variants in ocaml </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641?source=rss----7f60cf5620c9---4">Common Patterns for Analyzing Data </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/geo-partitioning-one/">Geo-Partitioning: What Global Data Actually Looks Like </a></li> 
+          
+            <li> <a href="https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc?source=rss----3a8144eabfe3---4">Reliable Event Processing in Azure Functions </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html">Using Evolutionary AutoML to Discover Neural Network Architectures </a></li> 
+          
+            <li> <a href="https://hackernoon.com/cameras-as-traffic-cops-99a85513e1e0?source=rss----3a8144eabfe3---4">Cameras as Traffic Cops </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda?source=rss----12d1b859d4e4---4">How JavaScript works: the rendering engine and tips to optimize its performance </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/tuning-the-kafka-connect-cassandra-source-part-2-53f98ae163ea?source=rss----905ea2b3d4d1---4">Tuning the Kafka Connect Cassandra Source (part 2) </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/solution-deep-dive-building-a-highly-available-web-application-with-web-processing-and-storing-capabilities-using-mongodb-and-elk-stack">Solution Deep Dive: Building a Highly Available Web Application with Web Processing and Storing Capabilities Using MongoDB and Elk Stack </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa?source=rss----d3d69d818e3d---4">CSS Grid Application Layout in Production </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 20 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 19 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -282,36 +314,6 @@ Now Streaming! </a></li>
         <pubDate>Wed, 07 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 06 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/a-pods-architecture-to-allow-shopify-to-scale">A Pods Architecture To Allow Shopify To Scale </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/hero2vec-d42d6838c941?source=rss----d02e65779d7b---4">Predicting e-sports winners with Machine Learning </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html">Introducing LogFeeder - A log collection system </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-a-next-word-predictor-in-tensorflow-e7e681d4f03f?source=rss----7f60cf5620c9---4">Building a Next Word Predictor in Tensorflow </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/understanding-composition-browser-events-f402a8ed5643?source=rss----3650599ae4e2---4">Understanding Composition Browser Events </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html">Mobile Real-time Video Segmentation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/working-with-text-data-from-quality-to-quantity-1e9d8aa773dd?source=rss----7f60cf5620c9---4">Working with Text Data — From Quality to Quantity </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/03/01/visualize-this-mysql-tools-we-use-to-explain-our-queries/">Visualize This! MySQL Tools That Explain Queries </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/03/air-traffic-controller--member-first-notifications-at-linkedin">Air Traffic Controller: Member-First Notifications at LinkedIn </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 06 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-06.html</guid>
       </item>
       
   </channel>
