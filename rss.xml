@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 21 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.findmypast.com/searching-for-solr/">Searching for Solr </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/steganography-hiding-an-image-inside-another-77ca66b2acb1?source=rss----7f60cf5620c9---4">Steganography: Hiding an image inside another </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/vehicle-detection-and-tracking-using-machine-learning-and-hog-f4a8995fc30a?source=rss----7f60cf5620c9---4">Vehicle Detection and Tracking using Machine Learning and HOG </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/gobonniego_results/">Benchmarking the Disk Speed of IaaSes </a></li> 
+          
+            <li> <a href="https://hackernoon.com/optimizing-a-static-site-d5ab6899f249?source=rss----3a8144eabfe3---4">10x Performance Increases: Optimizing a Static Site </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/using-deep-learning-to-facilitate.html">Using Deep Learning to Facilitate Scientific Image Analysis </a></li> 
+          
+            <li> <a href="https://eng.uber.com/vine/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vine">VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-brief-introduction-to-two-data-processing-architectures-lambda-and-kappa-for-big-data-4f35c28005bb?source=rss----7f60cf5620c9---4">A brief introduction to two data processing architectures — Lambda and Kappa for Big Data </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/development/starting-IoT/">Starting out in the world of IoT </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 21 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 20 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -282,38 +312,6 @@ Now Streaming! </a></li>
         <pubDate>Thu, 08 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 07 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.remind.com/building-infrastructure-in-parallel/">Building Infrastructure in Parallel </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/squeezing-the-firehose/">Squeezing the firehose: getting the most from Kafka compression </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html">A Preview of Bristlecone, Google’s New Quantum Processor </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/">How to Write CSS That Works in Every Browser, Even the Old Ones </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277?source=rss----7f60cf5620c9---4">Black-Box Attacks on Perceptual Image Hashes with GANs </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-do-real-time-trigger-word-detection-with-keras-b8a56ab106b7?source=rss----3a8144eabfe3---4">How to do Real Time Trigger Word Detection with Keras </a></li> 
-          
-            <li> <a href="https://hackernoon.com/hierarchical-classification-at-forge-ai-5745160f01c7?source=rss----3a8144eabfe3---4">Hierarchical Classification at Forge.AI </a></li> 
-          
-            <li> <a href="https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c?source=rss----3a8144eabfe3---4">Hacking a $30 IoT camera to do more than it’s worth. </a></li> 
-          
-            <li> <a href="https://hackernoon.com/creating-webassembly-powered-library-for-modern-web-846da334f8fc?source=rss----3a8144eabfe3---4">Creating WebAssembly-powered library for modern web </a></li> 
-          
-            <li> <a href="https://www.bitovi.com/blog/a-refactoring">A Refactoring </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 07 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-07.html</guid>
       </item>
       
   </channel>
