@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 22 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.facebook.com/posts/226845501211938/fabric-aggregator-a-flexible-solution-to-our-traffic-demand/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Fabric Aggregator: A flexible solution to our traffic demand </a></li> 
+          
+            <li> <a href="https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1?source=rss----3a8144eabfe3---4">Make your GraphQL API Easier To Adopt Through Components </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82?source=rss----d02e65779d7b---4">Automated front-end development using deep learning </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/introduction-nvidia-rtx-directx-raytracing/">Introduction to NVIDIA RTX and DirectX Raytracing </a></li> 
+          
+            <li> <a href="https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d?source=rss----3d158c042765---4">You Are (Probably) Here: Better Map Pins with DBSCAN &amp; Random Forests </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef?source=rss----7f60cf5620c9---4">GPU-accelerated Neural Networks in JavaScript </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/03/web-midi-api/">Getting Started With The Web MIDI API </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-git-index-4821a0765cf?source=rss----3a8144eabfe3---4">Understanding Git — Index </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 22 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 21 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -282,36 +310,6 @@ Now Streaming! </a></li>
         <pubDate>Fri, 09 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 08 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa?source=rss----d02e65779d7b---4">Always start with a stupid model, no exceptions. </a></li> 
-          
-            <li> <a href="https://segment.com/blog/secure-access-to-100-aws-accounts/">Secure Access to 100 AWS Accounts </a></li> 
-          
-            <li> <a href="https://hackernoon.com/back-to-the-future-with-smalltalk-57c68fab583a?source=rss----3a8144eabfe3---4">Back to the Future with Smalltalk </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/">Introduction to Istio; It Makes A Mesh Of Things </a></li> 
-          
-            <li> <a href="https://advancedweb.hu/2018/03/06/dependency-injection-boundaries/">Dependency Injection Boundaries </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f?source=rss----2615bd06b42e---4">Dynamic optimizer — a perceptual video encoding optimization framework </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html">CSS in the Age of React: How We Traded the Cascade for Consistency </a></li> 
-          
-            <li> <a href="https://hackernoon.com/marketstore-the-financial-time-series-database-is-now-open-source-fd04343f439?source=rss----3a8144eabfe3---4">MarketStore, the financial time series database, is now open source </a></li> 
-          
-            <li> <a href="https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589?source=rss----37dc2a3034f2---4">Open-sourcing a 10x reduction in Apache Cassandra tail latency </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 08 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-08.html</guid>
       </item>
       
   </channel>
