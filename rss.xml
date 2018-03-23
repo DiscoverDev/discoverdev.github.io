@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 23 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4?source=rss----2817475205d3---4">2 Fast 2 Furious: migrating Medium’s codebase without slowing down </a></li> 
+          
+            <li> <a href="https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469?source=rss----3a8144eabfe3---4">Releasing “Supervisely Person” dataset for teaching machines to segment humans </a></li> 
+          
+            <li> <a href="https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb">Integration and End-to-end Tests Made Easy with Node.js and MongoDB </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/history-of-node-js/">History of Node.js on a Timeline </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/storage-performance-basics-for-deep-learning/">Storage Performance Basics for Deep Learning </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/">Lazy Loading JavaScript Modules With ConditionerJS </a></li> 
+          
+            <li> <a href="https://aws.amazon.com/blogs/aws/real-time-hotspot-detection-in-amazon-kinesis-analytics/">Real-Time Hotspot Detection in Amazon Kinesis Analytics </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/187912491817160/the-next-step-in-facebook-s-ai-hardware-infrastructure/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">The next step in Facebook&#39;s AI hardware infrastructure </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 23 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 22 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -280,36 +308,6 @@ Now Streaming! </a></li>
         <pubDate>Mon, 12 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 09 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams">Transforming enterprise integration with reactive streams </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-first-principles-e5df8835ae18?source=rss----7f60cf5620c9---4">Understanding and optimizing GANs (Going back to first principles) </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/03/immersive-aframe-low-poly/">Building an Immersive Game with A-Frame and Low Poly Models </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/">How To Build A Skin For Your Web App With React And WordPress </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2018/03/iot-poop-button-python-twilio-aws.html">How I Potty Trained My Kid Using Twilio and an AWS IoT Button </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/">HTTP Analytics for 6M requests per second using ClickHouse </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff?source=rss----7f60cf5620c9---4">Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code </a></li> 
-          
-            <li> <a href="https://hackernoon.com/serverless-application-with-flutter-lambda-aa0d264fbefd?source=rss----3a8144eabfe3---4">Serverless Application with Flutter &amp; Lambda </a></li> 
-          
-            <li> <a href="https://distill.pub/2018/building-blocks">The Building Blocks of Interpretability </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 09 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-09.html</guid>
       </item>
       
   </channel>
