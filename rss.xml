@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 27 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/whats-wrong-with-spectrograms-and-cnns-for-audio-processing-311377d7ccd?source=rss----7f60cf5620c9---4">What’s wrong with spectrograms and CNNs for audio processing? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/fun-with-functors-and-reasonml-8bb59b243e9c?source=rss----3a8144eabfe3---4">Fun with Functors and ReasonML </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/titledemand/">Finding Desirable Items in eBay Search by a Deep Dive into Skipped Items </a></li> 
+          
+            <li> <a href="https://hackernoon.com/crypto-deepdive-bloom-protocol-763efe73bd90?source=rss----3a8144eabfe3---4">Crypto DeepDive: Bloom Protocol </a></li> 
+          
+            <li> <a href="https://www.toptal.com/python/in-depth-python-logging">Python Logging: An In-Depth Tutorial </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/music-by-means-of-natural-selection-11934d7e89a3?source=rss----7f60cf5620c9---4">Music by means of natural selection </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/.net/serverless-and-using-it/">Serverless, and the challenges using it </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience">LinkedIn Lite: A Lightweight Mobile Web Experience </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 27 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 26 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,37 +305,6 @@
         <pubDate>Wed, 14 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 13 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/">Go Fast or Go Home: The Process of Optimizing for Client Performance </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/2058037817807164/quality-assessment-of-360-video-view-sessions/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Quality assessment of 360 video view sessions </a></li> 
-          
-            <li> <a href="https://hackernoon.com/exploring-deepfakes-20c9947c22d9?source=rss----3a8144eabfe3---4">Exploring DeepFakes </a></li> 
-          
-            <li> <a href="https://hackernoon.com/tensor-flow-part-1-tensorflow-machine-learning-on-android-73fd536a1a7c?source=rss----3a8144eabfe3---4">Tensor &amp; Flow: Part 1, TensorFlow &amp; Machine Learning on Android </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830?source=rss----2615bd06b42e---4">Optimized shot-based encodes: 
-Now Streaming! </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/add-some-smarts-to-your-change-data-capture-2296032ad042?source=rss----a88376ea904a---4">Add Some Smarts To Your Change Data Capture </a></li> 
-          
-            <li> <a href="https://software.intel.com/en-us/blogs/2018/03/08/implementing-micropython-as-a-uefi-test-framework">Implementing MicroPython as a UEFI Test Framework </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/open-sourcing-hunt-for-exoplanets.html">Open Sourcing the Hunt for Exoplanets </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/distributed-transactions-and-why-you-should-care-116b6da8d72?source=rss----7f60cf5620c9---4">Distributed transactions and why you should care </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 13 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-13.html</guid>
       </item>
       
   </channel>
