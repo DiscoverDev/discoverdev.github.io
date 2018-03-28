@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 28 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/studio-production-data-science-646ee2cc21a1?source=rss----2615bd06b42e---4">Data Science and the Art of Producing Entertainment at Netflix </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66?source=rss----7f60cf5620c9---4">Paper Repro: Deep Neuroevolution </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/variational-inference-ising-model-6820d3d13f6a?source=rss----7f60cf5620c9---4">Variational Inference: Ising Model </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/slack-app-step-by-step/">A Slack App Step-by-Step: A Real-Life Example </a></li> 
+          
+            <li> <a href="https://blog.bugsnag.com/source-maps/">Anatomy of source maps </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/convolutional-neural-network-to-steer-a-vehicle-inside-a-game-2aab41a5ef60?source=rss----7f60cf5620c9---4">Convolutional Neural Network to steer a vehicle inside a game </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-i-hacked-xiaomi-miband-2-to-control-it-from-linux-a5bd2f36d3ad?source=rss----3a8144eabfe3---4">How i hacked Xiaomi MiBand 2 to control it from Linux </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23?source=rss----7f60cf5620c9---4">Linear Algebra for Deep Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 28 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 27 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +301,6 @@
         <pubDate>Thu, 15 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 14 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?source=rss----2615bd06b42e---4">Project Nimble: Region Evacuation Reimagined </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/semantic-image-segmentation-with.html">Semantic Image Segmentation with DeepLab in Tensorflow </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs">Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js </a></li> 
-          
-            <li> <a href="https://hackernoon.com/is-bft-consensus-effective-for-proof-of-stake-blockchain-implementations-dc01f429d225?source=rss----3a8144eabfe3---4">Is BFT Consensus effective for Proof-of-Stake Blockchain Implementations </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138?source=rss----7f60cf5620c9---4">Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e?source=rss----7f60cf5620c9---4">Using Deep Learning to improve FIFA 18 graphics </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-redux-type-flow-93aada6964e5?source=rss----3a8144eabfe3---4">The Redux Type Flow </a></li> 
-          
-            <li> <a href="https://blog.novoda.com/designing-for-ar-with-arkit/">Designing for AR with ARKit </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-an-arm-kubernetes-cluster-ef31032636f9?source=rss----3a8144eabfe3---4">Building an ARM Kubernetes Cluster </a></li> 
-          
-            <li> <a href="https://crystal-lang.org/2018/03/09/crystal-automated-release.html">Crystal Automated Release </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 14 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-14.html</guid>
       </item>
       
   </channel>
