@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 30 Mar 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.hexacta.com/reactive-programming-basics-a689d39d9e66?source=rss----a41470515491---4">Reactive Programming basics </a></li> 
+          
+            <li> <a href="https://engineering.clever.com/2018/03/28/wag-go-web-api-generator/">Wag: A Go Web API Generator </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/troubleshooting-webtasks-using-debuggers/">Troubleshooting Webtasks: Using Debuggers </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React: Virtual DOM explained </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/">ES modules: A cartoon deep-dive </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b?source=rss----7f60cf5620c9---4">An overview of image classification networks </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2?source=rss----7f3d96429888---4">Using web workers for safe, concurrent JavaScript </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/a-solution-to-compression-oracles-on-the-web/">A Solution to Compression Oracles on the Web </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 30 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 29 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +293,6 @@
         <pubDate>Mon, 19 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 16 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.forge.ai/blog/knowledge-graphs-for-enhanced-machine-reasoning-at-forge.ai">Knowledge Graphs for Enhanced Machine Reasoning at Forge.AI </a></li> 
-          
-            <li> <a href="https://developers.500px.com/understanding-rendering-in-react-redux-7044c6402a75?source=rss----5d9282daaaa1---4">Understanding Rendering in React + Redux </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/mobile-search-ux-part-three-seach-results-display/">Mobile Search UX – Part Three: Displaying the Hard Work </a></li> 
-          
-            <li> <a href="http://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/">How to Release a Buggy App (And Live to Tell the Tale) </a></li> 
-          
-            <li> <a href="https://eng.uber.com/grail/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grail">Scaling Infrastructure Management with Grail </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/profiling-optimisation">Profiling: Optimisation </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/behind-motion-photos-technology-in.html">Behind the Motion Photos Technology in Pixel 2 </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/356115241551826/profilo-understanding-app-performance-in-the-wild/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Profilo: Understanding app performance in the wild </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/monolithic-applications-into-services">SHIFT Commerce&#39;s Journey: Deconstructing Monolithic Applications into Services </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/shape-context-descriptor-and-fast-characters-recognition-c031eac726f9?source=rss----7f60cf5620c9---4">Shape Context descriptor and fast characters recognition </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 16 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-16.html</guid>
       </item>
       
   </channel>
