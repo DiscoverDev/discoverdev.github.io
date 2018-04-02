@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 02 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56?source=rss----3a8144eabfe3---4">From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless </a></li> 
+          
+            <li> <a href="https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns">The Comprehensive Guide to JavaScript Design Patterns </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/using-cd-machine-learning-models-tackle-fraud">Using CD with machine learning models to tackle fraud </a></li> 
+          
+            <li> <a href="http://tech.trello.com/why-we-chose-kafka/">Why We Chose Kafka For The Trello Socket Architecture </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/epbf_sockets_hop_distance/">eBPF, Sockets, Hop Distance and manually writing eBPF assembly </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/scaling-machine-learning-to-recommend-driving-routes/">Scaling Machine Learning to Recommend Driving Routes </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/03/28/analyzing-binary-interface-changes-linux-kernel/">Analyzing Changes to the Binary Interface Between the Linux Kernel and its Modules </a></li> 
+          
+            <li> <a href="https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73?source=rss----3a8144eabfe3---4">Analysing 1.4 billion rows with python </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/03/using-machine-learning-to-discover.html">Using Machine Learning to Discover Neural Network Optimizers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 02 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 30 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +293,6 @@
         <pubDate>Tue, 20 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 19 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.codeship.com/vuejs-as-a-frontend-for-rails/">VueJS as a Frontend for Rails </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/parallel-and-distributed-genetic-algorithms-1ed2e76866e3?source=rss----7f60cf5620c9---4">Parallel and distributed genetic algorithms </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/">How BBC Interactive Content Works Across AMP, Apps, And The Web </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/why-mobx/index.html">Why MobX? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/migrating-from-heroku-to-aws-with-kubernates-and-without-stopping-production-4ff6346cccf8?source=rss----3a8144eabfe3---4">Migrating from Heroku to AWS with kubernates and without stopping production </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin">Search Federation Architecture at LinkedIn </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/engineering-to-improve-marketing-effectiveness-part-1-a6dd5d02bab7?source=rss----2615bd06b42e---4">Engineering to Improve Marketing Effectiveness (Part 1) </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/balanced-partitioning-and-hierarchical.html">Balanced Partitioning and Hierarchical Clustering at Scale </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/">Making WebAssembly better for Rust &amp; for all languages </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 19 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-19.html</guid>
       </item>
       
   </channel>
