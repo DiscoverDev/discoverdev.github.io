@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 03 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe?source=rss----3a8144eabfe3---4">Running distributed Erlang &amp; Elixir applications on Docker </a></li> 
+          
+            <li> <a href="https://hackernoon.com/why-the-open-closed-principle-is-the-one-you-need-to-know-but-dont-176f7e4416d?source=rss----3a8144eabfe3---4">Why the Open Closed Principle is the one you need to know but don’t </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker">6 creative ways to solve problems with Linux containers and Docker </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954?source=rss-ef81ef829bcb------2">Improving HBase backup efficiency at Pinterest </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2018/03/30/everything-you-need-to-know-about-the-twelve-factor-app">Everything You Need to Know About the Twelve-Factor App </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/machine-learning-video-analysis">Machine Learning Video Analysis: Identifying Fish </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2018/03/video-chat-react.html">Building a Video Chat App with Twilio Programmable Video and React </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/03/a-look-behind-the-ai-that-powers-linkedins-feed--sifting-through">A Look Behind the AI that Powers LinkedIn’s Feed: Sifting through Billions of Conversations to Create Personalized News Feeds for Hundreds of Millions of Members </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 03 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 02 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,38 +289,6 @@
         <pubDate>Wed, 21 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 20 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.klipse.tech//ocaml/2018/03/16/ocaml-polymorphic-types.html">Polymorphic vs. ordinary variants in ocaml </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641?source=rss----7f60cf5620c9---4">Common Patterns for Analyzing Data </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/geo-partitioning-one/">Geo-Partitioning: What Global Data Actually Looks Like </a></li> 
-          
-            <li> <a href="https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc?source=rss----3a8144eabfe3---4">Reliable Event Processing in Azure Functions </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html">Using Evolutionary AutoML to Discover Neural Network Architectures </a></li> 
-          
-            <li> <a href="https://hackernoon.com/cameras-as-traffic-cops-99a85513e1e0?source=rss----3a8144eabfe3---4">Cameras as Traffic Cops </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda?source=rss----12d1b859d4e4---4">How JavaScript works: the rendering engine and tips to optimize its performance </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/tuning-the-kafka-connect-cassandra-source-part-2-53f98ae163ea?source=rss----905ea2b3d4d1---4">Tuning the Kafka Connect Cassandra Source (part 2) </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/solution-deep-dive-building-a-highly-available-web-application-with-web-processing-and-storing-capabilities-using-mongodb-and-elk-stack">Solution Deep Dive: Building a Highly Available Web Application with Web Processing and Storing Capabilities Using MongoDB and Elk Stack </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa?source=rss----d3d69d818e3d---4">CSS Grid Application Layout in Production </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 20 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-20.html</guid>
       </item>
       
   </channel>
