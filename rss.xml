@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 04 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/an-in-depth-malware-analysis-of-quantloader-7393439309a5?source=rss----cfe1120185d3---4">QuantLoader: An In-Depth Malware Analysis </a></li> 
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/slicker.htm">Slicker: A Tool for Moving Things in Python </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400?source=rss----3a8144eabfe3---4">The Comprehensive Beginner’s Guide to JavaScript Geolocation Tracking </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html">How ipdata serves 25M API calls from 10 infinitely scalable global endpoints for $150 a month </a></li> 
+          
+            <li> <a href="https://hackernoon.com/disaggregation-theory-where-does-value-accrue-in-the-decentralized-web-19388066f645?source=rss----3a8144eabfe3---4">Disaggregation Theory: where does value accrue in the decentralized web? </a></li> 
+          
+            <li> <a href="https://engineering.foursquare.com/phones-lambdas-and-the-joy-of-snap-to-place-technology-2875244100dd?source=rss----3d158c042765---4">Phones, Lambdas and the Joy of Snap-to-Place Technology </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/entity-extraction-using-deep-learning-8014acac6bb8?source=rss----7f60cf5620c9---4">Entity extraction using Deep Learning </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/renko-brick-size-optimization-34d64400f60e?source=rss----7f60cf5620c9---4">Renko brick size optimization </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/dns-resolver-1-1-1-1/">Introducing DNS Resolver, 1.1.1.1 (not a joke) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 04 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 03 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +289,6 @@
         <pubDate>Thu, 22 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 21 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.findmypast.com/searching-for-solr/">Searching for Solr </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/steganography-hiding-an-image-inside-another-77ca66b2acb1?source=rss----7f60cf5620c9---4">Steganography: Hiding an image inside another </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/vehicle-detection-and-tracking-using-machine-learning-and-hog-f4a8995fc30a?source=rss----7f60cf5620c9---4">Vehicle Detection and Tracking using Machine Learning and HOG </a></li> 
-          
-            <li> <a href="http://engineering.pivotal.io/post/gobonniego_results/">Benchmarking the Disk Speed of IaaSes </a></li> 
-          
-            <li> <a href="https://hackernoon.com/optimizing-a-static-site-d5ab6899f249?source=rss----3a8144eabfe3---4">10x Performance Increases: Optimizing a Static Site </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/using-deep-learning-to-facilitate.html">Using Deep Learning to Facilitate Scientific Image Analysis </a></li> 
-          
-            <li> <a href="https://eng.uber.com/vine/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vine">VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-brief-introduction-to-two-data-processing-architectures-lambda-and-kappa-for-big-data-4f35c28005bb?source=rss----7f60cf5620c9---4">A brief introduction to two data processing architectures — Lambda and Kappa for Big Data </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/development/starting-IoT/">Starting out in the world of IoT </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 21 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-21.html</guid>
       </item>
       
   </channel>
