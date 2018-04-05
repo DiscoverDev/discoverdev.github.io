@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 05 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.datafox.com/machine-learning/2018/04/03/extracting-signals-from-the-news/">Extracting Signals From the News </a></li> 
+          
+            <li> <a href="https://hackernoon.com/information-theory-of-neural-networks-c96a0f0a8d9?source=rss----3a8144eabfe3---4">Information Theory of Neural Networks </a></li> 
+          
+            <li> <a href="https://hackernoon.com/builders-of-the-decentralized-web-10-of-the-most-innovative-technologies-197271aefa82?source=rss----3a8144eabfe3---4">Builders of the Decentralized Web: 10 Of The Most Innovative Technologies </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/performing-zero-downtime-releases/">Performing Zero Downtime Releases </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">MobileNetV2: The Next Generation of On-Device Computer Vision Networks </a></li> 
+          
+            <li> <a href="https://engineering.mongodb.com/post/pruning-dynamic-rebuilds-with-libabigail">Pruning Dynamic Rebuilds With libabigail </a></li> 
+          
+            <li> <a href="https://blog.novoda.com/introduction-to-redux-in-flutter/">Introduction to Redux in Flutter </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/detail/216">Floor map management system on web, with Leaflet </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/m2m-day-89-how-i-used-artificial-intelligence-to-automate-tinder-ced91b947e53?source=rss----7f60cf5620c9---4">M2M Day 90— How I used Artificial Intelligence to automate Tinder </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/04/why-so-serious/">How Showmax got into live streaming </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 05 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 04 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +293,6 @@
         <pubDate>Fri, 23 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 22 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.facebook.com/posts/226845501211938/fabric-aggregator-a-flexible-solution-to-our-traffic-demand/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Fabric Aggregator: A flexible solution to our traffic demand </a></li> 
-          
-            <li> <a href="https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1?source=rss----3a8144eabfe3---4">Make your GraphQL API Easier To Adopt Through Components </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82?source=rss----d02e65779d7b---4">Automated front-end development using deep learning </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/introduction-nvidia-rtx-directx-raytracing/">Introduction to NVIDIA RTX and DirectX Raytracing </a></li> 
-          
-            <li> <a href="https://engineering.foursquare.com/you-are-probably-here-better-map-pins-with-dbscan-random-forests-9d51e8c1964d?source=rss----3d158c042765---4">You Are (Probably) Here: Better Map Pins with DBSCAN &amp; Random Forests </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef?source=rss----7f60cf5620c9---4">GPU-accelerated Neural Networks in JavaScript </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/03/web-midi-api/">Getting Started With The Web MIDI API </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-git-index-4821a0765cf?source=rss----3a8144eabfe3---4">Understanding Git — Index </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 22 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-22.html</guid>
       </item>
       
   </channel>
