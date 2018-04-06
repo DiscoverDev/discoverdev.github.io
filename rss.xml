@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 06 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/">The History of React.js on a Timeline </a></li> 
+          
+            <li> <a href="http://allegro.tech/2018/04/intuition-engineering-at-allegro-with-phobos.html">Intuition Engineering at Allegro with Phobos </a></li> 
+          
+            <li> <a href="https://code.oursky.com/automated-tests-python-selenium-headless-chrome/">A recipe for website automated tests with Python Selenium &amp; Headless Chrome in Docker </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/gamedev-with-elm-types">Gamedev with Elm Types </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/stop-coding-and-start-drawing">Stop Coding and Start Drawing </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/04/how-the-end-to-end-back-pressure-mechanism-inside-wallaroo-works/">How the end-to-end back-pressure mechanism inside Wallaroo works </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2018/03/18/ar/">Augmenting Artworks: AR at Artsy </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices">An Introduction to CI/CD Best Practices </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/mapping-kubernetes-ceph-volumes-the-rbd-nbd-way-21f7c4161f04?source=rss----cfe1120185d3---4">Mapping Kubernetes Ceph Volumes the RBD-NBD Way </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 06 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 05 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +295,6 @@
         <pubDate>Mon, 26 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 23 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4?source=rss----2817475205d3---4">2 Fast 2 Furious: migrating Medium’s codebase without slowing down </a></li> 
-          
-            <li> <a href="https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469?source=rss----3a8144eabfe3---4">Releasing “Supervisely Person” dataset for teaching machines to segment humans </a></li> 
-          
-            <li> <a href="https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb">Integration and End-to-end Tests Made Easy with Node.js and MongoDB </a></li> 
-          
-            <li> <a href="https://blog.risingstack.com/history-of-node-js/">History of Node.js on a Timeline </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/storage-performance-basics-for-deep-learning/">Storage Performance Basics for Deep Learning </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/">Lazy Loading JavaScript Modules With ConditionerJS </a></li> 
-          
-            <li> <a href="https://aws.amazon.com/blogs/aws/real-time-hotspot-detection-in-amazon-kinesis-analytics/">Real-Time Hotspot Detection in Amazon Kinesis Analytics </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/187912491817160/the-next-step-in-facebook-s-ai-hardware-infrastructure/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">The next step in Facebook&#39;s AI hardware infrastructure </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 23 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-23.html</guid>
       </item>
       
   </channel>
