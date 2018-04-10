@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 10 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://nodesource.com/blog/understanding-cpu-flame-graphs">Understanding CPU Flame Graphs </a></li> 
+          
+            <li> <a href="https://hackernoon.com/consensus-mechanisms-explained-pow-vs-pos-89951c66ae10?source=rss----3a8144eabfe3---4">Consensus Mechanisms Explained: PoW vs. PoS </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/04/05/lumpers-and-splitters/">Lumpers and Splitters: Tensions in Taxonomies </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/encrypting-different-medical-images-using-deep-neural-network-with-interactive-code-b47656dcd1e?source=rss----7f60cf5620c9---4">Encrypting Different Medical Images using Deep Neural Network with Interactive Code </a></li> 
+          
+            <li> <a href="https://eng.uber.com/scaling-hdfs/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scaling-hdfs">Scaling Uber’s Hadoop Distributed File System for Growth </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/best-practices-in-android-development/">Best Practices in Android Development </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html">Do you have too many microservices? - Five Design Attributes that can Help </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering">We ❤️ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/visualizing-beethovens-oeuvre-part-i-scraping-and-cleaning-data-from-imslp-77ecb124002d?source=rss----7f60cf5620c9---4">Visualizing Beethoven’s Oeuvre, Part I: Scraping and cleaning data from IMSLP </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c?source=rss----7f60cf5620c9---4">Hyper-parameters in action! </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 10 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 09 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +297,6 @@
         <pubDate>Wed, 28 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 27 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/whats-wrong-with-spectrograms-and-cnns-for-audio-processing-311377d7ccd?source=rss----7f60cf5620c9---4">What’s wrong with spectrograms and CNNs for audio processing? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/fun-with-functors-and-reasonml-8bb59b243e9c?source=rss----3a8144eabfe3---4">Fun with Functors and ReasonML </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/titledemand/">Finding Desirable Items in eBay Search by a Deep Dive into Skipped Items </a></li> 
-          
-            <li> <a href="https://hackernoon.com/crypto-deepdive-bloom-protocol-763efe73bd90?source=rss----3a8144eabfe3---4">Crypto DeepDive: Bloom Protocol </a></li> 
-          
-            <li> <a href="https://www.toptal.com/python/in-depth-python-logging">Python Logging: An In-Depth Tutorial </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/music-by-means-of-natural-selection-11934d7e89a3?source=rss----7f60cf5620c9---4">Music by means of natural selection </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/.net/serverless-and-using-it/">Serverless, and the challenges using it </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience">LinkedIn Lite: A Lightweight Mobile Web Experience </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 27 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-27.html</guid>
       </item>
       
   </channel>
