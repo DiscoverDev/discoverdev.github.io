@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 11 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.imaginea.com/channels-using-async-and-await/">Channels using async and await </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning">Picking Trending Topics and Celebrities Using Machine Learning </a></li> 
+          
+            <li> <a href="http://eng.wealthfront.com/2018/04/06/continuous-deployment-with-spark-streaming-part-i/">Continuous Deployment with Spark Streaming (Part I) </a></li> 
+          
+            <li> <a href="https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices">Microservice Communication: A Spring Integration Tutorial with Redis </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/how-we-made-the-holiday-gift-guide-72886d02b958?source=rss----51e1d1745b32---4">How We Made The Holiday Gift Guide </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/cloudflare-argo-tunnel-with-rust-and-raspberry-pi/">Cloudflare Argo Tunnel with Rust+Raspberry Pi </a></li> 
+          
+            <li> <a href="https://blog.imaginea.com/scale-part-i-task-queues/">@Scale – Part I (Task Queues) </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb?source=rss----2615bd06b42e---4">Netflix FlameScope </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 11 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 10 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Thu, 29 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 28 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/studio-production-data-science-646ee2cc21a1?source=rss----2615bd06b42e---4">Data Science and the Art of Producing Entertainment at Netflix </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66?source=rss----7f60cf5620c9---4">Paper Repro: Deep Neuroevolution </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/variational-inference-ising-model-6820d3d13f6a?source=rss----7f60cf5620c9---4">Variational Inference: Ising Model </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/slack-app-step-by-step/">A Slack App Step-by-Step: A Real-Life Example </a></li> 
-          
-            <li> <a href="https://blog.bugsnag.com/source-maps/">Anatomy of source maps </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/convolutional-neural-network-to-steer-a-vehicle-inside-a-game-2aab41a5ef60?source=rss----7f60cf5620c9---4">Convolutional Neural Network to steer a vehicle inside a game </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-i-hacked-xiaomi-miband-2-to-control-it-from-linux-a5bd2f36d3ad?source=rss----3a8144eabfe3---4">How i hacked Xiaomi MiBand 2 to control it from Linux </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23?source=rss----7f60cf5620c9---4">Linear Algebra for Deep Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 28 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-28.html</guid>
       </item>
       
   </channel>
