@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 12 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html">Give Meaning to 100 billion Events a Day - The Analytics Pipeline at Teads </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/building-real-time-analytics-apis/">Building Real Time Analytics APIs at Scale </a></li> 
+          
+            <li> <a href="https://hackernoon.com/image-classification-with-convolutional-neural-networks-e2ec72130ecc?source=rss----3a8144eabfe3---4">Image Classification with Convolutional Neural Networks </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127?source=rss----cfe1120185d3---4">Open Sourcing Design System React </a></li> 
+          
+            <li> <a href="https://research.fb.com/robust-and-efficient-traffic-engineering-with-oblivious-routing/">Robust and efficient traffic engineering with oblivious routing </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/leverage-interactivity-to-build-better-visualizations/">Leverage Interactivity to Build Better Visualizations </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/federated-byzantine-agreement-24ec57bf36e0?source=rss----7f60cf5620c9---4">Federated Byzantine Agreement </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3?source=rss----3a8144eabfe3---4">What is the math behind elliptic curve cryptography? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 12 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 11 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Fri, 30 Mar 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-03-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 29 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.discordapp.com/how-discord-renders-rich-messages-on-the-android-app-67b0e5d56fbe?source=rss----cb96a1f03649---4">How Discord Renders Rich Messages on the Android App </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html">Expressive Speech Synthesis with Tacotron </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/tensorrt-integration-speeds-tensorflow-inference/">TensorRT Integration Speeds Up TensorFlow Inference </a></li> 
-          
-            <li> <a href="https://blog.siftscience.com/2018/podcast-content-abuse-rising-threat/">[Podcast] The Rising Threat of Content Abuse </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/what-is-designops/">What Is DesignOps? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/https-medium-com-it-explained-for-normal-people-the-metal-years-5be295dad17c?source=rss----3a8144eabfe3---4">The Metal years: 1950–1960 </a></li> 
-          
-            <li> <a href="https://nordicapis.com/rest-state-machine-revisited/">REST State Machine Revisited </a></li> 
-          
-            <li> <a href="https://hackernoon.com/internet-3-0-and-the-demise-of-state-aggregators-1575adffbd88?source=rss----3a8144eabfe3---4">Internet 3.0 and the demise of state aggregators </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 29 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-29.html</guid>
       </item>
       
   </channel>
