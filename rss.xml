@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 13 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.sourced.tech/post/calling-c-functions-from-bigquery/">Calling C functions from BigQuery with Web Assembly </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/04/scaling-software-quality-with-automated-testing/">Testing our Confidence: Scaling Software Quality with Automated Testing </a></li> 
+          
+            <li> <a href="http://alistapart.com/article/going-offline">Going Offline </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3?source=rss----7f3d96429888---4">How CSS Works: Parsing &amp; painting CSS in the critical rendering path </a></li> 
+          
+            <li> <a href="http://tech.finn.no/2018/04/10/personalized-search/">Personalized search with a custom Solr plugin </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69?source=rss----2615bd06b42e---4">Automated Canary Analysis at Netflix with Kayenta </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/">How To Design Emotional Interfaces For Boring Apps </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2018/04/09/postgres-materialized-views/">An Introduction to PostgreSQL Materialized Views </a></li> 
+          
+            <li> <a href="https://hackernoon.com/on-user-interface-development-appending-to-the-event-log-8d8ca966795d?source=rss----3a8144eabfe3---4">On User Interface Development: appending to the event log </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 13 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 12 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +299,6 @@
         <pubDate>Mon, 02 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 30 Mar 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.hexacta.com/reactive-programming-basics-a689d39d9e66?source=rss----a41470515491---4">Reactive Programming basics </a></li> 
-          
-            <li> <a href="https://engineering.clever.com/2018/03/28/wag-go-web-api-generator/">Wag: A Go Web API Generator </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/troubleshooting-webtasks-using-debuggers/">Troubleshooting Webtasks: Using Debuggers </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React: Virtual DOM explained </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/">ES modules: A cartoon deep-dive </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b?source=rss----7f60cf5620c9---4">An overview of image classification networks </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2?source=rss----7f3d96429888---4">Using web workers for safe, concurrent JavaScript </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/a-solution-to-compression-oracles-on-the-web/">A Solution to Compression Oracles on the Web </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 30 Mar 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-03-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-30.html</guid>
       </item>
       
   </channel>
