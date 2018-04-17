@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 17 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://artsy.github.io/blog/2018/03/19/making-a-components-pod/">Making a React Native Components Pod </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/the-importance-of-transparency-and-user-control-in-machine-learning">The importance of transparency and user control in machine learning </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-inside-the-networking-layer-how-to-optimize-its-performance-and-security-f71b7414d34c?source=rss----12d1b859d4e4---4">How JavaScript Works: Inside the Networking Layer + How to Optimize Its Performance and Security </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-we-built-spectrum/">Abusing Linux&#39;s firewall: the hack that allowed us to build Spectrum </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/quantum-physics-visualization-with-python-35df8b365ff?source=rss----7f60cf5620c9---4">Quantum Physics Visualization With Python </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/webinar-series-deploying-stateful-services-in-kubernetes">Webinar Series: Deploying Stateful Services in Kubernetes </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlenecks-8a4362f4ffd5?source=rss----7f60cf5620c9---4">MobileNetV2: Inverted Residuals and Linear Bottlenecks </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html">Looking to Listen: Audio-Visual Speech Separation </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/04/venice-performance-optimization">Venice Performance Optimization </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 17 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 16 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +299,6 @@
         <pubDate>Wed, 04 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 03 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/running-distributed-erlang-elixir-applications-on-docker-b211d95affbe?source=rss----3a8144eabfe3---4">Running distributed Erlang &amp; Elixir applications on Docker </a></li> 
-          
-            <li> <a href="https://hackernoon.com/why-the-open-closed-principle-is-the-one-you-need-to-know-but-dont-176f7e4416d?source=rss----3a8144eabfe3---4">Why the Open Closed Principle is the one you need to know but don’t </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker">6 creative ways to solve problems with Linux containers and Docker </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954?source=rss-ef81ef829bcb------2">Improving HBase backup efficiency at Pinterest </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2018/03/30/everything-you-need-to-know-about-the-twelve-factor-app">Everything You Need to Know About the Twelve-Factor App </a></li> 
-          
-            <li> <a href="https://www.toptal.com/machine-learning/machine-learning-video-analysis">Machine Learning Video Analysis: Identifying Fish </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2018/03/video-chat-react.html">Building a Video Chat App with Twilio Programmable Video and React </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/03/a-look-behind-the-ai-that-powers-linkedins-feed--sifting-through">A Look Behind the AI that Powers LinkedIn’s Feed: Sifting through Billions of Conversations to Create Personalized News Feeds for Hundreds of Millions of Members </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 03 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-03.html</guid>
       </item>
       
   </channel>
