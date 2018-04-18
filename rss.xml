@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 18 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/04/choosing-elixirs-phoenix-to-power-a-real-time-web-ui/">Choosing Elixir&#39;s Phoenix to power a real-time Web UI </a></li> 
+          
+            <li> <a href="https://hackernoon.com/ethereum-smart-contracts-in-python-a-comprehensive-ish-guide-771b03990988?source=rss----3a8144eabfe3---4">Ethereum Smart Contracts in Python: a comprehensive(ish) guide </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/04/seeing-more-with-in-silico-labeling-of_12.html">Seeing More with In Silico Labeling of Microscopy Images </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/a-massively-multi-user-datastore-synced-with-mobile-clients-a9ce0b5e5260?source=rss----3650599ae4e2---4">A Massively Multi-user Datastore, Synced with Mobile Clients </a></li> 
+          
+            <li> <a href="https://hackernoon.com/speedup-serverless-web-apps-in-aws-12fa25b94600?source=rss----3a8144eabfe3---4">5 Tips to SpeedUp Serverless Web Apps in AWS </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/ruby-mjit">MJIT: A Method Based Just-in-time Compiler for Ruby </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21?source=rss----51e1d1745b32---4">Building a Text Editor for a Digital-First Newsroom </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/common-threats-in-web-app-security/">Common Threats in Web Application Security </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 18 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 17 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,36 +297,6 @@
         <pubDate>Thu, 05 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 04 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.salesforce.com/an-in-depth-malware-analysis-of-quantloader-7393439309a5?source=rss----cfe1120185d3---4">QuantLoader: An In-Depth Malware Analysis </a></li> 
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/slicker.htm">Slicker: A Tool for Moving Things in Python </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400?source=rss----3a8144eabfe3---4">The Comprehensive Beginner’s Guide to JavaScript Geolocation Tracking </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html">How ipdata serves 25M API calls from 10 infinitely scalable global endpoints for $150 a month </a></li> 
-          
-            <li> <a href="https://hackernoon.com/disaggregation-theory-where-does-value-accrue-in-the-decentralized-web-19388066f645?source=rss----3a8144eabfe3---4">Disaggregation Theory: where does value accrue in the decentralized web? </a></li> 
-          
-            <li> <a href="https://engineering.foursquare.com/phones-lambdas-and-the-joy-of-snap-to-place-technology-2875244100dd?source=rss----3d158c042765---4">Phones, Lambdas and the Joy of Snap-to-Place Technology </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/entity-extraction-using-deep-learning-8014acac6bb8?source=rss----7f60cf5620c9---4">Entity extraction using Deep Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/renko-brick-size-optimization-34d64400f60e?source=rss----7f60cf5620c9---4">Renko brick size optimization </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/dns-resolver-1-1-1-1/">Introducing DNS Resolver, 1.1.1.1 (not a joke) </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 04 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-04.html</guid>
       </item>
       
   </channel>
