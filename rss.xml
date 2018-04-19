@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 19 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://highscalability.com/blog/2018/4/16/google-a-collection-of-best-practices-for-production-service.html">Google: A Collection of Best Practices for Production Services </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/04/build-your-own-web-things-with-the-things-framework/">Build your own web things with the Things Framework </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/simon-moss-on-using-artificial-intelligence-to-fight-financial-crimes">Simon Moss on using artificial intelligence to fight financial crimes </a></li> 
+          
+            <li> <a href="http://eng.wealthfront.com/2018/04/16/continuous-deployment-with-spark-streaming-part-ii/">Continuous Deployment with Spark Streaming (Part II) </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/the-upstream-kubernetes/">The upstream Kubernetes </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/finite-state-machines-android-kotlin-good-times">Finite State Machines + Android + Kotlin = Good Times </a></li> 
+          
+            <li> <a href="http://www.olioapps.com/blog/checking-types-real-world-typescript/">Checking Types Against the Real World in TypeScript </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/nlp-tutorial-text-classification">Build a Text Classification Program: An NLP Tutorial </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/neon-is-the-new-black/">NEON is the new black: fast JPEG optimization on ARM server </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html">Introducing Semantic Experiences with Talk to Books and Semantris </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 19 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 18 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +297,6 @@
         <pubDate>Fri, 06 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 05 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.datafox.com/machine-learning/2018/04/03/extracting-signals-from-the-news/">Extracting Signals From the News </a></li> 
-          
-            <li> <a href="https://hackernoon.com/information-theory-of-neural-networks-c96a0f0a8d9?source=rss----3a8144eabfe3---4">Information Theory of Neural Networks </a></li> 
-          
-            <li> <a href="https://hackernoon.com/builders-of-the-decentralized-web-10-of-the-most-innovative-technologies-197271aefa82?source=rss----3a8144eabfe3---4">Builders of the Decentralized Web: 10 Of The Most Innovative Technologies </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/performing-zero-downtime-releases/">Performing Zero Downtime Releases </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">MobileNetV2: The Next Generation of On-Device Computer Vision Networks </a></li> 
-          
-            <li> <a href="https://engineering.mongodb.com/post/pruning-dynamic-rebuilds-with-libabigail">Pruning Dynamic Rebuilds With libabigail </a></li> 
-          
-            <li> <a href="https://blog.novoda.com/introduction-to-redux-in-flutter/">Introduction to Redux in Flutter </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/detail/216">Floor map management system on web, with Leaflet </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/m2m-day-89-how-i-used-artificial-intelligence-to-automate-tinder-ced91b947e53?source=rss----7f60cf5620c9---4">M2M Day 90— How I used Artificial Intelligence to automate Tinder </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2018/04/why-so-serious/">How Showmax got into live streaming </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 05 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-05.html</guid>
       </item>
       
   </channel>
