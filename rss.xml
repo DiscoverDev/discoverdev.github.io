@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 20 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.codeship.com/increasing-codebase-confidence-with-pre-commit-hooks/">Increasing Codebase Confidence with Pre-commit Hooks </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/04/a-new-video-series-web-demystified/">A new video series: Web Demystified </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2018/04/17/webauthn-developers-guide-to-whats-on-the-horizon">WebAuthn: A Developer&#39;s Guide to What&#39;s on the Horizon </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/04/hardening-javascript-application-with-static-type-analysis/">Hardening Javascript Application with Static Type Analysis </a></li> 
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/python-refactor-3.htm">Untangling our Python Code </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/jenkinsx-new-kubernetes-dream-part-1/">JenkinsX – new Kubernetes dream? Part 1 </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/04/ad-password-blacklisting.html">Active Directory Password Blacklisting </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/malware-analysis-new-trojan-double-dropper-5ed0a943adb?source=rss----cfe1120185d3---4">Malware Analysis: New Trojan Double Dropper </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 20 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 19 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,36 +295,6 @@
         <pubDate>Mon, 09 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 06 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/">The History of React.js on a Timeline </a></li> 
-          
-            <li> <a href="http://allegro.tech/2018/04/intuition-engineering-at-allegro-with-phobos.html">Intuition Engineering at Allegro with Phobos </a></li> 
-          
-            <li> <a href="https://code.oursky.com/automated-tests-python-selenium-headless-chrome/">A recipe for website automated tests with Python Selenium &amp; Headless Chrome in Docker </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/gamedev-with-elm-types">Gamedev with Elm Types </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/stop-coding-and-start-drawing">Stop Coding and Start Drawing </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/04/how-the-end-to-end-back-pressure-mechanism-inside-wallaroo-works/">How the end-to-end back-pressure mechanism inside Wallaroo works </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2018/03/18/ar/">Augmenting Artworks: AR at Artsy </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices">An Introduction to CI/CD Best Practices </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/mapping-kubernetes-ceph-volumes-the-rbd-nbd-way-21f7c4161f04?source=rss----cfe1120185d3---4">Mapping Kubernetes Ceph Volumes the RBD-NBD Way </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 06 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-06.html</guid>
       </item>
       
   </channel>
