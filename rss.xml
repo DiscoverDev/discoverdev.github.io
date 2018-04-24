@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 24 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/">Adventures with cgo: Part 1- The Pointering </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216?source=rss----12d1b859d4e4---4">How JavaScript works: Under the hood of CSS and JS animations + how to optimize their performance </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/tensorflow-for-manufacturing-quality-control-bc1bc6740558?source=rss----7f60cf5620c9---4">Tensorflow for Manufacturing Quality Control </a></li> 
+          
+            <li> <a href="https://deezer.io/visualize-your-music-dna-with-data-b1f1b6631b98?source=rss----2ab7e077175a---4">Visualize your music DNA with Data </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/index.html">Distributed Cache </a></li> 
+          
+            <li> <a href="https://www.paypal-engineering.com/2018/04/17/gimel/">Gimel: PayPal’s Analytics Data Processing Platform </a></li> 
+          
+            <li> <a href="https://eng.uber.com/mediation-modeling/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mediation-modeling">Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work) </a></li> 
+          
+            <li> <a href="https://yahooeng.tumblr.com/post/173062946866">Achieving Major Stability and Performance Improvements in Yahoo Mail with a Novel Redux Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 24 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 23 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,38 +291,6 @@
         <pubDate>Wed, 11 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 10 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://nodesource.com/blog/understanding-cpu-flame-graphs">Understanding CPU Flame Graphs </a></li> 
-          
-            <li> <a href="https://hackernoon.com/consensus-mechanisms-explained-pow-vs-pos-89951c66ae10?source=rss----3a8144eabfe3---4">Consensus Mechanisms Explained: PoW vs. PoS </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/04/05/lumpers-and-splitters/">Lumpers and Splitters: Tensions in Taxonomies </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/encrypting-different-medical-images-using-deep-neural-network-with-interactive-code-b47656dcd1e?source=rss----7f60cf5620c9---4">Encrypting Different Medical Images using Deep Neural Network with Interactive Code </a></li> 
-          
-            <li> <a href="https://eng.uber.com/scaling-hdfs/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scaling-hdfs">Scaling Uber’s Hadoop Distributed File System for Growth </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/best-practices-in-android-development/">Best Practices in Android Development </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html">Do you have too many microservices? - Five Design Attributes that can Help </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering">We ❤️ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/visualizing-beethovens-oeuvre-part-i-scraping-and-cleaning-data-from-imslp-77ecb124002d?source=rss----7f60cf5620c9---4">Visualizing Beethoven’s Oeuvre, Part I: Scraping and cleaning data from IMSLP </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c?source=rss----7f60cf5620c9---4">Hyper-parameters in action! </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 10 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-10.html</guid>
       </item>
       
   </channel>
