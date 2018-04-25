@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 25 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224?source=rss----c5ef8826f270---4">Event Sourcing made Simple </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/04/19/scylla-i-o-scheduler-3/">The Scylla I/O Scheduler – Better Latencies Under Any Circumstance </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436?source=rss----2615bd06b42e---4">Titus, the Netflix container management platform, is now open source </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows">Samza Aeon: Latency Insights for Asynchronous One-Way Flows </a></li> 
+          
+            <li> <a href="http://research.googleblog.com/2018/04/deepvariant-accuracy-improvements-for.html">DeepVariant Accuracy Improvements for Genetic Datatypes </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af?source=rss----7fa310224bc5---4">Postgres as the Substructure for IoT and the Next Wave of Computing </a></li> 
+          
+            <li> <a href="https://eng.uber.com/rethinking-gps/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rethinking-gps">Rethinking GPS: Engineering Next-Gen Location at Uber </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2018/04/17/making-a-components-pod/">Making a React Native Components Pod </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 25 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 24 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Thu, 12 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 11 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.imaginea.com/channels-using-async-and-await/">Channels using async and await </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/picking-trending-topics-and-celebrities-using-machine-learning">Picking Trending Topics and Celebrities Using Machine Learning </a></li> 
-          
-            <li> <a href="http://eng.wealthfront.com/2018/04/06/continuous-deployment-with-spark-streaming-part-i/">Continuous Deployment with Spark Streaming (Part I) </a></li> 
-          
-            <li> <a href="https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices">Microservice Communication: A Spring Integration Tutorial with Redis </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/how-we-made-the-holiday-gift-guide-72886d02b958?source=rss----51e1d1745b32---4">How We Made The Holiday Gift Guide </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/cloudflare-argo-tunnel-with-rust-and-raspberry-pi/">Cloudflare Argo Tunnel with Rust+Raspberry Pi </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/scale-part-i-task-queues/">@Scale – Part I (Task Queues) </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb?source=rss----2615bd06b42e---4">Netflix FlameScope </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 11 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-11.html</guid>
       </item>
       
   </channel>
