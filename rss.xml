@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 26 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/nv-wavenet-gpu-speech-synthesis/">Nv-Wavenet: Better Speech Synthesis Using GPU-Enabled WaveNet Inference </a></li> 
+          
+            <li> <a href="https://eng.uber.com/accelerated-neuroevolution/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=accelerated-neuroevolution">Accelerating Deep Neuroevolution: Train Atari in Hours on a Single Personal Computer </a></li> 
+          
+            <li> <a href="https://research.fb.com/designing-a-face-recognition-application-for-people-with-visual-impairments/">Designing a face recognition application for people with visual impairments </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/interactive-go-programming-with-jupyter-93fbf089aff1?source=rss----7f60cf5620c9---4">Interactive Go programming with Jupyter </a></li> 
+          
+            <li> <a href="https://hackernoon.com/from-makefile-to-go-semantic-versioning-service-on-kubernetes-3fae678db87c?source=rss----3a8144eabfe3---4">From Makefile to Go semantic versioning service on Kubernetes </a></li> 
+          
+            <li> <a href="https://hackernoon.com/sleep-better-at-night-here-is-how-to-respawn-a-mongodb-server-automatically-f1a30d1b36f6?source=rss----3a8144eabfe3---4">Sleep better at night! Here is how to respawn a MongoDB Server automatically! </a></li> 
+          
+            <li> <a href="https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f?source=rss----3a8144eabfe3---4">Lessons Learned — A Year Of Going “Fully Serverless” In Production </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846?source=rss----7f60cf5620c9---4">Deep learning in your browser: A brisk guide </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 26 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 25 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Fri, 13 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 12 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html">Give Meaning to 100 billion Events a Day - The Analytics Pipeline at Teads </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/building-real-time-analytics-apis/">Building Real Time Analytics APIs at Scale </a></li> 
-          
-            <li> <a href="https://hackernoon.com/image-classification-with-convolutional-neural-networks-e2ec72130ecc?source=rss----3a8144eabfe3---4">Image Classification with Convolutional Neural Networks </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127?source=rss----cfe1120185d3---4">Open Sourcing Design System React </a></li> 
-          
-            <li> <a href="https://research.fb.com/robust-and-efficient-traffic-engineering-with-oblivious-routing/">Robust and efficient traffic engineering with oblivious routing </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/leverage-interactivity-to-build-better-visualizations/">Leverage Interactivity to Build Better Visualizations </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/federated-byzantine-agreement-24ec57bf36e0?source=rss----7f60cf5620c9---4">Federated Byzantine Agreement </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3?source=rss----3a8144eabfe3---4">What is the math behind elliptic curve cryptography? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 12 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-12.html</guid>
       </item>
       
   </channel>
