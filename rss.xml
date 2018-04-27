@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 27 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33?source=rss----5e5bef33608a---4">Visual Music &amp; Machine Learning Workshop for Kids </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh">CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/how-to-refactor-a-monolithic-codebase-over-time/">How to Refactor a Monolithic Codebase Over Time </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/">Testing Strategies for React and Redux </a></li> 
+          
+            <li> <a href="https://hackernoon.com/documenting-the-8-bit-generation-beyond-e9367a3c09a7?source=rss----3a8144eabfe3---4">Documenting the 8-bit Generation &amp; Beyond </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/erlang-serpents.html">Erlang Serpents </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/finite-state-machines-with-react/">Using Finite State Machines to Simplify State With React </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/instant-feedback-in-ios-engineering-workflows-c3f6508c76c8?source=rss----37dc2a3034f2---4">Instant Feedback in iOS Engineering Workflows </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 27 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 26 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Mon, 16 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 13 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.sourced.tech/post/calling-c-functions-from-bigquery/">Calling C functions from BigQuery with Web Assembly </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/04/scaling-software-quality-with-automated-testing/">Testing our Confidence: Scaling Software Quality with Automated Testing </a></li> 
-          
-            <li> <a href="http://alistapart.com/article/going-offline">Going Offline </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3?source=rss----7f3d96429888---4">How CSS Works: Parsing &amp; painting CSS in the critical rendering path </a></li> 
-          
-            <li> <a href="http://tech.finn.no/2018/04/10/personalized-search/">Personalized search with a custom Solr plugin </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69?source=rss----2615bd06b42e---4">Automated Canary Analysis at Netflix with Kayenta </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/">How To Design Emotional Interfaces For Boring Apps </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2018/04/09/postgres-materialized-views/">An Introduction to PostgreSQL Materialized Views </a></li> 
-          
-            <li> <a href="https://hackernoon.com/on-user-interface-development-appending-to-the-event-log-8d8ca966795d?source=rss----3a8144eabfe3---4">On User Interface Development: appending to the event log </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 13 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-13.html</guid>
       </item>
       
   </channel>
