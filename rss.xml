@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 30 Apr 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/how-we-streamlined-serverless-testing-8f5e0bbdc7e5?source=rss----3a8144eabfe3---4">How We Streamlined Serverless Testing </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/nvidia-smp-assist-api-vr-programming/">NVIDIA SMP Assist API for VR Programming </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/4/25/google-addressing-cascading-failures.html">Google: Addressing Cascading Failures </a></li> 
+          
+            <li> <a href="https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/">Towards unprivileged container builds </a></li> 
+          
+            <li> <a href="https://medium.com/myheritage-engineering/10-tips-to-power-up-your-java-security-f3daa4522530?source=rss----c98dcd6fa33c---4">10 tips to power-up your Java security </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/bgp-leaks-and-crypto-currencies/">BGP leaks and cryptocurrencies </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-new-programming-paradigm-for-deep-learning-8ce53b5b6345?source=rss----7f60cf5620c9---4">Deep Learning and a New Programming Paradigm </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching">Solving the N+1 Problem for GraphQL through Batching </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/kubernetes-security-kubelet-etcd/">Kubernetes Security Guide, Chapter 3. Securing Kubernetes components: kubelet, etcd and Docker registry </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 30 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 27 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Tue, 17 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 16 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/">A Look at The Draft for JWT Best Current Practices </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/">Sneak Peek at WebAssembly Studio </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizations-using-sequence-to-sequence-recurrent-neural-5da8e9d3e43e?source=rss----7f60cf5620c9---4">Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural… </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/253852078523394/av1-beats-x264-and-libvpx-vp9-in-practical-use-case/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">AV1 beats x264 and libvpx-vp9 in practical use case </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-residual-networks-9add4b664b03?source=rss----7f60cf5620c9---4">UNDERSTANDING RESIDUAL NETWORKS </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/taxonomy-tech-debt">A Taxonomy of Tech Debt </a></li> 
-          
-            <li> <a href="https://eng.uber.com/differentiable-plasticity/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=differentiable-plasticity">Differentiable Plasticity: A New Method for Learning to Learn </a></li> 
-          
-            <li> <a href="https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843?source=rss----3a8144eabfe3---4">Serverless monitoring — the good, the bad and the ugly </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 16 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-16.html</guid>
       </item>
       
   </channel>
