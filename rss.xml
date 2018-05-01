@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 01 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/intrinsic-dimension/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=intrinsic-dimension">Measuring the Intrinsic Dimension of Objective Landscapes </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/slacking-hard-or-hardly-slacking-automating-infrastructure-at-scale">Slacking hard, or hardly Slacking: Automating infrastructure at scale </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/04/making-a-web-thing-on-the-esp8266/">Making a Web Thing on the ESP8266 </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/04/mobile-first-optimization-tools/">Measuring Websites With Mobile-First Optimization Tools </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/migrating-java-8/index.html">Short Story of a Long Migration </a></li> 
+          
+            <li> <a href="https://stackshare.io/posts/evolution-of-new-york-times-tech-stack">The Evolution of The New York Times Tech Stack </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/toward-the-jet-age-of-machine-learning">Toward the Jet Age of machine learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3?source=rss----3a8144eabfe3---4">Powering Your App With A Realtime Messaging CDN </a></li> 
+          
+            <li> <a href="https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb?source=rss----3a8144eabfe3---4">These 6 essential tools will maintain your NPM modules for you </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/">Sharing Code Between Projects: Lessons Learned In The Trenches </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 01 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 30 Apr 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +293,6 @@
         <pubDate>Wed, 18 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 17 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://artsy.github.io/blog/2018/03/19/making-a-components-pod/">Making a React Native Components Pod </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/the-importance-of-transparency-and-user-control-in-machine-learning">The importance of transparency and user control in machine learning </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-inside-the-networking-layer-how-to-optimize-its-performance-and-security-f71b7414d34c?source=rss----12d1b859d4e4---4">How JavaScript Works: Inside the Networking Layer + How to Optimize Its Performance and Security </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-we-built-spectrum/">Abusing Linux&#39;s firewall: the hack that allowed us to build Spectrum </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/quantum-physics-visualization-with-python-35df8b365ff?source=rss----7f60cf5620c9---4">Quantum Physics Visualization With Python </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/webinar-series-deploying-stateful-services-in-kubernetes">Webinar Series: Deploying Stateful Services in Kubernetes </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlenecks-8a4362f4ffd5?source=rss----7f60cf5620c9---4">MobileNetV2: Inverted Residuals and Linear Bottlenecks </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html">Looking to Listen: Audio-Visual Speech Separation </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/04/venice-performance-optimization">Venice Performance Optimization </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 17 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-17.html</guid>
       </item>
       
   </channel>
