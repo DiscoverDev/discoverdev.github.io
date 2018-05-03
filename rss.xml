@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 03 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/khanalytics.htm">New data pipeline management platform at Khan Academy </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/adapting-continuous-integration-and-delivery-to-hardware-quality/">Adapting Continuous Integration and Delivery to Hardware Quality </a></li> 
+          
+            <li> <a href="https://hackernoon.com/osmo-fl2k-a-15-dtv-transmitter-fm-radio-hijack-and-gps-spoofing-device-68ac08ba7d76?source=rss----3a8144eabfe3---4">Osmo-FL2k: A $15 DTV transmitter, FM radio hijack and GPS Spoofing device. </a></li> 
+          
+            <li> <a href="https://eng.uber.com/nanoscope/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nanoscope">Introducing Nanoscope: An Extremely Accurate Method Tracing Tool for Android </a></li> 
+          
+            <li> <a href="https://hackernoon.com/distributed-ledger-consensus-explained-b0968d1ba087?source=rss----3a8144eabfe3---4">Distributed ledger consensus explained </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-actually-happens-when-you-buy-a-domain-name-9c996d352af3?source=rss----3a8144eabfe3---4">What actually happens when you buy a domain name? </a></li> 
+          
+            <li> <a href="https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db?source=rss----5b301f10ddcd---4">Parallel programming in JavaScript </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/optimal-coupon-targeting-for-grocery-items-an-instacart-case-study-128e8d169c7c?source=rss----7f60cf5620c9---4">Optimal Coupon Targeting for Grocery Items: an Instacart Case Study </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 03 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 02 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,38 +289,6 @@
         <pubDate>Fri, 20 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 19 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://highscalability.com/blog/2018/4/16/google-a-collection-of-best-practices-for-production-service.html">Google: A Collection of Best Practices for Production Services </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/04/build-your-own-web-things-with-the-things-framework/">Build your own web things with the Things Framework </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/simon-moss-on-using-artificial-intelligence-to-fight-financial-crimes">Simon Moss on using artificial intelligence to fight financial crimes </a></li> 
-          
-            <li> <a href="http://eng.wealthfront.com/2018/04/16/continuous-deployment-with-spark-streaming-part-ii/">Continuous Deployment with Spark Streaming (Part II) </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/the-upstream-kubernetes/">The upstream Kubernetes </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/finite-state-machines-android-kotlin-good-times">Finite State Machines + Android + Kotlin = Good Times </a></li> 
-          
-            <li> <a href="http://www.olioapps.com/blog/checking-types-real-world-typescript/">Checking Types Against the Real World in TypeScript </a></li> 
-          
-            <li> <a href="https://www.toptal.com/machine-learning/nlp-tutorial-text-classification">Build a Text Classification Program: An NLP Tutorial </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/neon-is-the-new-black/">NEON is the new black: fast JPEG optimization on ARM server </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html">Introducing Semantic Experiences with Talk to Books and Semantris </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 19 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-19.html</guid>
       </item>
       
   </channel>
