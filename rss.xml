@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 04 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://intoli.com/blog/transcoding-on-aws-lambda/">Running FFmpeg on AWS Lambda for 1.9% the cost of AWS Elastic Transcoder </a></li> 
+          
+            <li> <a href="https://itnext.io/chroot-cgroups-and-namespaces-an-overview-37124d995e3d?source=rss----5b301f10ddcd---4">chroot, cgroups and namespaces — An overview </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/05/evolution-of-couchbase-at-linkedin">Evolution of Couchbase at LinkedIn </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/determinism-fixing-divergences">Determinism: Fixing Divergences </a></li> 
+          
+            <li> <a href="https://blog.novoda.com/getting-started-with-google-arcore-on-android/">Getting started with Google ARCore on Android </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/generating-pixelated-images-from-segmentation-masks-using-conditional-adversarial-networks-with-6479c304ea5f?source=rss----7f60cf5620c9---4">Generating Pixelated Images from Segmentation Masks using Conditional Adversarial Networks with… </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/gld/">Detecting licenses in code with Go and ML </a></li> 
+          
+            <li> <a href="https://itnext.io/hosting-multiple-apps-on-the-same-server-implement-a-reverse-proxy-with-node-a4e213497345?source=rss----5b301f10ddcd---4">Hosting multiple apps on the same server — Implement a reverse proxy with Node </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/confluent-io-part-2-build-a-streaming-pipeline/">Confluent.io – Part 2: BUILD A STREAMING PIPELINE </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 04 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 03 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Mon, 23 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 20 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.codeship.com/increasing-codebase-confidence-with-pre-commit-hooks/">Increasing Codebase Confidence with Pre-commit Hooks </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/04/a-new-video-series-web-demystified/">A new video series: Web Demystified </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2018/04/17/webauthn-developers-guide-to-whats-on-the-horizon">WebAuthn: A Developer&#39;s Guide to What&#39;s on the Horizon </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2018/04/hardening-javascript-application-with-static-type-analysis/">Hardening Javascript Application with Static Type Analysis </a></li> 
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/python-refactor-3.htm">Untangling our Python Code </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/jenkinsx-new-kubernetes-dream-part-1/">JenkinsX – new Kubernetes dream? Part 1 </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/04/ad-password-blacklisting.html">Active Directory Password Blacklisting </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/malware-analysis-new-trojan-double-dropper-5ed0a943adb?source=rss----cfe1120185d3---4">Malware Analysis: New Trojan Double Dropper </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 20 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-20.html</guid>
       </item>
       
   </channel>
