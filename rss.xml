@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 07 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/binary-exploitation-eli5-part-1-9bc23855a3d8?source=rss----3a8144eabfe3---4">Binary Exploitation ELI5– Part 1 </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Advancing state-of-the-art image recognition with deep learning on hashtags </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1622140391226436/embodied-question-answering-a-goal-driven-approach-to-autonomous-agents/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Embodied Question Answering: A goal-driven approach to autonomous agents </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/acclerate-machine-learnng-nvvl/">Using Videos to Accelerate Machine Learning with NVVL </a></li> 
+          
+            <li> <a href="https://hackernoon.com/fat-protocols-vs-dapps-creating-long-term-value-on-the-public-blockchain-565637747557?source=rss----3a8144eabfe3---4">Fat Protocols Vs. DApps: Creating Long Term Value on the Public Blockchain </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/node-js-async-best-practices-avoiding-callback-hell/">Node.js Async Best Practices and Avoiding Callback Hell </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/05/uplift-modeling-in-display-remarketing/">Uplift Modeling in Display Remarketing </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907?source=rss----7f60cf5620c9---4">How to build a Gesture Controlled Web based Game using Tensorflow Object Detection Api </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 07 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 04 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Tue, 24 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 23 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/a-comprehensive-design-guide-for-image-classification-cnns-46091260fb92?source=rss----3a8144eabfe3---4">A Comprehensive Design Guide for Image Classification CNNs </a></li> 
-          
-            <li> <a href="https://blog.takipi.com/jvm-architecture-101-get-to-know-your-virtual-machine/">JVM Architecture 101: Get to Know Your Virtual Machine </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/web-security-for-single-page-applications-great-impact-with-little-effort-a7a506cec20b?source=rss----d3d69d818e3d---4">Web Security for Single Page Applications: great impact with little effort </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/mmproxy-creative-way-of-preserving-client-ips-in-spectrum/">mmproxy - Creative Linux routing to preserve client IP addresses in L7 proxies </a></li> 
-          
-            <li> <a href="https://blog.imgur.com/2018/04/17/solving-cache-first-bug-recovery-in-service-workers/">Solving Cache First Bug Recovery in Service Workers </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/04/time-series-data-at-wayfair/">Then and Now: The Rethinking of Time Series Data at Wayfair </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/optimization-of-cal-report-hadoop-mapreduce-job/">Optimizing CAL Report Hadoop MapReduce Jobs </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/quantifying-effort-through-heart-rate-data-e6a0e3dd6a52?source=rss----89d4108ce2a3---4">Quantifying Effort through Heart Rate Data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-23.html</guid>
       </item>
       
   </channel>
