@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 08 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631?source=rss----7f60cf5620c9---4">Hyper-parameters in Action! Introducing DeepReplay </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af?source=rss----7fa310224bc5---4">High availability and scalable reads in PostgreSQL </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/05/creating-web-things-with-python-node-js-and-java/">Creating Web Things with Python, Node.js, and Java </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2018/04/30/a-look-at-myrocks-performance/">A Look at MyRocks Performance </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-to-build-analytic-products-in-an-age-when-data-privacy-has-become-critical">How to build analytic products in an age when data privacy has become critical </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/05/android-search-perf-improvements-part-1.html">Performance Improvements for Search on The Yelp Android App - Part 1 </a></li> 
+          
+            <li> <a href="https://medium.engineering/the-case-of-the-eternal-blur-ab350b9653ea?source=rss----2817475205d3---4">The case of the eternal blur </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/the-future-of-meta-tag-management-for-modern-react-development-ec26a7dc9183?source=rss----51e1d1745b32---4">The Future of Meta Tag Management for Modern React Development </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 08 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 07 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Wed, 25 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 24 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/">Adventures with cgo: Part 1- The Pointering </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216?source=rss----12d1b859d4e4---4">How JavaScript works: Under the hood of CSS and JS animations + how to optimize their performance </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/tensorflow-for-manufacturing-quality-control-bc1bc6740558?source=rss----7f60cf5620c9---4">Tensorflow for Manufacturing Quality Control </a></li> 
-          
-            <li> <a href="https://deezer.io/visualize-your-music-dna-with-data-b1f1b6631b98?source=rss----2ab7e077175a---4">Visualize your music DNA with Data </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/index.html">Distributed Cache </a></li> 
-          
-            <li> <a href="https://www.paypal-engineering.com/2018/04/17/gimel/">Gimel: PayPal’s Analytics Data Processing Platform </a></li> 
-          
-            <li> <a href="https://eng.uber.com/mediation-modeling/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mediation-modeling">Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work) </a></li> 
-          
-            <li> <a href="https://yahooeng.tumblr.com/post/173062946866">Achieving Major Stability and Performance Improvements in Yahoo Mail with a Novel Redux Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-24.html</guid>
       </item>
       
   </channel>
