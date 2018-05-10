@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 10 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/05/scaling-collaborative-filtering-with-pyspark.html">Scaling Collaborative Filtering with PySpark </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/continuously-deploying-elasticsearch-on-kubernetes-57fdfba40670?source=rss----d3d69d818e3d---4">Continuously deploying Elasticsearch on Kubernetes </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/build-time-travel-debugging-in-redux-from-scratch-665fea8fc6cc?source=rss----5517fd7b58a6---4">Build time travel debugging in Redux from scratch </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/data-and-the-bid-to-simplify-grocery-7a93bf781006?source=rss----42df4a1e8725---4">Data and the bid to simplify grocery </a></li> 
+          
+            <li> <a href="http://allegro.tech/2018/05/a-comedy-of-errors-debugging-java-memory-leaks.html">A comedy of errors. Debugging Java memory leaks. </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/05/future-of-web-design/">New CSS Features That Are Changing Web Design </a></li> 
+          
+            <li> <a href="https://hackernoon.com/mongodb-indexes-and-performance-2e8f94b23c0a?source=rss----3a8144eabfe3---4">MongoDB Indexes and Performance </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fast-near-duplicate-image-search-using-locality-sensitive-hashing-d4c16058efcb?source=rss----7f60cf5620c9---4">Fast Near-Duplicate Image Search using Locality Sensitive Hashing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 10 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 09 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Fri, 27 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 26 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/nv-wavenet-gpu-speech-synthesis/">Nv-Wavenet: Better Speech Synthesis Using GPU-Enabled WaveNet Inference </a></li> 
-          
-            <li> <a href="https://eng.uber.com/accelerated-neuroevolution/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=accelerated-neuroevolution">Accelerating Deep Neuroevolution: Train Atari in Hours on a Single Personal Computer </a></li> 
-          
-            <li> <a href="https://research.fb.com/designing-a-face-recognition-application-for-people-with-visual-impairments/">Designing a face recognition application for people with visual impairments </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/interactive-go-programming-with-jupyter-93fbf089aff1?source=rss----7f60cf5620c9---4">Interactive Go programming with Jupyter </a></li> 
-          
-            <li> <a href="https://hackernoon.com/from-makefile-to-go-semantic-versioning-service-on-kubernetes-3fae678db87c?source=rss----3a8144eabfe3---4">From Makefile to Go semantic versioning service on Kubernetes </a></li> 
-          
-            <li> <a href="https://hackernoon.com/sleep-better-at-night-here-is-how-to-respawn-a-mongodb-server-automatically-f1a30d1b36f6?source=rss----3a8144eabfe3---4">Sleep better at night! Here is how to respawn a MongoDB Server automatically! </a></li> 
-          
-            <li> <a href="https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f?source=rss----3a8144eabfe3---4">Lessons Learned — A Year Of Going “Fully Serverless” In Production </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846?source=rss----7f60cf5620c9---4">Deep learning in your browser: A brisk guide </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 26 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-26.html</guid>
       </item>
       
   </channel>
