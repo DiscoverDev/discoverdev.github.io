@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 11 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developer.okta.com/blog/2018/05/08/build-video-chat-app-with-javascript-webrtc-and-okta">Build a Video Chat Service with JavaScript, WebRTC, and Okta </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/reimagining-the-new-york-times-digital-story-experience-ff698541ac09?source=rss----51e1d1745b32---4">Reimagining The New York Times Digital Story Experience </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/implementing-hyperloglog-in-redshift-and-tableau-a62081c98e1c?source=rss----587883b5d2ee---4">Implementing HyperLogLog in Redshift and Tableau </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/many-to-many-using-kafka/index.html">Many-to-Many Relationships Using Kafka </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/intelligent-payment-routing-d6c4097720e?source=rss----7f60cf5620c9---4">Intelligent Payment Routing </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/">I Used The Web For A Day With JavaScript Turned Off </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/05/the-question-of-quantum-supremacy.html">The Question of Quantum Supremacy </a></li> 
+          
+            <li> <a href="https://engblog.nextdoor.com/challenges-of-monitoring-sparse-data-and-what-to-do-about-it-c9576b725289?source=rss----5e54f11cdfdf---4">Challenges of monitoring sparse data, and what to do about it. </a></li> 
+          
+            <li> <a href="https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/">Facebook’s Field Guide to Machine Learning video series </a></li> 
+          
+            <li> <a href="https://engineering.vena.io/2018/05/07/testing-database-operations-with-mocks/">Implementing and Testing the Bulk Insert/Save Pattern in MongoDB </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 11 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 10 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +295,6 @@
         <pubDate>Mon, 30 Apr 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-04-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 27 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33?source=rss----5e5bef33608a---4">Visual Music &amp; Machine Learning Workshop for Kids </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh">CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/how-to-refactor-a-monolithic-codebase-over-time/">How to Refactor a Monolithic Codebase Over Time </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/">Testing Strategies for React and Redux </a></li> 
-          
-            <li> <a href="https://hackernoon.com/documenting-the-8-bit-generation-beyond-e9367a3c09a7?source=rss----3a8144eabfe3---4">Documenting the 8-bit Generation &amp; Beyond </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/erlang-serpents.html">Erlang Serpents </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/finite-state-machines-with-react/">Using Finite State Machines to Simplify State With React </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/instant-feedback-in-ios-engineering-workflows-c3f6508c76c8?source=rss----37dc2a3034f2---4">Instant Feedback in iOS Engineering Workflows </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 27 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-27.html</guid>
       </item>
       
   </channel>
