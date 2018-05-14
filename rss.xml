@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 14 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://nodesource.com/blog/orchestrating-nodejs-containers-with-kubernetes">Orchestrating Node.js Containers with Kubernetes </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/predict-product-success-using-nlp-models-b3e87295d97?source=rss----7f60cf5620c9---4">Predict Product Success using NLP models </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html">Looking to Listen: Audio-Visual Speech Separation </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/building-pin-stats-25ec8460e924?source=rss-ef81ef829bcb------2">Building Pin stats </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-we-built-a-cloud-based-programming-language-asts-in-the-cloud-bb5c45c32bab?source=rss----3a8144eabfe3---4">How we built a cloud-based programming language: ASTs in the Cloud </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html">Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html">Deep Learning for Electronic Health Records </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/an-overview-of-the-service-mesh-and-its-tooling-options/">An Overview of the Service Mesh and Its Tooling Options </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 14 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 11 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,36 +293,6 @@
         <pubDate>Tue, 01 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 30 Apr 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/how-we-streamlined-serverless-testing-8f5e0bbdc7e5?source=rss----3a8144eabfe3---4">How We Streamlined Serverless Testing </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/nvidia-smp-assist-api-vr-programming/">NVIDIA SMP Assist API for VR Programming </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/4/25/google-addressing-cascading-failures.html">Google: Addressing Cascading Failures </a></li> 
-          
-            <li> <a href="https://kinvolk.io/blog/2018/04/towards-unprivileged-container-builds/">Towards unprivileged container builds </a></li> 
-          
-            <li> <a href="https://medium.com/myheritage-engineering/10-tips-to-power-up-your-java-security-f3daa4522530?source=rss----c98dcd6fa33c---4">10 tips to power-up your Java security </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/bgp-leaks-and-crypto-currencies/">BGP leaks and cryptocurrencies </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-new-programming-paradigm-for-deep-learning-8ce53b5b6345?source=rss----7f60cf5620c9---4">Deep Learning and a New Programming Paradigm </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching">Solving the N+1 Problem for GraphQL through Batching </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/kubernetes-security-kubelet-etcd/">Kubernetes Security Guide, Chapter 3. Securing Kubernetes components: kubelet, etcd and Docker registry </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 30 Apr 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-04-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-30.html</guid>
       </item>
       
   </channel>
