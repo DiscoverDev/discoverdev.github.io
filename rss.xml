@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 15 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2018/05/custom-on-device-ml-models.html">Custom On-Device ML Models with Learn2Compress </a></li> 
+          
+            <li> <a href="https://liveramp.com/engineering/utilizing-mapreduce-combiners-hyperloglog-process-millions-queries-datasets-billions-records/">Utilizing MapReduce Combiners and HyperLogLog++ to process millions of queries over datasets with billions of records </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4?source=rss----7f60cf5620c9---4">Building a Custom Mask RCNN model with Tensorflow Object Detection </a></li> 
+          
+            <li> <a href="http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-1">Using Deep Convolutional Neural Networks (DCNNs) for Time Series Forecasting Using Tensorflow - Part 1 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/one-problem-to-explain-ai-218a29e8fbc0?source=rss----7f60cf5620c9---4">One problem to explain why AI works </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/functional-thinking/">Functional Thinking </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/end-to-end-testing-react-apps-with-puppeteer-and-jest-ce2f414b4fd7?source=rss----7f3d96429888---4">End-to-end testing React apps with Puppeteer and Jest </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/rollup-webpack-parcel-comparison/">Rollup v. Webpack v. Parcel </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/rise-of-edge-compute-the-video/">The Rise of Edge Compute: The Video </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/04/introducing-semantic-experiences-with.html">Introducing Semantic Experiences with Talk to Books and Semantris </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/04/an-augmented-reality-microscope.html">An Augmented Reality Microscope for Cancer Detection </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 15 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 14 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,38 +295,6 @@
         <pubDate>Wed, 02 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 01 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/intrinsic-dimension/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=intrinsic-dimension">Measuring the Intrinsic Dimension of Objective Landscapes </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/slacking-hard-or-hardly-slacking-automating-infrastructure-at-scale">Slacking hard, or hardly Slacking: Automating infrastructure at scale </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/04/making-a-web-thing-on-the-esp8266/">Making a Web Thing on the ESP8266 </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/04/mobile-first-optimization-tools/">Measuring Websites With Mobile-First Optimization Tools </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/migrating-java-8/index.html">Short Story of a Long Migration </a></li> 
-          
-            <li> <a href="https://stackshare.io/posts/evolution-of-new-york-times-tech-stack">The Evolution of The New York Times Tech Stack </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/toward-the-jet-age-of-machine-learning">Toward the Jet Age of machine learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3?source=rss----3a8144eabfe3---4">Powering Your App With A Realtime Messaging CDN </a></li> 
-          
-            <li> <a href="https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb?source=rss----3a8144eabfe3---4">These 6 essential tools will maintain your NPM modules for you </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/">Sharing Code Between Projects: Lessons Learned In The Trenches </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 01 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-01.html</guid>
       </item>
       
   </channel>
