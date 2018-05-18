@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 18 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.future-processing.pl/blog/a-grasp-of-git/">A grasp of Git </a></li> 
+          
+            <li> <a href="http://blog.arkency.com/rewriting-deprecated-apis-with-parser-gem/">Rewriting deprecated APIs with parser gem </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3?source=rss----7f3d96429888---4">Using trampolines to manage large recursive loops in JavaScript </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/predicting-ethereum-prices-with-long-short-term-memory-lstm-2a5465d3fd?source=rss----7f60cf5620c9---4">Predicting Ethereum prices with Long Short Term Memory (LSTM) </a></li> 
+          
+            <li> <a href="https://www.hostinger.com/blog/new-network-infrastructure">Meet Our New Network Infrastructure </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/">A Strategy Guide To CSS Custom Properties </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/the-web-is-broken-lets-fix-it">The web is broken; let’s fix it </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/differentiable-convolution-of-probability-distributions-with-tensorflow-79c1dd769b46?source=rss----7f60cf5620c9---4">Differentiable convolution of probability distributions with Tensorflow </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 18 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 17 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +299,6 @@
         <pubDate>Mon, 07 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 04 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://intoli.com/blog/transcoding-on-aws-lambda/">Running FFmpeg on AWS Lambda for 1.9% the cost of AWS Elastic Transcoder </a></li> 
-          
-            <li> <a href="https://itnext.io/chroot-cgroups-and-namespaces-an-overview-37124d995e3d?source=rss----5b301f10ddcd---4">chroot, cgroups and namespaces — An overview </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/05/evolution-of-couchbase-at-linkedin">Evolution of Couchbase at LinkedIn </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/determinism-fixing-divergences">Determinism: Fixing Divergences </a></li> 
-          
-            <li> <a href="https://blog.novoda.com/getting-started-with-google-arcore-on-android/">Getting started with Google ARCore on Android </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/generating-pixelated-images-from-segmentation-masks-using-conditional-adversarial-networks-with-6479c304ea5f?source=rss----7f60cf5620c9---4">Generating Pixelated Images from Segmentation Masks using Conditional Adversarial Networks with… </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/gld/">Detecting licenses in code with Go and ML </a></li> 
-          
-            <li> <a href="https://itnext.io/hosting-multiple-apps-on-the-same-server-implement-a-reverse-proxy-with-node-a4e213497345?source=rss----5b301f10ddcd---4">Hosting multiple apps on the same server — Implement a reverse proxy with Node </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/confluent-io-part-2-build-a-streaming-pipeline/">Confluent.io – Part 2: BUILD A STREAMING PIPELINE </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 04 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-04.html</guid>
       </item>
       
   </channel>
