@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 21 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/stepping-towards-a-password-less-world/">Stepping Towards a Password-Free World </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53?source=rss----7f60cf5620c9---4">Hyperparameter Optimization with Keras </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/kubernetes-and-containers-for-enterprise-developers">Kubernetes and containers for enterprise developers </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506?source=rss----53c7c27702d5---4">Building Services at Airbnb, Part 2 </a></li> 
+          
+            <li> <a href="https://technology.skybettingandgaming.com/2018/05/15/terraform-kotlin-lambda/">Using Terraform to put Kotlin in AWS Lambda </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/05/14/two-things-about-power/">Two things about power </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/user-experience/mental-models-ux-design">Leveraging Mental Models in UX Design </a></li> 
+          
+            <li> <a href="https://hackernoon.com/secure-npm-ca2fe0e9aeff?source=rss----3a8144eabfe3---4">Secure NPM </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/05/exploring-the-github-archive/">Exploring The GitHub Archive </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 21 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 18 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +301,6 @@
         <pubDate>Tue, 08 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 07 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/binary-exploitation-eli5-part-1-9bc23855a3d8?source=rss----3a8144eabfe3---4">Binary Exploitation ELI5– Part 1 </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Advancing state-of-the-art image recognition with deep learning on hashtags </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1622140391226436/embodied-question-answering-a-goal-driven-approach-to-autonomous-agents/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Embodied Question Answering: A goal-driven approach to autonomous agents </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/acclerate-machine-learnng-nvvl/">Using Videos to Accelerate Machine Learning with NVVL </a></li> 
-          
-            <li> <a href="https://hackernoon.com/fat-protocols-vs-dapps-creating-long-term-value-on-the-public-blockchain-565637747557?source=rss----3a8144eabfe3---4">Fat Protocols Vs. DApps: Creating Long Term Value on the Public Blockchain </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/node-js-async-best-practices-avoiding-callback-hell/">Node.js Async Best Practices and Avoiding Callback Hell </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/05/uplift-modeling-in-display-remarketing/">Uplift Modeling in Display Remarketing </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907?source=rss----7f60cf5620c9---4">How to build a Gesture Controlled Web based Game using Tensorflow Object Detection Api </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 07 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-07.html</guid>
       </item>
       
   </channel>
