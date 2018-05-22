@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 22 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/interactive-visualization-of-decision-trees-with-jupyter-widgets-ca15dd312084?source=rss----7f60cf5620c9---4">Interactive Visualization of Decision Trees with Jupyter Widgets </a></li> 
+          
+            <li> <a href="https://nodesource.com/blog/understanding-how-node-js-release-lines-work">Understanding How Node.js Release Lines Work </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html">Smart Compose: Using Neural Networks to Help Write Emails </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/05/how-were-winning-the-battle-against-flaky-tests/">How we’re winning the battle against flaky tests </a></li> 
+          
+            <li> <a href="https://eng.uber.com/observability-anomaly-detection/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=observability-anomaly-detection">Engineering a Job-based Forecasting Workflow for Observability Anomaly Detection </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/automating-customer-feedback-with-machine-learning/">Automating Customer Feedback with Machine Learning </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/community/tutorials/running-applications-on-a-docker-swarm-mode-cluster">Running Applications on a Docker Swarm Mode Cluster </a></li> 
+          
+            <li> <a href="https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python">Python Multithreading and Multiprocessing Tutorial </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/how-to-store-time-series-data-mongodb-vs-timescaledb-postgresql-a73939734016?source=rss----7fa310224bc5---4">How to store time-series data in MongoDB, and why that&#39;s a bad idea </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 22 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 21 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,34 +303,6 @@
         <pubDate>Wed, 09 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 08 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631?source=rss----7f60cf5620c9---4">Hyper-parameters in Action! Introducing DeepReplay </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af?source=rss----7fa310224bc5---4">High availability and scalable reads in PostgreSQL </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/05/creating-web-things-with-python-node-js-and-java/">Creating Web Things with Python, Node.js, and Java </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/04/30/a-look-at-myrocks-performance/">A Look at MyRocks Performance </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-to-build-analytic-products-in-an-age-when-data-privacy-has-become-critical">How to build analytic products in an age when data privacy has become critical </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/05/android-search-perf-improvements-part-1.html">Performance Improvements for Search on The Yelp Android App - Part 1 </a></li> 
-          
-            <li> <a href="https://medium.engineering/the-case-of-the-eternal-blur-ab350b9653ea?source=rss----2817475205d3---4">The case of the eternal blur </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/the-future-of-meta-tag-management-for-modern-react-development-ec26a7dc9183?source=rss----51e1d1745b32---4">The Future of Meta Tag Management for Modern React Development </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 08 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-08.html</guid>
       </item>
       
   </channel>
