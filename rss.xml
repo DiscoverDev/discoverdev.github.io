@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 24 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/consistent-modelling-of-serverless-long-running-background-tasks-2f686c872f8c?source=rss----3a8144eabfe3---4">Consistent modelling of Serverless long-running background tasks </a></li> 
+          
+            <li> <a href="https://itnext.io/under-the-hood-of-the-operator-sdk-eebc8fdeebbf?source=rss----5b301f10ddcd---4">Under the hood of Operator SDK </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919?source=rss----7f60cf5620c9---4">Reinforcement Learning Demystified: Solving MDPs with Dynamic Programming </a></li> 
+          
+            <li> <a href="https://githubengineering.com/removing-oobgc/">Performance Impact of Removing OOBGC </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/structure-attribute-based-graph-partitioning-9c3fabf8cc12?source=rss----905ea2b3d4d1---4">Structure &amp; Attribute Based Graph Partitioning </a></li> 
+          
+            <li> <a href="https://www.thumbtack.com/engineering/hitchhikers-guide-to-code-reviews/">Hitchhiker’s Guide to Code Reviews </a></li> 
+          
+            <li> <a href="http://engineering.monsanto.com/2018/05/18/webpack4/">The Marvels of Webpack 4 </a></li> 
+          
+            <li> <a href="https://www.toptal.com/opencv/python-image-processing-in-computational-photography">Intro to Python Image Processing in Computational Photography </a></li> 
+          
+            <li> <a href="https://itnext.io/under-the-hood-of-kubebuilder-framework-ff6b38c10796?source=rss----5b301f10ddcd---4">Under the hood of Kubebuilder framework </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/05/object-detection-and-visual-search-improvements/">Object Detection and Visual Search Improvements </a></li> 
+          
+            <li> <a href="https://blog.imaginea.com/demystifying-vue-js-internals/">Demystifying Vue.js internals </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 24 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 23 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,34 +313,6 @@
         <pubDate>Fri, 11 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 10 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/05/scaling-collaborative-filtering-with-pyspark.html">Scaling Collaborative Filtering with PySpark </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/continuously-deploying-elasticsearch-on-kubernetes-57fdfba40670?source=rss----d3d69d818e3d---4">Continuously deploying Elasticsearch on Kubernetes </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/build-time-travel-debugging-in-redux-from-scratch-665fea8fc6cc?source=rss----5517fd7b58a6---4">Build time travel debugging in Redux from scratch </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/data-and-the-bid-to-simplify-grocery-7a93bf781006?source=rss----42df4a1e8725---4">Data and the bid to simplify grocery </a></li> 
-          
-            <li> <a href="http://allegro.tech/2018/05/a-comedy-of-errors-debugging-java-memory-leaks.html">A comedy of errors. Debugging Java memory leaks. </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/05/future-of-web-design/">New CSS Features That Are Changing Web Design </a></li> 
-          
-            <li> <a href="https://hackernoon.com/mongodb-indexes-and-performance-2e8f94b23c0a?source=rss----3a8144eabfe3---4">MongoDB Indexes and Performance </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/fast-near-duplicate-image-search-using-locality-sensitive-hashing-d4c16058efcb?source=rss----7f60cf5620c9---4">Fast Near-Duplicate Image Search using Locality Sensitive Hashing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 10 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-10.html</guid>
       </item>
       
   </channel>
