@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 25 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.facebook.com/posts/166812063987311/scaling-the-facebook-backbone-through-zero-touch-provisioning/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Scaling the Facebook backbone through Zero Touch Provisioning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/catgan-cat-face-generation-using-gans-f44663586d6b?source=rss----3a8144eabfe3---4">CatGAN: cat face generation using GANs </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/05/progressive-web-games/">Progressive Web Games </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/youtube-mp3-downloader/">Making a YouTube MP3 Downloader with Exodus, FFmpeg, and AWS Lambda </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/advanced-visualization-with-react-vis-efc5c6667b4?source=rss----7f60cf5620c9---4">Advanced Visualization with react-vis </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3?source=rss----2615bd06b42e---4">Open Sourcing Zuul 2 </a></li> 
+          
+            <li> <a href="https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7?source=rss----eb277599ce4a---4">Want to Debug Latency? </a></li> 
+          
+            <li> <a href="https://medium.com/observability/microservices-observability-26a8b7056bb4?source=rss----eb277599ce4a---4">Microservices Observability </a></li> 
+          
+            <li> <a href="https://hackernoon.com/clustering-cryptocurrencies-with-affinity-propagation-and-the-rad-30-crypto-composite-9201f2dbadf0?source=rss----3a8144eabfe3---4">Clustering Cryptocurrencies with Affinity Propagation and the RAD 30 Crypto Composite </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/coding-neural-network-dropout-3095632d25ce?source=rss----7f60cf5620c9---4">Coding Neural Network — Dropout </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 25 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 24 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Mon, 14 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 11 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developer.okta.com/blog/2018/05/08/build-video-chat-app-with-javascript-webrtc-and-okta">Build a Video Chat Service with JavaScript, WebRTC, and Okta </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/reimagining-the-new-york-times-digital-story-experience-ff698541ac09?source=rss----51e1d1745b32---4">Reimagining The New York Times Digital Story Experience </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/implementing-hyperloglog-in-redshift-and-tableau-a62081c98e1c?source=rss----587883b5d2ee---4">Implementing HyperLogLog in Redshift and Tableau </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/many-to-many-using-kafka/index.html">Many-to-Many Relationships Using Kafka </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/intelligent-payment-routing-d6c4097720e?source=rss----7f60cf5620c9---4">Intelligent Payment Routing </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/">I Used The Web For A Day With JavaScript Turned Off </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/the-question-of-quantum-supremacy.html">The Question of Quantum Supremacy </a></li> 
-          
-            <li> <a href="https://engblog.nextdoor.com/challenges-of-monitoring-sparse-data-and-what-to-do-about-it-c9576b725289?source=rss----5e54f11cdfdf---4">Challenges of monitoring sparse data, and what to do about it. </a></li> 
-          
-            <li> <a href="https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/">Facebook’s Field Guide to Machine Learning video series </a></li> 
-          
-            <li> <a href="https://engineering.vena.io/2018/05/07/testing-database-operations-with-mocks/">Implementing and Testing the Bulk Insert/Save Pattern in MongoDB </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 11 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-11.html</guid>
       </item>
       
   </channel>
