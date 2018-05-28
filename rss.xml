@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 28 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/blog-series-modeling-local-development-environments-with-docker-compose-15fe6d7c22cf?source=rss----cfe1120185d3---4">Blog Series: Modeling Local Development Environments with Docker Compose </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-use-the-language-server-protocol-to-extending-a-client-764da0e7863c?source=rss----7f3d96429888---4">Extending a client with the language server protocol </a></li> 
+          
+            <li> <a href="https://segment.com/blog/introducing-centrifuge/">Centrifuge: a reliable system for delivering billions of events per day </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/an-introduction-to-recurrent-neural-networks-72c97bf0912?source=rss----7f60cf5620c9---4">An Introduction to Recurrent Neural Networks </a></li> 
+          
+            <li> <a href="https://www.elastic.co/blog/a-practical-introduction-to-logstash">A Practical Introduction to Logstash </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/cory-doctorow-on-the-fight-for-a-configurable-and-free-internet">Cory Doctorow on the fight for a configurable and free internet </a></li> 
+          
+            <li> <a href="https://medium.com/dev-channel/hello-tensorflow-31cf594ad94e?source=rss----32c64651a75---4">Hello tensorflow </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3?source=rss----53c7c27702d5---4">Categorizing Listing Photos at Airbnb </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 28 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 25 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,34 +313,6 @@
         <pubDate>Tue, 15 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 14 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://nodesource.com/blog/orchestrating-nodejs-containers-with-kubernetes">Orchestrating Node.js Containers with Kubernetes </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/predict-product-success-using-nlp-models-b3e87295d97?source=rss----7f60cf5620c9---4">Predict Product Success using NLP models </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html">Looking to Listen: Audio-Visual Speech Separation </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-pin-stats-25ec8460e924?source=rss-ef81ef829bcb------2">Building Pin stats </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-we-built-a-cloud-based-programming-language-asts-in-the-cloud-bb5c45c32bab?source=rss----3a8144eabfe3---4">How we built a cloud-based programming language: ASTs in the Cloud </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html">Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html">Deep Learning for Electronic Health Records </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/an-overview-of-the-service-mesh-and-its-tooling-options/">An Overview of the Service Mesh and Its Tooling Options </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 14 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-14.html</guid>
       </item>
       
   </channel>
