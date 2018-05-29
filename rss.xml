@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 29 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8?source=rss----12d1b859d4e4---4">How JavaScript works: Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/05/keeping-2-billion-android-devices-safe.html">Keeping 2 billion Android devices safe with machine learning </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-researchers-use-ai-to-turn-whistles-into-orchestral-music-and-power-other-musical-translations/">Facebook researchers use AI to turn whistles into orchestral music, and power other musical “translations” </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/into-a-textual-heart-of-darkness-39b3895ce21e?source=rss----7f60cf5620c9---4">Into a Textual Heart of Darkness </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/05/streaming-with-wallaroo-fast-algorithmic-trading-checks/">Streaming with Wallaroo: Fast Algorithmic Trading Checks </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2018/05/build-a-cellular-connected-raspberry-pi-fax-machine.html">Build a Cellular Connected Raspberry Pi Fax Machine </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-train-machine-learning-models-in-the-cloud-using-cloud-ml-engine-3f0d935294b3?source=rss----7f60cf5620c9---4">How to train Machine Learning models in the cloud using Cloud ML Engine </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/data-retrieval-and-cleaning/">Data Retrieval and Cleaning: Tracking Migratory Patterns </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 29 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 28 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,40 +307,6 @@
         <pubDate>Wed, 16 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 15 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/custom-on-device-ml-models.html">Custom On-Device ML Models with Learn2Compress </a></li> 
-          
-            <li> <a href="https://liveramp.com/engineering/utilizing-mapreduce-combiners-hyperloglog-process-millions-queries-datasets-billions-records/">Utilizing MapReduce Combiners and HyperLogLog++ to process millions of queries over datasets with billions of records </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4?source=rss----7f60cf5620c9---4">Building a Custom Mask RCNN model with Tensorflow Object Detection </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-1">Using Deep Convolutional Neural Networks (DCNNs) for Time Series Forecasting Using Tensorflow - Part 1 </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/one-problem-to-explain-ai-218a29e8fbc0?source=rss----7f60cf5620c9---4">One problem to explain why AI works </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/functional-thinking/">Functional Thinking </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/end-to-end-testing-react-apps-with-puppeteer-and-jest-ce2f414b4fd7?source=rss----7f3d96429888---4">End-to-end testing React apps with Puppeteer and Jest </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/rollup-webpack-parcel-comparison/">Rollup v. Webpack v. Parcel </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/rise-of-edge-compute-the-video/">The Rise of Edge Compute: The Video </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/04/introducing-semantic-experiences-with.html">Introducing Semantic Experiences with Talk to Books and Semantris </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/04/an-augmented-reality-microscope.html">An Augmented Reality Microscope for Cancer Detection </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 15 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-15.html</guid>
       </item>
       
   </channel>
