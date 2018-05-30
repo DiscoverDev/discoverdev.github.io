@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 30 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near">Concourse: Generating Personalized Content Notifications in Near-Real-Time </a></li> 
+          
+            <li> <a href="https://eng.uber.com/deckgl-v5/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deckgl-v5">Growing the Data Visualization Community with deck.gl v5 </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897?source=rss----7484818e9f88---4">Building Scalable Web Services in Golang </a></li> 
+          
+            <li> <a href="https://hackernoon.com/progressive-web-apps-core-features-architecture-pros-and-cons-4168848fd225?source=rss----3a8144eabfe3---4">Progressive Web Apps: Core Features, Architecture, Pros and Cons </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-layr-an-experimental-decentralized-cloud-storage-system-be32e530fd8d?source=rss----3a8144eabfe3---4">Building Layr: An Experimental Decentralized Cloud Storage System </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/what-write-skew-looks-like/">What Write Skew Looks Like </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/wide-residual-networks-with-interactive-code-f9ef6b0bab29?source=rss----7f60cf5620c9---4">Wide Residual Networks with Interactive Code </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework">LinkedOut: A Request-Level Failure Injection Framework </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 30 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 29 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +305,6 @@
         <pubDate>Thu, 17 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 16 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.datafox.com/natural-language-processing/2018/05/10/automated-company-keyword-extraction/">Automated Company Keyword Extraction </a></li> 
-          
-            <li> <a href="http://tech.opentable.co.uk//blog/2018/05/10/monads-explained-by-a-imperative-programmer/">Monads explained by a imperative programmer - with examples </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/">Scalability of Kafka Messaging using Consumer Groups </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/webrtc-issues-and-how-to-debug-them/">WebRTC Issues and How to Debug Them </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/05/visualizing-your-smart-home-data-with-the-web-of-things/">Visualizing Your Smart Home Data with the Web of Things </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-run-a-blockchain-on-a-deserted-island-with-pen-and-paper-899949ec555b?source=rss----3a8144eabfe3---4">How to Run a Blockchain on a Deserted Island with Pen and Paper </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/03/expressive-speech-synthesis-with.html">Expressive Speech Synthesis with Tacotron </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html">Using Evolutionary AutoML to Discover Neural Network Architectures </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/03/balanced-partitioning-and-hierarchical.html">Balanced Partitioning and Hierarchical Clustering at Scale </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 16 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-16.html</guid>
       </item>
       
   </channel>
