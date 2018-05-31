@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 31 May 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712?source=rss----53c7c27702d5---4">Reconciling GraphQL and Thrift at Airbnb </a></li> 
+          
+            <li> <a href="https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d?source=rss----3a8144eabfe3---4">From VanillaJS to Vue.js: A refactoring tale </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-convolutional-neural-networks-221930904a8e?source=rss----7f60cf5620c9---4">Understanding Convolutional Neural Networks </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-nlp-to-detect-linguistic-cues-in-alzheimers-diseases-patients-3364301b0299?source=rss----7f60cf5620c9---4">Using NLP to Detect Linguistic Cues in Alzheimer&#39;s Disease Patients </a></li> 
+          
+            <li> <a href="http://allegro.tech/2018/05/Static-linking-vs-dyld3.html">Static linking vs dyld3 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fashion-mnist-with-deep-learning-studio-a-nonconformist-approach-towards-deep-learning-52dbe3c0f703?source=rss----7f60cf5620c9---4">Fashion-MNIST with Deep Learning Studio:A Nonconformist approach towards Deep Learning </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/05/the-duplicate-review-tool-incorporating-visual-search-into-merchandising-operations/">The Duplicate Review Tool: Incorporating Visual Search into Merchandising Operations </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting">Kubernetes recipes: Maintenance and troubleshooting </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 31 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 30 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +301,6 @@
         <pubDate>Fri, 18 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 17 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/tracing-system-cpu-on-debian-stretch/">Tracing System CPU on Debian Stretch </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba?source=rss----7f60cf5620c9---4">Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f?source=rss----7f60cf5620c9---4">Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R </a></li> 
-          
-            <li> <a href="https://hackernoon.com/async-await-generators-promises-51f1a6ceede2?source=rss----3a8144eabfe3---4">Async-Await ≈ Generators + Promises </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/automatic-photography-with-google-clips.html">Automatic Photography with Google Clips </a></li> 
-          
-            <li> <a href="https://itnext.io/rethinking-data-driven-applications-a17bcb9a91b?source=rss----5b301f10ddcd---4">Rethinking Data-Driven Applications </a></li> 
-          
-            <li> <a href="https://itnext.io/v8-wrapped-objects-lifecycle-42272de712e0?source=rss----5b301f10ddcd---4">V8 wrapped objects lifecycle </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/05/building-mobile-apps-using-react-native-wordpress/">Building Mobile Apps Using React Native And WordPress </a></li> 
-          
-            <li> <a href="https://hackernoon.com/graphql-schemas-on-steroid-inheritance-generic-types-f8802862778e?source=rss----3a8144eabfe3---4">GraphQL Schemas On Steroid — Inheritance &amp; Generic Types </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/05/11/use-the-dynamic-tracing-tools-luke/">“Use the dynamic tracing tools, Luke” </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 17 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-17.html</guid>
       </item>
       
   </channel>
