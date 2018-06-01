@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 01 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.scottlogic.com/2018/03/22/apache-spark-performance.html">Apache Spark - Performance </a></li> 
+          
+            <li> <a href="https://nordicapis.com/how-microservices-could-save-medical-iot/">How Microservices Could Save Medical IoT </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2018/05/29/diy-light-up-high-heels/">“Light Foot” Shoes: How to Make Your Own Light-Up High Heels </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-modified-artificial-bee-colony-algorithm-to-solve-clustering-problems-fc0b69bd0788?source=rss----7f60cf5620c9---4">A modified Artificial Bee Colony algorithm to solve Clustering problems </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/05/29/the-eventhorizon-saga/">The EventHorizon Saga </a></li> 
+          
+            <li> <a href="https://eng.uber.com/keplergl/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keplergl">From Beautiful Maps to Actionable Insights: Introducing kepler.gl, Uber’s Open Source Geospatial Toolbox </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/quantum-computation-python-javascript/">Quantum Computation: Just a Taste With Python and JavaScript </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/semantic-code-search-3cd6d244a39c?source=rss----7f60cf5620c9---4">How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/applying-security-to-the-twelve-factor-app-753ce9a30379?source=rss----3a8144eabfe3---4">Applying security to the Twelve-Factor App </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 01 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 31 May 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,34 +303,6 @@
         <pubDate>Mon, 21 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 18 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.future-processing.pl/blog/a-grasp-of-git/">A grasp of Git </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/rewriting-deprecated-apis-with-parser-gem/">Rewriting deprecated APIs with parser gem </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3?source=rss----7f3d96429888---4">Using trampolines to manage large recursive loops in JavaScript </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/predicting-ethereum-prices-with-long-short-term-memory-lstm-2a5465d3fd?source=rss----7f60cf5620c9---4">Predicting Ethereum prices with Long Short Term Memory (LSTM) </a></li> 
-          
-            <li> <a href="https://www.hostinger.com/blog/new-network-infrastructure">Meet Our New Network Infrastructure </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/">A Strategy Guide To CSS Custom Properties </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/the-web-is-broken-lets-fix-it">The web is broken; let’s fix it </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/differentiable-convolution-of-probability-distributions-with-tensorflow-79c1dd769b46?source=rss----7f60cf5620c9---4">Differentiable convolution of probability distributions with Tensorflow </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 18 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-18.html</guid>
       </item>
       
   </channel>
