@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 04 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://nordicapis.com/websub-common-cases-and-implementations/">What is WebSub? Common Cases and Implementations </a></li> 
+          
+            <li> <a href="https://blog.box.com/blog/solr-improving-performance-batch-indexing/">Solr: Improving performance for Batch Indexing </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/examining-performance-differences-between-native-flutter-and-react-native-mobile-development">Examining performance differences between Native, Flutter, and React Native mobile development. </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/jason-desrosiers/2018/05/30/the-hypermedia-maturity-model.html">The Hypermedia Maturity Model </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/what-is-observability-d175eb6cd2e4?source=rss----cfe1120185d3---4">What is observability? </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/05/building-central-logging-service/">Building A Central Logging Service In-House </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html">Writing WebAssembly By Hand </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/03/28/domain-driven-design.html">Domain-Driven Design </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 04 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 01 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +301,6 @@
         <pubDate>Tue, 22 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 21 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/stepping-towards-a-password-less-world/">Stepping Towards a Password-Free World </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53?source=rss----7f60cf5620c9---4">Hyperparameter Optimization with Keras </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/kubernetes-and-containers-for-enterprise-developers">Kubernetes and containers for enterprise developers </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506?source=rss----53c7c27702d5---4">Building Services at Airbnb, Part 2 </a></li> 
-          
-            <li> <a href="https://technology.skybettingandgaming.com/2018/05/15/terraform-kotlin-lambda/">Using Terraform to put Kotlin in AWS Lambda </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/05/14/two-things-about-power/">Two things about power </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/user-experience/mental-models-ux-design">Leveraging Mental Models in UX Design </a></li> 
-          
-            <li> <a href="https://hackernoon.com/secure-npm-ca2fe0e9aeff?source=rss----3a8144eabfe3---4">Secure NPM </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/05/exploring-the-github-archive/">Exploring The GitHub Archive </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 21 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-21.html</guid>
       </item>
       
   </channel>
