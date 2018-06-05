@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 05 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/web-worker-driven-nodejs-c076bb31d51c?source=rss----5b301f10ddcd---4">Web Worker driven NodeJS </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/gpu-containers-runtime/">Enabling GPUs in the Container Runtime Ecosystem </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/analytics-bare-metal-xenon-kafka-connect">Analytics on Bare Metal: Xenon and Kafka® Connect </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-i-have-learned-architecting-microservices-cbccc2182530?source=rss----3a8144eabfe3---4">What I have learned Architecting Microservices </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/05/31/red-hat-summit-building-production-ready-containers/">Red Hat Summit: Building production-ready containers </a></li> 
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/original-serverless.htm">The Original Serverless Architecture is Still Here </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/">A cartoon intro to DNS over HTTPS </a></li> 
+          
+            <li> <a href="https://www.toptal.com/python/introduction-python-microservices-nameko">Introduction to Python Microservices with Nameko </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 05 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 04 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +299,6 @@
         <pubDate>Wed, 23 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 22 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/interactive-visualization-of-decision-trees-with-jupyter-widgets-ca15dd312084?source=rss----7f60cf5620c9---4">Interactive Visualization of Decision Trees with Jupyter Widgets </a></li> 
-          
-            <li> <a href="https://nodesource.com/blog/understanding-how-node-js-release-lines-work">Understanding How Node.js Release Lines Work </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html">Smart Compose: Using Neural Networks to Help Write Emails </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/05/how-were-winning-the-battle-against-flaky-tests/">How we’re winning the battle against flaky tests </a></li> 
-          
-            <li> <a href="https://eng.uber.com/observability-anomaly-detection/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=observability-anomaly-detection">Engineering a Job-based Forecasting Workflow for Observability Anomaly Detection </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/automating-customer-feedback-with-machine-learning/">Automating Customer Feedback with Machine Learning </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/community/tutorials/running-applications-on-a-docker-swarm-mode-cluster">Running Applications on a Docker Swarm Mode Cluster </a></li> 
-          
-            <li> <a href="https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python">Python Multithreading and Multiprocessing Tutorial </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/how-to-store-time-series-data-mongodb-vs-timescaledb-postgresql-a73939734016?source=rss----7fa310224bc5---4">How to store time-series data in MongoDB, and why that&#39;s a bad idea </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 22 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-22.html</guid>
       </item>
       
   </channel>
