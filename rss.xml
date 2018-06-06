@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 06 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2018/06/improving-deep-learning-performance.html">Improving Deep Learning Performance with AutoAugment </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/06/how-yelp-modularized-the-android-app.html">How Yelp Modularized the Android App </a></li> 
+          
+            <li> <a href="https://itnext.io/deep-dive-into-how-kubernetes-rest-api-works-517c86f1640b?source=rss----5b301f10ddcd---4">Deep dive into how Kubernetes REST API works </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/06/babys-first-rustwebassembly-module-say-hi-to-jsconf-eu/">Baby’s First Rust+WebAssembly module: Say hi to JSConf EU! </a></li> 
+          
+            <li> <a href="https://www.thumbtack.com/engineering/high-availability-for-influxdb/">High availability for InfluxDB </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1?source=rss----7f60cf5620c9---4">Intuitively Understanding Convolutions for Deep Learning </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/06/fast-order-search.html">Fast Order Search Using Yelp’s Data Pipeline and Elasticsearch </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/automated-cluster-management-and-recovery-for-rocksplicator-f1f8fd35c833?source=rss-ef81ef829bcb------2">Automated cluster management and recovery for Rocksplicator </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/06/custom-module-loading-in-a-node-js-environment/">Custom Module Loading in a Node.js Environment </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 06 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 05 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,38 +297,6 @@
         <pubDate>Thu, 24 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 23 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.eventbrite.com/engineering/looking-under-the-hood-of-the-eventbrite-data-pipeline/">Looking under the hood of the Eventbrite data pipeline! </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/05/android-search-perf-improvements-part-2.html">Performance Improvements for Search on The Yelp Android App - Part 2 </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/making-containers-easier-with-hpc-container-maker/">Making Containers Easier with HPC Container Maker </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/05/making-linkedin-s-organic-feed-handle-peak-traffic">Making LinkedIn&#39;s Organic Feed Handle Peak Traffic </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/monitoring-microservices-divide-and-conquer-acca62b209cc?source=rss----cfe1120185d3---4">Monitoring Microservices: Divide and Conquer </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/7-ways-to-improve-your-test-suite-with-docker/">7 Ways to Improve Your Test Suite with Docker </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249?source=rss----2615bd06b42e---4">Full Cycle Developers at Netflix </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html">Advances in Semantic Textual Similarity </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8?source=rss----7f60cf5620c9---4">Siamese Network &amp; Triplet Loss </a></li> 
-          
-            <li> <a href="https://stackshare.io/raygun/how-raygun-processes-millions-of-error-events-per-second">How Raygun Processes Millions of Error Events Per Second </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 23 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-23.html</guid>
       </item>
       
   </channel>
