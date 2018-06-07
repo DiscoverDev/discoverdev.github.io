@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 07 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.takipi.com/how-to-measure-the-reliability-of-your-software-throughout-the-cicd-workflow/">How to Measure the Reliability of Your Software Throughout the CI/CD Workflow </a></li> 
+          
+            <li> <a href="https://hackernoon.com/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-f664b9940142?source=rss----3a8144eabfe3---4">Forcing a device to disconnect from WiFi using a deauthentication attack </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/">Overscripted! Digging into JavaScript execution at scale </a></li> 
+          
+            <li> <a href="https://blog.box.com/blog/dev-and-prod-parity/">Dev and prod parity </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-are-logistic-regression-ordinary-least-squares-regression-related-1deab32d79f5?source=rss----7f60cf5620c9---4">How are Logistic Regression &amp; Ordinary Least Squares Regression Related? </a></li> 
+          
+            <li> <a href="https://software.intel.com/en-us/blogs/2018/06/03/bringing-artificial-intelligence-to-the-edge">Bringing Artificial Intelligence to the Edge </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709?source=rss----7f60cf5620c9---4">Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with… </a></li> 
+          
+            <li> <a href="https://hackernoon.com/conceptual-compress-and-deeper-patterns-6a12e2a7d5c8?source=rss----3a8144eabfe3---4">Conceptual Compression and Deeper Patterns </a></li> 
+          
+            <li> <a href="https://itnext.io/strict-stubs-for-better-dev-experience-bb455f733753?source=rss----5b301f10ddcd---4">Strict stubs for better dev experience </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 07 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 06 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,40 +293,6 @@
         <pubDate>Fri, 25 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 24 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/consistent-modelling-of-serverless-long-running-background-tasks-2f686c872f8c?source=rss----3a8144eabfe3---4">Consistent modelling of Serverless long-running background tasks </a></li> 
-          
-            <li> <a href="https://itnext.io/under-the-hood-of-the-operator-sdk-eebc8fdeebbf?source=rss----5b301f10ddcd---4">Under the hood of Operator SDK </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/reinforcement-learning-demystified-solving-mdps-with-dynamic-programming-b52c8093c919?source=rss----7f60cf5620c9---4">Reinforcement Learning Demystified: Solving MDPs with Dynamic Programming </a></li> 
-          
-            <li> <a href="https://githubengineering.com/removing-oobgc/">Performance Impact of Removing OOBGC </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/structure-attribute-based-graph-partitioning-9c3fabf8cc12?source=rss----905ea2b3d4d1---4">Structure &amp; Attribute Based Graph Partitioning </a></li> 
-          
-            <li> <a href="https://www.thumbtack.com/engineering/hitchhikers-guide-to-code-reviews/">Hitchhiker’s Guide to Code Reviews </a></li> 
-          
-            <li> <a href="http://engineering.monsanto.com/2018/05/18/webpack4/">The Marvels of Webpack 4 </a></li> 
-          
-            <li> <a href="https://www.toptal.com/opencv/python-image-processing-in-computational-photography">Intro to Python Image Processing in Computational Photography </a></li> 
-          
-            <li> <a href="https://itnext.io/under-the-hood-of-kubebuilder-framework-ff6b38c10796?source=rss----5b301f10ddcd---4">Under the hood of Kubebuilder framework </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/05/object-detection-and-visual-search-improvements/">Object Detection and Visual Search Improvements </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/demystifying-vue-js-internals/">Demystifying Vue.js internals </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 24 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-24.html</guid>
       </item>
       
   </channel>
