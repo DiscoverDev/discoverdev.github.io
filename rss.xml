@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 08 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://codeascraft.com/2018/06/05/deploying-to-google-kubernetes-engine/">Deploying to Google Kubernetes Engine </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-makes-crypto-protocols-valuable-957bdadd4ac0?source=rss----3a8144eabfe3---4">What Makes Crypto Protocols Valuable? </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/revisiting-docker-and-jenkins">Revisiting Docker and Jenkins </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/06/making-video-on-demand-work-for-everyone/">Making Video-on-Demand Work for Everyone </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/welcome-hidden-resolver/">Introducing DNS Resolver for Tor </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/1221779261291831/statepoint-liquid-cooling-system-a-new-more-efficient-way-to-cool-a-data-center/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">StatePoint Liquid Cooling System: A new, more efficient way to cool a data center </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/lessons-learned-turning-machine-learning-models-into-real-products-and-services">Lessons learned turning machine learning models into real products and services </a></li> 
+          
+            <li> <a href="https://itnext.io/connecting-competing-microservices-using-rabbitmq-28e5269861b6?source=rss----5b301f10ddcd---4">Connecting Competing Microservices using RabbitMQ </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 08 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 07 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,38 +289,6 @@
         <pubDate>Mon, 28 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 25 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.facebook.com/posts/166812063987311/scaling-the-facebook-backbone-through-zero-touch-provisioning/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Scaling the Facebook backbone through Zero Touch Provisioning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/catgan-cat-face-generation-using-gans-f44663586d6b?source=rss----3a8144eabfe3---4">CatGAN: cat face generation using GANs </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/05/progressive-web-games/">Progressive Web Games </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/youtube-mp3-downloader/">Making a YouTube MP3 Downloader with Exodus, FFmpeg, and AWS Lambda </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/advanced-visualization-with-react-vis-efc5c6667b4?source=rss----7f60cf5620c9---4">Advanced Visualization with react-vis </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3?source=rss----2615bd06b42e---4">Open Sourcing Zuul 2 </a></li> 
-          
-            <li> <a href="https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7?source=rss----eb277599ce4a---4">Want to Debug Latency? </a></li> 
-          
-            <li> <a href="https://medium.com/observability/microservices-observability-26a8b7056bb4?source=rss----eb277599ce4a---4">Microservices Observability </a></li> 
-          
-            <li> <a href="https://hackernoon.com/clustering-cryptocurrencies-with-affinity-propagation-and-the-rad-30-crypto-composite-9201f2dbadf0?source=rss----3a8144eabfe3---4">Clustering Cryptocurrencies with Affinity Propagation and the RAD 30 Crypto Composite </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/coding-neural-network-dropout-3095632d25ce?source=rss----7f60cf5620c9---4">Coding Neural Network — Dropout </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 25 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-25.html</guid>
       </item>
       
   </channel>
