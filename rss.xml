@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 13 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.wayfair.com/2018/06/everywhere-you-look-computer-vision-at-wayfair/">Everywhere You Look: Computer Vision at Wayfair </a></li> 
+          
+            <li> <a href="https://www.thumbtack.com/engineering/a-b-testing-at-thumbtack/">A/B testing at Thumbtack </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls">End-to-End Testing the Condé Nast Paywalls </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/introducing-the-merge-queue">Introducing the Merge Queue </a></li> 
+          
+            <li> <a href="https://hackernoon.com/kicking-the-tires-of-quantum-processors-2b18750916dd?source=rss----3a8144eabfe3---4">Kicking the tires of quantum processors </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/writing-less-error-prone-code">Writing Less Error-Prone Code </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/introducing-grab-kit">Introducing Grab-Kit: Distributed Service Design at Grab </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/large-scale-object-detection-tensorrt/">Accelerating Large-Scale Object Detection with TensorRT </a></li> 
+          
+            <li> <a href="https://itnext.io/reusable-ui-web-components-72cbe56b0056?source=rss----5b301f10ddcd---4">Reusable UI — Web Components </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 13 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 12 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +295,6 @@
         <pubDate>Thu, 31 May 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-05-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 30 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near">Concourse: Generating Personalized Content Notifications in Near-Real-Time </a></li> 
-          
-            <li> <a href="https://eng.uber.com/deckgl-v5/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deckgl-v5">Growing the Data Visualization Community with deck.gl v5 </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897?source=rss----7484818e9f88---4">Building Scalable Web Services in Golang </a></li> 
-          
-            <li> <a href="https://hackernoon.com/progressive-web-apps-core-features-architecture-pros-and-cons-4168848fd225?source=rss----3a8144eabfe3---4">Progressive Web Apps: Core Features, Architecture, Pros and Cons </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-layr-an-experimental-decentralized-cloud-storage-system-be32e530fd8d?source=rss----3a8144eabfe3---4">Building Layr: An Experimental Decentralized Cloud Storage System </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/what-write-skew-looks-like/">What Write Skew Looks Like </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/wide-residual-networks-with-interactive-code-f9ef6b0bab29?source=rss----7f60cf5620c9---4">Wide Residual Networks with Interactive Code </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework">LinkedOut: A Request-Level Failure Injection Framework </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 30 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-30.html</guid>
       </item>
       
   </channel>
