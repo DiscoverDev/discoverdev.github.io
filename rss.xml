@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 14 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open-sourcing Sonar, a new extensible debugging tool </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos">Stick with security: YubiKey, SSH, GnuPG, macOS </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/what-every-developer-needs-to-know-about-html-email-df70b7c01b39?source=rss----7f3d96429888---4">What every developer needs to know about HTML email </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/loading-time-matters/index.html">Loading Time Matters </a></li> 
+          
+            <li> <a href="https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/">Splitting your secrets with Shamir’s Secret Sharing Scheme </a></li> 
+          
+            <li> <a href="https://hackernoon.com/deepminds-amazing-mix-match-rl-techique-a6f8ce6ac0b4?source=rss----3a8144eabfe3---4">DeepMind’s Amazing Mix &amp; Match RL Technique </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/npmjscom?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reinventing npmjs.com </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/salesforce-ai-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Models in Minutes not Months: AI as Microservices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 14 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 13 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Fri, 01 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 31 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712?source=rss----53c7c27702d5---4">Reconciling GraphQL and Thrift at Airbnb </a></li> 
-          
-            <li> <a href="https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d?source=rss----3a8144eabfe3---4">From VanillaJS to Vue.js: A refactoring tale </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-convolutional-neural-networks-221930904a8e?source=rss----7f60cf5620c9---4">Understanding Convolutional Neural Networks </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-nlp-to-detect-linguistic-cues-in-alzheimers-diseases-patients-3364301b0299?source=rss----7f60cf5620c9---4">Using NLP to Detect Linguistic Cues in Alzheimer&#39;s Disease Patients </a></li> 
-          
-            <li> <a href="http://allegro.tech/2018/05/Static-linking-vs-dyld3.html">Static linking vs dyld3 </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/fashion-mnist-with-deep-learning-studio-a-nonconformist-approach-towards-deep-learning-52dbe3c0f703?source=rss----7f60cf5620c9---4">Fashion-MNIST with Deep Learning Studio:A Nonconformist approach towards Deep Learning </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/05/the-duplicate-review-tool-incorporating-visual-search-into-merchandising-operations/">The Duplicate Review Tool: Incorporating Visual Search into Merchandising Operations </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/kubernetes-recipes-maintenance-and-troubleshooting">Kubernetes recipes: Maintenance and troubleshooting </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 31 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-31.html</guid>
       </item>
       
   </channel>
