@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 15 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://takipi.wpengine.com/the-modern-software-delivery-supply-chain/">The Modern Software Delivery Supply Chain </a></li> 
+          
+            <li> <a href="http://www.infoq.com/articles/database-merge-replication-crdt?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Picking an Active-Active Geo Distribution Strategy: Comparing Merge Replication and CRDT </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/microservices-events-and-upside-down-databases">Microservices, events, and upside-down databases </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/the-blockchain-beyond-bitcoin">The blockchain beyond bitcoin </a></li> 
+          
+            <li> <a href="https://hackernoon.com/getting-up-to-speed-with-google-accelerated-mobile-pages-374578e726cd?source=rss----3a8144eabfe3---4">Getting up to speed with Google Accelerated Mobile Pages </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2?source=rss----7f60cf5620c9---4">Travel Time Optimization With Machine Learning And Genetic Algorithm </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html">Yelp&#39;s Secret Detector: Preventing Secrets in Source Code </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/malware-analysis-decoding-emotet-part-1-461ca03d8496?source=rss----cfe1120185d3---4">Malware Analysis: Decoding Emotet, Part 1 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 15 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 14 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,36 +293,6 @@
         <pubDate>Mon, 04 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 01 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.scottlogic.com/2018/03/22/apache-spark-performance.html">Apache Spark - Performance </a></li> 
-          
-            <li> <a href="https://nordicapis.com/how-microservices-could-save-medical-iot/">How Microservices Could Save Medical IoT </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2018/05/29/diy-light-up-high-heels/">“Light Foot” Shoes: How to Make Your Own Light-Up High Heels </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-modified-artificial-bee-colony-algorithm-to-solve-clustering-problems-fc0b69bd0788?source=rss----7f60cf5620c9---4">A modified Artificial Bee Colony algorithm to solve Clustering problems </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2018/05/29/the-eventhorizon-saga/">The EventHorizon Saga </a></li> 
-          
-            <li> <a href="https://eng.uber.com/keplergl/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keplergl">From Beautiful Maps to Actionable Insights: Introducing kepler.gl, Uber’s Open Source Geospatial Toolbox </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/quantum-computation-python-javascript/">Quantum Computation: Just a Taste With Python and JavaScript </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/semantic-code-search-3cd6d244a39c?source=rss----7f60cf5620c9---4">How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/applying-security-to-the-twelve-factor-app-753ce9a30379?source=rss----3a8144eabfe3---4">Applying security to the Twelve-Factor App </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 01 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-01.html</guid>
       </item>
       
   </channel>
