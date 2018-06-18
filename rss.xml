@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 18 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://erlang-solutions.com/blog/railway-oriented-development-with-erlang.html">Railway oriented development with Erlang </a></li> 
+          
+            <li> <a href="https://hackernoon.com/build-a-mapreduce-flow-in-elixir-f97c317e457e?source=rss----3a8144eabfe3---4">Build a MapReduce flow in Elixir </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/unconscious-bias-machine-learning?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Analyzing &amp; Preventing Unconscious Bias in Machine Learning </a></li> 
+          
+            <li> <a href="https://engineering.mixpanel.com/2018/06/12/making-web-components-work/">Making Web Components Work </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576?source=rss----12d1b859d4e4---4">How JavaScript works: Storage engines + how to choose the proper storage API </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/06/12/scylla-leverages-control-theory/">Taming the Beast: How Scylla Leverages Control Theory to Keep Compactions Under Control </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/completing-autocomplete">Heroku CLI: Completing Autocomplete </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/">Building A Pub/Sub Service In-House Using Node.js And Redis </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 18 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 15 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Tue, 05 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 04 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://nordicapis.com/websub-common-cases-and-implementations/">What is WebSub? Common Cases and Implementations </a></li> 
-          
-            <li> <a href="https://blog.box.com/blog/solr-improving-performance-batch-indexing/">Solr: Improving performance for Batch Indexing </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/examining-performance-differences-between-native-flutter-and-react-native-mobile-development">Examining performance differences between Native, Flutter, and React Native mobile development. </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/jason-desrosiers/2018/05/30/the-hypermedia-maturity-model.html">The Hypermedia Maturity Model </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/what-is-observability-d175eb6cd2e4?source=rss----cfe1120185d3---4">What is observability? </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/05/building-central-logging-service/">Building A Central Logging Service In-House </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html">Writing WebAssembly By Hand </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/03/28/domain-driven-design.html">Domain-Driven Design </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 04 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-04.html</guid>
       </item>
       
   </channel>
