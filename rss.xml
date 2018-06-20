@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 20 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/uber-eats-trip-optimization/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-eats-trip-optimization">How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c?source=rss----7f60cf5620c9---4">In-Browser object detection using YOLO and TensorFlow.js </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2018/06/15/JavaScriptures-5-Babel-Webpack/">JavaScriptures 5 - Tooling </a></li> 
+          
+            <li> <a href="https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe?source=rss----5b301f10ddcd---4">Dynamic Programming vs Divide-and-Conquer </a></li> 
+          
+            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/twittertensorflow.html">Twitter meets TensorFlow </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520?source=rss----2615bd06b42e---4">Metacat: Making Big Data Discoverable and Meaningful at Netflix </a></li> 
+          
+            <li> <a href="https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=advanced-technologies-detecting-preventing-fraud-uber">Advanced Technologies for Detecting and Preventing Fraud at Uber </a></li> 
+          
+            <li> <a href="https://getstream.io/blog/fixing-the-billion-dollar-mistake-in-go-by-borrowing-from-rust/">Fixing the billion dollar mistake in Go by borrowing from Rust </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/06/real-time-streaming-pattern-preprocessing-for-sentiment-analysis/">Real-time Streaming Pattern: Preprocessing for Sentiment Analysis </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 20 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 19 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,36 +295,6 @@
         <pubDate>Thu, 07 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 06 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/06/improving-deep-learning-performance.html">Improving Deep Learning Performance with AutoAugment </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/06/how-yelp-modularized-the-android-app.html">How Yelp Modularized the Android App </a></li> 
-          
-            <li> <a href="https://itnext.io/deep-dive-into-how-kubernetes-rest-api-works-517c86f1640b?source=rss----5b301f10ddcd---4">Deep dive into how Kubernetes REST API works </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/06/babys-first-rustwebassembly-module-say-hi-to-jsconf-eu/">Baby’s First Rust+WebAssembly module: Say hi to JSConf EU! </a></li> 
-          
-            <li> <a href="https://www.thumbtack.com/engineering/high-availability-for-influxdb/">High availability for InfluxDB </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1?source=rss----7f60cf5620c9---4">Intuitively Understanding Convolutions for Deep Learning </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/06/fast-order-search.html">Fast Order Search Using Yelp’s Data Pipeline and Elasticsearch </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/automated-cluster-management-and-recovery-for-rocksplicator-f1f8fd35c833?source=rss-ef81ef829bcb------2">Automated cluster management and recovery for Rocksplicator </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/06/custom-module-loading-in-a-node-js-environment/">Custom Module Loading in a Node.js Environment </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 06 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-06.html</guid>
       </item>
       
   </channel>
