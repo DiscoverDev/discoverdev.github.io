@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 21 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/facebook-open-sources-densepose/">Facebook open sources DensePose </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/growth-engineering-at-netflix-accelerating-innovation-90eb8e70ce59?source=rss----2615bd06b42e---4">Growth Engineering at Netflix — Accelerating Innovation </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/6/18/how-ably-efficiently-implemented-consistent-hashing.html">How Ably Efficiently Implemented Consistent Hashing </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/microservices-event-async-messaging?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Practical Microservices, Practical Whiskey </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/systems-event-driven?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Events Are Reshaping Modern Systems </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/catching-that-flight-visualizing-social-network-with-networkx-and-basemap-ce4a0d2eaea6?source=rss----7f60cf5620c9---4">Catching that flight: Visualizing social network with Networkx and Basemap </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1?source=rss----7f60cf5620c9---4">Convolutional Neural Networks from the ground up </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/detecting-image-similarity-using-spark-lsh-and-tensorflow-618636afc939?source=rss-ef81ef829bcb------2">Detecting image similarity using Spark, LSH and TensorFlow </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/autoencoders-and-parallel-computing-with-kernelml-e62c405e8958?source=rss----7f60cf5620c9---4">AutoEncoders and Parallel Computing with KernelML </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 21 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 20 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,36 +295,6 @@
         <pubDate>Fri, 08 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.takipi.com/how-to-measure-the-reliability-of-your-software-throughout-the-cicd-workflow/">How to Measure the Reliability of Your Software Throughout the CI/CD Workflow </a></li> 
-          
-            <li> <a href="https://hackernoon.com/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack-f664b9940142?source=rss----3a8144eabfe3---4">Forcing a device to disconnect from WiFi using a deauthentication attack </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/">Overscripted! Digging into JavaScript execution at scale </a></li> 
-          
-            <li> <a href="https://blog.box.com/blog/dev-and-prod-parity/">Dev and prod parity </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-are-logistic-regression-ordinary-least-squares-regression-related-1deab32d79f5?source=rss----7f60cf5620c9---4">How are Logistic Regression &amp; Ordinary Least Squares Regression Related? </a></li> 
-          
-            <li> <a href="https://software.intel.com/en-us/blogs/2018/06/03/bringing-artificial-intelligence-to-the-edge">Bringing Artificial Intelligence to the Edge </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709?source=rss----7f60cf5620c9---4">Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with… </a></li> 
-          
-            <li> <a href="https://hackernoon.com/conceptual-compress-and-deeper-patterns-6a12e2a7d5c8?source=rss----3a8144eabfe3---4">Conceptual Compression and Deeper Patterns </a></li> 
-          
-            <li> <a href="https://itnext.io/strict-stubs-for-better-dev-experience-bb455f733753?source=rss----5b301f10ddcd---4">Strict stubs for better dev experience </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 07 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-07.html</guid>
       </item>
       
   </channel>
