@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 22 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838?source=rss----53c7c27702d5---4">React Native at Airbnb: The Technology </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/06/building-better-compression-together-with-divans/">Building better compression together with DivANS </a></li> 
+          
+            <li> <a href="https://slack.engineering/ways-we-make-the-slack-ios-app-accessible-18039d3fdb34?source=rss----58820b6d8904---4">Ways we make the Slack iOS app accessible </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/tensorrt-4-accelerates-translation-speech-recommender/">TensorRT 4 Accelerates Neural Machine Translation, Recommenders, and Speech </a></li> 
+          
+            <li> <a href="https://hackernoon.com/android-ndk-my-experience-with-ffmpeg-93dd7e4b9269?source=rss----3a8144eabfe3---4">Android NDK: My Experience with FFmpeg </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/06/19/step-functions.html">Sleeping Lambdas and AWS Step Functions </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/turning-fortnite-into-pubg-with-deep-learning-cyclegan-2f9d339dcdb0?source=rss----7f60cf5620c9---4">Turning Fortnite into PUBG with Deep Learning (CycleGAN) </a></li> 
+          
+            <li> <a href="https://www.forge.ai/blog/veracity-models-methods-and-morals">Veracity: Models, Methods, and Morals </a></li> 
+          
+            <li> <a href="https://twilioinc.wpengine.com/2018/06/intelligent-transportation-lora-mqtt-twilio-sync-python.html">Building Intelligent Transportation Hardware Systems with Python, LoRa, MQTT and Twilio Sync </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 22 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 21 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +297,6 @@
         <pubDate>Mon, 11 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 08 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://codeascraft.com/2018/06/05/deploying-to-google-kubernetes-engine/">Deploying to Google Kubernetes Engine </a></li> 
-          
-            <li> <a href="https://hackernoon.com/what-makes-crypto-protocols-valuable-957bdadd4ac0?source=rss----3a8144eabfe3---4">What Makes Crypto Protocols Valuable? </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/revisiting-docker-and-jenkins">Revisiting Docker and Jenkins </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2018/06/making-video-on-demand-work-for-everyone/">Making Video-on-Demand Work for Everyone </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/welcome-hidden-resolver/">Introducing DNS Resolver for Tor </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/1221779261291831/statepoint-liquid-cooling-system-a-new-more-efficient-way-to-cool-a-data-center/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">StatePoint Liquid Cooling System: A new, more efficient way to cool a data center </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/lessons-learned-turning-machine-learning-models-into-real-products-and-services">Lessons learned turning machine learning models into real products and services </a></li> 
-          
-            <li> <a href="https://itnext.io/connecting-competing-microservices-using-rabbitmq-28e5269861b6?source=rss----5b301f10ddcd---4">Connecting Competing Microservices using RabbitMQ </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 08 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-08.html</guid>
       </item>
       
   </channel>
