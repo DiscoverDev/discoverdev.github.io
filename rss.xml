@@ -6,6 +6,37 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 26 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.infoq.com/presentations/ml-workflow-apache-beam?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Simplifying ML Workflows with Apache Beam </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/">Using Google’s Flutter For Truly Cross-Platform Mobile
+Development </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/sql-streaming-apache-flink?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Streaming SQL to Unify Batch &amp; Stream Processing w/ Apache Flink @Uberu </a></li> 
+          
+            <li> <a href="https://stackshare.io/posts/modernizing-stackshare-front-end-react-rails">Modernizing StackShare&#39;s Front End: The React + Rails Stack </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/ray-tracing-games-nvidia-rtx/">Coffee Break Series: Ray Tracing in Games with NVIDIA RTX </a></li> 
+          
+            <li> <a href="https://hackernoon.com/cats-to-crazy-quilts-using-style-transfer-to-generate-adversarial-examples-b88eef073d04?source=rss----3a8144eabfe3---4">Cats to crazy quilts: Using style transfer to generate adversarial examples </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2018/06/18/On-Obsessive-Statelessness/">On the obsessive statelessness of Peril </a></li> 
+          
+            <li> <a href="https://githubengineering.com/mysql-high-availability-at-github/">MySQL High Availability at GitHub </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/the-history-of-kubernetes/">The History of Kubernetes on a Timeline </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 26 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 25 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,36 +296,6 @@
         <pubDate>Wed, 13 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 12 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html">Realtime tSNE Visualizations with TensorFlow.js </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8?source=rss----d02e65779d7b---4">Reinforcement Learning from scratch </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2018/06/yarn-fairscheduler-preemption-deep-dive/">YARN FairScheduler Preemption Deep Dive </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-internals-of-classes-and-inheritance-transpiling-in-babel-and-113612cdc220?source=rss----12d1b859d4e4---4">How JavaScript works: The internals of classes and inheritance + transpiling in Babel and… </a></li> 
-          
-            <li> <a href="https://hackernoon.com/predictions-from-the-first-ar-os-94407773cc9?source=rss----3a8144eabfe3---4">Predictions from the first AR OS </a></li> 
-          
-            <li> <a href="https://hackernoon.com/an-engineers-guide-to-the-docuverse-d080cdbb73a6?source=rss----3a8144eabfe3---4">An Engineer’s Guide to the Docuverse </a></li> 
-          
-            <li> <a href="https://www.toptal.com/cross-platform/haxe-language-cross-platform">Haxe: Cross-platform Development&#39;s Best-kept Secret </a></li> 
-          
-            <li> <a href="https://mesosphere.com/blog/open-cicd-systems/">Open CI/CD Systems Gaining Traction </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/06/introducing-commute-time-for-jobs">Introducing Commute Time for Jobs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-12.html</guid>
       </item>
       
   </channel>
