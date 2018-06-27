@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/06/android-search-perf-improvements-part-3.html">Performance Improvements for Search on The Yelp Android App - Part 3 </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/dronedeploy-and-cloudflare-workers/">DroneDeploy and Cloudflare Workers </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/06/how-can-neural-network-similarity-help.html">How Can Neural Network Similarity Help Us Understand Training and Generalization? </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/getting-started-with-the-new-webvr-api/">Getting Started with the New WebVR API </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/06/21/impact-virtualization-database/">The Impact of Virtualization on Your Database </a></li> 
+          
+            <li> <a href="https://research.fb.com/translating-music-to-predict-a-musicians-body-movements/">Translating music to predict a musician’s body movements </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fantastic-models-and-how-to-train-them-experimenting-with-software-development-pipelines-in-7051b9d930f7?source=rss----7f60cf5620c9---4">Fantastic Models and how to Train Them </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e?source=rss----12d1b859d4e4---4">How JavaScript works: the internals of Shadow DOM + how to build self-contained components </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 27 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 26 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,36 +294,6 @@ Development </a></li>
         <pubDate>Thu, 14 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 13 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.wayfair.com/2018/06/everywhere-you-look-computer-vision-at-wayfair/">Everywhere You Look: Computer Vision at Wayfair </a></li> 
-          
-            <li> <a href="https://www.thumbtack.com/engineering/a-b-testing-at-thumbtack/">A/B testing at Thumbtack </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls">End-to-End Testing the Condé Nast Paywalls </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/introducing-the-merge-queue">Introducing the Merge Queue </a></li> 
-          
-            <li> <a href="https://hackernoon.com/kicking-the-tires-of-quantum-processors-2b18750916dd?source=rss----3a8144eabfe3---4">Kicking the tires of quantum processors </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/writing-less-error-prone-code">Writing Less Error-Prone Code </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/introducing-grab-kit">Introducing Grab-Kit: Distributed Service Design at Grab </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/large-scale-object-detection-tensorrt/">Accelerating Large-Scale Object Detection with TensorRT </a></li> 
-          
-            <li> <a href="https://itnext.io/reusable-ui-web-components-72cbe56b0056?source=rss----5b301f10ddcd---4">Reusable UI — Web Components </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 13 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-13.html</guid>
       </item>
       
   </channel>
