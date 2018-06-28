@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 28 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2018/06/teaching-uncalibrated-robots-to_22.html">Teaching Uncalibrated Robots to Visually Self-Adapt </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/">Add Constrained Optimization To Your Toolbelt </a></li> 
+          
+            <li> <a href="https://www.toptal.com/javascript/emulating-react-jsx-in-vanilla-javascript">Emulating React and JSX in Vanilla JS </a></li> 
+          
+            <li> <a href="http://www.infoq.com/articles/buzzfeed-microservices-migration?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How BuzzFeed Migrated from a Perl Monolith to Go and Python Microservices </a></li> 
+          
+            <li> <a href="http://www.infoq.com/news/2018/06/decomposing-system-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Strategies for Decomposing a System into Microservices </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/order-from-chaos-streamlining-our-tagging-infrastructure-b5bf6aff9b74?source=rss----51e1d1745b32---4">Order from Chaos: Streamlining Our Tagging Infrastructure </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/06/implementing-time-windowing-in-an-evented-streaming-system/">Implementing Time Windowing in an Evented Streaming System </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/simplifying-media-innovation-at-netflix-with-archer-3f8cbb0e2bcb?source=rss----2615bd06b42e---4">Simplifying Media Innovation at Netflix with Archer </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 28 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 27 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,34 +294,6 @@ Development </a></li>
         <pubDate>Fri, 15 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 14 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Open-sourcing Sonar, a new extensible debugging tool </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos">Stick with security: YubiKey, SSH, GnuPG, macOS </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/what-every-developer-needs-to-know-about-html-email-df70b7c01b39?source=rss----7f3d96429888---4">What every developer needs to know about HTML email </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/loading-time-matters/index.html">Loading Time Matters </a></li> 
-          
-            <li> <a href="https://www.future-processing.pl/blog/splitting-your-secrets-with-shamirs-secret-sharing-scheme/">Splitting your secrets with Shamir’s Secret Sharing Scheme </a></li> 
-          
-            <li> <a href="https://hackernoon.com/deepminds-amazing-mix-match-rl-techique-a6f8ce6ac0b4?source=rss----3a8144eabfe3---4">DeepMind’s Amazing Mix &amp; Match RL Technique </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/npmjscom?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reinventing npmjs.com </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/salesforce-ai-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Models in Minutes not Months: AI as Microservices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 14 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-14.html</guid>
       </item>
       
   </channel>
