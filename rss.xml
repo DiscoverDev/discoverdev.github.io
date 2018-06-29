@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 29 Jun 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-c08fe3489237?source=rss----5b301f10ddcd---4">Using API Gateways to Facilitate Your Transition from Monolith to Microservices </a></li> 
+          
+            <li> <a href="https://itnext.io/web-performance-checklist-6b616f3c6f0d?source=rss----5b301f10ddcd---4">Web Performance Checklist </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/ethereum-blockchain-failure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Architecting the Blockchain for Failure </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/future-distributed-database-relational?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Distributed Databases Is Relational </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c?source=rss----7f60cf5620c9---4">An Intuitive Explanation of Connectionist Temporal Classification </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/kardon-loader-malware-analysis-adaaaab42bab?source=rss----cfe1120185d3---4">Malware Analysis: Kardon Loader </a></li> 
+          
+            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html">Productionizing ML with Workflows at Twitter </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/how-we-increased-engagement-using-automatic-personalized-copy-testing-a229f99d77ea?source=rss-ef81ef829bcb------2">How we increased engagement using automatic personalized copy testing </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-winds-2-0-stack-59e593ff9f07?source=rss----3a8144eabfe3---4">The Winds 2.0 Stack </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 29 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 28 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,34 +296,6 @@ Development </a></li>
         <pubDate>Mon, 18 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 15 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://takipi.wpengine.com/the-modern-software-delivery-supply-chain/">The Modern Software Delivery Supply Chain </a></li> 
-          
-            <li> <a href="http://www.infoq.com/articles/database-merge-replication-crdt?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Picking an Active-Active Geo Distribution Strategy: Comparing Merge Replication and CRDT </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/microservices-events-and-upside-down-databases">Microservices, events, and upside-down databases </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/the-blockchain-beyond-bitcoin">The blockchain beyond bitcoin </a></li> 
-          
-            <li> <a href="https://hackernoon.com/getting-up-to-speed-with-google-accelerated-mobile-pages-374578e726cd?source=rss----3a8144eabfe3---4">Getting up to speed with Google Accelerated Mobile Pages </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2?source=rss----7f60cf5620c9---4">Travel Time Optimization With Machine Learning And Genetic Algorithm </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html">Yelp&#39;s Secret Detector: Preventing Secrets in Source Code </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/malware-analysis-decoding-emotet-part-1-461ca03d8496?source=rss----cfe1120185d3---4">Malware Analysis: Decoding Emotet, Part 1 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 15 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-15.html</guid>
       </item>
       
   </channel>
