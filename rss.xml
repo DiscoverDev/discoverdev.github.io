@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 02 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/concurrency-and-asynchronous-behavior-with-rxjs-11b0c4b22597?source=rss----5b301f10ddcd---4">Concurrency and Asynchronous Behavior with RxJS </a></li> 
+          
+            <li> <a href="https://yahooeng.tumblr.com/post/175238642656">Innovating on Authentication Standards </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd?source=rss----7f60cf5620c9---4">Neural Machine Translation with Python </a></li> 
+          
+            <li> <a href="https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed?source=rss----3a8144eabfe3---4">Scaling Effectively: when Kubernetes met Celery </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/distributed-tracing-spring-cloud-zipkin?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Distributed Tracing: Latency Analysis for Your Microservices Using Spring Cloud &amp; Zipkin </a></li> 
+          
+            <li> <a href="http://www.infoq.com/news/2018/06/linkedout-failure-injection?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Chaos Engineering at LinkedIn: The “LinkedOut” Failure Injection Testing Framework </a></li> 
+          
+            <li> <a href="https://hackernoon.com/micro-services-git-d840305e6220?source=rss----3a8144eabfe3---4">Micro Services &amp; Git </a></li> 
+          
+            <li> <a href="http://www.infoq.com/news/2018/06/facebook-network-scaling?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Scaling Network Automation at Facebook Using Zero-Touch Provisioning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 02 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 29 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -268,34 +296,6 @@ Development </a></li>
         <pubDate>Tue, 19 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 18 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://erlang-solutions.com/blog/railway-oriented-development-with-erlang.html">Railway oriented development with Erlang </a></li> 
-          
-            <li> <a href="https://hackernoon.com/build-a-mapreduce-flow-in-elixir-f97c317e457e?source=rss----3a8144eabfe3---4">Build a MapReduce flow in Elixir </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/unconscious-bias-machine-learning?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Analyzing &amp; Preventing Unconscious Bias in Machine Learning </a></li> 
-          
-            <li> <a href="https://engineering.mixpanel.com/2018/06/12/making-web-components-work/">Making Web Components Work </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576?source=rss----12d1b859d4e4---4">How JavaScript works: Storage engines + how to choose the proper storage API </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2018/06/12/scylla-leverages-control-theory/">Taming the Beast: How Scylla Leverages Control Theory to Keep Compactions Under Control </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/completing-autocomplete">Heroku CLI: Completing Autocomplete </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/">Building A Pub/Sub Service In-House Using Node.js And Redis </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 18 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-18.html</guid>
       </item>
       
   </channel>
