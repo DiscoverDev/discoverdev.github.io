@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 03 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/06/26/supercharging-classification-the-value-of-multitask-learning.html">Supercharging Classification - The Value of Multi-task Learning </a></li> 
+          
+            <li> <a href="https://code.facebook.com/posts/201318390519340/migrating-messenger-storage-to-optimize-performance/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Migrating Messenger storage to optimize performance </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/beyond-rest-using-graphql-to-shape-your-data-6a04650e6242?source=rss----7f3d96429888---4">Beyond REST - Using GraphQL to shape your data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introduction-to-sequence-models-rnn-bidirectional-rnn-lstm-gru-73927ec9df15?source=rss----7f60cf5620c9---4">Introduction to Sequence Models — RNN, Bidirectional RNN, LSTM, GRU </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/06/26/solid-principles.html">Examples and definitions of the SOLID principles in Software Design </a></li> 
+          
+            <li> <a href="https://stackshare.io/sendgrid/how-sendgrid-scaled-to-40-billion-emails-per-month">How SendGrid Scaled to 40 Billion Emails Per Month </a></li> 
+          
+            <li> <a href="https://hackernoon.com/difference-between-sidechains-and-state-channels-2f5dfbd10707?source=rss----3a8144eabfe3---4">Difference between SideChains and State Channels </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f?source=rss----7f60cf5620c9---4">GUI-fying the Machine Learning Workflow: Towards Rapid Discovery of Viable Pipelines </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 03 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 02 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,36 +294,6 @@ Development </a></li>
         <pubDate>Wed, 20 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 19 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca?source=rss----f5105b08f43a---4">Async Generators as an alternative to State Management </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/gimel-paypal?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Gimel: PayPal’s Analytics Data Platform </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/ml-time-series?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Understanding Software System Behavior With ML and Time Series Data </a></li> 
-          
-            <li> <a href="https://stackshare.io/heap/how-heap-built-an-analytics-platform-that-auto-tracks-every-user-event">How Heap Built an Analytics Platform that Auto-Tracks Every User Event </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/caviars-food-recommendation-platform-8f1751e82db7?source=rss----3650599ae4e2---4">Caviar’s Food Recommendation Platform </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews">Scaling Collective Code Ownership with Code Reviews </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/the-end-of-video-coding-40cf10e711a2?source=rss----2615bd06b42e---4">The End of Video Coding? </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/06/to-shard-or-not-to-shard-the-holiday-2017-question/">To Shard, or Not To Shard: That Was The Holiday 2017 Question </a></li> 
-          
-            <li> <a href="https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51?source=rss----5b301f10ddcd---4">GraphQL made easy by AWS AppSync </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 19 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-19.html</guid>
       </item>
       
   </channel>
