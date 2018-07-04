@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 04 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.fb.com/uncategorized/open-sourcing-sonar-a-new-extensible-debugging-tool-2/">Open-sourcing Sonar, a new extensible debugging tool </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/refactoring-thrift-schemas-at-pinterest-e899008ce22b?source=rss-ef81ef829bcb------2">Refactoring Thrift schemas at Pinterest </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/06/self-supervised-tracking-via-video.html">Self-Supervised Tracking via Video Colorization </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/06/compiler-based-security-mitigations-in.html">Compiler-based security mitigations in Android P </a></li> 
+          
+            <li> <a href="https://eng.uber.com/h3/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=h3">H3: Uber’s Hexagonal Hierarchical Spatial Index </a></li> 
+          
+            <li> <a href="https://techblog.king.com/how-we-use-clojure-at-king-to-write-a-game-engine-editor/">How we use Clojure at King to write a game engine editor </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/diy-ai-for-the-future/">DIY AI for the Future </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/detail/232">V8 Hidden class </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/react-reactor-passwordless-spring/">React, Reactor, and No. More. Passwords. </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3?source=rss----905ea2b3d4d1---4">How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 04 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 03 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -264,36 +296,6 @@ Development </a></li>
         <pubDate>Thu, 21 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 20 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/uber-eats-trip-optimization/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-eats-trip-optimization">How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c?source=rss----7f60cf5620c9---4">In-Browser object detection using YOLO and TensorFlow.js </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2018/06/15/JavaScriptures-5-Babel-Webpack/">JavaScriptures 5 - Tooling </a></li> 
-          
-            <li> <a href="https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe?source=rss----5b301f10ddcd---4">Dynamic Programming vs Divide-and-Conquer </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/twittertensorflow.html">Twitter meets TensorFlow </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520?source=rss----2615bd06b42e---4">Metacat: Making Big Data Discoverable and Meaningful at Netflix </a></li> 
-          
-            <li> <a href="https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=advanced-technologies-detecting-preventing-fraud-uber">Advanced Technologies for Detecting and Preventing Fraud at Uber </a></li> 
-          
-            <li> <a href="https://getstream.io/blog/fixing-the-billion-dollar-mistake-in-go-by-borrowing-from-rust/">Fixing the billion dollar mistake in Go by borrowing from Rust </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/06/real-time-streaming-pattern-preprocessing-for-sentiment-analysis/">Real-time Streaming Pattern: Preprocessing for Sentiment Analysis </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 20 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-20.html</guid>
       </item>
       
   </channel>
