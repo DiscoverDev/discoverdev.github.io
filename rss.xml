@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 05 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://intoli.com/blog/python-slicing-in-javascript/">Recreating Python&#39;s Slice Syntax in JavaScript Using ES6 Proxies </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/">Why Kubernetes is The New Application Server </a></li> 
+          
+            <li> <a href="https://nordicapis.com/how-to-design-frictionless-apis/">How To Design Frictionless APIs </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/uber-self-driving-software?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Inside a Self-driving Uber </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-infrastructure/spiral-self-tuning-services-via-real-time-machine-learning/">Spiral: Self-tuning services via real-time machine learning </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/graphql-sdl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Parallelizing Product Development with GraphQL </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/maximizing-nvidia-dgx-kubernetes/">Maximizing NVIDIA DGX with Kubernetes </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/optimizing-queries-timescaledb-hypertables-with-partitions-postgresql-6366873a995d?source=rss----7fa310224bc5---4">Optimizing queries on TimescaleDB hypertables with thousands of partitions </a></li> 
+          
+            <li> <a href="https://code.fb.com/core-data/migrating-messenger-storage-to-optimize-performance/">Migrating Messenger storage to optimize performance </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-infrastructure/accelerate-large-scale-applications-with-bolt/">Accelerate large-scale applications with BOLT </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 05 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 04 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,36 +298,6 @@ Development </a></li>
         <pubDate>Fri, 22 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 21 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://research.fb.com/facebook-open-sources-densepose/">Facebook open sources DensePose </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/growth-engineering-at-netflix-accelerating-innovation-90eb8e70ce59?source=rss----2615bd06b42e---4">Growth Engineering at Netflix — Accelerating Innovation </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/6/18/how-ably-efficiently-implemented-consistent-hashing.html">How Ably Efficiently Implemented Consistent Hashing </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/microservices-event-async-messaging?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Practical Microservices, Practical Whiskey </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/systems-event-driven?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Events Are Reshaping Modern Systems </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/catching-that-flight-visualizing-social-network-with-networkx-and-basemap-ce4a0d2eaea6?source=rss----7f60cf5620c9---4">Catching that flight: Visualizing social network with Networkx and Basemap </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1?source=rss----7f60cf5620c9---4">Convolutional Neural Networks from the ground up </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/detecting-image-similarity-using-spark-lsh-and-tensorflow-618636afc939?source=rss-ef81ef829bcb------2">Detecting image similarity using Spark, LSH and TensorFlow </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/autoencoders-and-parallel-computing-with-kernelml-e62c405e8958?source=rss----7f60cf5620c9---4">AutoEncoders and Parallel Computing with KernelML </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 21 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-21.html</guid>
       </item>
       
   </channel>
