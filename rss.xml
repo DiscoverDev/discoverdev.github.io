@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 06 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://grafana.com/blog/2018/06/28/evolution-of-telemetry-at-bloomberg/">Evolution of Telemetry at Bloomberg </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html">Scalable Deep Reinforcement Learning for Robotic Manipulation </a></li> 
+          
+            <li> <a href="https://eng.uber.com/jvm-profiler/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jvm-profiler">JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/06/av1-next-generation-video-the-constrained-directional-enhancement-filter/">AV1: next generation video –  The Constrained Directional Enhancement Filter </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/">GUI Testing Powered by Deep Learning </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/06/dynamic-machine-translation-in-the-linkedin-feed-">Dynamic Machine Translation in the LinkedIn Feed </a></li> 
+          
+            <li> <a href="https://hackernoon.com/hacking-facebook-audio-focus-for-360-video-6856f256ec44?source=rss----3a8144eabfe3---4">Hacking Facebook: Audio Focus for 360 Video </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/06/real-time-streaming-pattern-triggering-alerts/">Real-time Streaming Pattern: Triggering Alerts </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-design-of-statistical-graphics-5265485e9bb5?source=rss----7f60cf5620c9---4">The Design of Statistical Graphics </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 06 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 05 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -268,36 +298,6 @@ Development </a></li>
         <pubDate>Mon, 25 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 22 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838?source=rss----53c7c27702d5---4">React Native at Airbnb: The Technology </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/06/building-better-compression-together-with-divans/">Building better compression together with DivANS </a></li> 
-          
-            <li> <a href="https://slack.engineering/ways-we-make-the-slack-ios-app-accessible-18039d3fdb34?source=rss----58820b6d8904---4">Ways we make the Slack iOS app accessible </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/tensorrt-4-accelerates-translation-speech-recommender/">TensorRT 4 Accelerates Neural Machine Translation, Recommenders, and Speech </a></li> 
-          
-            <li> <a href="https://hackernoon.com/android-ndk-my-experience-with-ffmpeg-93dd7e4b9269?source=rss----3a8144eabfe3---4">Android NDK: My Experience with FFmpeg </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/06/19/step-functions.html">Sleeping Lambdas and AWS Step Functions </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/turning-fortnite-into-pubg-with-deep-learning-cyclegan-2f9d339dcdb0?source=rss----7f60cf5620c9---4">Turning Fortnite into PUBG with Deep Learning (CycleGAN) </a></li> 
-          
-            <li> <a href="https://www.forge.ai/blog/veracity-models-methods-and-morals">Veracity: Models, Methods, and Morals </a></li> 
-          
-            <li> <a href="https://twilioinc.wpengine.com/2018/06/intelligent-transportation-lora-mqtt-twilio-sync-python.html">Building Intelligent Transportation Hardware Systems with Python, LoRa, MQTT and Twilio Sync </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 22 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-22.html</guid>
       </item>
       
   </channel>
