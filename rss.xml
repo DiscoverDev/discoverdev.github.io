@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 09 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.insightdatascience.com/how-to-use-machine-learning-and-quilt-to-identify-buildings-in-satellite-images-aee4e08ab0f3?source=rss----d02e65779d7b---4">How to use Machine Learning and Quilt to Identify Buildings in Satellite Images </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/advanced-dqns-playing-pac-man-with-deep-reinforcement-learning-3ffbd99e0814?source=rss----7f60cf5620c9---4">Advanced DQNs: Playing Pac-man with Deep Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/writing-a-naive-game-ai-a-case-study-67f25a8ba38a?source=rss----3a8144eabfe3---4">Writing A Naive Game AI: A Case Study </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/responsible-iot-design">Responsible IoT design </a></li> 
+          
+            <li> <a href="https://hackernoon.com/event-driven-microservices-with-quebic-f65f99a5b25a?source=rss----3a8144eabfe3---4">Event-driven Microservices with Quebic </a></li> 
+          
+            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/">Understanding Latent Style </a></li> 
+          
+            <li> <a href="http://www.infoq.com/articles/quantum-computing-intro-one?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Cats, Qubits, and Teleportation: The Spooky World of Quantum Computation (Part One) </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/the-journey-of-a-b-testing-at-walmartlabs-3b9bba8e558f?source=rss----905ea2b3d4d1---4">The Journey of A/B Testing at WalmartLabs </a></li> 
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/kotlin-adoption.htm">Kotlin on the server at Khan Academy </a></li> 
+          
+            <li> <a href="https://hackernoon.com/frontend-in-the-backend-a-pattern-for-cleaner-code-b497c92d0b49?source=rss----3a8144eabfe3---4">Backend-in-the-frontend: a pattern for cleaner code </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 09 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 06 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -270,34 +302,6 @@ Development </a></li>
         <pubDate>Tue, 26 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 25 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen">What Happens If Your JWT Is Stolen? </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes">Architecting Applications for Kubernetes </a></li> 
-          
-            <li> <a href="https://www.zillow.com/engineering/behind-zillow-3d-home-backend-algorithms/">Behind Zillow 3D Home - Backend Algorithms </a></li> 
-          
-            <li> <a href="https://hackernoon.com/from-startup-to-web-scale-a-gentle-introduction-to-scaling-22612beedcdd?source=rss----3a8144eabfe3---4">From startup to web scale: A gentle introduction to scaling </a></li> 
-          
-            <li> <a href="https://hackernoon.com/rnn-or-recurrent-neural-network-for-noobs-a9afbb00e860?source=rss----3a8144eabfe3---4">RNN or Recurrent Neural Network for Noobs </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/creating-web-components-with-stencil/">Creating Web Components with Stencil </a></li> 
-          
-            <li> <a href="https://hackernoon.com/satan-ransomware-spawns-new-methods-to-spread-4136647145e?source=rss----3a8144eabfe3---4">Satan Ransomware Spawns New Methods to Spread </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/605721433136474/accelerate-large-scale-applications-with-bolt/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Accelerate large-scale applications with BOLT </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 25 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-25.html</guid>
       </item>
       
   </channel>
