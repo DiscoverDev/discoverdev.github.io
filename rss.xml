@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 10 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/an-interactive-tutorial-on-quantum-programming-327da388f859?source=rss----3a8144eabfe3---4">Getting Started with Quantum Programming </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/writing-asynchronous-code-for-android-introducing-coroutines-20dda14a39ea?source=rss----51e1d1745b32---4">Writing Asynchronous Code for Android — Introducing Coroutines </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/">Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge </a></li> 
+          
+            <li> <a href="https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f?source=rss----3a8144eabfe3---4">ConsensusPedia: An Encyclopedia of 29 Consensus Algorithms </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/sentence-classification-using-cnn-with-deep-learning-studio-fe54eb53e24?source=rss----7f60cf5620c9---4">Sentence Classification using CNN with Deep Learning Studio </a></li> 
+          
+            <li> <a href="https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3?source=rss----3a8144eabfe3---4">Headless CMS vs Traditional CMS: A Deep Dive </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/">Add Constrained Optimization To Your Toolbelt </a></li> 
+          
+            <li> <a href="http://www.infoq.com/news/2018/06/cloud-native-continuous-delivery?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Patterns and Practices for Cloud Native Continuous Delivery </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/little-usl-scalability-performance?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Applied Performance Theory </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 10 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 09 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,37 +301,6 @@
         <pubDate>Wed, 27 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 26 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.infoq.com/presentations/ml-workflow-apache-beam?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Simplifying ML Workflows with Apache Beam </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/">Using Google’s Flutter For Truly Cross-Platform Mobile
-Development </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/sql-streaming-apache-flink?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Streaming SQL to Unify Batch &amp; Stream Processing w/ Apache Flink @Uberu </a></li> 
-          
-            <li> <a href="https://stackshare.io/posts/modernizing-stackshare-front-end-react-rails">Modernizing StackShare&#39;s Front End: The React + Rails Stack </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/ray-tracing-games-nvidia-rtx/">Coffee Break Series: Ray Tracing in Games with NVIDIA RTX </a></li> 
-          
-            <li> <a href="https://hackernoon.com/cats-to-crazy-quilts-using-style-transfer-to-generate-adversarial-examples-b88eef073d04?source=rss----3a8144eabfe3---4">Cats to crazy quilts: Using style transfer to generate adversarial examples </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2018/06/18/On-Obsessive-Statelessness/">On the obsessive statelessness of Peril </a></li> 
-          
-            <li> <a href="https://githubengineering.com/mysql-high-availability-at-github/">MySQL High Availability at GitHub </a></li> 
-          
-            <li> <a href="https://blog.risingstack.com/the-history-of-kubernetes/">The History of Kubernetes on a Timeline </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 26 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-26.html</guid>
       </item>
       
   </channel>
