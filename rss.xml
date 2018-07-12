@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 12 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.infoq.com/news/2018/07/event-sourcing-kafka-streams?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Experiences from Building an Event-Sourced System with Kafka Streams </a></li> 
+          
+            <li> <a href="https://eng.uber.com/transforming-financial-forecasting-machine-learning/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transforming-financial-forecasting-machine-learning">Transforming Financial Forecasting with Data Science and Machine Learning at Uber </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf?source=rss----d02e65779d7b---4">The unreasonable effectiveness of Deep Learning Representations </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab?source=rss----12d1b859d4e4---4">How JavaScript works: WebRTC and the mechanics of peer to peer networking </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/time-series-analysis-using-recurrent-neural-networks-in-tensorflow-4e8bc9ac5efe?source=rss----7f60cf5620c9---4">Time-Series Analysis Using Recurrent Neural Networks in Tensorflow </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/debugging-serverless-apps/">Debugging Serverless Apps </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/utilizing-final-state-machine/index.html">Utilizing the Finite State Machine </a></li> 
+          
+            <li> <a href="https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999?source=rss----5b301f10ddcd---4">Multi-server Chat in Node Without a Database </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 12 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 11 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +305,6 @@
         <pubDate>Fri, 29 Jun 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-06-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 28 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/06/teaching-uncalibrated-robots-to_22.html">Teaching Uncalibrated Robots to Visually Self-Adapt </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/">Add Constrained Optimization To Your Toolbelt </a></li> 
-          
-            <li> <a href="https://www.toptal.com/javascript/emulating-react-jsx-in-vanilla-javascript">Emulating React and JSX in Vanilla JS </a></li> 
-          
-            <li> <a href="http://www.infoq.com/articles/buzzfeed-microservices-migration?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How BuzzFeed Migrated from a Perl Monolith to Go and Python Microservices </a></li> 
-          
-            <li> <a href="http://www.infoq.com/news/2018/06/decomposing-system-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Strategies for Decomposing a System into Microservices </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/order-from-chaos-streamlining-our-tagging-infrastructure-b5bf6aff9b74?source=rss----51e1d1745b32---4">Order from Chaos: Streamlining Our Tagging Infrastructure </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/06/implementing-time-windowing-in-an-evented-streaming-system/">Implementing Time Windowing in an Evented Streaming System </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/simplifying-media-innovation-at-netflix-with-archer-3f8cbb0e2bcb?source=rss----2615bd06b42e---4">Simplifying Media Innovation at Netflix with Archer </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 28 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-28.html</guid>
       </item>
       
   </channel>
