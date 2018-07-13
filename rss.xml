@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 13 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.wayfair.com/2018/07/information-retrieval-and-machine-learning-at-wayfair/">Information Retrieval and Machine Learning at Wayfair </a></li> 
+          
+            <li> <a href="https://hackernoon.com/what-i-talk-about-when-i-talk-about-logging-36237fad7336?source=rss----3a8144eabfe3---4">What I Talk About When I Talk About Logging </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning">A Deep Dive into Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-to-drop-10-million-packets/">How to drop 10 million packets per second </a></li> 
+          
+            <li> <a href="https://blog.buildo.io/emails-boring-are-not-15c7b92fa90a?source=rss----5b535635f5fa---4">Emails boring are not </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html">Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1 </a></li> 
+          
+            <li> <a href="http://engineering.hackerearth.com/2018/07/07/introducing-nuskha/">Introducing Nuskha </a></li> 
+          
+            <li> <a href="https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/">Procedural Generation and Possible Worlds </a></li> 
+          
+            <li> <a href="https://hackernoon.com/zero-proof-of-faith-8170957eecff?source=rss----3a8144eabfe3---4">Zero Proof of Faith </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 13 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 12 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +305,6 @@
         <pubDate>Mon, 02 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 29 Jun 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-c08fe3489237?source=rss----5b301f10ddcd---4">Using API Gateways to Facilitate Your Transition from Monolith to Microservices </a></li> 
-          
-            <li> <a href="https://itnext.io/web-performance-checklist-6b616f3c6f0d?source=rss----5b301f10ddcd---4">Web Performance Checklist </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/ethereum-blockchain-failure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Architecting the Blockchain for Failure </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/future-distributed-database-relational?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Distributed Databases Is Relational </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c?source=rss----7f60cf5620c9---4">An Intuitive Explanation of Connectionist Temporal Classification </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/kardon-loader-malware-analysis-adaaaab42bab?source=rss----cfe1120185d3---4">Malware Analysis: Kardon Loader </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html">Productionizing ML with Workflows at Twitter </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/how-we-increased-engagement-using-automatic-personalized-copy-testing-a229f99d77ea?source=rss-ef81ef829bcb------2">How we increased engagement using automatic personalized copy testing </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-winds-2-0-stack-59e593ff9f07?source=rss----3a8144eabfe3---4">The Winds 2.0 Stack </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 29 Jun 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-06-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-29.html</guid>
       </item>
       
   </channel>
