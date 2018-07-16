@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 16 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/distributed-graphs-processing-with-spark-graphx-f0ceea695220?source=rss----3a8144eabfe3---4">Distributed graphs processing with Spark GraphX </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/07/pattern-library-first-css/">Pattern Library First: An Approach For Managing CSS </a></li> 
+          
+            <li> <a href="https://hackernoon.com/have-your-postgres-cake-with-amazon-redshift-and-eat-it-too-283b431ba5fa?source=rss----3a8144eabfe3---4">Have Your Postgres Cake with Amazon Redshift and eat it, too. </a></li> 
+          
+            <li> <a href="https://medium.com/engineering-housing/how-we-served-brotli-compressed-files-through-amazon-cloudfront-b9414b70f372?source=rss----3a69e32e2594---4">How we served brotli compressed files through Amazon Cloudfront </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3?source=rss----7f60cf5620c9---4">FastText: Under the Hood </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/iot-microservices-alexa-docker?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: IoT and Microservices </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/smart-contracts-learn?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Smart Contracts that Learn </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/locality-sensitive-hashing-for-music-search-f2f1940ace23?source=rss----7f60cf5620c9---4">Locality Sensitive Hashing for Similar Item Search </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/graphs-paths-bron-kerbosch-maximal-cliques-e6cab843bc2c?source=rss----7f60cf5620c9---4">Graphs &amp; paths: Bron-Kerbosch, maximal cliques. </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 16 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 13 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +307,6 @@
         <pubDate>Tue, 03 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 02 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/concurrency-and-asynchronous-behavior-with-rxjs-11b0c4b22597?source=rss----5b301f10ddcd---4">Concurrency and Asynchronous Behavior with RxJS </a></li> 
-          
-            <li> <a href="https://yahooeng.tumblr.com/post/175238642656">Innovating on Authentication Standards </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd?source=rss----7f60cf5620c9---4">Neural Machine Translation with Python </a></li> 
-          
-            <li> <a href="https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed?source=rss----3a8144eabfe3---4">Scaling Effectively: when Kubernetes met Celery </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/distributed-tracing-spring-cloud-zipkin?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Distributed Tracing: Latency Analysis for Your Microservices Using Spring Cloud &amp; Zipkin </a></li> 
-          
-            <li> <a href="http://www.infoq.com/news/2018/06/linkedout-failure-injection?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Chaos Engineering at LinkedIn: The “LinkedOut” Failure Injection Testing Framework </a></li> 
-          
-            <li> <a href="https://hackernoon.com/micro-services-git-d840305e6220?source=rss----3a8144eabfe3---4">Micro Services &amp; Git </a></li> 
-          
-            <li> <a href="http://www.infoq.com/news/2018/06/facebook-network-scaling?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Scaling Network Automation at Facebook Using Zero-Touch Provisioning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 02 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-02.html</guid>
       </item>
       
   </channel>
