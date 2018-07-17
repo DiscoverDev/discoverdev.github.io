@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 17 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/do-you-need-a-service-mesh">Do you need a service mesh? </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/google-dataflow-codelab?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Google Dataflow Codelab </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/container-runtime-library?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Optimizing for Production Workloads </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743?source=rss----25cd379abb8---4">From shallow to deep learning in fraud </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f?source=rss----7f60cf5620c9---4">How YouTube Recommends Videos </a></li> 
+          
+            <li> <a href="https://distill.pub/2018/feature-wise-transformations">Feature-wise transformations </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-general-purpose-blockchain-71ffb8511ce?source=rss----3a8144eabfe3---4">Building general purpose blockchain </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-to-design-a-product-at-a-startup">How to design a product at a startup </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/07/blocking-io-in-gunicorn-gevent-workers/">Blocking IO in Gunicorn Gevent Workers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 17 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 16 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,34 +309,6 @@
         <pubDate>Wed, 04 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 03 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/06/26/supercharging-classification-the-value-of-multitask-learning.html">Supercharging Classification - The Value of Multi-task Learning </a></li> 
-          
-            <li> <a href="https://code.facebook.com/posts/201318390519340/migrating-messenger-storage-to-optimize-performance/?utm_source=codedot_rss_feed&amp;utm_medium=rss&amp;utm_campaign=RSS+Feed">Migrating Messenger storage to optimize performance </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/beyond-rest-using-graphql-to-shape-your-data-6a04650e6242?source=rss----7f3d96429888---4">Beyond REST - Using GraphQL to shape your data </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introduction-to-sequence-models-rnn-bidirectional-rnn-lstm-gru-73927ec9df15?source=rss----7f60cf5620c9---4">Introduction to Sequence Models — RNN, Bidirectional RNN, LSTM, GRU </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/06/26/solid-principles.html">Examples and definitions of the SOLID principles in Software Design </a></li> 
-          
-            <li> <a href="https://stackshare.io/sendgrid/how-sendgrid-scaled-to-40-billion-emails-per-month">How SendGrid Scaled to 40 Billion Emails Per Month </a></li> 
-          
-            <li> <a href="https://hackernoon.com/difference-between-sidechains-and-state-channels-2f5dfbd10707?source=rss----3a8144eabfe3---4">Difference between SideChains and State Channels </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f?source=rss----7f60cf5620c9---4">GUI-fying the Machine Learning Workflow: Towards Rapid Discovery of Viable Pipelines </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 03 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-03.html</guid>
       </item>
       
   </channel>
