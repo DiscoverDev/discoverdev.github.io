@@ -6,6 +6,62 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 19 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2018/07/automating-drug-discoveries-using.html">Automating Drug Discoveries Using Computer Vision </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/event-sourcing-in-action-with-ebays-continuous-delivery-team/">Event Sourcing in Action with eBay&#39;s Continuous Delivery Team (Part 2) </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/">Modeling User Journeys via Semantic Embeddings </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/07/linkedin-lite--a-server-side-rendered-pwa">LinkedIn Lite: A Server-Side Rendered PWA </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2018/07/mitigating-spectre-with-site-isolation.html">Mitigating Spectre with Site Isolation in Chrome </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/logo-detection-in-images-using-ssd-bcd3732e1776?source=rss----7f60cf5620c9---4">Logo detection in Images using SSD </a></li> 
+          
+            <li> <a href="https://hackernoon.com/consensus-compare-casper-vs-tendermint-18a457b7744?source=rss----3a8144eabfe3---4">Consensus Compare: Casper vs. Tendermint </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/learning-to-perform-linear-filtering-using-natural-image-data-db289d0b0457?source=rss----7f60cf5620c9---4">Learning to perform linear filtering using natural image data </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 19 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-19.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 18 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/coordconv/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coordconv">An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/gefilter-fish-finding-concise-topics-from-amazons-customer-reviews-dd14d673ed6d?source=rss----d02e65779d7b---4">Gefilter Fish: Finding concise topics from Amazon’s customer reviews </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/keeping-counts-in-sync">Keeping Counts In Sync </a></li> 
+          
+            <li> <a href="https://itnext.io/visualize-your-real-time-data-c8f17fe65dde?source=rss----5b301f10ddcd---4">Visualize your real-time data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/beam-search-decoding-in-ctc-trained-neural-networks-5a889a3d85a7?source=rss----7f60cf5620c9---4">Beam Search Decoding in CTC-trained Neural Networks </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/event-sourcing-connecting-the-dots-for-a-better-future/">Event Sourcing: Connecting the Dots for a Better Future (Part 1) </a></li> 
+          
+            <li> <a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar </a></li> 
+          
+            <li> <a href="https://www.toptal.com/blockchain/crystal-programming-language-tutorial">Creating a Cryptocurrency in the Crystal Programming Language </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 18 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 17 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -245,70 +301,6 @@
         <pubDate>Fri, 06 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 05 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://intoli.com/blog/python-slicing-in-javascript/">Recreating Python&#39;s Slice Syntax in JavaScript Using ES6 Proxies </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/">Why Kubernetes is The New Application Server </a></li> 
-          
-            <li> <a href="https://nordicapis.com/how-to-design-frictionless-apis/">How To Design Frictionless APIs </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/uber-self-driving-software?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Inside a Self-driving Uber </a></li> 
-          
-            <li> <a href="https://code.fb.com/data-infrastructure/spiral-self-tuning-services-via-real-time-machine-learning/">Spiral: Self-tuning services via real-time machine learning </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/graphql-sdl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Parallelizing Product Development with GraphQL </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/maximizing-nvidia-dgx-kubernetes/">Maximizing NVIDIA DGX with Kubernetes </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/optimizing-queries-timescaledb-hypertables-with-partitions-postgresql-6366873a995d?source=rss----7fa310224bc5---4">Optimizing queries on TimescaleDB hypertables with thousands of partitions </a></li> 
-          
-            <li> <a href="https://code.fb.com/core-data/migrating-messenger-storage-to-optimize-performance/">Migrating Messenger storage to optimize performance </a></li> 
-          
-            <li> <a href="https://code.fb.com/data-infrastructure/accelerate-large-scale-applications-with-bolt/">Accelerate large-scale applications with BOLT </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 05 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 04 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.fb.com/uncategorized/open-sourcing-sonar-a-new-extensible-debugging-tool-2/">Open-sourcing Sonar, a new extensible debugging tool </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/refactoring-thrift-schemas-at-pinterest-e899008ce22b?source=rss-ef81ef829bcb------2">Refactoring Thrift schemas at Pinterest </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/06/self-supervised-tracking-via-video.html">Self-Supervised Tracking via Video Colorization </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/06/compiler-based-security-mitigations-in.html">Compiler-based security mitigations in Android P </a></li> 
-          
-            <li> <a href="https://eng.uber.com/h3/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=h3">H3: Uber’s Hexagonal Hierarchical Spatial Index </a></li> 
-          
-            <li> <a href="https://techblog.king.com/how-we-use-clojure-at-king-to-write-a-game-engine-editor/">How we use Clojure at King to write a game engine editor </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/diy-ai-for-the-future/">DIY AI for the Future </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/detail/232">V8 Hidden class </a></li> 
-          
-            <li> <a href="https://x-team.com/blog/react-reactor-passwordless-spring/">React, Reactor, and No. More. Passwords. </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3?source=rss----905ea2b3d4d1---4">How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 04 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-04.html</guid>
       </item>
       
   </channel>
