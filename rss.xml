@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 20 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.grab.com/building-grab-s-experimentation-platform">Building Grab’s Experimentation Platform </a></li> 
+          
+            <li> <a href="https://itnext.io/algorithmic-reverb-and-web-audio-api-e1ccec94621a?source=rss----5b301f10ddcd---4">Algorithmic Reverb and Web Audio API </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/r-framework-ai-apps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: R for AI developers </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690?source=rss----2615bd06b42e---4">Evolution of Application Data Caching : From RAM to SSD </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-improve-your-image-classifier-with-googles-autoaugment-77643f0be0c9?source=rss----7f60cf5620c9---4">How to improve your image classifier with Google&#39;s AutoAugment </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/oss-container-security-runtime/">How to Implement Open Source Container Security: Part 1 Runtime Security </a></li> 
+          
+            <li> <a href="https://eng.uber.com/maps-metrics-computation/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maps-metrics-computation">Enhancing the Quality of Uber’s Maps with Metrics Computation </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/decoupled-styling-ui-components/index.html">Styling-API Reinvented </a></li> 
+          
+            <li> <a href="https://galois.com/blog/2018/07/vellvm-verifying-the-llvm/">Vellvm – Verifying the LLVM </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b?source=rss----7f60cf5620c9---4">Understanding model predictions with LIME </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/hacking-ansel-slash-vr-rendering-times/">Hacking Ansel to Slash VR Rendering Times </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 20 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 19 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +305,6 @@
         <pubDate>Mon, 09 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 06 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://grafana.com/blog/2018/06/28/evolution-of-telemetry-at-bloomberg/">Evolution of Telemetry at Bloomberg </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html">Scalable Deep Reinforcement Learning for Robotic Manipulation </a></li> 
-          
-            <li> <a href="https://eng.uber.com/jvm-profiler/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jvm-profiler">JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/06/av1-next-generation-video-the-constrained-directional-enhancement-filter/">AV1: next generation video –  The Constrained Directional Enhancement Filter </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/">GUI Testing Powered by Deep Learning </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/06/dynamic-machine-translation-in-the-linkedin-feed-">Dynamic Machine Translation in the LinkedIn Feed </a></li> 
-          
-            <li> <a href="https://hackernoon.com/hacking-facebook-audio-focus-for-360-video-6856f256ec44?source=rss----3a8144eabfe3---4">Hacking Facebook: Audio Focus for 360 Video </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/06/real-time-streaming-pattern-triggering-alerts/">Real-time Streaming Pattern: Triggering Alerts </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-design-of-statistical-graphics-5265485e9bb5?source=rss----7f60cf5620c9---4">The Design of Statistical Graphics </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 06 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-06.html</guid>
       </item>
       
   </channel>
