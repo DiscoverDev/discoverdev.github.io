@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 23 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://capgemini.github.io/architecture/combining-oauth-and-jwt-to-gain-performance-improvements/">Combining OAuth and JWT to gain performance improvements </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/examining-performance-differences-between-native-flutter-and-react-native-mobile-development-take-two">Examining performance differences between Native, Flutter, and React Native mobile development: Take two. </a></li> 
+          
+            <li> <a href="http://www.infoq.com/articles/quantum-computing-applications-three?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Cats, Qubits, and Teleportation: The Spooky World of Quantum Computation Applications (Part 3) </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/building-a-real-time-user-action-counting-system-for-ads-88a60d9c9a?source=rss-ef81ef829bcb------2">Building a real-time user action counting system for ads </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/07/accelerated-training-and-inference-with.html">Accelerated Training and Inference with the Tensorflow Object Detection API </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/content-categorization-at-conde-nast">Conde Nast Traveler Content Categorization: From Flat Fields to Structured Relationships </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/">XARs: An efficient system for self-contained executables </a></li> 
+          
+            <li> <a href="https://hackernoon.com/improving-the-performance-of-javascript-applications-c05385185f9f?source=rss----3a8144eabfe3---4">Improving the Performance of JavaScript Applications </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/07/13/efficient-query-paging/">More Efficient Query Paging with Scylla 2.2 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/building-a-graph-data-pipeline-with-zeppelin-spark-and-neo4j-8b6b83f4fb70?source=rss----7f60cf5620c9---4">Building a Graph Data Pipeline With Zeppelin Spark and Neo4j </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 23 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 20 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +305,6 @@
         <pubDate>Tue, 10 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 09 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.insightdatascience.com/how-to-use-machine-learning-and-quilt-to-identify-buildings-in-satellite-images-aee4e08ab0f3?source=rss----d02e65779d7b---4">How to use Machine Learning and Quilt to Identify Buildings in Satellite Images </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/advanced-dqns-playing-pac-man-with-deep-reinforcement-learning-3ffbd99e0814?source=rss----7f60cf5620c9---4">Advanced DQNs: Playing Pac-man with Deep Reinforcement Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/writing-a-naive-game-ai-a-case-study-67f25a8ba38a?source=rss----3a8144eabfe3---4">Writing A Naive Game AI: A Case Study </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/responsible-iot-design">Responsible IoT design </a></li> 
-          
-            <li> <a href="https://hackernoon.com/event-driven-microservices-with-quebic-f65f99a5b25a?source=rss----3a8144eabfe3---4">Event-driven Microservices with Quebic </a></li> 
-          
-            <li> <a href="http://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/">Understanding Latent Style </a></li> 
-          
-            <li> <a href="http://www.infoq.com/articles/quantum-computing-intro-one?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Cats, Qubits, and Teleportation: The Spooky World of Quantum Computation (Part One) </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/the-journey-of-a-b-testing-at-walmartlabs-3b9bba8e558f?source=rss----905ea2b3d4d1---4">The Journey of A/B Testing at WalmartLabs </a></li> 
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/kotlin-adoption.htm">Kotlin on the server at Khan Academy </a></li> 
-          
-            <li> <a href="https://hackernoon.com/frontend-in-the-backend-a-pattern-for-cleaner-code-b497c92d0b49?source=rss----3a8144eabfe3---4">Backend-in-the-frontend: a pattern for cleaner code </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 09 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-09.html</guid>
       </item>
       
   </channel>
