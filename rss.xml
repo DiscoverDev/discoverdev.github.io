@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 25 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.viget.com/articles/of-note-better-text-annotations-for-the-web/">Of Note: Better Text Annotations for the Web </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/riots-approach-anti-cheat">Riot&#39;s Approach to Anti-Cheat </a></li> 
+          
+            <li> <a href="https://blog.takipi.com/improve-your-application-performance-with-garbage-collection-optimization/">Improve Application Performance with These Advanced GC Techniques </a></li> 
+          
+            <li> <a href="https://eng.uber.com/autonomous-rollouts-regression-analysis/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=autonomous-rollouts-regression-analysis">Building Automated Feature Rollouts on Robust Regression Analysis </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/07/360-images-on-the-web-the-easy-way/">360° Images on the Web, the Easy Way </a></li> 
+          
+            <li> <a href="https://www.toptal.com/machine-learning/machine-learning-problems">How to Approach Machine Learning Problems </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/mlflow-a-platform-for-managing-the-machine-learning-lifecycle">MLflow: A platform for managing the machine learning lifecycle </a></li> 
+          
+            <li> <a href="https://blog.imaginea.com/zero-downtime-deployment/">Zero Downtime Deployment </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 25 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 24 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +303,6 @@
         <pubDate>Thu, 12 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 11 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/too-old-to-rocket-load-too-young-to-die/">Too Old To Rocket Load, Too Young To Die </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/07/whats-new-for-text-in-android-p.html">What&#39;s new for text in Android P </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/">I Used The Web For A Day With Just A Keyboard </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/xdp-ddos-cloudflare?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: XDP in Practice: DDoS Mitigation @Cloudflare </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/unikraft-unikernels?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Unikraft - Unleashing the Power of Unikernels </a></li> 
-          
-            <li> <a href="https://itnext.io/filepond-frontend-trickery-a3073c934c77?source=rss----5b301f10ddcd---4">5 interesting technical challenges I faced when building FilePond </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introduction-to-model-trees-6e396259379a?source=rss----7f60cf5620c9---4">Introduction to Model Trees </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/css-grid-2/">CSS Grid Level 2: Here Comes Subgrid </a></li> 
-          
-            <li> <a href="https://hackernoon.com/virtual-reality-with-react-360-ce24b611f0f5?source=rss----3a8144eabfe3---4">Virtual reality with React 360 </a></li> 
-          
-            <li> <a href="https://www.future-processing.pl/blog/privilege-escalation/">Privilege escalation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 11 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-11.html</guid>
       </item>
       
   </channel>
