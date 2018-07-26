@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 26 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.infoq.com/presentations/chick-fil-a-k8-clusters?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chick-Fil-A: Milking the Most Out of 1000&#39;s of K8s Clusters </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/07/announcing-cirq-open-source-framework.html">Announcing Cirq: An Open Source Framework for NISQ Algorithms </a></li> 
+          
+            <li> <a href="https://fly.io/articles/lighthouse-how-to-reduce-render-blocking-scripts/">Lighthouse: how to reduce render-blocking scripts </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9?source=rss----53c7c27702d5---4">Operationalizing Node.js for Server Side Rendering </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/neural-machine-translation-inference-tensorrt-4/">Neural Machine Translation Inference with TensorRT 4 </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698?source=rss----2615bd06b42e---4">Netflix SIRT releases Diffy: A Differencing Engine for Digital Forensics in the Cloud </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/07/9-biggest-mistakes-with-css-grid/">9 Biggest Mistakes with CSS Grid </a></li> 
+          
+            <li> <a href="https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b?source=rss----3a8144eabfe3---4">Why is Python so slow? </a></li> 
+          
+            <li> <a href="http://www.infoq.com/articles/ballerina-api-gateway?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Building an API Gateway with the  Ballerina Programming Language </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/robust-factorization-machines-1a9ef9f75abf?source=rss----905ea2b3d4d1---4">Robust Factorization Machines </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 26 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 25 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,34 +307,6 @@
         <pubDate>Fri, 13 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 12 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.infoq.com/news/2018/07/event-sourcing-kafka-streams?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Experiences from Building an Event-Sourced System with Kafka Streams </a></li> 
-          
-            <li> <a href="https://eng.uber.com/transforming-financial-forecasting-machine-learning/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transforming-financial-forecasting-machine-learning">Transforming Financial Forecasting with Data Science and Machine Learning at Uber </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf?source=rss----d02e65779d7b---4">The unreasonable effectiveness of Deep Learning Representations </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab?source=rss----12d1b859d4e4---4">How JavaScript works: WebRTC and the mechanics of peer to peer networking </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/time-series-analysis-using-recurrent-neural-networks-in-tensorflow-4e8bc9ac5efe?source=rss----7f60cf5620c9---4">Time-Series Analysis Using Recurrent Neural Networks in Tensorflow </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/debugging-serverless-apps/">Debugging Serverless Apps </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/utilizing-final-state-machine/index.html">Utilizing the Finite State Machine </a></li> 
-          
-            <li> <a href="https://itnext.io/multi-server-chat-in-node-without-a-database-51bb66e41999?source=rss----5b301f10ddcd---4">Multi-server Chat in Node Without a Database </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 12 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-12.html</guid>
       </item>
       
   </channel>
