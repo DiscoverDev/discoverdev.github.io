@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 30 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.scottlogic.com/2018/07/20/wasm-future.html">The future of WebAssembly - A look at upcoming features and proposals </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/paper-summary-optimal-dnn-primitive-selection-with-partitioned-boolean-quadratic-programming-84d8ca4cdbfc?source=rss----7f60cf5620c9---4">Faster Deep Learning: Optimal DNN Primitives </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html">Lean Testing, or Why Unit Tests are Worse than You Think </a></li> 
+          
+            <li> <a href="https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/">Open sourcing oomd, a new approach to handling OOMs </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/">Location-Aware Distribution: Configuring servers at scale </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent">Productivity at Scale: How We Improved Build Time by 400% at LinkedIn </a></li> 
+          
+            <li> <a href="https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/">Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/">Event Triggered Customer Segmentation </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-understated-innovation-of-static-site-generators-d188ff8e99af?source=rss----3a8144eabfe3---4">The understated innovation of static site generators </a></li> 
+          
+            <li> <a href="https://hackernoon.com/google-cirq-and-the-new-world-of-quantum-programming-6bc849190a70?source=rss----3a8144eabfe3---4">Google Cirq and the New World of Quantum Programming </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 30 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 27 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,36 +311,6 @@
         <pubDate>Tue, 17 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 16 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/distributed-graphs-processing-with-spark-graphx-f0ceea695220?source=rss----3a8144eabfe3---4">Distributed graphs processing with Spark GraphX </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/pattern-library-first-css/">Pattern Library First: An Approach For Managing CSS </a></li> 
-          
-            <li> <a href="https://hackernoon.com/have-your-postgres-cake-with-amazon-redshift-and-eat-it-too-283b431ba5fa?source=rss----3a8144eabfe3---4">Have Your Postgres Cake with Amazon Redshift and eat it, too. </a></li> 
-          
-            <li> <a href="https://medium.com/engineering-housing/how-we-served-brotli-compressed-files-through-amazon-cloudfront-b9414b70f372?source=rss----3a69e32e2594---4">How we served brotli compressed files through Amazon Cloudfront </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3?source=rss----7f60cf5620c9---4">FastText: Under the Hood </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/iot-microservices-alexa-docker?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: IoT and Microservices </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/smart-contracts-learn?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Smart Contracts that Learn </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/locality-sensitive-hashing-for-music-search-f2f1940ace23?source=rss----7f60cf5620c9---4">Locality Sensitive Hashing for Similar Item Search </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/graphs-paths-bron-kerbosch-maximal-cliques-e6cab843bc2c?source=rss----7f60cf5620c9---4">Graphs &amp; paths: Bron-Kerbosch, maximal cliques. </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 16 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-16.html</guid>
       </item>
       
   </channel>
