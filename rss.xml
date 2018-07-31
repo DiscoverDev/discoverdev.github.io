@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 31 Jul 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/how-to-train-neural-network-on-browser-7a435132a1ed?source=rss----3a8144eabfe3---4">How to train neural network on browser </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/higher-order-functions-history-examples?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: In Praise of Higher Order Functions </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/discount-offers-using-dynamic-programming-ba383098c628?source=rss----7484818e9f88---4">Discount offers using Dynamic Programming? </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/">I Wanna Go Fast - Load Balancing Dynamic Steering </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada?source=rss----7f60cf5620c9---4">Deep learning for specific information extraction from unstructured texts </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/cri-runtime-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CRI Runtimes Deep Dive: Who&#39;s Running My Kubernetes Pod!? </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05?source=rss-ef81ef829bcb------2">A one year PWA retrospective </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/07/smashingconf-videos-web-fonts-performance/">Webfonts And Performance: SmashingConf Videos </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 31 Jul 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-07-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 30 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,36 +309,6 @@
         <pubDate>Wed, 18 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 17 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/do-you-need-a-service-mesh">Do you need a service mesh? </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/google-dataflow-codelab?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Google Dataflow Codelab </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/container-runtime-library?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Optimizing for Production Workloads </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743?source=rss----25cd379abb8---4">From shallow to deep learning in fraud </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f?source=rss----7f60cf5620c9---4">How YouTube Recommends Videos </a></li> 
-          
-            <li> <a href="https://distill.pub/2018/feature-wise-transformations">Feature-wise transformations </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-general-purpose-blockchain-71ffb8511ce?source=rss----3a8144eabfe3---4">Building general purpose blockchain </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-to-design-a-product-at-a-startup">How to design a product at a startup </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/07/blocking-io-in-gunicorn-gevent-workers/">Blocking IO in Gunicorn Gevent Workers </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 17 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-17.html</guid>
       </item>
       
   </channel>
