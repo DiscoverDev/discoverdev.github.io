@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 01 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast </a></li> 
+          
+            <li> <a href="https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial">Web Scraping with a Headless Browser: A Puppeteer Tutorial </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ui/vr-ar-design-guide">Leap Into VR/AR Design </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html">Don&#39;t call us, we&#39;ll call you: Inversion of Control Containers </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture">Write quality mobile apps in any architecture </a></li> 
+          
+            <li> <a href="https://nordicapis.com/a-pragmatic-take-on-rest-anti-patterns/">A Pragmatic Take On REST Anti Patterns </a></li> 
+          
+            <li> <a href="http://rea.tech/evaluating-scala-and-sticking-with-ruby/">Evaluating Scala and sticking with Ruby </a></li> 
+          
+            <li> <a href="https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af?source=rss----3a8144eabfe3---4">Five ways to gain serverless observability </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood">Kubernetes Networking Under the Hood </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-word-embeddings-a9ff830403ce?source=rss----3a8144eabfe3---4">Understanding Word Embeddings </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 01 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 31 Jul 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,34 +313,6 @@
         <pubDate>Thu, 19 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 18 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/coordconv/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coordconv">An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/gefilter-fish-finding-concise-topics-from-amazons-customer-reviews-dd14d673ed6d?source=rss----d02e65779d7b---4">Gefilter Fish: Finding concise topics from Amazon’s customer reviews </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/keeping-counts-in-sync">Keeping Counts In Sync </a></li> 
-          
-            <li> <a href="https://itnext.io/visualize-your-real-time-data-c8f17fe65dde?source=rss----5b301f10ddcd---4">Visualize your real-time data </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/beam-search-decoding-in-ctc-trained-neural-networks-5a889a3d85a7?source=rss----7f60cf5620c9---4">Beam Search Decoding in CTC-trained Neural Networks </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/event-sourcing-connecting-the-dots-for-a-better-future/">Event Sourcing: Connecting the Dots for a Better Future (Part 1) </a></li> 
-          
-            <li> <a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar </a></li> 
-          
-            <li> <a href="https://www.toptal.com/blockchain/crystal-programming-language-tutorial">Creating a Cryptocurrency in the Crystal Programming Language </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 18 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-18.html</guid>
       </item>
       
   </channel>
