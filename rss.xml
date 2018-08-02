@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 02 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/07/improving-test-coverage-android-app-mockito-espresso/">How To Improve Test Coverage For Your Android App Using Mockito And Espresso </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/panel-containers-scalability?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Containers at Web Scale Panel </a></li> 
+          
+            <li> <a href="https://hackernoon.com/building-serverless-contact-form-for-static-websites-b0e622d5a035?source=rss----3a8144eabfe3---4">Building Serverless Contact Form For Static Websites </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/introducing-spaceace-a-new-kind-of-front-end-state-library-5215b18adc11?source=rss----f5105b08f43a---4">Introducing SpaceAce, a new kind of front-end state library </a></li> 
+          
+            <li> <a href="https://galois.com/blog/2018/07/the-lean-theorem-prover-past-present-and-future/">The Lean Theorem Prover: Past, Present and Future </a></li> 
+          
+            <li> <a href="https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/">Securing New Products at Clever </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/a-look-at-android-ml-kit-the-machine-learning-sdk/">A Look at Android ML Kit - the Machine Learning SDK </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/fingerprinting-fraudulent-behavior-6663d0264fad?source=rss----25cd379abb8---4">Fingerprinting fraudulent behavior </a></li> 
+          
+            <li> <a href="https://blog.golang.org/go-cloud">Portable Cloud Programming with Go Cloud </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?source=rss----587883b5d2ee---4">Freezing Python’s Dependency Hell in 2018 </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html">New Research on Multi-Task Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 02 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 01 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,34 +319,6 @@
         <pubDate>Fri, 20 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 19 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/07/automating-drug-discoveries-using.html">Automating Drug Discoveries Using Computer Vision </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/event-sourcing-in-action-with-ebays-continuous-delivery-team/">Event Sourcing in Action with eBay&#39;s Continuous Delivery Team (Part 2) </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/">Modeling User Journeys via Semantic Embeddings </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/07/linkedin-lite--a-server-side-rendered-pwa">LinkedIn Lite: A Server-Side Rendered PWA </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2018/07/mitigating-spectre-with-site-isolation.html">Mitigating Spectre with Site Isolation in Chrome </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/logo-detection-in-images-using-ssd-bcd3732e1776?source=rss----7f60cf5620c9---4">Logo detection in Images using SSD </a></li> 
-          
-            <li> <a href="https://hackernoon.com/consensus-compare-casper-vs-tendermint-18a457b7744?source=rss----3a8144eabfe3---4">Consensus Compare: Casper vs. Tendermint </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/learning-to-perform-linear-filtering-using-natural-image-data-db289d0b0457?source=rss----7f60cf5620c9---4">Learning to perform linear filtering using natural image data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 19 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-19.html</guid>
       </item>
       
   </channel>
