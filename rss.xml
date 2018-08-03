@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 03 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.infoq.com/presentations/serverless-observability-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Observability to Better Serverless Apps </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/">Developing Real-Time Web Applications with Server-Sent Events </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html">Machine Learning in Google BigQuery </a></li> 
+          
+            <li> <a href="https://distill.pub/2018/differentiable-parameterizations">Differentiable Image Parameterizations </a></li> 
+          
+            <li> <a href="https://eng.uber.com/herb-datacenter-replication/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=herb-datacenter-replication">Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824?source=rss----51e1d1745b32---4">To Send Emails to Readers, We Went Serverless </a></li> 
+          
+            <li> <a href="https://blog.ably.io/hidden-scaling-issues-of-distributed-systems-system-design-in-the-real-world-9a9f0d309e8e?source=rss----63d285882655---4">Hidden scaling issues of distributed systems — System design in the real world </a></li> 
+          
+            <li> <a href="https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d?source=rss----58820b6d8904---4">Streamlining Your Workflow: Debugging for HHVM </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39?source=rss----7f60cf5620c9---4">Improving Operations with Route Optimization </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 03 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 02 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -285,40 +315,6 @@
         <pubDate>Mon, 23 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 20 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.grab.com/building-grab-s-experimentation-platform">Building Grab’s Experimentation Platform </a></li> 
-          
-            <li> <a href="https://itnext.io/algorithmic-reverb-and-web-audio-api-e1ccec94621a?source=rss----5b301f10ddcd---4">Algorithmic Reverb and Web Audio API </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/r-framework-ai-apps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: R for AI developers </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690?source=rss----2615bd06b42e---4">Evolution of Application Data Caching : From RAM to SSD </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-to-improve-your-image-classifier-with-googles-autoaugment-77643f0be0c9?source=rss----7f60cf5620c9---4">How to improve your image classifier with Google&#39;s AutoAugment </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/oss-container-security-runtime/">How to Implement Open Source Container Security: Part 1 Runtime Security </a></li> 
-          
-            <li> <a href="https://eng.uber.com/maps-metrics-computation/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maps-metrics-computation">Enhancing the Quality of Uber’s Maps with Metrics Computation </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/decoupled-styling-ui-components/index.html">Styling-API Reinvented </a></li> 
-          
-            <li> <a href="https://galois.com/blog/2018/07/vellvm-verifying-the-llvm/">Vellvm – Verifying the LLVM </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b?source=rss----7f60cf5620c9---4">Understanding model predictions with LIME </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/hacking-ansel-slash-vr-rendering-times/">Hacking Ansel to Slash VR Rendering Times </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 20 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-20.html</guid>
       </item>
       
   </channel>
