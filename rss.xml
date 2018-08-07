@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 07 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/07/combining-linkedins-content-filtering-and-microsoft-cognitive-se">Combining LinkedIn’s Content Filtering and Microsoft Cognitive Services to Keep Inappropriate Content Off Our Sites </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/f5bot/">How F5Bot Slurps All of Reddit </a></li> 
+          
+            <li> <a href="https://robots.thoughtbot.com/recommending-blog-posts">Recommending blog posts with machine learning </a></li> 
+          
+            <li> <a href="https://itnext.io/detecting-and-outlining-lakes-with-python3-and-opencv-3-9156bdeacbf0?source=rss----5b301f10ddcd---4">Detecting and Outlining Lakes with Python3 and OpenCV 3 </a></li> 
+          
+            <li> <a href="http://www.infoq.com/news/2018/07/sendgrid-email-scaling?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How SendGrid Scales Its Email Delivery Systems </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/graphs-and-paths-pagerank-54f180a1aa0a?source=rss----7f60cf5620c9---4">Graphs and paths: PageRank. </a></li> 
+          
+            <li> <a href="https://engineering.invisionapp.com/post/go-health-scalable-checks-for-kubernetes/">Introducing go-health </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1?source=rss----905ea2b3d4d1---4">Primer on Front End Automation </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1?source=rss----7f60cf5620c9---4">What Does A Face Detection Neural Network Look Like? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 07 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 06 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +311,6 @@
         <pubDate>Wed, 25 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 24 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/myntra-engineering/blueprint-qualitative-and-quantitative-clickstream-event-analysis-ccb1f71ef714?source=rss----7484818e9f88---4">Blueprint: Qualitative and Quantitative Clickstream Event Analysis </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/videoqualityonmobile.html">Measuring perceived video quality on mobile devices </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/07/client-side-performance-monitoring-with-influxdb/">Client-side Performance Monitoring with InfluxDB </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/container-security-docker-image-scanning/">Docker Image Scanning – How to Implement Open Source Container Security (Part 2) </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/07/improving-connectomics-by-order-of.html">Improving Connectomics by an Order of Magnitude </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/what-exactly-does-cnn-see-4d436d8e6e52?source=rss----5e5bef33608a---4">What exactly does CNN see? </a></li> 
-          
-            <li> <a href="http://www.infoq.com/articles/Graal-Java-JIT-Compiler?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Getting to Know Graal, the New Java JIT Compiler </a></li> 
-          
-            <li> <a href="https://www.toptal.com/javascript/hot-module-replacement-in-redux">Hot Module Replacement in Redux </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/">The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-i-added-awesome-multi-threaded-features-to-express-js-753452a1c10e?source=rss----3a8144eabfe3---4">How I added awesome multi-threaded features to Express JS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 24 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-24.html</guid>
       </item>
       
   </channel>
