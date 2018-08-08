@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 08 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://segment.com/blog/comparing-billions-of-rows-per-day/">Comparing Billions of Rows per Day </a></li> 
+          
+            <li> <a href="https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4">Building a distributed rate limiter that scales horizontally </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/08/smashingconf-ux-videos/">User Experience Psychology And Performance: SmashingConf Videos </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/building-optimized-containers-for-kubernetes">Building Optimized Containers for Kubernetes </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/building-instacarts-view-model-api-part-1-why-view-model-4362f64ffd2a?source=rss----587883b5d2ee---4">Building Instacart’s view model API — Part 1: Why view model? </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/">How we scaled nginx and saved the world 54 years every day </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/07/introducing-the-d-web/">Introducing the Dweb </a></li> 
+          
+            <li> <a href="https://nordicapis.com/7-steps-for-building-successful-api-products/">7 Steps For Building Successful API Products </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/understanding-program-memories-from-exploitation-point-of-view-822a1496dc26?source=rss----905ea2b3d4d1---4">Understanding Program Memories — from exploitation point of view </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/lessons-learned-developing-an-a-b-experimentation-tool-at-walmart-labs-4000b8bab5d?source=rss----905ea2b3d4d1---4">Lessons Learned Developing an A/B Experimentation Tool at Walmart Labs </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 08 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 07 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,34 +315,6 @@
         <pubDate>Thu, 26 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 25 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.viget.com/articles/of-note-better-text-annotations-for-the-web/">Of Note: Better Text Annotations for the Web </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/riots-approach-anti-cheat">Riot&#39;s Approach to Anti-Cheat </a></li> 
-          
-            <li> <a href="https://blog.takipi.com/improve-your-application-performance-with-garbage-collection-optimization/">Improve Application Performance with These Advanced GC Techniques </a></li> 
-          
-            <li> <a href="https://eng.uber.com/autonomous-rollouts-regression-analysis/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=autonomous-rollouts-regression-analysis">Building Automated Feature Rollouts on Robust Regression Analysis </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/07/360-images-on-the-web-the-easy-way/">360° Images on the Web, the Easy Way </a></li> 
-          
-            <li> <a href="https://www.toptal.com/machine-learning/machine-learning-problems">How to Approach Machine Learning Problems </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/mlflow-a-platform-for-managing-the-machine-learning-lifecycle">MLflow: A platform for managing the machine learning lifecycle </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/zero-downtime-deployment/">Zero Downtime Deployment </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 25 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-25.html</guid>
       </item>
       
   </channel>
