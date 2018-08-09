@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 09 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/">The Web Push Checklist </a></li> 
+          
+            <li> <a href="https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/">How to crash an email server with a single email </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/serverless-containers-cloud-apps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless + Containers = Modern Cloud Applications </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/serverless-patterns-antipatterns?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless Patterns and Anti-patterns </a></li> 
+          
+            <li> <a href="http://blog.avenuecode.com/how-to-determine-a-performance-baseline-for-a-web-api">How to Determine a Performance Baseline for a Web API </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/">D3.js Tutorial: Building Interactive Bar Charts with JavaScript </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/07/31/new-dynamics-for-topic-models.html">New Dynamics for Topic Models </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/07/31/progress-in-machine-learning-interpretability.html">Progress in machine learning interpretability </a></li> 
+          
+            <li> <a href="https://eng.uber.com/fusionjs/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fusionjs">Introducing Fusion.js: A Plugin-based Universal Web Framework </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 09 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 08 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +313,6 @@
         <pubDate>Fri, 27 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 26 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.infoq.com/presentations/chick-fil-a-k8-clusters?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chick-Fil-A: Milking the Most Out of 1000&#39;s of K8s Clusters </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/07/announcing-cirq-open-source-framework.html">Announcing Cirq: An Open Source Framework for NISQ Algorithms </a></li> 
-          
-            <li> <a href="https://fly.io/articles/lighthouse-how-to-reduce-render-blocking-scripts/">Lighthouse: how to reduce render-blocking scripts </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9?source=rss----53c7c27702d5---4">Operationalizing Node.js for Server Side Rendering </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/neural-machine-translation-inference-tensorrt-4/">Neural Machine Translation Inference with TensorRT 4 </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698?source=rss----2615bd06b42e---4">Netflix SIRT releases Diffy: A Differencing Engine for Digital Forensics in the Cloud </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/07/9-biggest-mistakes-with-css-grid/">9 Biggest Mistakes with CSS Grid </a></li> 
-          
-            <li> <a href="https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b?source=rss----3a8144eabfe3---4">Why is Python so slow? </a></li> 
-          
-            <li> <a href="http://www.infoq.com/articles/ballerina-api-gateway?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Building an API Gateway with the  Ballerina Programming Language </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/robust-factorization-machines-1a9ef9f75abf?source=rss----905ea2b3d4d1---4">Robust Factorization Machines </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 26 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-26.html</guid>
       </item>
       
   </channel>
