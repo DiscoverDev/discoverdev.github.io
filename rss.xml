@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 10 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://www.infoq.com/presentations/rust-network-infrastructure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Next Gen Networking Infrastructure with Rust </a></li> 
+          
+            <li> <a href="https://eng.uber.com/databook/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=databook">Databook: Turning Big Data into Knowledge with Metadata at Uber </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/.net/designing-mobile-cross-platform-applications-with-xamarin/">Designing Cross Platform Mobile Applications with Xamarin </a></li> 
+          
+            <li> <a href="https://medium.com/observability/sampling-in-observability-db0142cdda5b?source=rss----eb277599ce4a---4">Sampling in Observability </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/serverless-capitalone?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serving Millions of Customers Serverless at CapitalOne </a></li> 
+          
+            <li> <a href="https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/">The RED Method: How to Instrument Your Services </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog-cloud-state-machines-the-future-of-IoT/">Cloud State Machines: The Future of IoT and Edge Computing </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/08/02/container-native-integration-testing/">Container-native integration testing </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/sql-vs-flux-influxdb-query-language-time-series-database-290977a01a8a?source=rss----7fa310224bc5---4">SQL vs. Flux: Choosing the right query language for time-series data </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/08/dynamic-keys/">Dynamic Keys </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 10 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 09 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +313,6 @@
         <pubDate>Mon, 30 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 27 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet">Webmentions: Enabling Better Communication on the Internet </a></li> 
-          
-            <li> <a href="https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb?source=rss----5b301f10ddcd---4">Kubernetes Networking: Behind the scenes </a></li> 
-          
-            <li> <a href="https://mesosphere.com/blog/brief-history-containers/">A Brief History of Containers </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2?source=rss----5e5bef33608a---4">Into a better Speech Synthesis Technology </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/self-organizing-map-layer-in-tensroflow-with-interactive-code-manual-back-prop-with-tf-580e0b60a1cc?source=rss----7f60cf5620c9---4">Self-Organizing Map/Layer in Tensroflow with Interactive Code [ Manual Back Prop with TF ] </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/07/the-arch-using-rust-webassembly-to-animate-30k-colored-led-lights/">The Arch: Using Rust &amp; WebAssembly to animate 30k colored LED lights </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/specialized-hardware-for-deep-learning-will-unleash-innovation">Specialized hardware for deep learning will unleash innovation </a></li> 
-          
-            <li> <a href="http://engineering.hackerearth.com/2018/07/19/what-you-see-is-what-you-get/">What you see is what you get! </a></li> 
-          
-            <li> <a href="https://stackshare.io/posts/companies-using-graphql-in-production-2018">How Big Companies Are Using GraphQL in 2018 </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/control-planes-design-infrastructure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Control Planes: Designing Infrastructure for Rapid Iteration </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 27 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-27.html</guid>
       </item>
       
   </channel>
