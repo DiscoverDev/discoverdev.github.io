@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 13 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/a-tale-of-cloud-containers-and-kubernetes-b6fb18edcfcd?source=rss----3a8144eabfe3---4">A Tale of Cloud, Containers and Kubernetes </a></li> 
+          
+            <li> <a href="https://www.toptal.com/css/smacss-scalable-modular-architecture-css">Exploring SMACSS: Scalable and Modular Architecture for CSS </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2018/08/06/generating-pyramided-tiles-from-a-geotiff-using-geotrellis/">Generating Pyramided Tiles from a GeoTIFF using GeoTrellis </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/how-we-build-a-robust-analytics-platform-using-spark-kafka-and-cassandra-lambda-architecture-70c2d1bc8981?source=rss----905ea2b3d4d1---4">How we build a robust analytics platform using Spark, Kafka and Cassandra Lambda architecture </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe?source=rss----2615bd06b42e---4">Pseudo Localization @ Netflix </a></li> 
+          
+            <li> <a href="https://research.fb.com/new-data-tools-for-relief-organizations-network-coverage-power-and-displacement/">New data tools for relief organizations: network coverage, power, and displacement </a></li> 
+          
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c?source=rss----12d1b859d4e4---4">How JavaScript works: Under the hood of custom elements + Best practices on building reusable… </a></li> 
+          
+            <li> <a href="https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033?source=rss----3a8144eabfe3---4">Getting Deep Into Ethereum: How Data Is Stored In Ethereum? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/tcp-three-way-handshake-4161eb8aba32?source=rss----3a8144eabfe3---4">TCP Three-Way Handshake </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 13 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 10 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +311,6 @@
         <pubDate>Tue, 31 Jul 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-07-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 30 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.scottlogic.com/2018/07/20/wasm-future.html">The future of WebAssembly - A look at upcoming features and proposals </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/paper-summary-optimal-dnn-primitive-selection-with-partitioned-boolean-quadratic-programming-84d8ca4cdbfc?source=rss----7f60cf5620c9---4">Faster Deep Learning: Optimal DNN Primitives </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/economic-perspective-testing/index.html">Lean Testing, or Why Unit Tests are Worse than You Think </a></li> 
-          
-            <li> <a href="https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/">Open sourcing oomd, a new approach to handling OOMs </a></li> 
-          
-            <li> <a href="https://code.fb.com/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/">Location-Aware Distribution: Configuring servers at scale </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/07/how-we-improved-build-time-by-400-percent">Productivity at Scale: How We Improved Build Time by 400% at LinkedIn </a></li> 
-          
-            <li> <a href="https://getstream.io/blog/simple-steps-to-optimize-your-app-performance/">Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/07/event-triggered-customer-segmentation/">Event Triggered Customer Segmentation </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-understated-innovation-of-static-site-generators-d188ff8e99af?source=rss----3a8144eabfe3---4">The understated innovation of static site generators </a></li> 
-          
-            <li> <a href="https://hackernoon.com/google-cirq-and-the-new-world-of-quantum-programming-6bc849190a70?source=rss----3a8144eabfe3---4">Google Cirq and the New World of Quantum Programming </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 30 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-30.html</guid>
       </item>
       
   </channel>
