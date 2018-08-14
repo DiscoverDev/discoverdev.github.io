@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 14 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-social-feeds-with-secure-scuttlebutt/">Dweb: Social Feeds with Secure Scuttlebutt </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack">E-Commerce at Scale: Inside Shopify&#39;s Tech Stack - Stackshare.io </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/two-years-later-apis-are-destination/">Two Years Later: APIs Are Destination </a></li> 
+          
+            <li> <a href="https://www.toptal.com/sql/analysis-via-bioinformatics-databases">Developing a Bioinformatics Database for Disulfide Bonds Research </a></li> 
+          
+            <li> <a href="http://www.infoq.com/news/2018/08/experiences-micro-frontends?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Experiences Using Micro Frontends at IKEA </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/08/nuage--making-data-systems-management-scalable">Nuage: Making Data Systems Management Scalable </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/08/mnasnet-towards-automating-design-of.html">MnasNet: Towards Automating the Design of Mobile Machine Learning Models </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/profiling-real-world-performance-league">Profiling: Real World Performance in League </a></li> 
+          
+            <li> <a href="https://eng.uber.com/m3/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=m3">M3: Uber’s Open Source, Large-scale Metrics Platform for Prometheus </a></li> 
+          
+            <li> <a href="https://hackernoon.com/why-microservices-fail-6cdc006f9540?source=rss----3a8144eabfe3---4">Why Microservices Fail </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 14 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 13 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,34 +315,6 @@
         <pubDate>Wed, 01 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 31 Jul 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/how-to-train-neural-network-on-browser-7a435132a1ed?source=rss----3a8144eabfe3---4">How to train neural network on browser </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/higher-order-functions-history-examples?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: In Praise of Higher Order Functions </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/discount-offers-using-dynamic-programming-ba383098c628?source=rss----7484818e9f88---4">Discount offers using Dynamic Programming? </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/">I Wanna Go Fast - Load Balancing Dynamic Steering </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada?source=rss----7f60cf5620c9---4">Deep learning for specific information extraction from unstructured texts </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/cri-runtime-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CRI Runtimes Deep Dive: Who&#39;s Running My Kubernetes Pod!? </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05?source=rss-ef81ef829bcb------2">A one year PWA retrospective </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/smashingconf-videos-web-fonts-performance/">Webfonts And Performance: SmashingConf Videos </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 31 Jul 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-07-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-07-31.html</guid>
       </item>
       
   </channel>
