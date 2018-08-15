@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 15 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://spin.atomicobject.com/2018/08/09/under-the-hood-git/">What’s Under the Hood in Git? </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/08/the-machine-learning-behind-android.html">The Machine Learning Behind Android Smart Linkify </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/08/smashingconf-scripts-videos/">Web Performance For Third Party Scripts: SmashingConf Videos </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/the-dawn-of-zendesks-machine-learning-model-building-platform-with-aws-batch-5d3243d2d2a8?source=rss----a88376ea904a---4">The Dawn of Zendesk’s Machine Learning Model Building Platform with AWS Batch </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/lyft-service-mesh?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Lyft&#39;s Envoy: Embracing a Service Mesh </a></li> 
+          
+            <li> <a href="http://www.infoq.com/presentations/shopify-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Forced Evolution: Shopify&#39;s Journey to Kubernetes </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a?source=rss----2615bd06b42e---4">Netflix Cloud Security: Detecting Credential Compromise in AWS </a></li> 
+          
+            <li> <a href="https://githubengineering.com/glb-director-open-source-load-balancer/">GLB: GitHub&amp;rsquo;s open source load balancer </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 15 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 14 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -283,38 +311,6 @@
         <pubDate>Thu, 02 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 01 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast </a></li> 
-          
-            <li> <a href="https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial">Web Scraping with a Headless Browser: A Puppeteer Tutorial </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ui/vr-ar-design-guide">Leap Into VR/AR Design </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html">Don&#39;t call us, we&#39;ll call you: Inversion of Control Containers </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture">Write quality mobile apps in any architecture </a></li> 
-          
-            <li> <a href="https://nordicapis.com/a-pragmatic-take-on-rest-anti-patterns/">A Pragmatic Take On REST Anti Patterns </a></li> 
-          
-            <li> <a href="http://rea.tech/evaluating-scala-and-sticking-with-ruby/">Evaluating Scala and sticking with Ruby </a></li> 
-          
-            <li> <a href="https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af?source=rss----3a8144eabfe3---4">Five ways to gain serverless observability </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood">Kubernetes Networking Under the Hood </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-word-embeddings-a9ff830403ce?source=rss----3a8144eabfe3---4">Understanding Word Embeddings </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 01 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-01.html</guid>
       </item>
       
   </channel>
