@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 16 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/functional-rust?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Functional Rust - An Exploration </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/how-we-improved-the-observability-of-a-go-project-11211ba46e72?source=rss----a88376ea904a---4">How we improved the observability of a Go project </a></li> 
+          
+            <li> <a href="https://hackernoon.com/face-recognition-with-go-676a555b8a7e?source=rss----3a8144eabfe3---4">Face recognition with Go </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/service-mesh-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What is a Service Mesh, and Do I Need One When Developing Microservices? </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/">A Detailed Look at RFC 8446 (a.k.a. TLS 1.3) </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2018/08/10/tuning-autovacuum-in-postgresql-and-autovacuum-internals/">Tuning Autovacuum in PostgreSQL and Autovacuum Internals </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3?source=rss----53c7c27702d5---4">Learning Market Dynamics for Optimal Pricing </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/redblackpy-fast-and-scalable-series-for-scientific-and-quantitative-research-in-python-cad49b5c6d3?source=rss----7f60cf5620c9---4">RedBlackPy — fast and scalable Series for scientific and quantitative research in Python </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/quotas-service">How we designed the Quotas microservice to prevent resource abuse </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 16 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 15 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,40 +307,6 @@
         <pubDate>Fri, 03 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 02 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/improving-test-coverage-android-app-mockito-espresso/">How To Improve Test Coverage For Your Android App Using Mockito And Espresso </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/panel-containers-scalability?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Containers at Web Scale Panel </a></li> 
-          
-            <li> <a href="https://hackernoon.com/building-serverless-contact-form-for-static-websites-b0e622d5a035?source=rss----3a8144eabfe3---4">Building Serverless Contact Form For Static Websites </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/introducing-spaceace-a-new-kind-of-front-end-state-library-5215b18adc11?source=rss----f5105b08f43a---4">Introducing SpaceAce, a new kind of front-end state library </a></li> 
-          
-            <li> <a href="https://galois.com/blog/2018/07/the-lean-theorem-prover-past-present-and-future/">The Lean Theorem Prover: Past, Present and Future </a></li> 
-          
-            <li> <a href="https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/">Securing New Products at Clever </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/a-look-at-android-ml-kit-the-machine-learning-sdk/">A Look at Android ML Kit - the Machine Learning SDK </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/fingerprinting-fraudulent-behavior-6663d0264fad?source=rss----25cd379abb8---4">Fingerprinting fraudulent behavior </a></li> 
-          
-            <li> <a href="https://blog.golang.org/go-cloud">Portable Cloud Programming with Go Cloud </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?source=rss----587883b5d2ee---4">Freezing Python’s Dependency Hell in 2018 </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html">New Research on Multi-Task Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 02 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-02.html</guid>
       </item>
       
   </channel>
