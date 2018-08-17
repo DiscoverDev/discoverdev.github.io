@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 17 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.showmax.com/2018/08/automated-ui-testing-and-catching-visual-regressions/">Automated UI testing and catching visual regressions </a></li> 
+          
+            <li> <a href="https://medium.com/dev-channel/web-payments-payment-request-api-and-google-pay-a1073e405235?source=rss----32c64651a75---4">Web Payments, Payment Request API and Google Pay </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/08/google-releases-source-for-google-io.html">Google releases source for Google I/O 2018 for Android </a></li> 
+          
+            <li> <a href="https://hackernoon.com/game-jamming-on-a-quantum-computer-36a13723a454?source=rss----3a8144eabfe3---4">Game jamming on a quantum computer </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/designing-as-a-developer-in-2018-eca1ab5bff2?source=rss----7f3d96429888---4">Designing as a developer in 2018 </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/demystifying-split-chunks-plugin/">Demystifying Webpack 4 Split Chunks Plugin </a></li> 
+          
+            <li> <a href="https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc?source=rss----5b301f10ddcd---4">Fairytale about performance in web application </a></li> 
+          
+            <li> <a href="https://hackernoon.com/iot-for-ninjas-902c65854ab4?source=rss----3a8144eabfe3---4">IoT for Ninjas </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/how-we-improved-information-security-at-grofers-292521f53a0f?source=rss----42df4a1e8725---4">How We Improved Information Security at Grofers </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/blockchain-routing-cybersecurity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Using Blockchain Routing to Bring Best of Breed Cybersecurity to the Masses </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 17 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 16 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +309,6 @@
         <pubDate>Mon, 06 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 03 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.infoq.com/presentations/serverless-observability-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Observability to Better Serverless Apps </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/">Developing Real-Time Web Applications with Server-Sent Events </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html">Machine Learning in Google BigQuery </a></li> 
-          
-            <li> <a href="https://distill.pub/2018/differentiable-parameterizations">Differentiable Image Parameterizations </a></li> 
-          
-            <li> <a href="https://eng.uber.com/herb-datacenter-replication/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=herb-datacenter-replication">Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824?source=rss----51e1d1745b32---4">To Send Emails to Readers, We Went Serverless </a></li> 
-          
-            <li> <a href="https://blog.ably.io/hidden-scaling-issues-of-distributed-systems-system-design-in-the-real-world-9a9f0d309e8e?source=rss----63d285882655---4">Hidden scaling issues of distributed systems — System design in the real world </a></li> 
-          
-            <li> <a href="https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d?source=rss----58820b6d8904---4">Streamlining Your Workflow: Debugging for HHVM </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39?source=rss----7f60cf5620c9---4">Improving Operations with Route Optimization </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 03 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-03.html</guid>
       </item>
       
   </channel>
