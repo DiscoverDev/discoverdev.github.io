@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 20 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.heroku.com/modern-web-app-architecture">Beyond Web and Worker: Evolution of the Modern Web App on Heroku </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202?source=rss----587883b5d2ee---4">Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails </a></li> 
+          
+            <li> <a href="https://galois.com/blog/2018/08/c2rust/">C2rust </a></li> 
+          
+            <li> <a href="https://hackernoon.com/entering-god-mode-the-kernel-space-mirroring-attack-8a86b749545f?source=rss----3a8144eabfe3---4">Entering God Mode — The Kernel Space Mirroring Attack </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/">How to Debug a Node.js app in a Docker Container </a></li> 
+          
+            <li> <a href="https://www.toptal.com/react-native/react-native-for-android-development">Dive into React Native for Android Development </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71?source=rss----7f3d96429888---4">WebAssembly: How and why </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2018/08/14/upcoming-improvements-scylla-streaming/">Upcoming Improvements to Scylla Streaming Performance </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 20 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 17 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -279,36 +307,6 @@
         <pubDate>Tue, 07 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 06 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/">Logging Activity With The Web Beacon API </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/07/real-time-streaming-pattern-joining-event-streams/">Real-time Streaming Pattern: Joining Event Streams </a></li> 
-          
-            <li> <a href="https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427?source=rss----cb96a1f03649---4">Why Discord is Sticking with React Native </a></li> 
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/using-static-analysis-in-Python-and-JavaScript-to-make-your-system-safer.htm">Using static analysis in Python, JavaScript and more to make your system safer </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/">Exploring How the Scylla Data Cache Works </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-road-to-quic/">The Road to QUIC </a></li> 
-          
-            <li> <a href="http://www.infoq.com/articles/system-behaviour-time-series-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Understanding Software System Behaviour With ML and Time Series Data </a></li> 
-          
-            <li> <a href="https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb?source=rss----5b301f10ddcd---4">How I reverse engineered Notion API </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/chaos-engineering-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Using Chaos to Build Resilient Systems </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 06 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-06.html</guid>
       </item>
       
   </channel>
