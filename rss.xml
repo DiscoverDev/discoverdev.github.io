@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 21 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blogs.windows.com/buildingapps/2018/08/15/introducing-driver-module-framework/">Introducing Driver Module Framework </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/auth0-architecture-running-in-multiple-cloud-providers-and-regions/">Auth0 Architecture: Running In Multiple Cloud Providers And Regions </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-building-a-resilient-web-with-webtorrent/">Dweb: Building a Resilient Web with WebTorrent </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/the-joys-of-circuit-breaking-ee6584acd687?source=rss----a88376ea904a---4">The Joys of Circuit Breaking </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/neflix-push-messaging-scale?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Push Messaging for Millions of Devices @Netflix </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/an-introduction-to-debugging-in-c-and-lldb-part-i-e3c51991f83a?source=rss----7f60cf5620c9---4">An introduction to Debugging (in C and lldb), Part- I </a></li> 
+          
+            <li> <a href="https://engineering.gusto.com/old-write/">Zero Downtime Table Migrations using a Double Write Methodology </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877?source=rss----7fa310224bc5---4">TimescaleDB vs. InfluxDB: purpose built differently for time-series data </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 21 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 20 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +305,6 @@
         <pubDate>Wed, 08 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 07 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/07/combining-linkedins-content-filtering-and-microsoft-cognitive-se">Combining LinkedIn’s Content Filtering and Microsoft Cognitive Services to Keep Inappropriate Content Off Our Sites </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/f5bot/">How F5Bot Slurps All of Reddit </a></li> 
-          
-            <li> <a href="https://robots.thoughtbot.com/recommending-blog-posts">Recommending blog posts with machine learning </a></li> 
-          
-            <li> <a href="https://itnext.io/detecting-and-outlining-lakes-with-python3-and-opencv-3-9156bdeacbf0?source=rss----5b301f10ddcd---4">Detecting and Outlining Lakes with Python3 and OpenCV 3 </a></li> 
-          
-            <li> <a href="http://www.infoq.com/news/2018/07/sendgrid-email-scaling?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How SendGrid Scales Its Email Delivery Systems </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/graphs-and-paths-pagerank-54f180a1aa0a?source=rss----7f60cf5620c9---4">Graphs and paths: PageRank. </a></li> 
-          
-            <li> <a href="https://engineering.invisionapp.com/post/go-health-scalable-checks-for-kubernetes/">Introducing go-health </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1?source=rss----905ea2b3d4d1---4">Primer on Front End Automation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1?source=rss----7f60cf5620c9---4">What Does A Face Detection Neural Network Look Like? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 07 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-07.html</guid>
       </item>
       
   </channel>
