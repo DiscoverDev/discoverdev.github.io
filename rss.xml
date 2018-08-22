@@ -6,6 +6,37 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 22 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/">From monolithic to microservices: A transformation journey </a></li> 
+          
+            <li> <a href="https://eng.uber.com/maze/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maze">Maximizing Process Performance with Maze, Uber’s Funnel Visualization Platform </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2018/08/microservices-communication?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Strategies for Microservices Communication </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/federated-machine-learning-c99dd5dec201?source=rss----7f60cf5620c9---4">FEDERATED MACHINE LEARNING </a></li> 
+          
+            <li> <a href="http://www.olioapps.com/blog/automatic-code-formatting/">Automatic Code Formatting for Partially-Staged
+Files </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/skype-p2p?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Skype&#39;s Journey from P2P: It&#39;s Not Just About the Services </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/build-multiplayer-browser-based-vr-game-aframe-webvr/">Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/08/moving-beyond-translation-with.html">Moving Beyond Translation with the Universal Transformer </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48?source=rss-ef81ef829bcb------2">PinSage: A New Graph Convolutional Neural Network for Web-Scale Recommender Systems </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 22 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 21 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +304,6 @@
         <pubDate>Thu, 09 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 08 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://segment.com/blog/comparing-billions-of-rows-per-day/">Comparing Billions of Rows per Day </a></li> 
-          
-            <li> <a href="https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4">Building a distributed rate limiter that scales horizontally </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/08/smashingconf-ux-videos/">User Experience Psychology And Performance: SmashingConf Videos </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/building-optimized-containers-for-kubernetes">Building Optimized Containers for Kubernetes </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/building-instacarts-view-model-api-part-1-why-view-model-4362f64ffd2a?source=rss----587883b5d2ee---4">Building Instacart’s view model API — Part 1: Why view model? </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/">How we scaled nginx and saved the world 54 years every day </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/07/introducing-the-d-web/">Introducing the Dweb </a></li> 
-          
-            <li> <a href="https://nordicapis.com/7-steps-for-building-successful-api-products/">7 Steps For Building Successful API Products </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/understanding-program-memories-from-exploitation-point-of-view-822a1496dc26?source=rss----905ea2b3d4d1---4">Understanding Program Memories — from exploitation point of view </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/lessons-learned-developing-an-a-b-experimentation-tool-at-walmart-labs-4000b8bab5d?source=rss----905ea2b3d4d1---4">Lessons Learned Developing an A/B Experimentation Tool at Walmart Labs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 08 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-08.html</guid>
       </item>
       
   </channel>
