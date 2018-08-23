@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 23 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/facebook-and-twitter-were-born-in-18th-century-europe-2efdf6816693?source=rss----7f60cf5620c9---4">Facebook and Twitter were born in 18th century Europe </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/">Designing For Micro-Moments </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/create-reusable-react-file-uploaders/">Creating Flexible and Reusable React File Uploaders </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/parallelizing-feature-engineering-with-dask-3db88aec33b7?source=rss----7f60cf5620c9---4">Parallelizing Feature Engineering with Dask </a></li> 
+          
+            <li> <a href="https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations">Building a System for Front-End Translations </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/">Microservices Messaging: Why REST Isn’t Always the Best Choice </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/">Utilizing Elixir as a lightweight tool to store real-time metrics data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc?source=rss----7f60cf5620c9---4">Introduction to Word Embeddings </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 23 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 22 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -274,36 +302,6 @@ Files </a></li>
         <pubDate>Fri, 10 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 09 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/">The Web Push Checklist </a></li> 
-          
-            <li> <a href="https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/">How to crash an email server with a single email </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/serverless-containers-cloud-apps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless + Containers = Modern Cloud Applications </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/serverless-patterns-antipatterns?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless Patterns and Anti-patterns </a></li> 
-          
-            <li> <a href="http://blog.avenuecode.com/how-to-determine-a-performance-baseline-for-a-web-api">How to Determine a Performance Baseline for a Web API </a></li> 
-          
-            <li> <a href="https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/">D3.js Tutorial: Building Interactive Bar Charts with JavaScript </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/07/31/new-dynamics-for-topic-models.html">New Dynamics for Topic Models </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/07/31/progress-in-machine-learning-interpretability.html">Progress in machine learning interpretability </a></li> 
-          
-            <li> <a href="https://eng.uber.com/fusionjs/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fusionjs">Introducing Fusion.js: A Plugin-based Universal Web Framework </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 09 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-09.html</guid>
       </item>
       
   </channel>
