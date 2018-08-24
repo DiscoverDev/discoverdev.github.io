@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 24 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/building-switch-software-at-facebook-scale/">Building Switch Software at Facebook Scale </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/african-traffic-growth-and-predictions-for-the-future/">African traffic growth and predictions for the future </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/chaos-engineering-introduction?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chaos Engineering: Building Immunity in Production Systems </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/python-plotting-basics-simple-charts-with-matplotlib-seaborn-and-plotly-e36346952a3a?source=rss----7f60cf5620c9---4">Python Plotting Basics — Simple Charts with Matplotlib, Seaborn, and Plotly </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/open-private-cloud?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How the Boston Children’s Hospital Is Innovating on Top of an Open Cloud </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/notebook-innovation-591ee3221233?source=rss----2615bd06b42e---4">Beyond Interactive: Notebook Innovation at Netflix </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2018/08/17/designing-for-developers/">How to design for (and with) developers </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237?source=rss----7f60cf5620c9---4">Machine learning for production optimization </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 24 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 23 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -270,38 +298,6 @@ Files </a></li>
         <pubDate>Mon, 13 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 10 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://www.infoq.com/presentations/rust-network-infrastructure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Next Gen Networking Infrastructure with Rust </a></li> 
-          
-            <li> <a href="https://eng.uber.com/databook/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=databook">Databook: Turning Big Data into Knowledge with Metadata at Uber </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/.net/designing-mobile-cross-platform-applications-with-xamarin/">Designing Cross Platform Mobile Applications with Xamarin </a></li> 
-          
-            <li> <a href="https://medium.com/observability/sampling-in-observability-db0142cdda5b?source=rss----eb277599ce4a---4">Sampling in Observability </a></li> 
-          
-            <li> <a href="http://www.infoq.com/presentations/serverless-capitalone?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serving Millions of Customers Serverless at CapitalOne </a></li> 
-          
-            <li> <a href="https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/">The RED Method: How to Instrument Your Services </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog-cloud-state-machines-the-future-of-IoT/">Cloud State Machines: The Future of IoT and Edge Computing </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/08/02/container-native-integration-testing/">Container-native integration testing </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/sql-vs-flux-influxdb-query-language-time-series-database-290977a01a8a?source=rss----7fa310224bc5---4">SQL vs. Flux: Choosing the right query language for time-series data </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/08/dynamic-keys/">Dynamic Keys </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 10 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-10.html</guid>
       </item>
       
   </channel>
