@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 27 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c?source=rss----32c64651a75---4">Service Worker Caching Strategies Based on Request Types </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-research-at-kdd-2018/">Facebook Research at KDD 2018 </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a?source=rss----7f3d96429888---4">Advanced effects with CSS background blend modes </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/facebook-and-nyu-school-of-medicine-launch-research-collaboration-to-improve-mri/">Facebook and NYU School of Medicine launch research collaboration to improve MRI </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/explain-neural-arithmetic-logic-units-nalu-a2e19971334f?source=rss----5e5bef33608a---4">Explain Neural Arithmetic Logic Units (NALU) </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/testing-programmable-infrastructure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Testing Programmable Infrastructure - a Year On </a></li> 
+          
+            <li> <a href="https://hackernoon.com/a-beginners-ultimate-guide-to-dags-7fc0dd7f39a2?source=rss----3a8144eabfe3---4">A Beginner’s Ultimate Guide To DAGs </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/airbnb-engineering-and-data-science-at-kdd-2018-1f53a97b896e?source=rss----53c7c27702d5---4">Airbnb Engineering and Data Science at KDD 2018 </a></li> 
+          
+            <li> <a href="https://hackernoon.com/poison-records-acra-eli5-d78250ef94f?source=rss----3a8144eabfe3---4">Explain Like I&#39;m Five: Poison Records (Honeypots for Database Tables) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 27 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 24 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -268,36 +298,6 @@ Files </a></li>
         <pubDate>Tue, 14 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 13 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/a-tale-of-cloud-containers-and-kubernetes-b6fb18edcfcd?source=rss----3a8144eabfe3---4">A Tale of Cloud, Containers and Kubernetes </a></li> 
-          
-            <li> <a href="https://www.toptal.com/css/smacss-scalable-modular-architecture-css">Exploring SMACSS: Scalable and Modular Architecture for CSS </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2018/08/06/generating-pyramided-tiles-from-a-geotiff-using-geotrellis/">Generating Pyramided Tiles from a GeoTIFF using GeoTrellis </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/how-we-build-a-robust-analytics-platform-using-spark-kafka-and-cassandra-lambda-architecture-70c2d1bc8981?source=rss----905ea2b3d4d1---4">How we build a robust analytics platform using Spark, Kafka and Cassandra Lambda architecture </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe?source=rss----2615bd06b42e---4">Pseudo Localization @ Netflix </a></li> 
-          
-            <li> <a href="https://research.fb.com/new-data-tools-for-relief-organizations-network-coverage-power-and-displacement/">New data tools for relief organizations: network coverage, power, and displacement </a></li> 
-          
-            <li> <a href="https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c?source=rss----12d1b859d4e4---4">How JavaScript works: Under the hood of custom elements + Best practices on building reusable… </a></li> 
-          
-            <li> <a href="https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033?source=rss----3a8144eabfe3---4">Getting Deep Into Ethereum: How Data Is Stored In Ethereum? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/tcp-three-way-handshake-4161eb8aba32?source=rss----3a8144eabfe3---4">TCP Three-Way Handshake </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 13 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-13.html</guid>
       </item>
       
   </channel>
