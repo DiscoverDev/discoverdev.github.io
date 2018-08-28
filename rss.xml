@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 28 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17?source=rss----217c2715f1c8---4">Implementing single file Web Components </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/deepsig-deep-learning-wireless-communications/">DeepSig: Deep Learning for Wireless Communications </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/webassembly-performance/">WebAssembly vs. the world. Should you use WebAssembly? </a></li> 
+          
+            <li> <a href="https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial">Schooling Flappy Bird: A Reinforcement Learning Tutorial </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ui/ui-color-guide">A Spectrum of Possibilities: The Go-To UI Color Guide </a></li> 
+          
+            <li> <a href="https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/">When to Use What: REST, GraphQL, Webhooks, &amp; gRPC </a></li> 
+          
+            <li> <a href="https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642?source=rss----3a8144eabfe3---4">Adding a pipe operator to Python </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/tensor-ops-made-easier-in-cudnn/">Tensor Ops Made Easier in cuDNN </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/from-big-data-to-micro-services-how-to-serve-spark-trained-models-through-aws-lambdas-ebe129f4849c?source=rss----7f60cf5620c9---4">From Big Data to micro-services: how to serve Spark-trained models through AWS lambdas </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 28 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 27 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,38 +296,6 @@ Files </a></li>
         <pubDate>Wed, 15 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 14 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-social-feeds-with-secure-scuttlebutt/">Dweb: Social Feeds with Secure Scuttlebutt </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack">E-Commerce at Scale: Inside Shopify&#39;s Tech Stack - Stackshare.io </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/two-years-later-apis-are-destination/">Two Years Later: APIs Are Destination </a></li> 
-          
-            <li> <a href="https://www.toptal.com/sql/analysis-via-bioinformatics-databases">Developing a Bioinformatics Database for Disulfide Bonds Research </a></li> 
-          
-            <li> <a href="http://www.infoq.com/news/2018/08/experiences-micro-frontends?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Experiences Using Micro Frontends at IKEA </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/08/nuage--making-data-systems-management-scalable">Nuage: Making Data Systems Management Scalable </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/08/mnasnet-towards-automating-design-of.html">MnasNet: Towards Automating the Design of Mobile Machine Learning Models </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/profiling-real-world-performance-league">Profiling: Real World Performance in League </a></li> 
-          
-            <li> <a href="https://eng.uber.com/m3/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=m3">M3: Uber’s Open Source, Large-scale Metrics Platform for Prometheus </a></li> 
-          
-            <li> <a href="https://hackernoon.com/why-microservices-fail-6cdc006f9540?source=rss----3a8144eabfe3---4">Why Microservices Fail </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 14 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-14.html</guid>
       </item>
       
   </channel>
