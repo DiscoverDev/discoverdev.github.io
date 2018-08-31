@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/first-post" />
+  <meta property="og:description" content="this is some description and what not Wonder if this will make sense.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">A Gentle Introduction to Machine Learning Using TensorFlow and Python</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <h2>First sub heading</h2>
+
+<p>Discover dev was the idea that was conceived after days of brainstorming between a bunch of software engineers and researchers trying to better content creation and discovery. The problem was clear - we have an avalanche of technical articles, but most of them are about how to build the next to-do app or write a hello world application using the latest JS framework. Very few of them go into the innards of the tech stack - how things work and why they're designed as they are. We would like to see more developers and companies talk about the nitty gritties of their at scale infrastructure, software design trade-offs, performance, distribution and security aspects of their applications. While introductory texts are great, most forums are saturated with such content, which makes it hard for real engineering content to stand out from the noise. </p>
+
+<blockquote>
+  <p>We believe that having such a discovery system will not only help end users but also authors of insightful technical articles. Hopefully this will also push the engineering teams some companies to write more and in greater depth. 
+  Our team has one person working on this full time and and a few other chipping in part time. This is only our first step small towards creating an ecosystem better content creation and discovery, and we're excited to get this out to you!</p>
+</blockquote>
+
+<h2>Second sub heading</h2>
+
+<p>The solution was simple - a website that features just the most insightful engineering content from across the web. Nothing more. Sort of like a "Product Hunt" for engineering blogs. Our bot scours the internet - including 100's of engineering blogs, developer forums (HN, Reddit, Lobsters, etc) and blogging platforms like Medium. All the relevant content ingested into our ML system where it is processed and tagged. The final list before it's out goes through human eyes for a final quality check. A summary is added to each entry so you get to know what the post is about and whether you'd be interested in it! We plan to shortlist on a daily basis about ten to fifteen links that are worth your time. </p>
+
+<p>Now for some code :</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="n">n</span><span class="p">):</span>
+  <span class="n">res</span> <span class="o">=</span> <span class="n">i</span> <span class="o">&gt;</span> <span class="n">n</span>
+  <span class="k">print</span> <span class="n">res</span>
+  <span class="k">print</span> <span class="s2">&quot;yolo yolo yolo yolo&quot;</span>
+</code></pre></div>
+
+<p>Here is some more</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">def</span> <span class="nf">generate_folder</span><span class="p">(</span><span class="n">dname</span><span class="p">):</span>
+  <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">  Takes in a directory name - dname</span>
+<span class="sd">  generates html for every src file.md in corresponding dest folder</span>
+
+<span class="sd">  This is similar to &#39;generate_file&#39;, except works recursively for </span>
+<span class="sd">  all files under the given folder. </span>
+
+<span class="sd">  #NOTE - </span>
+<span class="sd">  dname should be relative to src_dir, i.e. &quot;series/js30&quot;</span>
+<span class="sd">  &quot;&quot;&quot;</span>
+  <span class="n">dname</span> <span class="o">=</span> <span class="n">dname</span><span class="o">.</span><span class="n">strip</span><span class="p">(</span><span class="s2">&quot;/&quot;</span><span class="p">)</span>
+  <span class="n">flist</span> <span class="o">=</span> <span class="p">[]</span>
+  <span class="c1"># walk the tree, filter for only markdown files</span>
+  <span class="k">for</span> <span class="n">root</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="n">src_dir</span> <span class="o">+</span> <span class="n">dname</span><span class="p">):</span>
+    <span class="k">for</span> <span class="nb">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+      <span class="k">if</span> <span class="nb">file</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">&quot;.md&quot;</span><span class="p">):</span> 
+        <span class="c1"># NOTE : if dname is &quot;&quot;, this adds a leading &quot;/&quot;</span>
+        <span class="c1"># not a problem since it is stripped in generate_file</span>
+        <span class="n">rel_path</span> <span class="o">=</span> <span class="n">root</span><span class="o">.</span><span class="n">lstrip</span><span class="p">(</span><span class="n">src_dir</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">rel_path</span><span class="p">:</span>
+          <span class="n">rel_path</span> <span class="o">=</span> <span class="n">rel_path</span><span class="o">+</span><span class="s2">&quot;/&quot;</span>
+        <span class="n">flist</span><span class="o">.</span><span class="n">append</span><span class="p">((</span><span class="n">dname</span> <span class="o">+</span> <span class="s2">&quot;/&quot;</span> <span class="o">+</span> <span class="n">rel_path</span> <span class="o">+</span> <span class="nb">file</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">(</span><span class="s2">&quot;/&quot;</span><span class="p">))</span>
+
+  <span class="k">for</span> <span class="nb">file</span> <span class="ow">in</span> <span class="n">flist</span><span class="p">:</span>
+    <span class="n">generate_file</span><span class="p">(</span><span class="nb">file</span><span class="p">)</span>
+</code></pre></div>
+
+<p>and perhaps some good ol CSS!</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">md-content-render</span> <span class="nt">pre</span> <span class="nt">code</span> <span class="p">{</span>
+  <span class="k">display</span><span class="p">:</span> <span class="kc">inline</span><span class="p">;</span>
+  <span class="k">max-width</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
+  <span class="k">padding</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">margin</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">overflow</span><span class="p">:</span> <span class="kc">visible</span><span class="p">;</span>
+  <span class="k">line-height</span><span class="p">:</span> <span class="kc">inherit</span><span class="p">;</span>
+  <span class="k">word-wrap</span><span class="p">:</span> <span class="kc">normal</span><span class="p">;</span>
+  <span class="k">background-color</span><span class="p">:</span> <span class="kc">transparent</span><span class="p">;</span>
+  <span class="k">border</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">md-content-render</span> <span class="nt">pre</span> <span class="nt">code</span><span class="p">::</span><span class="nd">before</span><span class="o">,</span>
+<span class="p">.</span><span class="nc">md-content-render</span> <span class="nt">pre</span> <span class="nt">code</span><span class="p">::</span><span class="nd">after</span> <span class="p">{</span>
+  <span class="k">content</span><span class="p">:</span> <span class="kc">normal</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">md-content-render</span> <span class="nt">kbd</span> <span class="p">{</span>
+  <span class="k">display</span><span class="p">:</span> <span class="kc">inline-block</span><span class="p">;</span>
+  <span class="k">padding</span><span class="p">:</span> <span class="mi">3</span><span class="kt">px</span> <span class="mi">5</span><span class="kt">px</span><span class="p">;</span>
+  <span class="k">font</span><span class="p">:</span> <span class="mi">11</span><span class="kt">px</span> <span class="s2">&quot;SFMono-Regular&quot;</span><span class="p">,</span> <span class="n">Consolas</span><span class="p">,</span> <span class="s2">&quot;Liberation Mono&quot;</span><span class="p">,</span> <span class="n">Menlo</span><span class="p">,</span> <span class="n">Courier</span><span class="p">,</span> <span class="kc">monospace</span><span class="p">;</span>
+  <span class="k">line-height</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
+  <span class="k">color</span><span class="p">:</span> <span class="mh">#444d56</span><span class="p">;</span>
+  <span class="k">vertical-align</span><span class="p">:</span> <span class="kc">middle</span><span class="p">;</span>
+  <span class="k">background-color</span><span class="p">:</span> <span class="mh">#fafbfc</span><span class="p">;</span>
+  <span class="k">border</span><span class="p">:</span> <span class="kc">solid</span> <span class="mi">1</span><span class="kt">px</span> <span class="mh">#d1d5da</span><span class="p">;</span>
+  <span class="k">border-bottom-color</span><span class="p">:</span> <span class="mh">#c6cbd1</span><span class="p">;</span>
+  <span class="k">border-radius</span><span class="p">:</span> <span class="mi">3</span><span class="kt">px</span><span class="p">;</span>
+  <span class="k">box-shadow</span><span class="p">:</span> <span class="kc">inset</span> <span class="mi">0</span> <span class="mi">-1</span><span class="kt">px</span> <span class="mi">0</span> <span class="mh">#c6cbd1</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<hr />
+
+<p>That's all folks!</p>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't smap or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't smap or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

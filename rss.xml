@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 31 Aug 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/podcasts/uncle-bob-solid-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Uncle Bob Martin on Clean Software, Craftsperson, Origins of SOLID, DDD, &amp; Software Ethics </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6?source=rss----2615bd06b42e---4">Part 2: Scheduling Notebooks at Netflix </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/">Real-time Streaming Pattern: Analyzing Trends </a></li> 
+          
+            <li> <a href="https://eng.uber.com/cota-v2/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cota-v2">Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-cartographic-exploration-of-housing-in-amsterdam-aa2573be41eb?source=rss----7f60cf5620c9---4">A Cartographic Exploration of Housing in Amsterdam </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-gradient-descent-fcd5e0fc077d?source=rss----7f60cf5620c9---4">Coding Deep Learning for Beginners — Linear Regression: Gradient Descent </a></li> 
+          
+            <li> <a href="https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/">Cypress.io – the reason why we’re not stuck with Selenium </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/doordash-real-time-predictions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Engineering Systems for Real-time Predictions @DoorDash </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 31 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 30 Aug 2018</title>
         <description><![CDATA[
           <ul>
@@ -264,38 +292,6 @@ Files </a></li>
         <pubDate>Mon, 20 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 17 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.showmax.com/2018/08/automated-ui-testing-and-catching-visual-regressions/">Automated UI testing and catching visual regressions </a></li> 
-          
-            <li> <a href="https://medium.com/dev-channel/web-payments-payment-request-api-and-google-pay-a1073e405235?source=rss----32c64651a75---4">Web Payments, Payment Request API and Google Pay </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/08/google-releases-source-for-google-io.html">Google releases source for Google I/O 2018 for Android </a></li> 
-          
-            <li> <a href="https://hackernoon.com/game-jamming-on-a-quantum-computer-36a13723a454?source=rss----3a8144eabfe3---4">Game jamming on a quantum computer </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/designing-as-a-developer-in-2018-eca1ab5bff2?source=rss----7f3d96429888---4">Designing as a developer in 2018 </a></li> 
-          
-            <li> <a href="http://engineering.wingify.com/posts/demystifying-split-chunks-plugin/">Demystifying Webpack 4 Split Chunks Plugin </a></li> 
-          
-            <li> <a href="https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc?source=rss----5b301f10ddcd---4">Fairytale about performance in web application </a></li> 
-          
-            <li> <a href="https://hackernoon.com/iot-for-ninjas-902c65854ab4?source=rss----3a8144eabfe3---4">IoT for Ninjas </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/how-we-improved-information-security-at-grofers-292521f53a0f?source=rss----42df4a1e8725---4">How We Improved Information Security at Grofers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/blockchain-routing-cybersecurity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Using Blockchain Routing to Bring Best of Breed Cybersecurity to the Masses </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 17 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-17.html</guid>
       </item>
       
   </channel>
