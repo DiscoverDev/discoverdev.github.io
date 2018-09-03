@@ -1,0 +1,57 @@
+
+.blog-email-signup{
+  background: lightyellow;
+  border: 2px solid black;
+  padding: 7px;
+}
+
+.blog-email-signup h2 {
+  text-align: center;
+  margin-top: 10px;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.blog-email-signup  p.signup-msg {
+  padding: 0 10px;
+  font-size: 17px;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.blog-email-signup form {
+  padding: 10px 0;
+  text-align: center;
+}
+
+
+.blog-email-signup form > input[type="text"],
+.blog-email-signup form > input[type="email"] {
+  border: 2px solid black;
+  padding-left: 5px;
+  margin: 10px 0;
+  height: 35px;
+  width: 85%;
+  font-size: 15px;
+}
+
+.blog-email-signup form > input[type="submit"] {
+  border: none;
+  background-color: black;
+  font-size: 16px;
+  color: white;
+  margin: 10px 0;
+  height: 35px;
+  width: 35%;
+  margin-bottom: 11px;
+  min-width: 100px;
+}
+
+
+.blog-email-signup p.privacy-msg {
+  color: #555;
+  font-style: italic;
+  font-size: 14px;
+  text-align: center;
+  padding-bottom: 10px;
+}
