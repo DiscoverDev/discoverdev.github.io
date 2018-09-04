@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 04 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.octo.com/en/cold-start-warm-start-with-aws-lambda/">Cold start / Warm start with AWS Lambda </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2018/08/27/new-jersey-wildlife-habitat/">Exploring Protected Wildlife Habitat for Every Property in New Jersey </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html">Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/8/27/auth0-architecture-running-in-multiple-cloud-providers-and-r.html">Auth0 Architecture: Running In Multiple Cloud Providers And Regions </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/introduction-to-fuzzy-logic-and-its-application-to-text-summarization-dee71da67bbe?source=rss----5e5bef33608a---4">Introduction to Fuzzy Logic and its Application to Text Summarization </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fasttext-batteries-included-fa23f46d52e4?source=rss----7f60cf5620c9---4">fastText++: Batteries Included </a></li> 
+          
+            <li> <a href="https://hackernoon.com/experiences-building-a-newsfeed-out-of-twitter-streams-fdcaee7542d1?source=rss----3a8144eabfe3---4">Experiences building a newsfeed out of twitter streams </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/using-workers-to-make-static-sites-dynamic/">Using Workers To Make Static Sites Dynamic </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 04 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 03 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +292,6 @@ Files </a></li>
         <pubDate>Wed, 22 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 21 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blogs.windows.com/buildingapps/2018/08/15/introducing-driver-module-framework/">Introducing Driver Module Framework </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/auth0-architecture-running-in-multiple-cloud-providers-and-regions/">Auth0 Architecture: Running In Multiple Cloud Providers And Regions </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-building-a-resilient-web-with-webtorrent/">Dweb: Building a Resilient Web with WebTorrent </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/the-joys-of-circuit-breaking-ee6584acd687?source=rss----a88376ea904a---4">The Joys of Circuit Breaking </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/neflix-push-messaging-scale?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Push Messaging for Millions of Devices @Netflix </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/an-introduction-to-debugging-in-c-and-lldb-part-i-e3c51991f83a?source=rss----7f60cf5620c9---4">An introduction to Debugging (in C and lldb), Part- I </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/old-write/">Zero Downtime Table Migrations using a Double Write Methodology </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877?source=rss----7fa310224bc5---4">TimescaleDB vs. InfluxDB: purpose built differently for time-series data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 21 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-21.html</guid>
       </item>
       
   </channel>
