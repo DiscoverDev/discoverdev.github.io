@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 05 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4?source=rss----7f60cf5620c9---4">Make working with large DataFrames easier, at least for your memory </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/frp-erlang-grisp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Real-time Functional Reactive Programming with Erlang </a></li> 
+          
+            <li> <a href="https://eng.uber.com/xp/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xp">Under the Hood of Uber’s Experimentation Platform </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/">Best Practices For Mobile Form Design </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/multi-agent-reinforcement-learning-in-beer-distribution-game-6c77c9b1dc4?source=rss----7f60cf5620c9---4">Multi-Agent Reinforcement Learning in Beer Distribution Game </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/for-else-in-python/">Why Python&#39;s for-else Clause Makes Perfect Sense, but You Still Shouldn&#39;t Use It </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/08/24/the-ux-of-consent-models-in-open-banking.html">The UX of Consent Models in Open Banking </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/kubernetes-monitoring-with-prometheus-alertmanager-grafana-pushgateway-part-2/">Kubernetes Monitoring with Prometheus: AlertManager, Grafana, PushGateway (part 2) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 05 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 04 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,37 +289,6 @@
         <pubDate>Thu, 23 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 22 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/">From monolithic to microservices: A transformation journey </a></li> 
-          
-            <li> <a href="https://eng.uber.com/maze/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maze">Maximizing Process Performance with Maze, Uber’s Funnel Visualization Platform </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2018/08/microservices-communication?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Strategies for Microservices Communication </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/federated-machine-learning-c99dd5dec201?source=rss----7f60cf5620c9---4">FEDERATED MACHINE LEARNING </a></li> 
-          
-            <li> <a href="http://www.olioapps.com/blog/automatic-code-formatting/">Automatic Code Formatting for Partially-Staged
-Files </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/skype-p2p?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Skype&#39;s Journey from P2P: It&#39;s Not Just About the Services </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/build-multiplayer-browser-based-vr-game-aframe-webvr/">Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/08/moving-beyond-translation-with.html">Moving Beyond Translation with the Universal Transformer </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48?source=rss-ef81ef829bcb------2">PinSage: A New Graph Convolutional Neural Network for Web-Scale Recommender Systems </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 22 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-22.html</guid>
       </item>
       
   </channel>
