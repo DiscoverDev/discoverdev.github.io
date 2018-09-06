@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/13-slide-on-scroll" />
+  <meta property="og:description" content="This is the 13th project of WesBos's JS30 series. We'll be building an image slide in animation which is triggered by scroll.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Slide in on scroll</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 13th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We'll be building an image slide in animation which is triggered by scroll.</p>
+
+<p>Here is the video -</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/uzRsENVD3W8' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>And here are the starter files -</p>
+
+<iframe height='465' scrolling='no' title='JS30-13-slide-scroll-a' src='//codepen.io/deepakkarki/embed/aKYjPw/?height=265&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/aKYjPw/'>JS30-13-slide-scroll-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>The general algorithm is as follows</p>
+
+<ol>
+<li>Capture the scroll event data</li>
+<li>For each image
+<ol>
+<li>Calculate the position wrt the page</li>
+<li>Inspect the image's height and check if more than half of it should be on screen</li>
+<li>If so make it visible</li>
+</ol></li>
+</ol>
+
+<p>Now one thing to note is that the scroll event will fire hundereds of times on a scroll, so we need a debounce function.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">debounce</span><span class="p">(</span><span class="nx">func</span><span class="p">,</span> <span class="nx">wait</span> <span class="o">=</span> <span class="mi">20</span><span class="p">,</span> <span class="nx">immediate</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">var</span> <span class="nx">timeout</span><span class="p">;</span>
+  <span class="k">return</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+    <span class="kd">var</span> <span class="nx">context</span> <span class="o">=</span> <span class="k">this</span><span class="p">,</span> <span class="nx">args</span> <span class="o">=</span> <span class="nx">arguments</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">later</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+      <span class="nx">timeout</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>
+      <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">immediate</span><span class="p">)</span> <span class="nx">func</span><span class="p">.</span><span class="nx">apply</span><span class="p">(</span><span class="nx">context</span><span class="p">,</span> <span class="nx">args</span><span class="p">);</span>
+    <span class="p">};</span>
+    <span class="kd">var</span> <span class="nx">callNow</span> <span class="o">=</span> <span class="nx">immediate</span> <span class="o">&amp;&amp;</span> <span class="o">!</span><span class="nx">timeout</span><span class="p">;</span>
+    <span class="nx">clearTimeout</span><span class="p">(</span><span class="nx">timeout</span><span class="p">);</span>
+    <span class="nx">timeout</span> <span class="o">=</span> <span class="nx">setTimeout</span><span class="p">(</span><span class="nx">later</span><span class="p">,</span> <span class="nx">wait</span><span class="p">);</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">callNow</span><span class="p">)</span> <span class="nx">func</span><span class="p">.</span><span class="nx">apply</span><span class="p">(</span><span class="nx">context</span><span class="p">,</span> <span class="nx">args</span><span class="p">);</span>
+  <span class="p">};</span>
+<span class="p">};</span>
+</code></pre></div>
+
+<p><code>debounce()</code> is a closure that ensures that even though it is called as many times as possible, the call to <code>func()</code> will go through only once every wait milliseconds.</p>
+
+<p>Now the code we have to write,</p>
+
+<h2>Capture scroll data</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">sliderImages</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;.slide-in&#39;</span><span class="p">)</span>
+<span class="kd">function</span> <span class="nx">checkSlide</span><span class="p">()</span> <span class="p">{</span>
+<span class="p">}</span>
+<span class="nb">window</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;scroll&#39;</span><span class="p">,</span> <span class="nx">debounce</span><span class="p">(</span><span class="nx">checkSlide</span><span class="p">));</span>
+</code></pre></div>
+
+<p>All the images we want to animate have <code>.slide-in</code> property. </p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">slide-in</span> <span class="p">{</span>
+  <span class="k">opacity</span><span class="p">:</span><span class="mi">0</span><span class="p">;</span>
+  <span class="k">transition</span><span class="p">:</span><span class="kc">all</span> <span class="mf">.5</span><span class="kt">s</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="p">.</span><span class="nc">align-left</span><span class="p">.</span><span class="nc">slide-in</span> <span class="p">{</span>
+  <span class="k">transform</span><span class="p">:</span><span class="nb">translateX</span><span class="p">(</span><span class="mi">-30</span><span class="kt">%</span><span class="p">)</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">0.95</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="p">.</span><span class="nc">align-right</span><span class="p">.</span><span class="nc">slide-in</span> <span class="p">{</span>
+  <span class="k">transform</span><span class="p">:</span><span class="nb">translateX</span><span class="p">(</span><span class="mi">30</span><span class="kt">%</span><span class="p">)</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">0.95</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>The property ensures that the image is completely transparent and has a <code>0.5s</code> transition. Based on whether the image is to the left or right it has a slight offset (left is moved further left, right further right).</p>
+
+<h2>Calculate the positions</h2>
+
+<p>The image should disappear once the half point of the image scrolls into view, or when the image scrolls out of view from the top. <code>window.scrollY</code> gives us the number of px scrolled beyond the top. If you haven't scrolled at all, it'll be zero. <code>window.innerHeight</code> gives us the height of the viewport. So <code>scrollY + innerHeight</code> gives us the number of px that has come into the viewport (or scrolled past it). <code>sliderImage.height</code> is the height of the image.</p>
+
+<p><code>sliderImage.offsetTop</code> is the distance of the top of the image from top of the page in px. </p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">checkSlide</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">sliderImages</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">sliderImage</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="c1">// half way through the image</span>
+    <span class="kr">const</span> <span class="nx">isHalfShown</span> <span class="o">=</span>  <span class="p">(</span><span class="nb">window</span><span class="p">.</span><span class="nx">scrollY</span> <span class="o">+</span> <span class="nb">window</span><span class="p">.</span><span class="nx">innerHeight</span><span class="p">)</span> <span class="o">&gt;</span> 
+                         <span class="p">(</span><span class="nx">sliderImage</span><span class="p">.</span><span class="nx">offsetTop</span> <span class="o">+</span><span class="nx">sliderImage</span><span class="p">.</span><span class="nx">height</span> <span class="o">/</span> <span class="mi">2</span><span class="p">);</span>
+
+    <span class="c1">// bottom of the image</span>
+    <span class="kr">const</span> <span class="nx">imageBottom</span> <span class="o">=</span> <span class="nx">sliderImage</span><span class="p">.</span><span class="nx">offsetTop</span> <span class="o">+</span> <span class="nx">sliderImage</span><span class="p">.</span><span class="nx">height</span><span class="p">;</span>
+    <span class="kr">const</span> <span class="nx">isNotScrolledPast</span> <span class="o">=</span> <span class="nb">window</span><span class="p">.</span><span class="nx">scrollY</span> <span class="o">&lt;</span> <span class="nx">imageBottom</span><span class="p">;</span>
+
+    <span class="c1">// if more that half is over the scroll view *and* it hasn&#39;t scrolled out of view</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">isHalfShown</span> <span class="o">&amp;&amp;</span> <span class="nx">isNotScrolledPast</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">sliderImage</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;active&#39;</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="nx">sliderImage</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">remove</span><span class="p">(</span><span class="s1">&#39;active&#39;</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">});</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Now to see if half is shown, we get the total length that has been scrolled into view (from top) = <code>window.scrollY + window.innerHeight</code> and then see if thats greater than the top of the image + half it's height, <code>sliderImage.offsetTop +sliderImage.height / 2</code>. </p>
+
+<p>Also we have to check that the image hasn't scrolled pass the top so we see if the top position is lesser that the image's bottom position, <code>window.scrollY &lt; imageBottom</code>.</p>
+
+<p>If both these conditions are met, then the CSS class <code>active</code> is added to the image, which animates it into view. If either of them aren't met, the class is removed!</p>
+
+<p>Here is the final code :</p>
+
+<iframe height='465' scrolling='no' title='JS30-13-slide-scroll-a' src='//codepen.io/deepakkarki/embed/LrmYve/?height=265&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/LrmYve/'>JS30-13-slide-scroll-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

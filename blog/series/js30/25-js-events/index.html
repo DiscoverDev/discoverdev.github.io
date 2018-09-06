@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/25-js-events" />
+  <meta property="og:description" content="This is the 25th project of WesBos's JS30 series. In this exercise we'll play with JS events - bubbling, capture and one time events.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">JS Events</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 25th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+In this exercise we'll play with JS events - bubbling, capture and one time events.</p>
+
+<p>Video -</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/F1anRyL37lE' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>Code -</p>
+
+<iframe height='376' scrolling='no' title='JS30-25-Events-a' src='//codepen.io/deepakkarki/embed/LrgJOZ/?height=376&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/LrgJOZ/'>JS30-25-Events-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>We'll just be trying out different exercises to figure out how events in the browser work!</p>
+
+<p>The HTML structure we'll be working with - </p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;one&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;two&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;three&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>These are just three nested boxes. We'll select them in the <code>divs</code> variable.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">divs</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;div&#39;</span><span class="p">)</span>
+</code></pre></div>
+
+<h2>Bubbling</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">bubbles</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">)</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&quot;bubbles &quot;</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">value</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="nx">divs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">div</span> <span class="p">=&gt;</span> <span class="nx">div</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">bubbles</span><span class="p">))</span>
+
+<span class="c1">// Output (after cliking on three)-</span>
+
+<span class="c1">// &lt;div class=​&quot;three&quot;&gt;​​&lt;/div&gt;​</span>
+<span class="c1">// bubbles  three</span>
+<span class="c1">// &lt;div class=​&quot;three&quot;&gt;​​&lt;/div&gt;​</span>
+<span class="c1">// bubbles  two</span>
+<span class="c1">// &lt;div class=​&quot;three&quot;&gt;​​&lt;/div&gt;​</span>
+<span class="c1">// bubbles  one</span>
+</code></pre></div>
+
+<p>As we can see, the target is always the third div (inner most box), but click is triggered for each div. This is due to bubbling - where the event bubbles up to the parent. </p>
+
+<h2>Capturing</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">captures</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">)</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&quot;captures &quot;</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">value</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="nx">divs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">div</span> <span class="p">=&gt;</span> <span class="nx">div</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">captures</span><span class="p">,</span> <span class="p">{</span><span class="nx">capture</span><span class="o">:</span><span class="kc">true</span><span class="p">}))</span>
+
+<span class="c1">// Output on cliking div.three</span>
+
+<span class="c1">// &lt;div class=​&quot;three&quot;&gt;​​&lt;/div&gt;​</span>
+<span class="c1">// captures  one</span>
+<span class="c1">// &lt;div class=​&quot;three&quot;&gt;​​&lt;/div&gt;​</span>
+<span class="c1">// captures  two</span>
+<span class="c1">// &lt;div class=​&quot;three&quot;&gt;​​&lt;/div&gt;​</span>
+<span class="c1">// captures  three</span>
+</code></pre></div>
+
+<p>Again the target is always the div we've clicked on, but click is triggered on each of the boxes starting from the parent box this time! This is what setting <code>{capture:true}</code> will do. So instead of bubbling there is capture.</p>
+
+<blockquote>
+  <p>Note that events still work the same in both cases.</p>
+  
+  <p>The event goes from parent to child in a phase called as 'capture' and then
+  from the target child all the way up to the window in a phase known as 'bubbling'</p>
+  
+  <p>It's just that setting capture to true in <code>addEventListener()</code> will trigger the callback
+  during the capture phase rather than the default bubbling phase.</p>
+</blockquote>
+
+<p>Learn more at <a href="https://javascript.info/bubbling-and-capturing">Javascript.info</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#Bubbling_and_capturing_explained">MDN Docs</a></p>
+
+<p>Example </p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">logAll</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+    <span class="nx">phase</span> <span class="o">=</span> <span class="p">{</span><span class="mi">0</span><span class="o">:</span><span class="s2">&quot;unknown&quot;</span><span class="p">,</span> <span class="mi">1</span><span class="o">:</span><span class="s2">&quot;capture&quot;</span><span class="p">,</span> <span class="mi">2</span><span class="o">:</span> <span class="s2">&quot;target&quot;</span><span class="p">,</span> <span class="mi">3</span><span class="o">:</span><span class="s2">&quot;bubbling&quot;</span><span class="p">}</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">phase</span><span class="p">[</span><span class="nx">e</span><span class="p">.</span><span class="nx">eventPhase</span><span class="p">],</span> <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">value</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="c1">// same handler for both phases, we log the event phase in the handler</span>
+<span class="nx">divs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">div</span> <span class="p">=&gt;</span> <span class="nx">div</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">logAll</span><span class="p">))</span>
+<span class="nx">divs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">div</span> <span class="p">=&gt;</span> <span class="nx">div</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">logAll</span><span class="p">,</span> <span class="p">{</span><span class="nx">capture</span><span class="o">:</span><span class="kc">true</span><span class="p">}))</span>
+
+<span class="c1">// Output on clicking div.three</span>
+<span class="c1">// capture one</span>
+<span class="c1">// capture two</span>
+<span class="c1">// target three</span>
+<span class="c1">// target three</span>
+<span class="c1">// bubbling two</span>
+<span class="c1">// bubbling one</span>
+</code></pre></div>
+
+<p>Hopefully the above example helps you visualize what is happening! The <code>phase</code> object is derived from the phase to number mapping on <a href="https://developer.mozilla.org/en-US/docs/Web/API/Event/eventPhase">this page</a>.</p>
+
+<h2>Stop Propagation</h2>
+
+<p><code>Event.stopPropagation()</code> Prevents further propagation of the current event in the capturing and bubbling phases.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">logEv</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">value</span><span class="p">)</span>
+  <span class="nx">e</span><span class="p">.</span><span class="nx">stopPropagation</span><span class="p">()</span>
+<span class="p">}</span>
+
+<span class="nx">divs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">div</span> <span class="p">=&gt;</span> <span class="nx">div</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">logEv</span><span class="p">))</span>
+
+<span class="c1">//Output (without e.stopPropagation())</span>
+<span class="c1">// three</span>
+<span class="c1">// two</span>
+<span class="c1">// one</span>
+
+<span class="c1">// After adding e.stopPropagation()</span>
+<span class="c1">// three</span>
+</code></pre></div>
+
+<p>The event is no longer bubbled. The effect will be similar if done during the capture phase.</p>
+
+<h2>Trigger once</h2>
+
+<p>When we want an event to trigger only once,</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">runOnce</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&quot;I should run only once&quot;</span><span class="p">)</span>
+<span class="p">}</span>
+<span class="nx">divs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">div</span> <span class="p">=&gt;</span> <span class="nx">div</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">runOnce</span><span class="p">,</span> <span class="p">{</span><span class="nx">once</span><span class="o">:</span><span class="kc">true</span><span class="p">}))</span>
+</code></pre></div>
+
+<p>When you click <code>div.three</code> you'll see <code>"I should run only once"</code> logged thrice (once per parent), which means it is called the first time. Click it again and nothing happens. Even if you click <code>div.one</code> or <code>div.two</code>, nothing happens! This is because the callbacks have already run once even though they were not the target!</p>
+
+<hr />
+
+<p>This concludes this exercise, I'm not adding a final codepen as it's simpler to just open your console and test this out.</p>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

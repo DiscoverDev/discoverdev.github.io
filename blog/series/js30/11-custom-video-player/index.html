@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/11-custom-video-player" />
+  <meta property="og:description" content="This is the eleventh project of WesBos's JS30 series. We'll be building our own custom HTML5 video player.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Custom video player</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the eleventh project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We'll be building our own custom video player.</p>
+
+<p>Here is the video </p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yx-HYerClEA' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>And here are the starter files</p>
+
+<iframe height='458' scrolling='no' title='JS30-11-video-player-a' src='//codepen.io/deepakkarki/embed/EREbrX/?height=398&theme-id=dark&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/EREbrX/'>JS30-11-video-player-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>Again, in this project we won't be touching the HTML or CSS, but we need to understand the html structure.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player&quot;</span><span class="p">&gt;</span>
+     <span class="p">&lt;</span><span class="nt">video</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__video viewer&quot;</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;https://player.vimeo.com/external/194837908.sd.mp4?s=c350076905b78c67f74d7ee39fdb4fef01d12420&amp;profile_id=164&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">video</span><span class="p">&gt;</span>
+
+     <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__controls&quot;</span><span class="p">&gt;</span>
+       <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;progress&quot;</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;progress__filled&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+       <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+       <span class="p">&lt;</span><span class="nt">button</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__button toggle&quot;</span> <span class="na">title</span><span class="o">=</span><span class="s">&quot;Toggle Play&quot;</span><span class="p">&gt;</span>►<span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+       <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;range&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;volume&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__slider&quot;</span> <span class="na">min</span><span class="o">=</span><span class="s">&quot;0&quot;</span> <span class="na">max</span><span class="o">=</span><span class="s">&quot;1&quot;</span> <span class="na">step</span><span class="o">=</span><span class="s">&quot;0.05&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;1&quot;</span><span class="p">&gt;</span>
+       <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;range&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;playbackRate&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__slider&quot;</span> <span class="na">min</span><span class="o">=</span><span class="s">&quot;0.5&quot;</span> <span class="na">max</span><span class="o">=</span><span class="s">&quot;2&quot;</span> <span class="na">step</span><span class="o">=</span><span class="s">&quot;0.1&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;1&quot;</span><span class="p">&gt;</span>
+       <span class="p">&lt;</span><span class="nt">button</span> <span class="na">data-skip</span><span class="o">=</span><span class="s">&quot;-10&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__button&quot;</span><span class="p">&gt;</span>« 10s<span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+       <span class="p">&lt;</span><span class="nt">button</span> <span class="na">data-skip</span><span class="o">=</span><span class="s">&quot;25&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__button&quot;</span><span class="p">&gt;</span>25s »<span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+     <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+   <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>The player is contained in <code>div.player</code>, the video comes from the <code>&lt;video&gt;</code> element, the controls are under <code>div.player__controls</code>. The animation you see when hovering on the video is a combination of CSS transition and transform.</p>
+
+<hr />
+
+<p><strong>Features of the player include</strong> - play/pause the video, skip forward/backward, adjust speed, adjust volume, display progress and seek position in video.</p>
+
+<p>Main steps involved in creating the player :</p>
+
+<ol>
+<li>Get a reference to all the elements we need to control</li>
+<li>Write a function to play/pause</li>
+<li>Update the play/pause button based on state of video</li>
+<li>Add the skip forward and backward functionality</li>
+<li>Handle the volume change</li>
+<li>Handle the playback speed range</li>
+<li>Display the video progress</li>
+<li>Seek a position in the video by clicking/dragging on the progress bar</li>
+</ol>
+
+<h2>Get all the elements</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">player</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.player&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">video</span> <span class="o">=</span> <span class="nx">player</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.viewer&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">progress</span> <span class="o">=</span> <span class="nx">player</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.progress&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">progressBar</span> <span class="o">=</span> <span class="nx">player</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.progress__filled&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">toggle</span> <span class="o">=</span> <span class="nx">player</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.toggle&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">skipButtons</span> <span class="o">=</span> <span class="nx">player</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;[data-skip]&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">ranges</span> <span class="o">=</span> <span class="nx">player</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;.player__slider&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<p>You can read more about the <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement">video element</a> or preferrably the <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement">Media element</a> it inherets from. We'll be using the JS properties quite a bit. If you also fancy a tutorial about the video element <a href="https://www.html5rocks.com/en/tutorials/video/basics/">html5rocks</a> has a brilliant one!</p>
+
+<h2>Write a function to play/pause</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">togglePlay</span><span class="p">()</span> <span class="p">{</span>
+  <span class="k">if</span><span class="p">(</span><span class="nx">video</span><span class="p">.</span><span class="nx">paused</span><span class="p">)</span> <span class="nx">video</span><span class="p">.</span><span class="nx">play</span><span class="p">();</span>
+  <span class="k">else</span> <span class="nx">video</span><span class="p">.</span><span class="nx">pause</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="c1">// You can toggle either by clicking the video or the play/pause button</span>
+<span class="nx">video</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">togglePlay</span><span class="p">);</span>
+<span class="nx">toggle</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">togglePlay</span><span class="p">);</span>
+</code></pre></div>
+
+<p>This function checks if the video is paused, if so it starts playing it, if not it pauses the playing video. For all the properties and function relating to the video element, please refer to the links to the docs/tutorials I've mentioned above.</p>
+
+<h2>Update the play/pause button</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">updateButton</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">icon</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">paused</span> <span class="o">?</span> <span class="s1">&#39;►&#39;</span> <span class="o">:</span> <span class="s1">&#39;❚❚&#39;</span><span class="p">;</span>
+  <span class="nx">toggle</span><span class="p">.</span><span class="nx">textContent</span> <span class="o">=</span> <span class="nx">icon</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nx">video</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;play&#39;</span><span class="p">,</span> <span class="nx">updateButton</span><span class="p">);</span>
+<span class="nx">video</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;pause&#39;</span><span class="p">,</span> <span class="nx">updateButton</span><span class="p">);</span>
+</code></pre></div>
+
+<p>The video can be paused / played by other means than clicking on the video / toggle button. So instead of adding the logic in the <code>togglePlay</code> we'll listen to the 'play' and 'pause' events on the video element.</p>
+
+<h2>Add the skip forward and backward functionality</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">skip</span><span class="p">()</span> <span class="p">{</span>
+ <span class="nx">video</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">+=</span> <span class="nb">parseFloat</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">dataset</span><span class="p">.</span><span class="nx">skip</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="nx">skipButtons</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">button</span> <span class="p">=&gt;</span> <span class="nx">button</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">skip</span><span class="p">));</span>
+</code></pre></div>
+
+<p>We can change the video time by assigning the new time to <code>video.currentTime</code>. The skip time is got from the <code>data-skip</code> attribute. So you can go <code>-10</code> seconds back in time or skip <code>25</code> seconds ahead.</p>
+
+<h2>Handle the volume and playback rate change</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">handleRangeUpdate</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">video</span><span class="p">[</span><span class="k">this</span><span class="p">.</span><span class="nx">name</span><span class="p">]</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nx">ranges</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">range</span> <span class="p">=&gt;</span> <span class="nx">range</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;change&#39;</span><span class="p">,</span> <span class="nx">handleRangeUpdate</span><span class="p">));</span>
+<span class="nx">ranges</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">range</span> <span class="p">=&gt;</span> <span class="nx">range</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mousemove&#39;</span><span class="p">,</span> <span class="nx">handleRangeUpdate</span><span class="p">));</span>
+</code></pre></div>
+
+<p>Here we exploit the fact that both volume and range playback are slider elements. <code>video.volume</code> and <code>video.playbackRate</code> control the volume and playback speed respectively. The elements name coincides with the property of the video object.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;range&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;volume&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__slider&quot;</span> <span class="na">min</span><span class="o">=</span><span class="s">&quot;0&quot;</span> <span class="na">max</span><span class="o">=</span><span class="s">&quot;1&quot;</span> <span class="na">step</span><span class="o">=</span><span class="s">&quot;0.05&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;1&quot;</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;range&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;playbackRate&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;player__slider&quot;</span> <span class="na">min</span><span class="o">=</span><span class="s">&quot;0.5&quot;</span> <span class="na">max</span><span class="o">=</span><span class="s">&quot;2&quot;</span> <span class="na">step</span><span class="o">=</span><span class="s">&quot;0.1&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;1&quot;</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>Hence we can just use <code>video[this.name]</code>, it will resolve to either <code>video.volume</code> or <code>video.playbackRate</code> based on which element we're sliding. Assigning to <code>this.value</code> remains same anyway. This way we don't have to duplicate the code!</p>
+
+<h2>Display the video progress</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">handleProgress</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">percent</span> <span class="o">=</span> <span class="p">(</span><span class="nx">video</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">/</span> <span class="nx">video</span><span class="p">.</span><span class="nx">duration</span><span class="p">)</span> <span class="o">*</span> <span class="mi">100</span><span class="p">;</span>
+  <span class="nx">progressBar</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">flexBasis</span> <span class="o">=</span> <span class="sb">`</span><span class="si">${</span><span class="nx">percent</span><span class="si">}</span><span class="sb">%`</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nx">video</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;timeupdate&#39;</span><span class="p">,</span> <span class="nx">handleProgress</span><span class="p">);</span>
+</code></pre></div>
+
+<p>The yellow bar shows the % of the video that has completed. We attach a 'timeupdate' event listener to the video element, everytime it fires the percent is calculated and the progressBar's CSS <code>flexBasis</code> property is set!</p>
+
+<h2>Seek a position in the video</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">scrub</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">scrubTime</span> <span class="o">=</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">offsetX</span> <span class="o">/</span> <span class="nx">progress</span><span class="p">.</span><span class="nx">offsetWidth</span><span class="p">)</span> <span class="o">*</span> <span class="nx">video</span><span class="p">.</span><span class="nx">duration</span><span class="p">;</span>
+  <span class="nx">video</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">=</span> <span class="nx">scrubTime</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nx">progress</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">scrub</span><span class="p">);</span>
+</code></pre></div>
+
+<p>We get from the click event the relative position where the mouse was clicked, then calculate the % width and get the <code>scrubTime</code> from that. </p>
+
+<p>Now to enable dragging as well</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">let</span> <span class="nx">mousedown</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+<span class="nx">progress</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mousemove&#39;</span><span class="p">,</span> <span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">mousedown</span> <span class="o">&amp;&amp;</span> <span class="nx">scrub</span><span class="p">(</span><span class="nx">e</span><span class="p">));</span>
+<span class="nx">progress</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mousedown&#39;</span><span class="p">,</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="nx">mousedown</span> <span class="o">=</span> <span class="kc">true</span><span class="p">);</span>
+<span class="nx">progress</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mouseup&#39;</span><span class="p">,</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="nx">mousedown</span> <span class="o">=</span> <span class="kc">false</span><span class="p">);</span>
+</code></pre></div>
+
+<p>If the mouse is down and we move the mouse over the progress bar, scrub is triggered and the target position is seeked!</p>
+
+<hr />
+
+<p>That is all for making your own minimalistic custom video player! Here is the final code</p>
+
+<iframe height='473' scrolling='no' title='JS30-11-video-player-a' src='//codepen.io/deepakkarki/embed/gKeKLg/?height=373&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/gKeKLg/'>JS30-11-video-player-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/16-mouse-move" />
+  <meta property="og:description" content="This is the 16th project of WesBos's JS30 series. We'll be creating an effect where the text shadow of an element is controlled by the mouse position!
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Mouse move based text shadow animation</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 16th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We'll be creating an effect where the text shadow of an element is controlled by the mouse position!</p>
+
+<p>The video can be found here</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/zaz9gLI-Xac' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>The codepen for the starter code</p>
+
+<iframe height='457' scrolling='no' title='JS30-16-TextShadow-a' src='//codepen.io/deepakkarki/embed/XYYpdL/?height=407&theme-id=dark&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/XYYpdL/'>JS30-16-TextShadow-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>The starter files are minimal, the HTML element who's text shadow well be manipulating is the <code>h1</code> element below</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;hero&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">h1</span> <span class="na">contenteditable</span><span class="p">&gt;</span>🔥WOAH!<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>We have set the <code>contenteditable</code> attribute set on the <code>&lt;h1&gt;</code>, which means the user can edit the text contents of that element!</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nt">h1</span> <span class="p">{</span>
+  <span class="k">text-shadow</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span> <span class="mi">10</span><span class="kt">px</span> <span class="mi">0</span> <span class="nb">rgba</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.4</span><span class="p">);</span>
+  <span class="k">font-size</span><span class="p">:</span> <span class="mi">50</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>In the CSS we just set a simple text shadow to the title. (Iv'e changed the color values a little bit to make it appear shadow like!)</p>
+
+<hr />
+
+<p>To get the text shadow to follow the cursor</p>
+
+<ol>
+<li>Add a <code>mousemove</code> event listener</li>
+<li>Extract the coordinates wrt to the window</li>
+<li>Map the coordinates to the displacement of the text shadow</li>
+<li>Update the text shadow</li>
+</ol>
+
+<h2>Adding the event listener</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">hero</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.hero&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">text</span> <span class="o">=</span> <span class="nx">hero</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;h1&#39;</span><span class="p">);</span>
+
+<span class="kd">function</span> <span class="nx">shadow</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+<span class="p">}</span>
+
+<span class="c1">// tracking the mouse will only be done in the div.hero area</span>
+<span class="c1">// (in this case it is the whole page though)</span>
+<span class="nx">hero</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mousemove&#39;</span><span class="p">,</span> <span class="nx">shadow</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>Extract the coordinates</h2>
+
+<p>The event object's <code>pageX, pageY</code> properties give us the X, Y coordinates of the mouse wrt the page. But we need it with respect to the hero element, so we use the <code>offsetX, offsetY</code> properties. The <a href="https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/offsetX">offsetX property</a> of the MouseEvent provides the offset in the X coordinate of the mouse pointer between that event and the padding edge of the target node. So incase we're hovering over <code>h1</code> and not <code>div.hero</code> we have to adjust the x, y values.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">shadow</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="p">{</span> <span class="nx">offsetX</span><span class="o">:</span> <span class="nx">x</span><span class="p">,</span> <span class="nx">offsetY</span><span class="o">:</span> <span class="nx">y</span> <span class="p">}</span> <span class="o">=</span> <span class="nx">e</span><span class="p">;</span>
+
+  <span class="k">if</span> <span class="p">(</span><span class="k">this</span> <span class="o">!==</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">)</span> <span class="p">{</span>
+    <span class="c1">//adjusting the values if e.target is not div.hero</span>
+    <span class="c1">// by adding relative position of e.target</span>
+    <span class="nx">x</span> <span class="o">=</span> <span class="nx">x</span> <span class="o">+</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">offsetLeft</span><span class="p">;</span>
+    <span class="nx">y</span> <span class="o">=</span> <span class="nx">y</span> <span class="o">+</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">offsetTop</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2>Map the coordinates to the displacement of the text shadow</h2>
+
+<p>Let us assume the range of the displacement of the text shadow to be max of 50px from the actual text.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">let</span> <span class="nx">range</span> <span class="o">=</span> <span class="mi">50</span> <span class="o">*</span> <span class="mi">2</span> <span class="c1">//50 px * 2</span>
+
+<span class="kd">function</span> <span class="nx">shadow</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="p">{</span> <span class="nx">offsetX</span><span class="o">:</span> <span class="nx">x</span><span class="p">,</span> <span class="nx">offsetY</span><span class="o">:</span> <span class="nx">y</span> <span class="p">}</span> <span class="o">=</span> <span class="nx">e</span><span class="p">;</span>
+  <span class="k">if</span> <span class="p">(</span><span class="k">this</span> <span class="o">!==</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">x</span> <span class="o">=</span> <span class="nx">x</span> <span class="o">+</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">offsetLeft</span><span class="p">;</span>
+    <span class="nx">y</span> <span class="o">=</span> <span class="nx">y</span> <span class="o">+</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">offsetTop</span><span class="p">;</span>
+  <span class="p">}</span>
+
+  <span class="c1">// height and width of div.hero</span>
+  <span class="kr">const</span> <span class="p">{</span> <span class="nx">offsetWidth</span><span class="o">:</span> <span class="nx">width</span><span class="p">,</span> <span class="nx">offsetHeight</span><span class="o">:</span> <span class="nx">height</span> <span class="p">}</span> <span class="o">=</span> <span class="nx">hero</span><span class="p">;</span>
+
+  <span class="kr">const</span> <span class="nx">xRange</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">round</span><span class="p">(</span> <span class="p">(</span><span class="nx">x</span><span class="o">/</span><span class="nx">width</span> <span class="o">*</span> <span class="nx">range</span><span class="p">)</span>  <span class="o">-</span> <span class="nx">range</span><span class="o">/</span><span class="mi">2</span> <span class="p">);</span>
+  <span class="kr">const</span> <span class="nx">yRange</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">round</span><span class="p">(</span> <span class="p">(</span><span class="nx">y</span><span class="o">/</span><span class="nx">height</span> <span class="o">*</span> <span class="nx">range</span><span class="p">)</span> <span class="o">-</span> <span class="nx">range</span><span class="o">/</span><span class="mi">2</span> <span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>What we're doing here is simply mapping the range of width to current 'x' and 'y' to calculate the displacement. For ex, when <code>x=0</code> the x displacement is <code>-50px</code> and if <code>x == width</code>, the x displacement is <code>50px</code>. </p>
+
+<p>Basically, get the fraction, multiply to get the value, shift the origin. <code>x/width</code> give us the fraction, multiplying by <code>range</code> gives us the value, but we need to subtract <code>range/2</code> since the displacement is from the center of <code>h1</code> (origin is here, not top of screen) and going to the left would mean a negative value for x. Same applies for y.</p>
+
+<h2>Update the text shadow</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">shadow</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">//...</span>
+  <span class="nx">text</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">textShadow</span> <span class="o">=</span> <span class="sb">`</span><span class="si">${</span><span class="nx">xRange</span><span class="si">}</span><span class="sb">px </span><span class="si">${</span><span class="nx">yRange</span><span class="si">}</span><span class="sb">px 0 rgba(255,0,255,0.7)`</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Update the text shadow with <code>xRange, yRange</code>.</p>
+
+<hr />
+
+<p>Final codepen -</p>
+
+<iframe height='465' scrolling='no' title='JS30-16-TextShadow-b' src='//codepen.io/deepakkarki/embed/pKKeJo/?height=265&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/pKKeJo/'>JS30-16-TextShadow-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

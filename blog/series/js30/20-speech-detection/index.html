@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/20-speech-detection" />
+  <meta property="og:description" content="This is the 20th project of WesBos's JS30 series. Today we learn how to use the built in Speech Recognition in the browser. Text to speech in realtime.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Speech Detection</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 20th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+Today we learn how to use the built in Speech Recognition in the browser. Text to speech in realtime.</p>
+
+<p>Video - </p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/0mJC0A72Fnw' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>The starter files -</p>
+
+<iframe height='465' scrolling='no' title='JS30-20-speech-a' src='//codepen.io/deepakkarki/embed/vrzKBY/?height=265&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/vrzKBY/'>JS30-20-speech-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>What we have to do is understand the speech in real time using the speech recognition API, and once the user has finished speaking a sentence (rather pauses the speech), append a <code>&lt;p&gt;</code> tag to the <code>div.words</code> and start listening for the next time the user speaks.</p>
+
+<p>The JS we have </p>
+
+<div class="codehilite"><pre><span></span><code><span class="nb">window</span><span class="p">.</span><span class="nx">SpeechRecognition</span> <span class="o">=</span> <span class="nb">window</span><span class="p">.</span><span class="nx">SpeechRecognition</span> <span class="o">||</span> <span class="nb">window</span><span class="p">.</span><span class="nx">webkitSpeechRecognition</span>
+</code></pre></div>
+
+<p>The SpeechRecognition interface of the Web Speech API is the controller interface for the recognition service; this also handles the SpeechRecognitionEvent sent from the recognition service. This is still an experimental technology. In chrome you need <code>window.webkitSpeechRecognition</code>.</p>
+
+<p>Create the speech recognition object, set the language. Controls whether interim results should be returned (true) or not (false.) Interim results are results that are not yet final. Setting it to true gives the whole app a realtime feel (i.e. text appears as you speak)</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">recognition</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">SpeechRecognition</span><span class="p">();</span>
+<span class="nx">recognition</span><span class="p">.</span><span class="nx">interimResults</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+<span class="nx">recognition</span><span class="p">.</span><span class="nx">lang</span> <span class="o">=</span> <span class="s1">&#39;en-US&#39;</span><span class="p">;</span>
+</code></pre></div>
+
+<p>Append a paragraph to the <code>div.words</code>, this is where the converted text goes initially.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">let</span> <span class="nx">p</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">&#39;p&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">words</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.words&#39;</span><span class="p">);</span>
+<span class="nx">words</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">p</span><span class="p">);</span>
+</code></pre></div>
+
+<p>Now we add the event handler to get notified of results. The <code>onresult</code> property of the SpeechRecognition interface represents an event handler that will run when the speech recognition service returns a result — a word or phrase has been positively recognized and this has been communicated back to the app (when the result event fires). </p>
+
+<p>Since we've set <code>recognition.interimResults = true</code>, we'll get a bunch if intermediate values as well (we'll be updating the screen on intermediate values as well to give a realtime feel). The result of the last event generated will have an <code>isFinal</code> property which will determine the final result we see on screen. </p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">recognition</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;result&#39;</span><span class="p">,</span> <span class="nx">e</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span>
+  <span class="p">});</span>
+</code></pre></div>
+
+<p>The event <code>e</code> is of type <code>SpeechRecognitionEvent</code>. The <code>e.results</code> property is a <code>SpeechRecognitionResultList</code> object. The <code>SpeechRecognitionResultList</code> contains <code>SpeechRecognitionResult</code> objects. <code>e.results</code> can be accessed like an array. The <code>r.results[0]</code> returns the <code>SpeechRecognitionResult</code> at position 0. </p>
+
+<p>Each <code>SpeechRecognitionResult</code> object contains a list of <code>SpeechRecognitionAlternative</code> objects that contain individual results. Each <code>SpeechRecognitionResult</code> can also be accessed like arrays. So <code>e.result[0][0]</code> returns the <code>SpeechRecognitionAlternative</code> at position 0 of the <code>SpeechRecognitionResult</code> at position 0 of the <code>SpeechRecognitionResultList</code> (viz <code>e.results</code>). We then return the transcript property of the SpeechRecognitionAlternative object. What we want is <code>e.result[0][0].transcript</code>. </p>
+
+<p>I know it's a bit confusing, but this is how it is! You can learn more about speech recognition @ <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition">MDN Docs</a>.</p>
+
+<p>So now filling in the event listener correctly -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">recognition</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;result&#39;</span><span class="p">,</span> <span class="nx">e</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="kr">const</span> <span class="nx">transcript</span> <span class="o">=</span> <span class="nx">e</span><span class="p">.</span><span class="nx">results</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">].</span><span class="nx">transcript</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">results</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">isFinal</span><span class="p">)</span> <span class="p">{</span>
+      <span class="nx">p</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">&#39;p&#39;</span><span class="p">);</span>
+      <span class="nx">words</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">p</span><span class="p">);</span>
+    <span class="p">}</span>
+<span class="p">});</span>
+</code></pre></div>
+
+<p>If the first <code>SpeechRecognitionResult</code> has a <code>isFinal</code> property set to true, then we understand that it the user has stopped speaking and the API is done translating. We create a new <code>&lt;p&gt;</code> element and add it to the <code>div.words</code>. Anything spoken after now goes into the new paragraph.</p>
+
+<p>Finally we start the speech recognition on page load</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">recognition</span><span class="p">.</span><span class="nx">start</span><span class="p">();</span>
+<span class="nx">recognition</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;end&#39;</span><span class="p">,</span> <span class="nx">recognition</span><span class="p">.</span><span class="nx">start</span><span class="p">);</span>
+</code></pre></div>
+
+<p><code>recognition.start()</code> Starts the speech recognition service listening to incoming audio with intent to recognize grammars associated with the current SpeechRecognition. Once the user pauses and the API finishes converting speech to text, a <code>end</code> event is triggered on the recognition object. We pass <code>recognition.start</code> to ask the browser to start listening again (otherwise the browser stops listening, and speech to text happens only once).</p>
+
+<p>That is all for this small experiment. Final code -</p>
+
+<p data-height="465" data-theme-id="dark" data-slug-hash="LrJRzy" data-default-tab="js,result" data-user="deepakkarki" data-embed-version="2" data-pen-title="JS30-20-speech-b" class="codepen">See the Pen <a href="https://codepen.io/deepakkarki/pen/LrJRzy/">JS30-20-speech-b</a> by Deepak Karki (<a href="https://codepen.io/deepakkarki">@deepakkarki</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

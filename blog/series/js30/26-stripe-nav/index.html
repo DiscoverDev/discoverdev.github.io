@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/26-stripe-nav" />
+  <meta property="og:description" content="This is the 26th project of WesBos's JS30 series. Today we'll re-creating the smooth Stripe dropdown follow-along navigation.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Stripe nav</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 26th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+Today we'll re-creating the smooth Stripe dropdown follow-along navigation.</p>
+
+<p>Video -</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/GvuWJSXYQDU' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>Starter Code -</p>
+
+<iframe height='454' scrolling='no' title='JS30-26-StripeNav-a' src='//codepen.io/deepakkarki/embed/PayxZw/?height=414&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/PayxZw/'>JS30-26-StripeNav-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>We have quite a bit of HTML and CSS given to us, but luckily we don't have to modify any of those, just write the JS bits.</p>
+
+<p>The HTML we interact with is the <code>nav.top</code> element.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">nav</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;top&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;dropdownBackground&quot;</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;arrow&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+
+   <span class="c">&lt;!-- nav bar which we see --&gt;</span>
+    <span class="p">&lt;</span><span class="nt">ul</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;cool&quot;</span><span class="p">&gt;</span>
+      <span class="c">&lt;!-- about me --&gt;</span>
+      <span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>...<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+      <span class="c">&lt;!-- Courses --&gt;</span>
+      <span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>...<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+      <span class="c">&lt;!-- other links --&gt;</span>
+      <span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>...<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">ul</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">nav</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>The <code>div.dropdownBackground</code> is the white background you see behind the nav dropdown when you hover over them. The <code>ul.cool</code> contains the actual nav items, the <code>&lt;li&gt;</code>'s corresponds to the 'about me', 'courses' and 'other links' items. Just for completeness let's have a look at a single nav element</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">a</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;#&quot;</span><span class="p">&gt;</span>About Me<span class="p">&lt;/</span><span class="nt">a</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;dropdown dropdown1&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;bio&quot;</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;https://logo.clearbit.com/wesbos.com&quot;</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>Wes Bos sure does love web development. He teaches things like JavaScript, CSS and BBQ. Wait. BBQ isn&#39;t part of web development. It should be though!<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>Each element has a link tag with the text you see on the nav, and below that is the dropdown content. The dropdown content (<code>div.dropdown</code>) should become visible when you hover over the corresponding <code>&lt;li&gt;</code> element. The dropdown has <code>display:none, opacity:0</code>, when the user hovers over the item it animates into view.</p>
+
+<hr />
+
+<p>So let's breakdown the steps required to achieve the effect -</p>
+
+<ol>
+<li>Get all the handles to the DOM elements we wish to manipulate</li>
+<li>Track mouse enter and leave</li>
+<li>Show dropdown elements on mouse enter/leave</li>
+<li>Show the background highlight, </li>
+<li>Change the width of the highlight to match the dropdown</li>
+<li>Change the position to fit behind the dropdown</li>
+</ol>
+
+<h2>Get handle on DOM elements</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">triggers</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;.cool &gt; li&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">background</span>  <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.dropdownBackground&#39;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">nav</span>  <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.top&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>Track mouse enter and leave</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">handleEnter</span><span class="p">(){</span>
+<span class="p">}</span>
+<span class="kd">function</span> <span class="nx">handleLeave</span><span class="p">(){</span>
+<span class="p">}</span>
+<span class="nx">triggers</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">trigger</span> <span class="p">=&gt;</span> <span class="nx">trigger</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mouseenter&#39;</span><span class="p">,</span> <span class="nx">handleEnter</span><span class="p">));</span>
+<span class="nx">triggers</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">trigger</span> <span class="p">=&gt;</span> <span class="nx">trigger</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mouseleave&#39;</span><span class="p">,</span> <span class="nx">handleLeave</span><span class="p">));</span>
+</code></pre></div>
+
+<p>We add the <code>mouseenter</code> and <code>mouseleave</code> event listeners on the <code>&lt;li&gt;</code> elements since we don't want to </p>
+
+<h2>Show dropdown on mouse enter/leave</h2>
+
+<p>We use the <code>trigger-enter</code> and <code>trigger-enter-active</code> CSS classes to get our desired effect. These classes are added to the <code>&lt;li&gt;</code> elements holding the dropdown.</p>
+
+<div class="codehilite"><pre><span></span><code>  <span class="p">.</span><span class="nc">trigger-enter</span> <span class="p">.</span><span class="nc">dropdown</span> <span class="p">{</span>
+    <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
+  <span class="p">}</span>
+
+  <span class="p">.</span><span class="nc">trigger-enter-active</span> <span class="p">.</span><span class="nc">dropdown</span> <span class="p">{</span>
+    <span class="k">opacity</span><span class="p">:</span> <span class="mi">1</span><span class="p">;</span>
+  <span class="p">}</span>
+</code></pre></div>
+
+<p>We'll add <code>trigger-enter-active</code> 150ms after adding <code>trigger-enter</code> since we can't animate display and opacity at the same time!</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">handleEnter</span><span class="p">()</span> <span class="p">{</span>
+  <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;trigger-enter&#39;</span><span class="p">);</span>
+  <span class="nx">setTimeout</span><span class="p">(()</span> <span class="p">=&gt;</span> <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;trigger-enter-active&#39;</span><span class="p">),</span> <span class="mi">150</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kd">function</span> <span class="nx">handleLeave</span><span class="p">()</span> <span class="p">{</span>
+  <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">remove</span><span class="p">(</span><span class="s1">&#39;trigger-enter&#39;</span><span class="p">,</span> <span class="s1">&#39;trigger-enter-active&#39;</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>At this point if you hover over the nav elements real quick you'll see that the <code>trigger-enter-active</code> class remains even after you're no longer hovering on the element. This is because <code>trigger-enter</code> is initially set, then you immediately move out (before 150ms) so <code>handleLeave</code> removes the trigger classes, only then is <code>trigger-enter-active</code> set (the initial 150ms callback)! </p>
+
+<p>We can fix this in handle enter by changing the callback to -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">setTimeout</span><span class="p">(()</span> <span class="p">=&gt;</span> <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">contains</span><span class="p">(</span><span class="s1">&#39;trigger-enter&#39;</span><span class="p">)</span> <span class="o">&amp;&amp;</span> <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;trigger-enter-active&#39;</span><span class="p">),</span> <span class="mi">150</span><span class="p">);</span>
+</code></pre></div>
+
+<p>Now the callback check whether the <code>trigger-enter</code> class exists, only then does it add <code>trigger-enter-active</code>.</p>
+
+<h2>Show the background highlight</h2>
+
+<p>To the <code>div.dropdownBackground</code> element add the <code>open</code> class to make it visible, remove it to make it disappear! Open just makes the <code>opacity : 1</code>, which is otherwise zero.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">// in handleEnter()</span>
+<span class="nx">background</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;open&#39;</span><span class="p">)</span>
+
+<span class="c1">// in handleLeave</span>
+<span class="nx">background</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">remove</span><span class="p">(</span><span class="s1">&#39;open&#39;</span><span class="p">)</span>
+</code></pre></div>
+
+<h2>Change the width of highlight</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">handleEnter</span><span class="p">(){</span>
+    <span class="c1">//....</span>
+
+    <span class="kr">const</span> <span class="nx">dropdown</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.dropdown&#39;</span><span class="p">);</span>
+    <span class="kr">const</span> <span class="nx">dropdownCoords</span> <span class="o">=</span> <span class="nx">dropdown</span><span class="p">.</span><span class="nx">getBoundingClientRect</span><span class="p">();</span>
+
+    <span class="kr">const</span> <span class="nx">height</span> <span class="o">=</span> <span class="nx">dropdownCoords</span><span class="p">.</span><span class="nx">height</span>
+    <span class="kr">const</span> <span class="nx">width</span> <span class="o">=</span> <span class="nx">dropdownCoords</span><span class="p">.</span><span class="nx">width</span>
+
+    <span class="nx">background</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">setProperty</span><span class="p">(</span><span class="s1">&#39;width&#39;</span><span class="p">,</span> <span class="sb">`</span><span class="si">${</span><span class="nx">width</span><span class="si">}</span><span class="sb">px`</span><span class="p">);</span>
+    <span class="nx">background</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">setProperty</span><span class="p">(</span><span class="s1">&#39;height&#39;</span><span class="p">,</span> <span class="sb">`</span><span class="si">${</span><span class="nx">height</span><span class="si">}</span><span class="sb">px`</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><code>elem.getBoundingClientRect()</code> gives us the dimensions and position of the element. The dimensions are absolute and the positions are relative.
+We get the dimensions of the dropdown corresponding to the element we're hovering over (<code>this</code>) and then set the dimensions of our background to the same value.</p>
+
+<h2>Change the position</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">handleEnter</span><span class="p">(){</span>
+    <span class="c1">// ....</span>
+
+    <span class="kr">const</span> <span class="nx">navCoords</span> <span class="o">=</span> <span class="nx">nav</span><span class="p">.</span><span class="nx">getBoundingClientRect</span><span class="p">()</span>
+    <span class="kr">const</span> <span class="nx">top</span> <span class="o">=</span> <span class="nx">dropdownCoords</span><span class="p">.</span><span class="nx">top</span> <span class="o">-</span> <span class="nx">navCoords</span><span class="p">.</span><span class="nx">top</span>
+    <span class="kr">const</span> <span class="nx">left</span> <span class="o">=</span> <span class="nx">dropdownCoords</span><span class="p">.</span><span class="nx">left</span> <span class="o">-</span> <span class="nx">navCoords</span><span class="p">.</span><span class="nx">left</span>
+    <span class="nx">background</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">setProperty</span><span class="p">(</span><span class="s1">&#39;transform&#39;</span><span class="p">,</span> <span class="sb">`translate(</span><span class="si">${</span><span class="nx">left</span><span class="si">}</span><span class="sb">px, </span><span class="si">${</span><span class="nx">top</span><span class="si">}</span><span class="sb">px)`</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Here we subtract <code>&lt;nav&gt;</code>'s top and left value as <code>getBoundingClientRect()</code> returns position values that are relative to the parent.</p>
+
+<p>That completes this exercise! Here is the final codepen -</p>
+
+<iframe height='465' scrolling='no' title='JS30-26-StripeNav-b' src='//codepen.io/deepakkarki/embed/BVqGRK/?height=265&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/BVqGRK/'>JS30-26-StripeNav-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

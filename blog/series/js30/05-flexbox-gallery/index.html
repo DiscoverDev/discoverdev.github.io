@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/05-flexbox-gallery" />
+  <meta property="og:description" content="This is the fifth project of WesBos's JS30 series. We will be creating a panel based gallery with flexbox, CSS transitions and javascript.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Flex Panel Gallery</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the fifth project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We will be creating a panel based gallery with flexbox, CSS transitions and javascript. This is CSS heavy and the JS bits just add and removes classes from dom elements.</p>
+
+<p>Here is the video :</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/9eif30i26jg' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>We have the following starter code :</p>
+
+<iframe height='496' scrolling='no' title='JS30-05-flex-gallery-a' src='//codepen.io/deepakkarki/embed/mKqjVo/?height=496&theme-id=dark&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/mKqjVo/'>JS30-05-flex-gallery-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>The HTML is straightforward -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="o">&lt;</span><span class="nx">div</span> <span class="kr">class</span><span class="o">=</span><span class="s2">&quot;panels&quot;</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">div</span> <span class="kr">class</span><span class="o">=</span><span class="s2">&quot;panel panel1&quot;</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nx">Hey</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+        <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nx">Let</span><span class="err">&#39;</span><span class="nx">s</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+        <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nx">Dance</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+    <span class="o">&lt;</span><span class="nx">div</span> <span class="kr">class</span><span class="o">=</span><span class="s2">&quot;panel panel2&quot;</span><span class="o">&gt;</span>
+        <span class="p">...</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+    <span class="p">...</span>
+<span class="o">&lt;</span><span class="err">/div&gt;</span>
+</code></pre></div>
+
+<p>The whole page content is held in the <code>div.panels</code> element and each gallery item is a <code>div.panel</code> element. <code>panel1</code> to <code>panel5</code> classes just add the background. All positioning is done via Flexbox. In the CSS <code>.panel</code> definition, other than the basic styling, the most relavent bits for us is the transition propery. </p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">panel</span><span class="p">{</span>
+  <span class="k">transition</span><span class="p">:</span> <span class="k">font-size</span> <span class="mf">0.7</span><span class="kt">s</span> <span class="nb">cubic-bezier</span><span class="p">(</span><span class="mf">0.61</span><span class="p">,</span> <span class="mf">-0.19</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">,</span> <span class="mf">-0.11</span><span class="p">),</span>
+            <span class="kc">flex</span> <span class="mf">0.7</span><span class="kt">s</span> <span class="nb">cubic-bezier</span><span class="p">(</span><span class="mf">0.61</span><span class="p">,</span> <span class="mf">-0.19</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">,</span> <span class="mf">-0.11</span><span class="p">),</span>
+            <span class="k">background</span> <span class="mf">0.2</span><span class="kt">s</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>The transition property is applied to the <code>font-size</code>, <code>flex</code> and <code>background</code>. </p>
+
+<p>As of now the panels are horizontally aligned, we want them to be vertical. For this, make the <code>panels</code> element a flex container. This makes the elements align vertically.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">panels</span><span class="p">{</span>
+  <span class="k">display</span><span class="p">:</span> <span class="kc">flex</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Now to fix the spacing and alignment of the vertical elements -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">panel</span><span class="p">{</span>
+  <span class="k">flex</span><span class="p">:</span> <span class="mi">1</span><span class="p">;</span>
+  <span class="k">justify-content</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
+  <span class="k">display</span><span class="p">:</span> <span class="kc">flex</span><span class="p">;</span>
+  <span class="k">flex-direction</span><span class="p">:</span> <span class="kc">column</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Here making <code>flex: 1</code> ensures they spread out and take equal amount of space, making each panel itself a flex container would ensure that the text aligns in the middle. </p>
+
+<p>Now for the animation. First let's move the first and last <code>&lt;p&gt;</code> of each panel above and below the screen respectively. 
+(Note : I've done this sligthly different than Wes Bos, he made each <code>&lt;p&gt;</code> element a flex container and translated it up/down <code>100%</code>, where as I've just moved them up/down <code>50vh</code> without having to add any flex properties.)</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nt">panel</span> <span class="o">&gt;</span> <span class="o">*</span><span class="p">:</span><span class="nd">first-child</span> <span class="p">{</span> <span class="k">transform</span><span class="p">:</span> <span class="nb">translateY</span><span class="p">(</span><span class="mi">-50</span><span class="kt">vh</span><span class="p">);</span> <span class="p">}</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">.</span><span class="nc">open-active</span> <span class="o">&gt;</span> <span class="o">*</span><span class="p">:</span><span class="nd">first-child</span> <span class="p">{</span> <span class="k">transform</span><span class="p">:</span> <span class="nb">translateY</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span> <span class="p">}</span>
+<span class="p">.</span><span class="nc">panel</span> <span class="o">&gt;</span> <span class="o">*</span><span class="p">:</span><span class="nd">last-child</span> <span class="p">{</span> <span class="k">transform</span><span class="p">:</span> <span class="nb">translateY</span><span class="p">(</span><span class="mi">50</span><span class="kt">vh</span><span class="p">);</span> <span class="p">}</span>
+<span class="p">.</span><span class="nc">panel</span><span class="p">.</span><span class="nc">open-active</span> <span class="o">&gt;</span> <span class="o">*</span><span class="p">:</span><span class="nd">last-child</span> <span class="p">{</span> <span class="k">transform</span><span class="p">:</span> <span class="nb">translateY</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span> <span class="p">}</span>
+</code></pre></div>
+
+<p>When the class <code>open-active</code> is added to the panel, the <code>&lt;p&gt;</code>'s are moved back into view. Also the panel should get bigger when it's opened</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">panel</span><span class="p">.</span><span class="nc">open</span> <span class="p">{</span>
+  <span class="k">font-size</span><span class="p">:</span> <span class="mi">40</span><span class="kt">px</span><span class="p">;</span>
+  <span class="k">flex</span><span class="p">:</span> <span class="mi">5</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><code>font-size</code> increases from <code>2em</code> to <code>40px</code> (over 0.7s) and the width increases to 5x of what it was before!</p>
+
+<p>This completes the CSS part of the animation. Try adding <code>open</code> and <code>open-active</code> classes to one of the panels below.</p>
+
+<iframe height='495' scrolling='no' title='JS30-05-flex-gallery-b' src='//codepen.io/deepakkarki/embed/OEOwEy/?height=465&theme-id=dark&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/OEOwEy/'>JS30-05-flex-gallery-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>Now we need to do the following in javascript!</p>
+
+<ol>
+<li>Listen for 'click' event on a panel, add the 'open' class</li>
+<li>Listen for 'transitionend' and add the 'open-active' class</li>
+</ol>
+
+<p>first part -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">toggleOpen</span><span class="p">(){</span>
+ <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">toggle</span><span class="p">(</span><span class="s1">&#39;open&#39;</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;.panel&#39;</span><span class="p">)</span>
+        <span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">panel</span> <span class="p">=&gt;</span> <span class="nx">panel</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">),</span> <span class="nx">toggleOpen</span><span class="p">)</span>
+</code></pre></div>
+
+<p>second part -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">toggleActive</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="k">if</span><span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">propertyName</span><span class="p">.</span><span class="nx">includes</span><span class="p">(</span><span class="s1">&#39;flex&#39;</span><span class="p">)){</span>
+    <span class="k">this</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">toggle</span><span class="p">(</span><span class="s1">&#39;open-active&#39;</span><span class="p">)</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;.panel&#39;</span><span class="p">)</span>
+        <span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">panel</span> <span class="p">=&gt;</span> <span class="nx">panel</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;transitionend&#39;</span><span class="p">),</span> <span class="nx">toggleActive</span><span class="p">)</span>
+</code></pre></div>
+
+<p>That completes our web page! The final code</p>
+
+<iframe height='497' scrolling='no' title='JS30-05-flex-gallery-c' src='//codepen.io/deepakkarki/embed/ERbMMe/?height=427&theme-id=dark&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/ERbMMe/'>JS30-05-flex-gallery-c</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

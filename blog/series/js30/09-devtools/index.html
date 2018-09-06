@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/09-devtools" />
+  <meta property="og:description" content="This is the ninth project of WesBos's JS30 series. This will be a quick set of tips and tricks relating to the chrome dev tools console!
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Dev tools tricks</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the ninth project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+This will be a quick set of tips and tricks relating to the chrome dev tools console!</p>
+
+<p>You can check out the video here</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/xkzDaKwinA8' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>There isn't much to talk about in this blog post as the video is a random assortment of tricks and tips, so I'll keep is short and simple.</p>
+
+<h2>1. Debugging</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">p</span> <span class="na">onClick</span><span class="o">=</span><span class="s">&quot;makeGreen()&quot;</span><span class="p">&gt;</span>×BREAK×DOWN×<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+    <span class="kd">function</span> <span class="nx">makeGreen</span><span class="p">()</span> <span class="p">{</span>
+      <span class="kr">const</span> <span class="nx">p</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;p&#39;</span><span class="p">);</span>
+      <span class="nx">p</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">color</span> <span class="o">=</span> <span class="s1">&#39;#BADA55&#39;</span><span class="p">;</span>
+      <span class="nx">p</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">fontSize</span> <span class="o">=</span> <span class="s1">&#39;50px&#39;</span><span class="p">;</span>
+    <span class="p">}</span>
+<span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>If you see some changes on the webpage (eg. an animation) and want to see which JS bit is causing that, then you can go to the DOM inspector and rightclick on the element and set a breakpoint on node attribute modification. The next time a JS function tries to change the attribute it will be paused in the debugger at that point!</p>
+
+<p><strong>The following are variations of <code>console.logs</code></strong></p>
+
+<h2>2. Regular</h2>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;hello&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>3. Interpolated</h2>
+
+<p>You can format <code>console.log</code> as you would have formatted <code>printf</code></p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Hello I am a %s string!&#39;</span><span class="p">,</span> <span class="s1">&#39;💩&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>4. Styled</h2>
+
+<p>You can add styles to your logged output in the console.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;%c I am some great text&#39;</span><span class="p">,</span> <span class="s1">&#39;font-size:50px; background:red; text-shadow: 10px 10px 0 blue&#39;</span><span class="p">)</span>
+</code></pre></div>
+
+<h2>5. warning!</h2>
+
+<p>Give a warning level log with a stacktrace.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">warn</span><span class="p">(</span><span class="s1">&#39;OH NOOO&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>6. Error :|</h2>
+
+<p>Give an error level log with a stacktrace.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="s1">&#39;Shit!&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>7. Info</h2>
+
+<p>Give a info level log with no stacktrace.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">info</span><span class="p">(</span><span class="s1">&#39;Crocodiles eat 3-4 people per year&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>8. Testing</h2>
+
+<p><code>console.asset(cond, msg)</code> takes in a condition expression, which if resolves to true does nothing, but if it is false assert logs an error level message with a stacktrace.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">p</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;p&#39;</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">assert</span><span class="p">(</span><span class="nx">p</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">contains</span><span class="p">(</span><span class="s1">&#39;ouch&#39;</span><span class="p">),</span> <span class="s1">&#39;That is wrong!&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>9. clearing</h2>
+
+<p>Clears the console area</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">clear</span><span class="p">();</span>
+</code></pre></div>
+
+<h2>10. Viewing DOM Elements</h2>
+
+<p>You can see the dom elements, <code>.dir()</code> also lets you inspect all the properties of the dom object.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">p</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">dir</span><span class="p">(</span><span class="nx">p</span><span class="p">);</span>
+</code></pre></div>
+
+<h2>11. Grouping together</h2>
+
+<p>You can create groups and log a set of logs under one group.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">dogs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">dog</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">groupCollapsed</span><span class="p">(</span><span class="sb">`</span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">name</span><span class="si">}</span><span class="sb">`</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`This is </span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">name</span><span class="si">}</span><span class="sb">`</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`</span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">name</span><span class="si">}</span><span class="sb"> is </span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">age</span><span class="si">}</span><span class="sb"> years old`</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`</span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">name</span><span class="si">}</span><span class="sb"> is </span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">age</span> <span class="o">*</span> <span class="mi">7</span><span class="si">}</span><span class="sb"> dog years old`</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">groupEnd</span><span class="p">(</span><span class="sb">`</span><span class="si">${</span><span class="nx">dog</span><span class="p">.</span><span class="nx">name</span><span class="si">}</span><span class="sb">`</span><span class="p">);</span>
+<span class="p">});</span>
+</code></pre></div>
+
+<h2>12. counting</h2>
+
+<p>You can count how many times a particular output has been logged.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">count</span><span class="p">(</span><span class="s1">&#39;Wes&#39;</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">count</span><span class="p">(</span><span class="s1">&#39;Wes&#39;</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">count</span><span class="p">(</span><span class="s1">&#39;Steve&#39;</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">count</span><span class="p">(</span><span class="s1">&#39;Steve&#39;</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">count</span><span class="p">(</span><span class="s1">&#39;Wes&#39;</span><span class="p">);</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">count</span><span class="p">(</span><span class="s1">&#39;Steve&#39;</span><span class="p">);</span>
+
+<span class="c1">// OUTPUT</span>
+<span class="c1">// Wes: 1</span>
+<span class="c1">// Wes: 2</span>
+<span class="c1">// Steve: 1</span>
+<span class="c1">// Steve: 2</span>
+<span class="c1">// Wes: 3</span>
+<span class="c1">// Steve: 3</span>
+</code></pre></div>
+
+<h2>13. Timing</h2>
+
+<p>You can calculate the time for a certain operation using <code>console.time</code> and <code>console.timeEnd</code>. As far as the strings passed to the calls are the same, it calculates the time between <code>time</code> and <code>timeEnd</code>. </p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">time</span><span class="p">(</span><span class="s1">&#39;fetching data&#39;</span><span class="p">);</span>
+<span class="nx">fetch</span><span class="p">(</span><span class="s1">&#39;https://api.github.com/users/wesbos&#39;</span><span class="p">)</span>
+    <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="nx">data</span> <span class="p">=&gt;</span> <span class="nx">data</span><span class="p">.</span><span class="nx">json</span><span class="p">())</span>
+    <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="nx">data</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">timeEnd</span><span class="p">(</span><span class="s1">&#39;fetching data&#39;</span><span class="p">);</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">data</span><span class="p">);</span>
+    <span class="p">});</span>
+
+<span class="c1">// Output</span>
+<span class="c1">// fetching data: 3556.47998046875ms</span>
+<span class="c1">// {login: &quot;wesbos&quot;, id: ..., …}</span>
+</code></pre></div>
+
+<h2>14. Table</h2>
+
+<p>If you have an array of objects with the same property, you can print them out in a tabular format.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">table</span><span class="p">(</span><span class="nx">dogs</span><span class="p">);</span>
+</code></pre></div>
+
+<hr />
+
+<p>Thats all for the tips and tricks, hope you found it useful!</p>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

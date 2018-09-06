@@ -106,6 +106,15 @@ header > nav > ul > li > a.highlight:hover {
     border-color: blue;
 }
 
+header > nav > ul > li > a.blog-btn{
+    padding: 5px;
+    font-size: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background: blue;
+    color: white;
+}
+
 /* ----------------------------------------------- */
 /* Wrapper */
 /* ----------------------------------------------- */

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/07-array-cardio-2" />
+  <meta property="og:description" content="This is the seventh project of WesBos's JS30 series. We will be creating a bunch of small exaples to play with various array methods such as `some()`, `every()`, `find()`, `findIndex()`, `splice()`
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">JS Array Cardio - part 2</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the seventh project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We will be creating a bunch of small exaples to play with various array methods such as <code>some()</code>, <code>every()</code>, <code>find()</code>, <code>findIndex()</code>, <code>splice()</code></p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/QNmRfyNg1lw' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>Here is the codepen with the starter files</p>
+
+<iframe height='456' scrolling='no' title='JS30-07-array-cardio-a' src='//codepen.io/deepakkarki/embed/oypQgp/?height=376&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/oypQgp/'>JS30-07-array-cardio-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>So in this exercise we'll be doing some more array exercises. Our sample data -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">people</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="p">{</span> <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Wes&#39;</span><span class="p">,</span> <span class="nx">year</span><span class="o">:</span> <span class="mi">1988</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Kait&#39;</span><span class="p">,</span> <span class="nx">year</span><span class="o">:</span> <span class="mi">1986</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Irv&#39;</span><span class="p">,</span> <span class="nx">year</span><span class="o">:</span> <span class="mi">1970</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Lux&#39;</span><span class="p">,</span> <span class="nx">year</span><span class="o">:</span> <span class="mi">2015</span> <span class="p">}</span>
+<span class="p">];</span>
+
+<span class="kr">const</span> <span class="nx">comments</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="p">{</span> <span class="nx">text</span><span class="o">:</span> <span class="s1">&#39;Love this!&#39;</span><span class="p">,</span> <span class="nx">id</span><span class="o">:</span> <span class="mi">523423</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">text</span><span class="o">:</span> <span class="s1">&#39;Super good&#39;</span><span class="p">,</span> <span class="nx">id</span><span class="o">:</span> <span class="mi">823423</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">text</span><span class="o">:</span> <span class="s1">&#39;You are the best&#39;</span><span class="p">,</span> <span class="nx">id</span><span class="o">:</span> <span class="mi">2039842</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">text</span><span class="o">:</span> <span class="s1">&#39;Ramen is my fav food ever&#39;</span><span class="p">,</span> <span class="nx">id</span><span class="o">:</span> <span class="mi">123523</span> <span class="p">},</span>
+    <span class="p">{</span> <span class="nx">text</span><span class="o">:</span> <span class="s1">&#39;Nice Nice Nice!&#39;</span><span class="p">,</span> <span class="nx">id</span><span class="o">:</span> <span class="mi">542328</span> <span class="p">}</span>
+<span class="p">];</span>
+</code></pre></div>
+
+<h2>Array.prototype.some()</h2>
+
+<p>The <code>[].some(test_fn)</code> method tests whether at least one element in the array passes the test implemented by the provided function (<code>test_fn</code>). Each element of the array is iterated upon and the element is passed to <code>test_fn</code>, if it returns true for any one of the elements, the <code>[].some()</code> method ends and returns true. If <code>test_fn</code> returns false for each element, only then does <code>[].some()</code> return false. </p>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some">MDN Docs</a></p>
+
+<p>Task : <strong>Is at least one person 19 or older?</strong></p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">res</span> <span class="o">=</span> <span class="nx">people</span><span class="p">.</span><span class="nx">some</span><span class="p">(</span><span class="nx">person</span> <span class="p">=&gt;</span> <span class="p">{</span>
+        <span class="kr">const</span> <span class="nx">currentDate</span> <span class="o">=</span> <span class="p">(</span><span class="k">new</span> <span class="nb">Date</span><span class="p">()).</span><span class="nx">getFullYear</span><span class="p">())</span>
+        <span class="k">return</span> <span class="nx">currentDate</span> <span class="o">-</span> <span class="nx">person</span><span class="p">.</span><span class="nx">year</span> <span class="o">&gt;=</span> <span class="mi">19</span>
+    <span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">res</span><span class="p">)</span> <span class="c1">//true</span>
+</code></pre></div>
+
+<h2>Array.prototype.every()</h2>
+
+<p>The <code>[].every(test_fn)</code> method tests whether all elements in the array passes the test implemented by the provided function (<code>test_fn</code>). Each element of the array is iterated upon and the element is passed to <code>test_fn</code>, if it returns true for each one of the elements, the <code>[].every()</code> method returns true. If <code>test_fn</code> returns false for even element, <code>[].every()</code> returns false.</p>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every">MDN Docs</a></p>
+
+<p>Task : <strong>Is everyone 19 or older?</strong></p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">res</span> <span class="o">=</span> <span class="nx">people</span><span class="p">.</span><span class="nx">every</span><span class="p">(</span><span class="nx">person</span> <span class="p">=&gt;</span> <span class="p">{</span>
+        <span class="kr">const</span> <span class="nx">currentDate</span> <span class="o">=</span> <span class="p">(</span><span class="k">new</span> <span class="nb">Date</span><span class="p">()).</span><span class="nx">getFullYear</span><span class="p">())</span>
+        <span class="k">return</span> <span class="nx">currentDate</span> <span class="o">-</span> <span class="nx">person</span><span class="p">.</span><span class="nx">year</span> <span class="o">&gt;=</span> <span class="mi">19</span>
+    <span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">res</span><span class="p">)</span> <span class="c1">//false</span>
+</code></pre></div>
+
+<h2>Array.prototype.find()</h2>
+
+<p>The <code>[].find(test_fn)</code> method returns the value of the first element in the array that satisfies the provided testing function (<code>test_fn</code>). Otherwise undefined is returned. This works like <code>[].some()</code>, except that it returns the first instance of the object rather than true or false.</p>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find">MDN Docs</a></p>
+
+<p>Task : <strong>find the comment with the ID of 823423</strong></p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">com</span> <span class="o">=</span> <span class="nx">comments</span><span class="p">.</span><span class="nx">find</span><span class="p">(</span><span class="nx">comment</span> <span class="p">=&gt;</span> <span class="nx">comment</span><span class="p">.</span><span class="nx">id</span> <span class="o">==</span> <span class="mi">823423</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">com</span><span class="p">)</span> <span class="c1">// { text: &#39;Super good&#39;, id: 823423 }</span>
+</code></pre></div>
+
+<h2>Array.prototype.findIndex()</h2>
+
+<p>The <code>[].findIndex(test_fn)</code> method returns the index of the first element in the array that satisfies the provided testing function (<code>test_fn</code>). Otherwise -1 is returned. Works just like <code>[].find()</code>, except it returns the index, not the element.</p>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex">MDN Docs</a></p>
+
+<p>Task : <strong>Delete the comment with the ID of 823423</strong></p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">index</span> <span class="o">=</span> <span class="nx">comments</span><span class="p">.</span><span class="nx">findIndex</span><span class="p">(</span><span class="nx">comment</span> <span class="p">=&gt;</span> <span class="nx">comment</span><span class="p">.</span><span class="nx">id</span> <span class="o">==</span> <span class="mi">823423</span><span class="p">)</span>
+<span class="kr">const</span> <span class="nx">deletedComment</span> <span class="o">=</span> <span class="nx">comments</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">index</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">deletedComment</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">comments</span><span class="p">)</span>
+</code></pre></div>
+
+<p>That is it for this project. I haven't updated the codepen as there isn't much updates to see, just open the console and try this out!</p>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

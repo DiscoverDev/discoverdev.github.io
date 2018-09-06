@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 06 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/effects-of-redis-on-an-api-server-1e228a624f15?source=rss----3a8144eabfe3---4">Effects of Redis on an API Server </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/helping-designers-adhere-to-a-design-system-with-sketch-a14db5215096?source=rss----905ea2b3d4d1---4">Helping Designers Adhere to a Design System with Sketch </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/applying-seccomp-filters-on-go-binaries">Applying Seccomp Filters at Runtime for Go Binaries </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/">Dweb: Building Cooperation and Trust into the Web with IPFS </a></li> 
+          
+            <li> <a href="https://hackernoon.com/alibaba-unveils-new-distributed-file-system-6bade3ad0413?source=rss----3a8144eabfe3---4">Alibaba Unveils PolarFS Distributed File System for Cloud Computing </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2018/08/29/tune-linux-kernel-parameters-for-postgresql-optimization/">Tune Linux Kernel Parameters For PostgreSQL Optimization </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/08/24/is-test-driven-development-right-for-you.html">Is Test Driven Development Right for You? </a></li> 
+          
+            <li> <a href="http://blog.mallow-tech.com/2018/08/things-to-be-considered-while-implementing-a-search-auto-completion-feature/">Things to be considered while implementing a Search/Auto completion feature </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 06 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 05 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Fri, 24 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 23 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/facebook-and-twitter-were-born-in-18th-century-europe-2efdf6816693?source=rss----7f60cf5620c9---4">Facebook and Twitter were born in 18th century Europe </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/">Designing For Micro-Moments </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/create-reusable-react-file-uploaders/">Creating Flexible and Reusable React File Uploaders </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/parallelizing-feature-engineering-with-dask-3db88aec33b7?source=rss----7f60cf5620c9---4">Parallelizing Feature Engineering with Dask </a></li> 
-          
-            <li> <a href="https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations">Building a System for Front-End Translations </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/">Microservices Messaging: Why REST Isn’t Always the Best Choice </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/">Utilizing Elixir as a lightweight tool to store real-time metrics data </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc?source=rss----7f60cf5620c9---4">Introduction to Word Embeddings </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 23 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-23.html</guid>
       </item>
       
   </channel>

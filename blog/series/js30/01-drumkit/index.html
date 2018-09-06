@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/01-drumkit" />
+  <meta property="og:description" content="This is the first project of WesBos's JS30 series. We will be building a "drumkit" as shown in the first two minutes of the video below. The page plays certain sound effects on pressing keys from A to L on the qwerty keyboard.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Drum kit</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the first project of WesBos's <a href="https://JavaScript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>.
+We will be building a "drumkit" as shown in the first two minutes of the video below. The page plays certain sound effects on pressing keys from A to L on the qwerty keyboard.</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VuN8qwZoego' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>Here is a codepen with the starter files (I have made <em>slight</em> modifications to the pens since it's not running on the local filesystem) :</p>
+
+<iframe height='492' scrolling='no' title='JS30-01-DrumKit-a' src='//codepen.io/deepakkarki/embed/jKmvXW/?height=492&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/jKmvXW/'>JS30-01-DrumKit-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>Let's have a look at the HTML content. The structure is rather simple - the main content is in the <code>div.keys</code> tag which contains the all the <code>div.key</code> elements. </p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;keys&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">data-key</span><span class="o">=</span><span class="s">&quot;65&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;key&quot;</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">kbd</span><span class="p">&gt;</span>A<span class="p">&lt;/</span><span class="nt">kbd</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;sound&quot;</span><span class="p">&gt;</span>clap<span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">data-key</span><span class="o">=</span><span class="s">&quot;83&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;key&quot;</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">kbd</span><span class="p">&gt;</span>S<span class="p">&lt;/</span><span class="nt">kbd</span><span class="p">&gt;</span>
+      <span class="p">&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;sound&quot;</span><span class="p">&gt;</span>hihat<span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+    ...
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>The <code>div.key</code> element displays the letter and corresponding sound beat. The key get's animated when the corresponding key is pressed on the keyboard. The <code>&lt;kbd&gt;</code> tag is essentially a span which is supposed to signify "user input from a keyboard, voice input, or any other text entry device", it's more to do with semantics than anything else! You can read more about it on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd">MDN docs page</a>.</p>
+
+<p>The next part is the <code>&lt;audio&gt;</code> tags, these contain the links to the audio files that are to be played on the correct key presses.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">audio</span> <span class="na">data-key</span><span class="o">=</span><span class="s">&quot;65&quot;</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;sounds/clap.wav&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">audio</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">audio</span> <span class="na">data-key</span><span class="o">=</span><span class="s">&quot;83&quot;</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;sounds/hihat.wav&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">audio</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">audio</span> <span class="na">data-key</span><span class="o">=</span><span class="s">&quot;68&quot;</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;sounds/kick.wav&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">audio</span><span class="p">&gt;</span>
+  ...
+<span class="p">&lt;</span><span class="nt">audio</span> <span class="na">data-key</span><span class="o">=</span><span class="s">&quot;76&quot;</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;sounds/tink.wav&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">audio</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<pre><code>The HTML &lt;audio&gt; element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the &lt;source&gt; element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a MediaStream. The `&lt;audio&gt;` tag does not render unless there is a `controls` attribute present.
+</code></pre>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio">MDN docs</a>.</p>
+
+<p>The <code>data-key</code> properties you see are custom attributes which you can add to HTML elements. The general format is <code>data-*</code>. This allows us to assoicate custom data to HTML elements (without colliding with standard attributes) in a way it can be accessed by CSS selectors and programatically via javascript.</p>
+
+<pre><code>HTML5 is designed with extensibility in mind for data that should be associated with a particular element but need not have any defined meaning. data-* attributes allow us to store extra information on standard, semantic HTML elements without other hacks such as non-standard attributes, extra properties on DOM, or Node.setUserData().
+</code></pre>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes">MDN docs</a>.</p>
+
+<p>The CSS is pretty straightforward, here are the interesting bits</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">keys</span> <span class="p">{</span><span class="c">/*</span>
+<span class="c">  set display to flex</span>
+<span class="c">  cover the whole viewport height</span>
+<span class="c">  // okay - not really interesting</span>
+<span class="c">*/</span><span class="p">}</span>
+
+<span class="p">.</span><span class="nc">key</span> <span class="p">{</span>
+  <span class="c">/*  evenly spaced flex items */</span>
+  <span class="k">transition</span><span class="p">:</span> <span class="kc">all</span> <span class="mf">.07</span><span class="kt">s</span> <span class="kc">ease</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">playing</span> <span class="p">{</span>
+  <span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">1.1</span><span class="p">);</span>
+  <span class="k">border-color</span><span class="p">:</span> <span class="mh">#ffc600</span><span class="p">;</span>
+  <span class="k">box-shadow</span><span class="p">:</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">1</span><span class="kt">rem</span> <span class="mh">#ffc600</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>These main properties involved with the animation - the <code>transition</code> on the <code>key</code> class, and the <code>playing</code> class that does the transform. More about this later.</p>
+
+<p>So this is what comes with the template, we have to write the javascript bits to get to the finished webpage.</p>
+
+<p>We can brake the problem into three parts - 
+1. Capture the keystrokes - only letters from 'A' to 'L' on the qwerty keyboard, ignore the rest.
+2. Play the corresponding sound on a valid keypress.
+3. Animate the <code>div.key</code> element that corresponds to the letter pressed.</p>
+
+<h2>Capture the keystrokes</h2>
+
+<p>We can capture keystrokes by adding a <code>keydown</code> event listener to the window object.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nb">window</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;keydown&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+    <span class="c1">// e is the event object</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span><span class="p">)</span>
+<span class="p">})</span>
+</code></pre></div>
+
+<h2>Play the audio</h2>
+
+<p>The event object has a keycode integer, which is the ascii value of the key pressed. This is where the <code>data-*</code> property becomes useful, we can select the elements based on keycode.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">playSound</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="c1">// selects the audio element where data-key=&quot;e.keyCode&quot;</span>
+  <span class="kr">const</span> <span class="nx">audio</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="sb">`audio[data-key=&quot;</span><span class="si">${</span><span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span><span class="si">}</span><span class="sb">&quot;]`</span><span class="p">)</span>
+
+  <span class="c1">//if there is no audio element with the corresponding keyCode, then don&#39;t do anything</span>
+  <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="nx">audio</span><span class="p">)</span> <span class="k">return</span><span class="p">;</span>
+
+  <span class="c1">//else reset the audio time and play it</span>
+  <span class="nx">audio</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">=</span> <span class="mi">0</span>
+  <span class="nx">audio</span><span class="p">.</span><span class="nx">play</span><span class="p">()</span>
+<span class="p">}</span>
+
+<span class="nb">window</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;keydown&#39;</span><span class="p">,</span> <span class="nx">playSound</span><span class="p">)</span>
+</code></pre></div>
+
+<p>Selecting the <code>&lt;audio&gt;</code> element gives us an object of type <code>HTMLAudioElement</code> which has access to the properties of <audio> elements, as well as methods to manipulate them. <code>.play()</code> plays the audio file associated with the tag. <code>.currentTime = 0</code> resets the audio time if it's already running, otherwise if you hold down a button, the audio wouldn't be played repeatedly because an previous instance is already playing.</p>
+
+<p>Learn more about the audio tag @ <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement">MDN docs</a></p>
+
+<p>Here is the codepen up to this point -</p>
+
+<iframe height='494' scrolling='no' title='JS30-01-DrumKit-b' src='//codepen.io/deepakkarki/embed/bKRdGd/?height=434&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/bKRdGd/'>JS30-01-DrumKit-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<h2>Animate the keys</h2>
+
+<p>The animation is done via CSS transitions. In the JS code we just add and remove the class <code>playing</code> to create the animation.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">// will go in the playSound() function</span>
+<span class="kr">const</span> <span class="nx">key</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="sb">`div[data-key=&quot;</span><span class="si">${</span><span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span><span class="si">}</span><span class="sb">&quot;]`</span><span class="p">)</span>
+<span class="nx">key</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;playing&#39;</span><span class="p">)</span>
+</code></pre></div>
+
+<p>If we recall, the transitions take <code>0.07</code> seconds. We want to remove the class <code>playing</code> right after the animation completes. Rather than hardcoding it as <code>0.07</code> seconds in the code, we can just listen on the <code>transitionend</code> event to be triggered on the element. Let's create a function <code>removeTransition</code> to take care of this logic.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">removeTransition</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="c1">//transitionend is triggered on a variety of properties, (border, box shadow, etc)</span>
+  <span class="c1">// just select one - in this case &#39;transform&#39;</span>
+  <span class="k">if</span><span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">propertyName</span> <span class="o">!=</span> <span class="s1">&#39;transform&#39;</span><span class="p">)</span> <span class="k">return</span><span class="p">;</span>
+  <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">remove</span><span class="p">(</span><span class="s1">&#39;playing&#39;</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="kr">const</span> <span class="nx">keys</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s2">&quot;.key&quot;</span><span class="p">)</span>
+<span class="nx">keys</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">key</span> <span class="p">=&gt;</span> <span class="nx">key</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;transitionend&#39;</span><span class="p">,</span> <span class="nx">removeTransition</span><span class="p">))</span>
+</code></pre></div>
+
+<p>This completes this project, here is the final codepen -</p>
+
+<iframe height='495' scrolling='no' title='JS30-01-DrumKit-c' src='//codepen.io/deepakkarki/embed/KeqBGG/?height=415&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/KeqBGG/'>JS30-01-DrumKit-c</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

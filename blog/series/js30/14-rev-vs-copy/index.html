@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/14-rev-vs-copy" />
+  <meta property="og:description" content="This is the 14th exercise of WesBos's JS30 series - A series of experiments to understand the difference between copying by value and by reference.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">JS Object Reference vs Copying</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 14th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+Well, this isn't really a project, just a series of experiments to understand the difference between copying by value and by reference.</p>
+
+<p>Here is the video -</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/YnfwDQ5XYF4' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>I won't be adding a codepen as you can simply copy paste the commands into your devtools console.</p>
+
+<p>Lets start with strings and numbers</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">start</span> <span class="kd">with</span> <span class="nx">strings</span><span class="p">,</span> <span class="nx">numbers</span> <span class="nx">and</span> <span class="nx">booleans</span>
+<span class="kd">let</span> <span class="nx">age</span> <span class="o">=</span> <span class="mi">100</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">age2</span> <span class="o">=</span> <span class="nx">age</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">age</span><span class="p">,</span> <span class="nx">age2</span><span class="p">);</span> <span class="c1">//100, 100</span>
+<span class="nx">age</span> <span class="o">=</span> <span class="mi">200</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">age</span><span class="p">,</span> <span class="nx">age2</span><span class="p">);</span> <span class="c1">//200, 100</span>
+
+<span class="kd">let</span> <span class="nx">name</span> <span class="o">=</span> <span class="s1">&#39;Wes&#39;</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">name2</span> <span class="o">=</span> <span class="nx">name</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">name</span><span class="p">,</span> <span class="nx">name2</span><span class="p">);</span> <span class="c1">//wes, wes</span>
+<span class="nx">name</span> <span class="o">=</span> <span class="s1">&#39;wesley&#39;</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">name</span><span class="p">,</span> <span class="nx">name2</span><span class="p">);</span> <span class="c1">//wesley, wes</span>
+</code></pre></div>
+
+<p>strings and numbers are immutable, we can reassign variables to newer strings/numbers, but we can't manipulate values itself.</p>
+
+<p>Let's say we have an array</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">players</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Wes&#39;</span><span class="p">,</span> <span class="s1">&#39;Sarah&#39;</span><span class="p">,</span> <span class="s1">&#39;Ryan&#39;</span><span class="p">,</span> <span class="s1">&#39;Poppy&#39;</span><span class="p">];</span>
+</code></pre></div>
+
+<p>and we make a copy of it.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">team</span> <span class="o">=</span> <span class="nx">players</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">players</span><span class="p">,</span> <span class="nx">team</span><span class="p">);</span>
+</code></pre></div>
+
+<p>You might think we can just do something like this:</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">team</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;Lux&#39;</span><span class="p">;</span>
+</code></pre></div>
+
+<p>however what happens when we update that array?</p>
+
+<div class="codehilite"><pre><span></span><code><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">players</span><span class="p">,</span> <span class="nx">team</span><span class="p">);</span>
+<span class="c1">//[&quot;Wes&quot;, &quot;Sarah&quot;, &quot;Ryan&quot;, &quot;Lux&quot;] [&quot;Wes&quot;, &quot;Sarah&quot;, &quot;Ryan&quot;, &quot;Lux&quot;]</span>
+</code></pre></div>
+
+<p>Oh no - we have edited the original array too! Why? It's because that is an array reference, not an array copy. They both point to the same array!</p>
+
+<p>So, how do we fix this? We take a copy instead!</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">// slice copies all the elements to the new array</span>
+<span class="kr">const</span> <span class="nx">team2</span> <span class="o">=</span> <span class="nx">players</span><span class="p">.</span><span class="nx">slice</span><span class="p">();</span>
+
+<span class="c1">// concat also creates a new array</span>
+<span class="kr">const</span> <span class="nx">team3</span> <span class="o">=</span> <span class="p">[].</span><span class="nx">concat</span><span class="p">(</span><span class="nx">players</span><span class="p">);</span>
+
+<span class="c1">// or use the new ES6 Spread</span>
+<span class="kr">const</span> <span class="nx">team4</span> <span class="o">=</span> <span class="p">[...</span><span class="nx">players</span><span class="p">]</span>
+
+<span class="c1">// array from is another verstile way of copying, </span>
+<span class="c1">//  you can add extra stuff like a map func or a &#39;this&#39; to be used</span>
+<span class="kr">const</span> <span class="nx">team5</span> <span class="o">=</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="nx">players</span><span class="p">);</span>
+</code></pre></div>
+
+<p>Try updating any of these and see that the players array remains unaffected.</p>
+
+<hr />
+
+<p>Objects are similar to arrays, let's say we have a person object</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">person</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Wes Bos&#39;</span><span class="p">,</span>
+    <span class="nx">age</span><span class="o">:</span> <span class="mi">80</span>
+<span class="p">};</span>
+</code></pre></div>
+
+<p>We make a copy</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">captain</span> <span class="o">=</span> <span class="nx">person</span><span class="p">;</span>
+<span class="nx">captain</span><span class="p">.</span><span class="nx">number</span> <span class="o">=</span> <span class="mi">99</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">person</span><span class="p">)</span> <span class="c1">//{name: &quot;Wes Bos&quot;, age: 80, number: 99}</span>
+</code></pre></div>
+
+<p>How do we take a copy instead?</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">cap2</span> <span class="o">=</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">assign</span><span class="p">({},</span> <span class="nx">person</span><span class="p">,</span> <span class="p">{</span> <span class="nx">number</span><span class="o">:</span> <span class="mi">99</span><span class="p">,</span> <span class="nx">age</span><span class="o">:</span> <span class="mi">12</span> <span class="p">});</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">cap2</span><span class="p">);</span>
+</code></pre></div>
+
+<p>We can use the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign">&lt;code&gt;Object.assign()&lt;/code&gt;</a> method to create a clone. </p>
+
+<p>This is only 1 level deep - both for Arrays and Objects. You can use a library like lodash has a cloneDeep method, but you should think twice before using it (performance reasons, plus you probably wouldn't need it)!</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">wes</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Wes&#39;</span><span class="p">,</span>
+    <span class="nx">age</span><span class="o">:</span> <span class="mi">100</span><span class="p">,</span>
+    <span class="nx">social</span><span class="o">:</span> <span class="p">{</span>
+      <span class="nx">twitter</span><span class="o">:</span> <span class="s1">&#39;@wesbos&#39;</span><span class="p">,</span>
+      <span class="nx">facebook</span><span class="o">:</span> <span class="s1">&#39;wesbos.developer&#39;</span>
+    <span class="p">}</span>
+<span class="p">};</span>
+
+<span class="kr">const</span> <span class="nx">dev</span> <span class="o">=</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">assign</span><span class="p">({},</span> <span class="nx">wes</span><span class="p">);</span>
+<span class="nx">dev</span><span class="p">.</span><span class="nx">social</span><span class="p">.</span><span class="nx">twitter</span> <span class="o">=</span> <span class="s2">&quot;@yolo&quot;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">wes</span><span class="p">)</span>
+<span class="c1">// Object has changed, twitter handle is now @yolo</span>
+<span class="c1">// {name:&quot;Wes&quot;, age:100, social:{twitter: &quot;@yolo&quot;, facebook: &quot;wesbos.developer&quot;}}</span>
+
+<span class="kr">const</span> <span class="nx">dev2</span> <span class="o">=</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">wes</span><span class="p">));</span>
+<span class="nx">dev2</span><span class="p">.</span><span class="nx">social</span><span class="p">.</span><span class="nx">twitter</span> <span class="o">=</span> <span class="s2">&quot;@yolo2&quot;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">wes</span><span class="p">)</span>
+<span class="c1">// Output hasn&#39;t changed, twitter handle is not @yolo2</span>
+<span class="c1">// {name:&quot;Wes&quot;, age:100, social:{twitter: &quot;@yolo&quot;, facebook: &quot;wesbos.developer&quot;}}</span>
+</code></pre></div>
+
+<p>We can have a deep copy using <code>JSON.parse</code> and <code>JSON.stringify</code>. In the second case, changing a nested object in <code>dev2</code> did not affect the original object.</p>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

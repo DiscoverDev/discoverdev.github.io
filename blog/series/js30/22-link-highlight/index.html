@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/22-link-highlight" />
+  <meta property="og:description" content="This is the 22nd project of WesBos's JS30 series. Today we learn how to make cool follow along link highlights in JavaScript.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">Follow along link highlight</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 22nd project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+Today we learn how to make cool follow along link highlights in JavaScript.</p>
+
+<p>Video - </p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/POP_qri7RA8' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>Codepen -</p>
+
+<iframe height='444' scrolling='no' title='JS30-22-LinkHighlight-a' src='//codepen.io/deepakkarki/embed/OEoBRY/?height=444&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/OEoBRY/'>JS30-22-LinkHighlight-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>We have a menu and some junk html with links interspersed. The idea is to create an highlight that moves from one link to another on hover, in a smooth animated fashion.</p>
+
+<p>We'll achieve the highlight with an underlying <code>span.highlight</code> element. The CSS for this is already given, it contains the transition property for animation effect -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">highlight</span> <span class="p">{</span>
+  <span class="k">transition</span><span class="p">:</span> <span class="kc">all</span> <span class="mf">0.2</span><span class="kt">s</span><span class="p">;</span>
+  <span class="k">border-bottom</span><span class="p">:</span><span class="mi">2</span><span class="kt">px</span> <span class="kc">solid</span> <span class="kc">white</span><span class="p">;</span>
+  <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
+  <span class="k">top</span><span class="p">:</span><span class="mi">0</span><span class="p">;</span>
+  <span class="k">background</span><span class="p">:</span><span class="kc">white</span><span class="p">;</span>
+  <span class="k">left</span><span class="p">:</span><span class="mi">0</span><span class="p">;</span>
+  <span class="k">z-index</span><span class="p">:</span> <span class="mi">-1</span><span class="p">;</span>
+  <span class="k">border-radius</span><span class="p">:</span><span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+  <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
+  <span class="k">box-shadow</span><span class="p">:</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">10</span><span class="kt">px</span> <span class="nb">rgba</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mf">0.2</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Adding the element via JS</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">highlight</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">&#39;span&#39;</span><span class="p">)</span>
+<span class="nx">highlight</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;highlight&#39;</span><span class="p">)</span>
+<span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">highlight</span><span class="p">)</span>
+</code></pre></div>
+
+<p>This creates an span element and adds the class 'highlight' to it. Then appends the element to the end of the document body.</p>
+
+<p>Now to figure when there is an hover </p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">triggers</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;a&#39;</span><span class="p">);</span>
+<span class="nx">triggers</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">a</span> <span class="p">=&gt;</span> <span class="nx">a</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;mouseenter&#39;</span><span class="p">,</span> <span class="nx">highlightLink</span><span class="p">))</span>
+<span class="kd">function</span> <span class="nx">highlightLink</span><span class="p">()</span> <span class="p">{</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>In <code>highlightLink()</code> we need to move the span element exactly over the link we're hovering on. Due to <code>z-index: -1</code> on the highlight element, it moves under the link.</p>
+
+<p>To find the position and dimensions of the link, we'll use <code>getBoundingClientRect()</code>. This method returns the size of an element and its position relative to the viewport. The returned value is a <code>DOMRect</code> object. The result is the smallest rectangle which contains the entire element, with left, top, right, bottom, x, y, width, and height properties describing the overall border-box in pixels. Properties other than width and height are relative to the top-left of the viewport.</p>
+
+<p>Learn more @ <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect">MDN Docs</a>.</p>
+
+<p>Key thing to note here is that the top, left, right, bottom are all relative to the viewport.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">highlightLink</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">linkCoords</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">getBoundingClientRect</span><span class="p">();</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">linkCoords</span><span class="p">);</span>
+  <span class="kr">const</span> <span class="nx">coords</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="c1">//width and height are absolute</span>
+    <span class="nx">width</span><span class="o">:</span> <span class="nx">linkCoords</span><span class="p">.</span><span class="nx">width</span><span class="p">,</span>
+    <span class="nx">height</span><span class="o">:</span> <span class="nx">linkCoords</span><span class="p">.</span><span class="nx">height</span><span class="p">,</span>
+
+    <span class="c1">// we need to add scroll since </span>
+    <span class="c1">//top,left are relative to the viewport</span>
+    <span class="nx">top</span><span class="o">:</span> <span class="nx">linkCoords</span><span class="p">.</span><span class="nx">top</span> <span class="o">+</span> <span class="nb">window</span><span class="p">.</span><span class="nx">scrollY</span><span class="p">,</span>
+    <span class="nx">left</span><span class="o">:</span> <span class="nx">linkCoords</span><span class="p">.</span><span class="nx">left</span> <span class="o">+</span> <span class="nb">window</span><span class="p">.</span><span class="nx">scrollX</span>
+  <span class="p">};</span>
+
+  <span class="nx">highlight</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">width</span> <span class="o">=</span> <span class="sb">`</span><span class="si">${</span><span class="nx">coords</span><span class="p">.</span><span class="nx">width</span><span class="si">}</span><span class="sb">px`</span><span class="p">;</span>
+  <span class="nx">highlight</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">height</span> <span class="o">=</span> <span class="sb">`</span><span class="si">${</span><span class="nx">coords</span><span class="p">.</span><span class="nx">height</span><span class="si">}</span><span class="sb">px`</span><span class="p">;</span>
+  <span class="nx">highlight</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">transform</span> <span class="o">=</span> <span class="sb">`translate(</span><span class="si">${</span><span class="nx">coords</span><span class="p">.</span><span class="nx">left</span><span class="si">}</span><span class="sb">px, </span><span class="si">${</span><span class="nx">coords</span><span class="p">.</span><span class="nx">top</span><span class="si">}</span><span class="sb">px)`</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>We extract the dimensions and position of the link element we're hovering over and set the style of the highlight element to those dimensions and move it to that position. Since there is already a <code>transition: all 0.2s</code> set in highlight's CSS, the change will appear animated.</p>
+
+<p>Here is the final code -</p>
+
+<iframe height='458' scrolling='no' title='JS30-22-LinkHighlight-b' src='//codepen.io/deepakkarki/embed/VdGVmZ/?height=388&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/VdGVmZ/'>JS30-22-LinkHighlight-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

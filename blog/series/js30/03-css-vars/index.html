@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/03-css-vars" />
+  <meta property="og:description" content="This is the third project of WesBos's JS30 series. We will be building a simple app to play with CSS variables.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">CSS variables and JS</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the third project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We will be building a simple app to play with CSS variables. Check the first few minuted of the video to find out what were building -</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/undefined' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>Here is the codepen with the starter files</p>
+
+<iframe height='455' scrolling='no' title='JS30-03-css-vars-a' src='//codepen.io/deepakkarki/embed/wXrwwO/?height=455&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/wXrwwO/'>JS30-03-css-vars-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>At under 50 lines we have minimal, self explanatory starter code.</p>
+
+<p>The main part we'll be dealing with in the HTML is the user control</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;controls&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">&quot;spacing&quot;</span><span class="p">&gt;</span>Spacing:<span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">id</span><span class="o">=</span><span class="s">&quot;spacing&quot;</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;range&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;spacing&quot;</span> <span class="na">min</span><span class="o">=</span><span class="s">&quot;10&quot;</span> <span class="na">max</span><span class="o">=</span><span class="s">&quot;200&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;10&quot;</span> <span class="na">data-sizing</span><span class="o">=</span><span class="s">&quot;px&quot;</span><span class="p">&gt;</span>
+
+    <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">&quot;blur&quot;</span><span class="p">&gt;</span>Blur:<span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">id</span><span class="o">=</span><span class="s">&quot;blur&quot;</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;range&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;blur&quot;</span> <span class="na">min</span><span class="o">=</span><span class="s">&quot;0&quot;</span> <span class="na">max</span><span class="o">=</span><span class="s">&quot;25&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;10&quot;</span> <span class="na">data-sizing</span><span class="o">=</span><span class="s">&quot;px&quot;</span><span class="p">&gt;</span>
+
+    <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">&quot;base&quot;</span><span class="p">&gt;</span>Base Color<span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">id</span><span class="o">=</span><span class="s">&quot;base&quot;</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;color&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;base&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;#ffc600&quot;</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>Change the border thickness and blur based on the sliders. Change the color of the border and heading to the 'Base Color' picked.</p>
+
+<p>Quick intro to CSS variables -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c">/* Declaring a variable*/</span>
+<span class="nt">element</span> <span class="p">{</span>
+  <span class="err">--</span><span class="n">main-bg-color</span><span class="p">:</span> <span class="kc">brown</span><span class="p">;</span>
+<span class="p">}</span> 
+
+<span class="c">/* Using the variable */</span>
+<span class="nt">element</span> <span class="p">{</span>
+  <span class="k">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">main</span><span class="o">-</span><span class="n">bg</span><span class="o">-</span><span class="kc">color</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>All variables start with <code>--</code> and are followed by a value, it is like settign any other CSS property except that this value set can be accessed by using <code>var(--var-name)</code>. Variables are also inherited (following the standard CSS cascading principles), variables defined at <code>:root</code> apply to all the other elements unless the variable is overridden by a closer ancestor. Let's take an example, assume we have the following HTML -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;one&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;two&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;three&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;four&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>And this is our CSS</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">two</span> <span class="p">{</span>
+  <span class="err">--</span><span class="n">test</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">three</span> <span class="p">{</span>
+  <span class="err">--</span><span class="n">test</span><span class="p">:</span> <span class="mi">2</span><span class="kt">em</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Results (note that the inheritence is similar to any other inheritable CSS property) -</p>
+
+<ul>
+<li>for the class="two" element: 10px</li>
+<li>for the class="three" element: 2em</li>
+<li>for the class="four" element: 10px (inherited from its parent)</li>
+<li>for the class="one" element: invalid value, which is the default value of any custom property.</li>
+</ul>
+
+<p>To access the variable from JS -</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">//assuming :root is being set, else call setProperty on the specific element</span>
+<span class="nb">document</span><span class="p">.</span><span class="nx">documentElement</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">setProperty</span><span class="p">(</span><span class="s1">&#39;--var-name&#39;</span><span class="p">,</span> <span class="s1">&#39;$val&#39;</span><span class="p">);</span>
+</code></pre></div>
+
+<p>This was taken from an example on <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables">MDN Docs</a>, go there to learn more about CSS variables.</p>
+
+<p>So now to carry on with our web page, we can break it down into three parts -</p>
+
+<ol>
+<li>Set the CSS properties to read from the variable</li>
+<li>Capture input</li>
+<li>Update the variable</li>
+</ol>
+
+<h3>Set the CSS variables</h3>
+
+<p>We have three variables <code>--base</code>, <code>--spacing</code> and <code>--blur</code></p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">:</span><span class="nd">root</span> <span class="p">{</span>
+  <span class="err">--</span><span class="n">base</span><span class="p">:</span> <span class="kc">yellow</span><span class="p">;</span>
+  <span class="err">--</span><span class="n">spacing</span><span class="p">:</span> <span class="mi">5</span><span class="kt">px</span><span class="p">;</span>
+  <span class="err">--</span><span class="n">blur</span><span class="p">:</span> <span class="mi">0</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">img</span> <span class="p">{</span>
+  <span class="k">padding</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">spacing</span><span class="p">);</span>
+  <span class="k">background</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">base</span><span class="p">);</span>
+  <span class="k">filter</span><span class="p">:</span> <span class="nb">blur</span><span class="p">(</span><span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">blur</span><span class="p">));</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">hl</span> <span class="p">{</span>
+    <span class="k">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">base</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>So now the styles are set by the variables, chaging the variables would automatically update the styles wherever the variables were referenced!</p>
+
+<h3>Capture the input</h3>
+
+<p>One thing to note, <code>htmlElem.dataset</code> gives us the object that contains key value pairs of all <code>data-*</code> attributes. 
+Eg. If our element was <code>&lt;div data-x="a" data-y="b"&gt;&lt;/div&gt;</code>, we'd get <code>{'x': 'a', 'y': 'b'}</code> and it is of type <code>DOMStringMap</code></p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">//get the list of all the input element</span>
+<span class="kr">const</span> <span class="nx">inputs</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;.controls input&#39;</span><span class="p">)</span>
+
+<span class="c1">//doing it a bit differently than WesBos here, this way seems better</span>
+<span class="nx">inputs</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">input</span> <span class="p">=&gt;</span> <span class="nx">input</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;input&#39;</span><span class="p">,</span> <span class="nx">handleUpdate</span><span class="p">))</span>
+
+<span class="c1">// we need to update the correct variable with the new value</span>
+<span class="kd">function</span> <span class="nx">handleUpdate</span><span class="p">(){</span>
+  <span class="c1">// this =&gt; the element that generated the input event</span>
+
+  <span class="c1">// check if the value needs to be suffixed with a unit</span>
+  <span class="kr">const</span> <span class="nx">suffix</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">dataset</span><span class="p">.</span><span class="nx">sizing</span> <span class="o">||</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+
+  <span class="c1">// this.name is the same as the CSS variable it should update</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">documentElement</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">setProperty</span><span class="p">(</span><span class="sb">`--</span><span class="si">${</span><span class="k">this</span><span class="p">.</span><span class="nx">name</span><span class="si">}</span><span class="sb">`</span><span class="p">,</span> <span class="k">this</span><span class="p">.</span><span class="nx">value</span> <span class="o">+</span> <span class="nx">suffix</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>This completes our webpage, completed codepen below -</p>
+
+<iframe height='457' scrolling='no' title='JS30-03-css-vars-b' src='//codepen.io/deepakkarki/embed/RJLoOO/?height=457&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/RJLoOO/'>JS30-03-css-vars-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>

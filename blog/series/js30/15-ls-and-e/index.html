@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+        <link rel="icon" type="image/x-icon" href="/assets/img/dd-logo.ico">
+        <link rel="shortcut icon" type="img/ico" href="/assets/img/dd-logo.ico">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="/css/vendor/normalize.css">
+        <link rel="stylesheet" href="/css/vendor/grid.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/queries.css">
+        <meta property="og:title" content="DiscoverDev | Daily digest of engineering blog posts for software developers" />
+        <meta property="og:image" content="https://i.lensdump.com/i/uYTND.png" />
+        <title>Discover dev</title>
+        <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-102291280-1', 'auto');
+              ga('send', 'pageview');
+
+        </script>
+    
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://discoverdev.io/blog/series/js30/15-ls-and-e" />
+  <meta property="og:description" content="This is the 15th project of WesBos's JS30 series. We'll be building a to-do list of sorts, with local storage to persist the information across a refresh or reload.
+" />
+  <link rel="stylesheet" href="/css/blog-post.css">
+  <link rel="stylesheet" href="/css/blog-mail.css">
+  <link rel="stylesheet" href="/css/blog-md.css">
+  <link rel="stylesheet" href="/css/code-highlight.css">
+
+</head>
+
+<body>
+<header class="clearfix">
+  
+    <div class="logo"><a href="/"><img src="/assets/img/dd-logo-and-text.svg" alt=""></a> </div>
+    <nav>
+        <ul>
+        <li><a href="/tags/">/tags</a></li>
+        <li><a href="/archive.html">/archive</a></li>
+        <li><a href="/about.html">/about</a></li>
+        <li><a href="mailto:makers@discoverdev.io" target="_blank">/contact-us</a></li>
+        <li><a href="/subscribe.html" class="highlight">/Subscribe</a></li>
+        </ul>
+    </nav>
+  
+</header>
+
+
+<main>
+<div class="bpost-wrapper clearfix">
+  
+  <article class="bpost-content">
+    <header><h1 class="bpost-title">LocalStorage and Event Delegation</h1></header>
+    <!-- Probably date and author card here -->
+
+    <section class="md-content-render">
+      <p>This is the 15th project of WesBos's <a href="https://javascript30.com/friend/DISCOVERDEV">JS30 series</a>. To see the <strong>whole 30 part series</strong>, <a href="../">click here</a>
+We'll be building a to-do list of sorts, with local storage to persist the information across a refresh or reload.</p>
+
+<p>The video can be found here</p>
+
+<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/YL1F4dCUlLc' frameborder='0' allowfullscreen></iframe></div></p>
+
+<p>The codepen for the starter code</p>
+
+<iframe height='454' scrolling='no' title='JS30-15-LocalStorage-a' src='//codepen.io/deepakkarki/embed/VddKpd/?height=404&theme-id=dark&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/VddKpd/'>JS30-15-LocalStorage-a</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p>HTML </p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;wrapper&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">h2</span><span class="p">&gt;</span>LOCAL TAPAS<span class="p">&lt;/</span><span class="nt">h2</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">ul</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;plates&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>Loading Tapas...<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">ul</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">form</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;add-items&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;text&quot;</span> <span class="na">name</span><span class="o">=</span><span class="s">&quot;item&quot;</span> <span class="na">placeholder</span><span class="o">=</span><span class="s">&quot;Item Name&quot;</span> <span class="na">required</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;submit&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;+ Add Item&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;/</span><span class="nt">form</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>The text box to add items is essentially a <code>form.add-items</code> element. The list of items already added will be displayed in the <code>ul.plates</code> element.
+There was another other SVG logo as a part of the HTML I didn't include as it just made it harder to read (with no significance to the functionality).</p>
+
+<p>As for the CSS, all the styling is quite standard, except one I found interesting. If you'd watch the video you'd see that the checkbox gives you a taco when you check it. Clearly not the standard defaults! So what's happening here?</p>
+
+<p>Let's look at what an item looks like when it's added to the list, you'll see that the checkbox has a label next to it with the <code>for="item0"</code> property. This links the label to the element with <code>id="item0"</code>, which is the adjacent checkbox. So clicking on the label has the same effect as clicking on the adjacent checkbox.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;checkbox&quot;</span> <span class="na">data-index</span><span class="o">=</span><span class="s">&quot;0&quot;</span> <span class="na">id</span><span class="o">=</span><span class="s">&quot;item0&quot;</span> <span class="na">checked</span><span class="o">=</span><span class="s">&quot;&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">&quot;item0&quot;</span><span class="p">&gt;</span>hi<span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>Now in the CSS, all input elements under <code>.plates</code> is set to <code>display: none</code>, i.e. the checkbox won't be seen. Instead the empty white box and the taco come from the <code>label:before</code>, where the label is the one adjacent to the invisible checkbox. When the checkbox is checked (<code>input:checked</code>), it turns the content of the before pseudo element to a taco. So what we see as getting checked/unchecked is not even the checkbox, but rather a pseudo element of the label.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="p">.</span><span class="nc">plates</span> <span class="nt">input</span> <span class="p">{</span>
+  <span class="k">display</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">plates</span> <span class="nt">input</span> <span class="o">+</span> <span class="nt">label</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+  <span class="k">content</span><span class="p">:</span> <span class="s1">&#39;⬜️&#39;</span><span class="p">;</span>
+  <span class="k">margin-right</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">plates</span> <span class="nt">input</span><span class="p">:</span><span class="nd">checked</span> <span class="o">+</span> <span class="nt">label</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+  <span class="k">content</span><span class="p">:</span> <span class="s1">&#39;🌮&#39;</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>You can learn more about the <code>:before</code> pesudo element @ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/::before">MDN Docs</a></p>
+
+<hr />
+
+<p>The JS given to us</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">addItems</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">&quot;.add-items&quot;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">itemsList</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">&quot;.plates&quot;</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">items</span> <span class="o">=</span> <span class="p">[];</span>
+</code></pre></div>
+
+<p>We have handles to the form where the user inputs new items and the list where the items are displayed. The <code>items</code> array holds all the items.</p>
+
+<p>Main steps involved to complete our app</p>
+
+<ul>
+<li>Add new items to the <code>items</code> array</li>
+<li>Display the items in the <code>items</code> array</li>
+<li>Toggle an item</li>
+<li>Save the list to local storage</li>
+</ul>
+
+<h2>Adding new items</h2>
+
+<p>We add new items using a html form. Submitting a form by default makes a get request and goes to the new URL. We call <code>e.preventDefault()</code> to prevent the default behavior.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">addItem</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">e</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
+  <span class="kr">const</span> <span class="nx">text</span> <span class="o">=</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;[name=item]&#39;</span><span class="p">)).</span><span class="nx">value</span><span class="p">;</span>
+  <span class="kr">const</span> <span class="nx">item</span> <span class="o">=</span> <span class="p">{</span>
+      <span class="nx">text</span><span class="p">,</span>
+      <span class="nx">done</span><span class="o">:</span> <span class="kc">false</span>
+  <span class="p">};</span>
+
+  <span class="nx">items</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">item</span><span class="p">);</span>
+
+  <span class="c1">//  display the list - populateList();</span>
+  <span class="c1">//  store to local storage - localStorage.set()</span>
+
+  <span class="k">this</span><span class="p">.</span><span class="nx">reset</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="nx">addItems</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;submit&#39;</span><span class="p">,</span> <span class="nx">addItem</span><span class="p">);</span>
+</code></pre></div>
+
+<p>In <code>addItem()</code>, <code>this</code> refers to the <code>form.add-items</code> DOM object. We then select the text input element and get the text inside of it. We create a new items object and then push it into the items list. Once it is added we call <code>reset()</code> on the form to clear the input text box.</p>
+
+<h2>Display the items</h2>
+
+<p><code>populateList()</code> does the work of taking in an array and displaying the list. We could have <code>populateList()</code> just use the global <code>items</code> and <code>itemsList</code> variables, but that would be hardcoding, it's better to pass the variables in case we ever want to use the functions for anything else.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">populateList</span><span class="p">(</span><span class="nx">plates</span> <span class="o">=</span> <span class="p">[],</span> <span class="nx">platesList</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">platesList</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">plates</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">plate</span><span class="p">,</span> <span class="nx">i</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="sb">`</span>
+<span class="sb">      &lt;li&gt;</span>
+<span class="sb">        &lt;input type=&quot;checkbox&quot; data-index=</span><span class="si">${</span><span class="nx">i</span><span class="si">}</span><span class="sb"> id=&quot;item</span><span class="si">${</span><span class="nx">i</span><span class="si">}</span><span class="sb">&quot; </span><span class="si">${</span><span class="nx">plate</span><span class="p">.</span><span class="nx">done</span> <span class="o">?</span> <span class="s1">&#39;checked&#39;</span> <span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="si">}</span><span class="sb"> /&gt;</span>
+<span class="sb">        &lt;label for=&quot;item</span><span class="si">${</span><span class="nx">i</span><span class="si">}</span><span class="sb">&quot;&gt;</span><span class="si">${</span><span class="nx">plate</span><span class="p">.</span><span class="nx">text</span><span class="si">}</span><span class="sb">&lt;/label&gt;</span>
+<span class="sb">      &lt;/li&gt;</span>
+<span class="sb">    `</span><span class="p">;</span>
+  <span class="p">}).</span><span class="nx">join</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kd">function</span> <span class="nx">addItem</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span>
+  <span class="c1">//...</span>
+  <span class="c1">//  display the list - populateList()</span>
+  <span class="nx">populateList</span><span class="p">(</span><span class="nx">items</span><span class="p">,</span> <span class="nx">itemsList</span><span class="p">)</span>
+
+  <span class="c1">//...</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><code>populateList()</code> uses template strings and <code>[].map</code> to create <code>&lt;li&gt;</code> elements from each element in the array, which is late concatenated into one string which <code>platesList.innerHTML</code> is set to. <code>addItem</code> uses <code>populateList</code> to render all the current items.</p>
+
+<h2>Toggle an item</h2>
+
+<p><code>toggleDone</code> deals with the click event to toggle an item. We can attach a listener on the checkbox element, but the moment we add a new item, all <code>&lt;li&gt;</code> elements are recreated by <code>populateList</code>. Hence adding an event listener on those items makes no sense. We solve this issue by using event delegation - we let the parent element take care of the click event to toggle an item. The parent in this case is the <code>ul.item-plates</code> element.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">toggleDone</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">matches</span><span class="p">(</span><span class="s1">&#39;input&#39;</span><span class="p">))</span> <span class="k">return</span><span class="p">;</span> <span class="c1">// skip this unless it&#39;s an input</span>
+    <span class="kr">const</span> <span class="nx">el</span> <span class="o">=</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">;</span>
+    <span class="kr">const</span> <span class="nx">index</span> <span class="o">=</span> <span class="nx">el</span><span class="p">.</span><span class="nx">dataset</span><span class="p">.</span><span class="nx">index</span><span class="p">;</span>
+    <span class="nx">items</span><span class="p">[</span><span class="nx">index</span><span class="p">].</span><span class="nx">done</span> <span class="o">=</span> <span class="o">!</span><span class="nx">items</span><span class="p">[</span><span class="nx">index</span><span class="p">].</span><span class="nx">done</span><span class="p">;</span>
+    <span class="nx">populateList</span><span class="p">(</span><span class="nx">items</span><span class="p">,</span> <span class="nx">itemsList</span><span class="p">);</span>
+  <span class="p">}</span>
+
+<span class="nx">itemsList</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="nx">toggleDone</span><span class="p">);</span>
+</code></pre></div>
+
+<p>If you had paid close attention to the <code>populateList</code> function you'd see that the input element for the item has <code>data-index=${i}</code> where <code>i</code> is the index of that item in the <code>items</code> array. So now <code>toggleDone</code> checks if the event target is a input element (only input element being a checkbox), extracts the index from the data attribute, toggles the <code>done</code> in the <code>items</code> array, and then re-renders the list by calling <code>populateList</code>.</p>
+
+<p>Here is the code up until this point </p>
+
+<iframe height='437' scrolling='no' title='JS30-15-LocalStorage-b' src='//codepen.io/deepakkarki/embed/vrrXZz/?height=437&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/vrrXZz/'>JS30-15-LocalStorage-b</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<h2>Save the list to LocalStorage</h2>
+
+<p>We want to persist the list after a refresh or for a later point in time, for this we'll use local storage. Local storage is a key value store where the key and value are strings. </p>
+
+<p>A simple example</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">// set the value &quot;Tom&quot; for key &quot;myCat&quot; in the local storage</span>
+<span class="nx">localStorage</span><span class="p">.</span><span class="nx">setItem</span><span class="p">(</span><span class="s1">&#39;myCat&#39;</span><span class="p">,</span> <span class="s1">&#39;Tom&#39;</span><span class="p">);</span> 
+
+<span class="c1">// cat has value &quot;Tom&quot;</span>
+<span class="kd">var</span> <span class="nx">cat</span> <span class="o">=</span> <span class="nx">localStorage</span><span class="p">.</span><span class="nx">getItem</span><span class="p">(</span><span class="s1">&#39;myCat&#39;</span><span class="p">);</span> 
+
+<span class="c1">//remove the &quot;myCat&quot; key from local storage</span>
+<span class="nx">localStorage</span><span class="p">.</span><span class="nx">removeItem</span><span class="p">(</span><span class="s1">&#39;myCat&#39;</span><span class="p">);</span> 
+</code></pre></div>
+
+<p>You can learn more about Local Storage @ <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">MDN Docs</a>.</p>
+
+<p>Since we want to keep the local storage in sync with the UI, we'll update the local storage when ever we call <code>populateList()</code>.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kd">function</span> <span class="nx">toggleDone</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">//...</span>
+  <span class="nx">localStorage</span><span class="p">.</span><span class="nx">setItem</span><span class="p">(</span><span class="s1">&#39;items&#39;</span><span class="p">,</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">items</span><span class="p">));</span>
+  <span class="nx">populateList</span><span class="p">(</span><span class="nx">items</span><span class="p">,</span> <span class="nx">itemsList</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kd">function</span> <span class="nx">addItem</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">//...</span>
+  <span class="nx">localStorage</span><span class="p">.</span><span class="nx">setItem</span><span class="p">(</span><span class="s1">&#39;items&#39;</span><span class="p">,</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">items</span><span class="p">));</span>
+  <span class="nx">populateList</span><span class="p">(</span><span class="nx">items</span><span class="p">,</span> <span class="nx">itemsList</span><span class="p">);</span>
+  <span class="c1">//...</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Also we need to get the items from local storage when we load the page. We'll modify <code>items</code> array to take read from the local storage first, if it doesn't have an 'items' key, we'll assign it to an empty array as we had earlier.</p>
+
+<div class="codehilite"><pre><span></span><code><span class="kr">const</span> <span class="nx">items</span> <span class="o">=</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">localStorage</span><span class="p">.</span><span class="nx">getItem</span><span class="p">(</span><span class="s1">&#39;items&#39;</span><span class="p">))</span> <span class="o">||</span> <span class="p">[];</span>
+</code></pre></div>
+
+<p>That completes our to-do list kind of app. The final codepen (note that local storage bits may not work in the codepen iframe)</p>
+
+<iframe height='465' scrolling='no' title='JS30-15-LocalStorage-c' src='//codepen.io/deepakkarki/embed/QxxGdv/?height=265&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/deepakkarki/pen/QxxGdv/'>JS30-15-LocalStorage-c</a> by Deepak Karki (<a href='https://codepen.io/deepakkarki'>@deepakkarki</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+    </section>
+
+    <section class="bpost-email-footer">
+      <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+    </section>
+  </article>
+
+  <aside class="bpost-email">
+    <div class="blog-email-signup">
+
+  <h2> STAY UPDATED </h2>
+
+  <p class="signup-msg">
+    Join 5000+ fellow software engineers and keep up with the top engineering content from companies all over the world. Carefully handpicked and delivered to your mailbox every week!<br>
+  </p>
+
+  <form action="https://discoverdev.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="c32352dc58bef5cdd7821a012">
+    <input type="hidden" name="id" value="6aab40a607">
+    
+    <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" class="email" size="25" placeholder="Email" value="">
+    <input type="submit" value="Subscribe">
+  </form>
+
+  <p class="privacy-msg">We take your time and privacy seriously - we don't spam or share your email. Unsubscribe anytime.</p>
+</div>
+  </aside>
+
+</div>
+
+
+</main>
+
+
+<footer>
+  <p class="msg">Made with <b style="font-size:20px;"> &hearts;</b> by a group of nerds on Earth!</p>
+  <p class="copyright">© Copyright 2018 Discoverdev.io</p>
+</footer>
+<div class="ghost-footer"></div>
+</body>
+</html>
