@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 11 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/consistent-hashing-with-bounded-loads-using-a-red-black-tree-b5aaf0d8540f?source=rss----3a8144eabfe3---4">Consistent hashing with bounded loads, using a Red-Black Tree </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/recurrent-neural-networks-the-powerhouse-of-language-modeling-d45acc50444f?source=rss----7f60cf5620c9---4">Recurrent Neural Networks: The Powerhouse of Language Modeling </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/refactoring-deeper-model?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Refactoring to a Deeper Model </a></li> 
+          
+            <li> <a href="https://hackernoon.com/event-sourcing-using-writer-monad-b26a390285a?source=rss----3a8144eabfe3---4">Event Sourcing Using Writer Monad </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/detection-and-segmentation-through-convnets-47aa42de27ea?source=rss----7f60cf5620c9---4">Detection and Segmentation through ConvNets </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/porting-our-software-to-arm64/">Porting Our Software to ARM64 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/microservices-post-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Microservices in a Post-Kubernetes Era </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/ecommerce-transformed-cognitive-services-and-the-future/">eCommerce Transformed: Cognitive Services and the Future </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 11 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 10 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,36 +285,6 @@
         <pubDate>Wed, 29 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 28 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17?source=rss----217c2715f1c8---4">Implementing single file Web Components </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/deepsig-deep-learning-wireless-communications/">DeepSig: Deep Learning for Wireless Communications </a></li> 
-          
-            <li> <a href="https://blog.sqreen.io/webassembly-performance/">WebAssembly vs. the world. Should you use WebAssembly? </a></li> 
-          
-            <li> <a href="https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial">Schooling Flappy Bird: A Reinforcement Learning Tutorial </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ui/ui-color-guide">A Spectrum of Possibilities: The Go-To UI Color Guide </a></li> 
-          
-            <li> <a href="https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/">When to Use What: REST, GraphQL, Webhooks, &amp; gRPC </a></li> 
-          
-            <li> <a href="https://hackernoon.com/adding-a-pipe-operator-to-python-19a3aa295642?source=rss----3a8144eabfe3---4">Adding a pipe operator to Python </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/tensor-ops-made-easier-in-cudnn/">Tensor Ops Made Easier in cuDNN </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/from-big-data-to-micro-services-how-to-serve-spark-trained-models-through-aws-lambdas-ebe129f4849c?source=rss----7f60cf5620c9---4">From Big Data to micro-services: how to serve Spark-trained models through AWS lambdas </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 28 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-28.html</guid>
       </item>
       
   </channel>
