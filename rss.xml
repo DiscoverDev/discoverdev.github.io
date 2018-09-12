@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 12 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/our-engineering-experience-with-react-and-storybook/">Our Engineering Experience with React and Storybook </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/haskell-jvm-system-performance?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Beauty and the Beast, Haskell on JVM </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/scaling-knowledge-access-and-retrieval-at-airbnb-665b6ba21e95?source=rss----53c7c27702d5---4">Scaling Knowledge Access and Retrieval at Airbnb </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/09/css-shapes/">Take A New Look At CSS Shapes </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/09/04/tensorflowjs-machine-learning-in-the-browser.html">TensorFlow.js: Machine Learning in the Browser for Image Recognition </a></li> 
+          
+            <li> <a href="https://data-artisans.com/blog/serializable-acid-transactions-on-streaming-data">Serializable ACID Transactions on Streaming Data </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/small-big-decision-file-formats">Unriddling Big Data file formats </a></li> 
+          
+            <li> <a href="https://hackernoon.com/c-async-api-the-missing-parts-2229a2b3732?source=rss----3a8144eabfe3---4">C# Async API: The Missing Parts </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 12 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 11 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Thu, 30 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 29 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/a-simple-and-intuitive-explanation-of-hintons-capsule-networks-b59792ad46b1?source=rss----7f60cf5620c9---4">A simple and intuitive explanation of Hinton’s Capsule Networks </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/08/designing-invisible-voice/">Designing The Invisible: 3 Things I Learned Designing For Voice </a></li> 
-          
-            <li> <a href="https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9?source=rss----5b301f10ddcd---4">An OAuth 2.0 introduction for beginners </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f?source=rss----587883b5d2ee---4">Leveraging Elastic Demand for Forecasting </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/internet-native-applications/">Internet Native Applications </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/">TypeScript 3.0: Exploring Tuples and the Unknown Type </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/uncertainty-for-ctr-prediction-one-model-to-clarify-them-all-8cb0aa5ed2?source=rss----7f60cf5620c9---4">Uncertainty for CTR Prediction: One Model to Clarify Them All </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/colour-maps-using-integer-programming-e46b6297aad4?source=rss----7f60cf5620c9---4">Colour Maps using Integer Programming </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 29 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-29.html</guid>
       </item>
       
   </channel>
