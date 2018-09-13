@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 13 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">On The Nature of OAuth2’s Scopes </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2018/09/05/deep-dive-into-gitlabs-ux-design-process/">A deep dive into GitLab&#39;s UX design process </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/CTRLlabsco-hci-neural-interfaces?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rethinking HCI with Neural Interfaces @CTRLlabsco </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introduction-to-druid-4bf285b92b5a?source=rss----7f60cf5620c9---4">An introduction to Druid, your Interactive Analytics at (big) Scale </a></li> 
+          
+            <li> <a href="https://medium.com/engineering-housing/data-warehousing-and-etls-3f5d048eaba?source=rss----3a69e32e2594---4">Data Warehousing and ETLs </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-future-with-reinforcement-learning-877a17187d54?source=rss----7f60cf5620c9---4">The Future with Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/shaping-the-future-of-payments-in-the-browser">Shaping the Future of Payments in the Browser </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2018/09/04/introducing-cstar-the-spotify-cassandra-orchestration-tool-now-open-source/">Introducing cstar: The Spotify Cassandra orchestration tool, now open source </a></li> 
+          
+            <li> <a href="https://fly.io/articles/fetch-at-the-edge/">Fetch at the Edge </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 13 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 12 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -255,36 +285,6 @@
         <pubDate>Fri, 31 Aug 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-08-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 30 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/paypal-ml-fraud-prevention-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: ML Data Pipelines for Real-time Fraud Prevention @PayPal </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/dl-performance-optimization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning for Application Performance Optimization </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/kubernetes-monitoring-prometheus/">Kubernetes Monitoring with Prometheus, the ultimate guide (part 1) </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975?source=rss----7f60cf5620c9---4">Perceptron Learning Algorithm: A Graphical Explanation Of Why It Works </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-serving-the-web-from-the-browser-with-beaker/">Dweb: Serving the Web from the Browser with Beaker </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html">Continuous Delivery Patterns with Serverless Applications </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/08/optimizing-tv-advertising-toward-return-on-investment/">Optimizing TV Advertising Toward Return on Investment </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-machine-learning-engineering-tools-e348ae4edf8?source=rss----7f60cf5620c9---4">Building Machine Learning Engineering Tools </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/what-to-consider-when-choosing-colors-for-data-visualization/">What to Consider When Choosing Colors for Data Visualization </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 30 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-30.html</guid>
       </item>
       
   </channel>
