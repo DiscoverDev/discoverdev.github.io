@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 14 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2018/09/05/datahighway/">Putting the Power of Kafka into the Hands of Data Scientists </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/receiving-messages-in-elixir-or-a-few-things-you-need-to-know-in-order-to-avoid-performance-issues.html">Receiving messages in Elixir, or a few things you need to know in order to avoid performance issues </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/serverless-architecture-patterns?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless Architectural Patterns and Best Practices </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/octo-vision-on-service-mesh-the-challenges/">OCTO vision on Service Mesh : the challenges </a></li> 
+          
+            <li> <a href="https://getstream.io/blog/google-feed-personalization-and-recommender-systems/">Google Feed Personalization and Recommender Systems </a></li> 
+          
+            <li> <a href="https://hackernoon.com/goodbye-redux-26e6a27b3a0b?source=rss----3a8144eabfe3---4">Goodbye Redux </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/design-smart-speakers?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Smart Speakers: Designing for the Human </a></li> 
+          
+            <li> <a href="https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113?source=rss----3a8144eabfe3---4">Lessons Learned: Code Splitting with Webpack and React </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 14 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 13 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Mon, 03 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 31 Aug 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/podcasts/uncle-bob-solid-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Uncle Bob Martin on Clean Software, Craftsperson, Origins of SOLID, DDD, &amp; Software Ethics </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6?source=rss----2615bd06b42e---4">Part 2: Scheduling Notebooks at Netflix </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/">Real-time Streaming Pattern: Analyzing Trends </a></li> 
-          
-            <li> <a href="https://eng.uber.com/cota-v2/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cota-v2">Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-cartographic-exploration-of-housing-in-amsterdam-aa2573be41eb?source=rss----7f60cf5620c9---4">A Cartographic Exploration of Housing in Amsterdam </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-gradient-descent-fcd5e0fc077d?source=rss----7f60cf5620c9---4">Coding Deep Learning for Beginners — Linear Regression: Gradient Descent </a></li> 
-          
-            <li> <a href="https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/">Cypress.io – the reason why we’re not stuck with Selenium </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/doordash-real-time-predictions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Engineering Systems for Real-time Predictions @DoorDash </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 31 Aug 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-08-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-31.html</guid>
       </item>
       
   </channel>
