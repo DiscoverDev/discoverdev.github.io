@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 18 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758?source=rss----3a8144eabfe3---4">The 100% correct way to split your chunks with Webpack </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/grpc-service-communication?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Efficient Service Communication with gRPC </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-generate-images-using-autoencoders-acfbc6c3555e?source=rss----7f60cf5620c9---4">How to Generate Images using Autoencoders </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2018/9/8/the-anna-key-value-store-now-has-355x-the-performance-of-dyn.html">The Anna Key-Value Store Now Has 355x the Performance of DynamoDB for the Dollar </a></li> 
+          
+            <li> <a href="https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b?source=rss----3a8144eabfe3---4">Clean Domain-Driven Design in 10 minutes </a></li> 
+          
+            <li> <a href="https://buildingvts.com/git-patches-the-alternative-solution-15975aabd9b0?source=rss----f76c28ec6a84---4">Git Patches: The Alternative Solution </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/justin-cormack-decomposing-modern-operating-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Justin Cormack on Decomposing the Modern Operating System </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/scaling-neural-machine-translation-to-bigger-data-sets-with-faster-training-and-inference/">Scaling neural machine translation to bigger data sets with faster training and inference </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 18 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 17 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Wed, 05 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 04 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.octo.com/en/cold-start-warm-start-with-aws-lambda/">Cold start / Warm start with AWS Lambda </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2018/08/27/new-jersey-wildlife-habitat/">Exploring Protected Wildlife Habitat for Every Property in New Jersey </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html">Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/8/27/auth0-architecture-running-in-multiple-cloud-providers-and-r.html">Auth0 Architecture: Running In Multiple Cloud Providers And Regions </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/introduction-to-fuzzy-logic-and-its-application-to-text-summarization-dee71da67bbe?source=rss----5e5bef33608a---4">Introduction to Fuzzy Logic and its Application to Text Summarization </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/fasttext-batteries-included-fa23f46d52e4?source=rss----7f60cf5620c9---4">fastText++: Batteries Included </a></li> 
-          
-            <li> <a href="https://hackernoon.com/experiences-building-a-newsfeed-out-of-twitter-streams-fdcaee7542d1?source=rss----3a8144eabfe3---4">Experiences building a newsfeed out of twitter streams </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/using-workers-to-make-static-sites-dynamic/">Using Workers To Make Static Sites Dynamic </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 04 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-04.html</guid>
       </item>
       
   </channel>
