@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 19 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://ubereng.wpengine.com/uber-eats-recommending-marketplace/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-eats-recommending-marketplace">Food Discovery with Uber Eats: Recommending for the Marketplace </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/09/webxr/">New API to Bring Augmented Reality to the Web </a></li> 
+          
+            <li> <a href="https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429?source=rss----cb96a1f03649---4">How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-arch-infrastructure-cd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Design Microservice Architectures the Right Way </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/building-an-elixir-stream.html">Building an Elixir Stream </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/what-makes-reasonml-so-great-c2c2fc215ccb?source=rss----7f3d96429888---4">What makes ReasonML so great? </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/video-introduction-to-recurrent-neural-networks-in-tensorrt/">Video: Introduction to Recurrent Neural Networks in TensorRT </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/streaming-data-amazon-kinesis/">Streaming data with Amazon Kinesis </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/jupyter-notebook?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Jupyter Widgets: From Button to Virtual Reality </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 19 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 18 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +287,6 @@
         <pubDate>Thu, 06 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 05 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4?source=rss----7f60cf5620c9---4">Make working with large DataFrames easier, at least for your memory </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/frp-erlang-grisp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Real-time Functional Reactive Programming with Erlang </a></li> 
-          
-            <li> <a href="https://eng.uber.com/xp/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xp">Under the Hood of Uber’s Experimentation Platform </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/">Best Practices For Mobile Form Design </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/multi-agent-reinforcement-learning-in-beer-distribution-game-6c77c9b1dc4?source=rss----7f60cf5620c9---4">Multi-Agent Reinforcement Learning in Beer Distribution Game </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/for-else-in-python/">Why Python&#39;s for-else Clause Makes Perfect Sense, but You Still Shouldn&#39;t Use It </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/08/24/the-ux-of-consent-models-in-open-banking.html">The UX of Consent Models in Open Banking </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/kubernetes-monitoring-with-prometheus-alertmanager-grafana-pushgateway-part-2/">Kubernetes Monitoring with Prometheus: AlertManager, Grafana, PushGateway (part 2) </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 05 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-05.html</guid>
       </item>
       
   </channel>
