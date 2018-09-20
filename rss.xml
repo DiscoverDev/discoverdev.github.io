@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 20 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.fb.com/ai-research/expanding-automatic-machine-translation-to-more-languages/">Expanding automatic machine translation to more languages </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/rosetta-understanding-text-in-images-and-videos-with-machine-learning/">Rosetta: Understanding text in images and videos with machine learning </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/09/converting-a-webgl-application-to-webvr/">Converting a WebGL application to WebVR </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/async-rendering-in-react-with-suspense-5d0eaac886c8?source=rss----7f3d96429888---4">Async rendering in React with  Suspense </a></li> 
+          
+            <li> <a href="https://nodesource.com/blog/tracking-down-performance-bottlenecks-nsolid-deoptigate">Tracking Down and Fixing Performance Bottlenecks with N|Solid and Deoptigate </a></li> 
+          
+            <li> <a href="https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering">Client-side vs Server-side vs Pre-rendering for Web Apps </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/progress-for-big-data-in-kubernetes">Progress for big data in Kubernetes </a></li> 
+          
+            <li> <a href="https://medium.com/engineering-housing/running-production-elasticsearch-cluster-on-spot-instances-80bf03655092?source=rss----3a69e32e2594---4">Running elasticsearch cluster on spot instances </a></li> 
+          
+            <li> <a href="https://hackernoon.com/going-on-a-tair-an-alibaba-guide-to-nvm-caching-optimization-97f799675a44?source=rss----3a8144eabfe3---4">Going on a Tair: An Alibaba Guide to NVM Caching Optimization </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a?source=rss----2615bd06b42e---4">Keystone Real-time Stream Processing Platform </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/content-based-recommender-for-nyt-articles-5a54f57dd531?source=rss----7f60cf5620c9---4">Content-Based Recommender for NYT Articles </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 20 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 19 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +293,6 @@
         <pubDate>Fri, 07 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 06 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/effects-of-redis-on-an-api-server-1e228a624f15?source=rss----3a8144eabfe3---4">Effects of Redis on an API Server </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/helping-designers-adhere-to-a-design-system-with-sketch-a14db5215096?source=rss----905ea2b3d4d1---4">Helping Designers Adhere to a Design System with Sketch </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/applying-seccomp-filters-on-go-binaries">Applying Seccomp Filters at Runtime for Go Binaries </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/08/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/">Dweb: Building Cooperation and Trust into the Web with IPFS </a></li> 
-          
-            <li> <a href="https://hackernoon.com/alibaba-unveils-new-distributed-file-system-6bade3ad0413?source=rss----3a8144eabfe3---4">Alibaba Unveils PolarFS Distributed File System for Cloud Computing </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/08/29/tune-linux-kernel-parameters-for-postgresql-optimization/">Tune Linux Kernel Parameters For PostgreSQL Optimization </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/08/24/is-test-driven-development-right-for-you.html">Is Test Driven Development Right for You? </a></li> 
-          
-            <li> <a href="http://blog.mallow-tech.com/2018/08/things-to-be-considered-while-implementing-a-search-auto-completion-feature/">Things to be considered while implementing a Search/Auto completion feature </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 06 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-06.html</guid>
       </item>
       
   </channel>
