@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 25 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/event-flow-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Complex Event Flows in Distributed Systems </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/decrypt-generative-artificial-intelligence-and-gans-16646dbb4426?source=rss----7f60cf5620c9---4">Decrypt Generative Artificial Intelligence and GANs </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/nvidia-turing-architecture-in-depth/">NVIDIA Turing Architecture In-Depth </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/sandbox-breakout/">Breaking Out of the Chrome/WebExtension Sandbox </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181?source=rss-ef81ef829bcb------2">Goku: Building a scalable and high performant time series database system </a></li> 
+          
+            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html">Embeddings@Twitter </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/bigdata-governance-hive-metastore-listener-for-apache-atlas-use-cases/">Big Data Governance: Hive Metastore Listener for Apache Atlas Use Cases </a></li> 
+          
+            <li> <a href="https://code.fb.com/ml-applications/glow-a-community-driven-approach-to-ai-infrastructure/">Glow: A community-driven approach to AI infrastructure </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 25 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 24 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +299,6 @@
         <pubDate>Wed, 12 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 11 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/consistent-hashing-with-bounded-loads-using-a-red-black-tree-b5aaf0d8540f?source=rss----3a8144eabfe3---4">Consistent hashing with bounded loads, using a Red-Black Tree </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/recurrent-neural-networks-the-powerhouse-of-language-modeling-d45acc50444f?source=rss----7f60cf5620c9---4">Recurrent Neural Networks: The Powerhouse of Language Modeling </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/refactoring-deeper-model?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Refactoring to a Deeper Model </a></li> 
-          
-            <li> <a href="https://hackernoon.com/event-sourcing-using-writer-monad-b26a390285a?source=rss----3a8144eabfe3---4">Event Sourcing Using Writer Monad </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/detection-and-segmentation-through-convnets-47aa42de27ea?source=rss----7f60cf5620c9---4">Detection and Segmentation through ConvNets </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/porting-our-software-to-arm64/">Porting Our Software to ARM64 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/microservices-post-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Microservices in a Post-Kubernetes Era </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/ecommerce-transformed-cognitive-services-and-the-future/">eCommerce Transformed: Cognitive Services and the Future </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 11 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-11.html</guid>
       </item>
       
   </channel>
