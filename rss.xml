@@ -6,6 +6,39 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 26 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html">Deep learning made easier with transfer learning </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a?source=rss----2615bd06b42e---4">Streaming Video Experimentation at Netflix: 
+Visualizing Practical and Statistical Significance </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/changing-face-etl">The Changing Face of ETL </a></li> 
+          
+            <li> <a href="https://research.fb.com/efficient-tuning-of-online-systems-using-bayesian-optimization/">Efficient tuning of online systems using Bayesian optimization </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/introduction-turing-mesh-shaders/">Introduction to Turing Mesh Shaders </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/distributed-web-gateway/">Cloudflare goes InterPlanetary - Introducing Cloudflare’s IPFS Gateway </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/programming-children?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What Is Programming Anyway? </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/review-faster-r-cnn-object-detection-f5685cb30202?source=rss----7f60cf5620c9---4">Review: Faster R-CNN (Object Detection) </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/continuous-security?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CI/CD/CS: Implementing Continuous Security Across Your Delivery Pipeline and at Run-time </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/09/googles-next-generation-music.html">Google’s Next Generation Music Recognition </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 26 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 25 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +304,6 @@
         <pubDate>Thu, 13 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 12 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/our-engineering-experience-with-react-and-storybook/">Our Engineering Experience with React and Storybook </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/haskell-jvm-system-performance?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Beauty and the Beast, Haskell on JVM </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/scaling-knowledge-access-and-retrieval-at-airbnb-665b6ba21e95?source=rss----53c7c27702d5---4">Scaling Knowledge Access and Retrieval at Airbnb </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/09/css-shapes/">Take A New Look At CSS Shapes </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/09/04/tensorflowjs-machine-learning-in-the-browser.html">TensorFlow.js: Machine Learning in the Browser for Image Recognition </a></li> 
-          
-            <li> <a href="https://data-artisans.com/blog/serializable-acid-transactions-on-streaming-data">Serializable ACID Transactions on Streaming Data </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/small-big-decision-file-formats">Unriddling Big Data file formats </a></li> 
-          
-            <li> <a href="https://hackernoon.com/c-async-api-the-missing-parts-2229a2b3732?source=rss----3a8144eabfe3---4">C# Async API: The Missing Parts </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-12.html</guid>
       </item>
       
   </channel>
