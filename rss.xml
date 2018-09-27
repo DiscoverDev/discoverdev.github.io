@@ -6,6 +6,42 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 27 Sep 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://labs.spotify.com/2018/09/18/scalable-user-privacy/">Scalable User Privacy </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/blockchain-bioxroute?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Blockchains Work and How to Scale Them </a></li> 
+          
+            <li> <a href="https://githubengineering.com/towards-natural-language-semantic-code-search/">Towards Natural Language Semantic Code Search </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10?source=rss----7f3d96429888---4">How browser rendering works — behind the scenes </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/09/speech-recognition-deepspeech/">Streaming RNNs in TensorFlow </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/blockchain-libp2p?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Leverage Libp2p for Blockchain Applications </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/kelsey-hightower-and-chris-gaun-on-serverless-and-kubernetes">Kelsey Hightower and Chris Gaun on serverless and Kubernetes </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717?source=rss----7f60cf5620c9---4">From Scratch: AI Balancing Act in 50 Lines of Python </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces">Using Kubernetes Pod Metadata to Improve Zipkin Traces </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/mockers">Mockers - overcoming testing challenges at Grab </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/looking-inside-the-technology-that-powers-pinterest-2e8bd1cfc329?source=rss-ef81ef829bcb------2">Looking inside the technology that powers Pinterest </a></li> 
+          
+            <li> <a href="https://liveramp.com/engineering/1023756/">Using Machine Learning to Auto Detect Column Types in Customer Files </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 27 Sep 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-09-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 26 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -274,36 +310,6 @@ Visualizing Practical and Statistical Significance </a></li>
         <pubDate>Fri, 14 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 13 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">On The Nature of OAuth2’s Scopes </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2018/09/05/deep-dive-into-gitlabs-ux-design-process/">A deep dive into GitLab&#39;s UX design process </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/CTRLlabsco-hci-neural-interfaces?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rethinking HCI with Neural Interfaces @CTRLlabsco </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introduction-to-druid-4bf285b92b5a?source=rss----7f60cf5620c9---4">An introduction to Druid, your Interactive Analytics at (big) Scale </a></li> 
-          
-            <li> <a href="https://medium.com/engineering-housing/data-warehousing-and-etls-3f5d048eaba?source=rss----3a69e32e2594---4">Data Warehousing and ETLs </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-future-with-reinforcement-learning-877a17187d54?source=rss----7f60cf5620c9---4">The Future with Reinforcement Learning </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/shaping-the-future-of-payments-in-the-browser">Shaping the Future of Payments in the Browser </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2018/09/04/introducing-cstar-the-spotify-cassandra-orchestration-tool-now-open-source/">Introducing cstar: The Spotify Cassandra orchestration tool, now open source </a></li> 
-          
-            <li> <a href="https://fly.io/articles/fetch-at-the-edge/">Fetch at the Edge </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 13 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-13.html</guid>
       </item>
       
   </channel>
