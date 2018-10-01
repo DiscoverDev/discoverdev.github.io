@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 01 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/petastorm/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=petastorm">Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning </a></li> 
+          
+            <li> <a href="https://intoli.com/blog/aopic-algorithm/">Performing Efficient Broad Crawls with the AOPIC Algorithm </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/roughtime/">Roughtime: Securing Time with Digital Signatures </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/detail/342">Go GC </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html">Building a Complex Financial Chart with D3 and d3fc </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9?source=rss-ef81ef829bcb------2">Building a dynamic and responsive Pinterest </a></li> 
+          
+            <li> <a href="https://hackernoon.com/real-time-linux-communications-2faabf31cf5e?source=rss----3a8144eabfe3---4">Real-time Linux communications </a></li> 
+          
+            <li> <a href="http://eng.wealthfront.com/2018/09/20/our-adventures-in-scaling/">Our Adventures in Scaling </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/comparison-of-state-management-solutions-for-react-2161a0b4af7b?source=rss----f5105b08f43a---4">Comparison of state management solutions for React </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 28 Sep 2018</title>
         <description><![CDATA[
           <ul>
@@ -284,34 +314,6 @@ Visualizing Practical and Statistical Significance </a></li>
         <pubDate>Tue, 18 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 17 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://githubengineering.com/removing-jquery-from-github-frontend/">Removing jQuery from GitHub.com frontend </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql">Data Wrangling with Apache Kafka and KSQL </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/pymc3?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Probabilistic Programming from Scratch </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/jetson-xavier-ai-robotics/">NVIDIA Jetson Xavier Opens New Era of AI in Robotics </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/blockchain-projects-success?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Better Blockchain Use Cases </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale">Managing Software Dependency at Scale </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/texture-distribution-artistic-expression/index.html">Visual Creation and Exploration at Zalando Research </a></li> 
-          
-            <li> <a href="https://ubereng.wpengine.com/forecasting-introduction/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=forecasting-introduction">Forecasting at Uber: An Introduction </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-17.html</guid>
       </item>
       
   </channel>
