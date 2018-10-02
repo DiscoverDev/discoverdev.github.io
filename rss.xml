@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 02 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8?source=rss----2615bd06b42e---4">Enhancing the Netflix UI Experience with HDR </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21?source=rss----7f60cf5620c9---4">Illustrated Guide to LSTM’s and GRU’s: A step by step explanation </a></li> 
+          
+            <li> <a href="http://engineering.laterooms.com/making-search-work-for-us/">Making Search Work For Us </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/">Dark Patterns And Other Design No-Nos For Mobile </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/turing-multi-view-rendering-vrworks/">Turing Multi-View Rendering in VRWorks </a></li> 
+          
+            <li> <a href="https://hackernoon.com/turtledb-a-javascript-framework-for-building-offline-first-collaborative-web-apps-7183cd787163?source=rss----3a8144eabfe3---4">turtleDB: A JavaScript Framework for building offline-first, collaborative web apps </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/machine-coding-neural-networks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Teaching a Machine to Code </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-networking?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Networking Your Microservices Applications </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 02 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 01 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -286,34 +314,6 @@ Visualizing Practical and Statistical Significance </a></li>
         <pubDate>Wed, 19 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 18 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758?source=rss----3a8144eabfe3---4">The 100% correct way to split your chunks with Webpack </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/grpc-service-communication?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Efficient Service Communication with gRPC </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-to-generate-images-using-autoencoders-acfbc6c3555e?source=rss----7f60cf5620c9---4">How to Generate Images using Autoencoders </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2018/9/8/the-anna-key-value-store-now-has-355x-the-performance-of-dyn.html">The Anna Key-Value Store Now Has 355x the Performance of DynamoDB for the Dollar </a></li> 
-          
-            <li> <a href="https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b?source=rss----3a8144eabfe3---4">Clean Domain-Driven Design in 10 minutes </a></li> 
-          
-            <li> <a href="https://buildingvts.com/git-patches-the-alternative-solution-15975aabd9b0?source=rss----f76c28ec6a84---4">Git Patches: The Alternative Solution </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/justin-cormack-decomposing-modern-operating-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Justin Cormack on Decomposing the Modern Operating System </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/scaling-neural-machine-translation-to-bigger-data-sets-with-faster-training-and-inference/">Scaling neural machine translation to bigger data sets with faster training and inference </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 18 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-18.html</guid>
       </item>
       
   </channel>
