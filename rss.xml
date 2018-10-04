@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 04 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/">Architecture of Nautilus, the new Dropbox search engine </a></li> 
+          
+            <li> <a href="https://3mdeb.com/firmware/optimize-performance-in-docker-containers/">Optimize performance in Docker containers used by Embedded Systems Consulting business </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/autocad-webassembly?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: AutoCAD &amp; WebAssembly: Moving a 30 Year Code Base to the Web </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/github-crdt?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Real-time, Fine-grained Version Control with CRDTs </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/">How Etsy Localizes Addresses </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/09/building-google-dataset-search-and.html">Building Google Dataset Search and Fostering an Open Data Ecosystem </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/how-we-store-data-in-the-cloud-at-auth0/">How We Store Data in the Cloud at Auth0 </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c?source=rss----cfe1120185d3---4">Open Sourcing HASSH </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 04 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 03 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -280,40 +308,6 @@ Visualizing Practical and Statistical Significance </a></li>
         <pubDate>Fri, 21 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 20 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.fb.com/ai-research/expanding-automatic-machine-translation-to-more-languages/">Expanding automatic machine translation to more languages </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/rosetta-understanding-text-in-images-and-videos-with-machine-learning/">Rosetta: Understanding text in images and videos with machine learning </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/09/converting-a-webgl-application-to-webvr/">Converting a WebGL application to WebVR </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/async-rendering-in-react-with-suspense-5d0eaac886c8?source=rss----7f3d96429888---4">Async rendering in React with  Suspense </a></li> 
-          
-            <li> <a href="https://nodesource.com/blog/tracking-down-performance-bottlenecks-nsolid-deoptigate">Tracking Down and Fixing Performance Bottlenecks with N|Solid and Deoptigate </a></li> 
-          
-            <li> <a href="https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering">Client-side vs Server-side vs Pre-rendering for Web Apps </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/progress-for-big-data-in-kubernetes">Progress for big data in Kubernetes </a></li> 
-          
-            <li> <a href="https://medium.com/engineering-housing/running-production-elasticsearch-cluster-on-spot-instances-80bf03655092?source=rss----3a69e32e2594---4">Running elasticsearch cluster on spot instances </a></li> 
-          
-            <li> <a href="https://hackernoon.com/going-on-a-tair-an-alibaba-guide-to-nvm-caching-optimization-97f799675a44?source=rss----3a8144eabfe3---4">Going on a Tair: An Alibaba Guide to NVM Caching Optimization </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a?source=rss----2615bd06b42e---4">Keystone Real-time Stream Processing Platform </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/content-based-recommender-for-nyt-articles-5a54f57dd531?source=rss----7f60cf5620c9---4">Content-Based Recommender for NYT Articles </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 20 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-20.html</guid>
       </item>
       
   </channel>
