@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 08 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/">Patterns for distributed transactions within a microservices architecture </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-to-run-1m-neural-network-agents-at-60-steps-per-second-in-a-browser-183c6213156b?source=rss----3a8144eabfe3---4">Under the hood of Pixling World </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/webassembly-on-cloudflare-workers/">WebAssembly on Cloudflare Workers </a></li> 
+          
+            <li> <a href="https://hackernoon.com/fundamentals-of-display-technologies-for-augmented-and-virtual-reality-c88e4b9b0895?source=rss----3a8144eabfe3---4">Fundamentals of display technologies for Augmented and Virtual Reality </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deepgl-on-neo4j-b27e8c64190f?source=rss----7f60cf5620c9---4">DeepGL on Neo4j </a></li> 
+          
+            <li> <a href="https://allegro.tech/2018/10/custom-solr-collapsing-plugin-development.html">From Simple to Fast - Custom Solr Document Collapsing </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-lamport-timestamps-with-pythons-multiprocessing-library-12a6427881c6?source=rss----7f60cf5620c9---4">Understanding Lamport Timestamps with Python’s multiprocessing library </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/coral-cities-an-ito-design-lab-concept-c01a3f4a2722?source=rss----7f60cf5620c9---4">Coral Cities: An Ito Design Lab Concept </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 08 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 05 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,38 +305,6 @@ Visualizing Practical and Statistical Significance </a></li>
         <pubDate>Tue, 25 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 24 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/">Finding and fixing software bugs automatically with SapFix and Sapienz </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/supporting-ar-experiences-in-new-york-times-mobile-apps-48c3731a4dbf?source=rss----51e1d1745b32---4">Supporting AR Experiences in the New York Times Android App </a></li> 
-          
-            <li> <a href="https://yahooeng.tumblr.com/post/178045294111">Introducing Oak: an Open Source Scalable Key-Value Map for Big Data Analytics </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/09/open-sourcing-tony--native-support-of-tensorflow-on-hadoop">Open Sourcing TonY: Native Support of TensorFlow on Hadoop </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-events-first-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Designing Events-first Microservices </a></li> 
-          
-            <li> <a href="https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739?source=rss----5b301f10ddcd---4">Containers as I didn’t know them </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/nvidia-serves-deep-learning-inference/">NVIDIA TensorRT Inference Server Boosts Deep Learning Inference </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/modernizing-applications-for-kubernetes">Modernizing Applications for Kubernetes </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2018/09/checked-c-spatial-safety?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Checked C Extends LLVM to Bring Spatial Memory Safety to C </a></li> 
-          
-            <li> <a href="https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083?source=rss----3a8144eabfe3---4">Flutter: Pros and Cons for Seamless Cross Platform Development </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 24 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-24.html</guid>
       </item>
       
   </channel>
