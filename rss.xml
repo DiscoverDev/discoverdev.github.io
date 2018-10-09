@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 09 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/video-real-time-ray-tracing-workflows-frostbite/">Video Series: Real-Time Ray Tracing for Interactive Global Illumination Workflows in Frostbite </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/10/validating-performance-and-reliability-of-the-new-dropbox-search-engine/">Validating Performance and Reliability of the new Dropbox Search Engine </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/">Unicorn—Rheos Remediation Center </a></li> 
+          
+            <li> <a href="https://www.toptal.com/deep-learning/4-sentiment-analysis-accuracy-traps">Four Pitfalls of Sentiment Analysis Accuracy </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/why-can-a-machine-beat-mario-but-not-pokemon-ff61313187e1?source=rss----7f60cf5620c9---4">Why Can a Machine Beat Mario but not Pokemon? </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ux/design-system">Understanding Design Systems and Patterns </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/experimenting-with-graphql-e4ad1c076020?source=rss----89d4108ce2a3---4">Experimenting with GraphQL </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/advanced-reinforcement-learning-6d769f529eb3?source=rss----7f60cf5620c9---4">Beyond DQN/A3C: A Survey in Advanced Reinforcement Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 09 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 08 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +305,6 @@ Visualizing Practical and Statistical Significance </a></li>
         <pubDate>Wed, 26 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 25 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/event-flow-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Complex Event Flows in Distributed Systems </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/decrypt-generative-artificial-intelligence-and-gans-16646dbb4426?source=rss----7f60cf5620c9---4">Decrypt Generative Artificial Intelligence and GANs </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/nvidia-turing-architecture-in-depth/">NVIDIA Turing Architecture In-Depth </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/sandbox-breakout/">Breaking Out of the Chrome/WebExtension Sandbox </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181?source=rss-ef81ef829bcb------2">Goku: Building a scalable and high performant time series database system </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html">Embeddings@Twitter </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/bigdata-governance-hive-metastore-listener-for-apache-atlas-use-cases/">Big Data Governance: Hive Metastore Listener for Apache Atlas Use Cases </a></li> 
-          
-            <li> <a href="https://code.fb.com/ml-applications/glow-a-community-driven-approach-to-ai-infrastructure/">Glow: A community-driven approach to AI infrastructure </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 25 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-25.html</guid>
       </item>
       
   </channel>
