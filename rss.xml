@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 10 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.postmates.com/risk-detection-infrastructure-postmates-ce79660850b9?source=rss----2664e1d3cff9--engineering">Risk Detection Infrastructure @ Postmates </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/my-first-ray-tracing-demo/">Fast and Fun: My First Real-Time Ray Tracing Demo </a></li> 
+          
+            <li> <a href="https://hackernoon.com/ipfs-a-complete-analysis-of-the-distributed-web-6465ff029b9b?source=rss----3a8144eabfe3---4">IPFS: A Complete Analysis of The Distributed Web </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/best-design-practices-to-get-the-most-out-of-your-api">Best design practices to get the most out of your API </a></li> 
+          
+            <li> <a href="https://code.fb.com/ml-applications/under-the-hood-facebook-marketplace-powered-by-artificial-intelligence/">Under the hood: Facebook Marketplace powered by artificial intelligence </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/gvisor-linux-container?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Introduction to gVisor: Sandboxed Linux Container Runtime </a></li> 
+          
+            <li> <a href="https://hackernoon.com/using-async-generators-for-data-streams-f2cd2a1f02b3?source=rss----3a8144eabfe3---4">Using async generators as data streams </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2018/10/02/scaling-postgresql-using-connection-poolers-and-load-balancers-for-an-enterprise-grade-environment/">Scaling PostgreSQL using Connection Poolers and Load Balancers for an Enterprise Grade environment </a></li> 
+          
+            <li> <a href="https://hackernoon.com/sw-quality-and-testing-in-microservices-e7afcef1f851?source=rss----3a8144eabfe3---4">SW Quality and Testing in MicroServices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 10 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 09 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -272,39 +302,6 @@ connected to Redux </a></li>
         <pubDate>Thu, 27 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 26 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html">Deep learning made easier with transfer learning </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a?source=rss----2615bd06b42e---4">Streaming Video Experimentation at Netflix: 
-Visualizing Practical and Statistical Significance </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/changing-face-etl">The Changing Face of ETL </a></li> 
-          
-            <li> <a href="https://research.fb.com/efficient-tuning-of-online-systems-using-bayesian-optimization/">Efficient tuning of online systems using Bayesian optimization </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/introduction-turing-mesh-shaders/">Introduction to Turing Mesh Shaders </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/distributed-web-gateway/">Cloudflare goes InterPlanetary - Introducing Cloudflare’s IPFS Gateway </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/programming-children?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What Is Programming Anyway? </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/review-faster-r-cnn-object-detection-f5685cb30202?source=rss----7f60cf5620c9---4">Review: Faster R-CNN (Object Detection) </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/continuous-security?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CI/CD/CS: Implementing Continuous Security Across Your Delivery Pipeline and at Run-time </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/09/googles-next-generation-music.html">Google’s Next Generation Music Recognition </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 26 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-26.html</guid>
       </item>
       
   </channel>
