@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 11 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b?source=rss----7f60cf5620c9---4">Machine Learning for Cybersecurity 101 </a></li> 
+          
+            <li> <a href="https://code.fb.com/open-source/stateservice/">Open-sourcing StateService: Automating recovery of third-party services after a major outage </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/brief-history-high-availability/">A Brief History of High Availability </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/open-sourcing-mirus-3ec2c8a38537?source=rss----cfe1120185d3---4">Open Sourcing Mirus </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/deduplicating_pga_with_apollo/">Deduplicating files in Public Git Archive </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd?source=rss----89d4108ce2a3---4">Experimenting with GraphQL </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/10/sinkholing-1/">Sinkholing - Face the Threat, Beat the Threat </a></li> 
+          
+            <li> <a href="https://eng.datafox.com/solr/2018/10/03/the-history-of-our-solr-and-performance/">The History of our Solr and Performance </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/">How Etsy Handles Peeking in A/B Testing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 11 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 10 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -266,42 +296,6 @@ connected to Redux </a></li>
         <pubDate>Fri, 28 Sep 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-09-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 27 Sep 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://labs.spotify.com/2018/09/18/scalable-user-privacy/">Scalable User Privacy </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/blockchain-bioxroute?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Blockchains Work and How to Scale Them </a></li> 
-          
-            <li> <a href="https://githubengineering.com/towards-natural-language-semantic-code-search/">Towards Natural Language Semantic Code Search </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10?source=rss----7f3d96429888---4">How browser rendering works — behind the scenes </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/09/speech-recognition-deepspeech/">Streaming RNNs in TensorFlow </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/blockchain-libp2p?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Leverage Libp2p for Blockchain Applications </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/kelsey-hightower-and-chris-gaun-on-serverless-and-kubernetes">Kelsey Hightower and Chris Gaun on serverless and Kubernetes </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717?source=rss----7f60cf5620c9---4">From Scratch: AI Balancing Act in 50 Lines of Python </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces">Using Kubernetes Pod Metadata to Improve Zipkin Traces </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/mockers">Mockers - overcoming testing challenges at Grab </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/looking-inside-the-technology-that-powers-pinterest-2e8bd1cfc329?source=rss-ef81ef829bcb------2">Looking inside the technology that powers Pinterest </a></li> 
-          
-            <li> <a href="https://liveramp.com/engineering/1023756/">Using Machine Learning to Auto Detect Column Types in Customer Files </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 27 Sep 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-09-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-09-27.html</guid>
       </item>
       
   </channel>
