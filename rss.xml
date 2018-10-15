@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 15 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/clojurescript-choices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Finding a Balance </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/mouse-control-facial-movements-hci-app-c16b0494a971?source=rss----7f60cf5620c9---4">Mouse Cursor Control Using Facial Movements — An HCI Application </a></li> 
+          
+            <li> <a href="https://hackernoon.com/concurrent-programming-in-python-is-not-what-you-think-it-is-b6439c3f3e6a?source=rss----3a8144eabfe3---4">Concurrent Programming in Python is not what you think it is. </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d?source=rss----7f60cf5620c9---4">The 4 Convolutional Neural Network Models That Can Classify Your Fashion Images </a></li> 
+          
+            <li> <a href="https://hackernoon.com/speaker-diarization-the-squad-way-2205e0accbda?source=rss----3a8144eabfe3---4">Speaker Diarization — The Squad Way </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/resilient-banking-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Resilient Systems in Banking </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602?source=rss----7f60cf5620c9---4">Consistently Beautiful Visualizations with Altair Themes </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/lunar-way-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: To RPC or not to RPC: Choosing the Right Communication Strategies in a Microservice Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 12 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -264,36 +292,6 @@ connected to Redux </a></li>
         <pubDate>Tue, 02 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 01 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/petastorm/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=petastorm">Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning </a></li> 
-          
-            <li> <a href="https://intoli.com/blog/aopic-algorithm/">Performing Efficient Broad Crawls with the AOPIC Algorithm </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/roughtime/">Roughtime: Securing Time with Digital Signatures </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/detail/342">Go GC </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html">Building a Complex Financial Chart with D3 and d3fc </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9?source=rss-ef81ef829bcb------2">Building a dynamic and responsive Pinterest </a></li> 
-          
-            <li> <a href="https://hackernoon.com/real-time-linux-communications-2faabf31cf5e?source=rss----3a8144eabfe3---4">Real-time Linux communications </a></li> 
-          
-            <li> <a href="http://eng.wealthfront.com/2018/09/20/our-adventures-in-scaling/">Our Adventures in Scaling </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/comparison-of-state-management-solutions-for-react-2161a0b4af7b?source=rss----f5105b08f43a---4">Comparison of state management solutions for React </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 01 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-01.html</guid>
       </item>
       
   </channel>
