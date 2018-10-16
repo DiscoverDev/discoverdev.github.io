@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 16 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.pivotal.io/post/local-eureka-zuul-cloud_config-with-spring/">Eureka, Zuul, and Cloud Configuration - Local Development </a></li> 
+          
+            <li> <a href="https://code.fb.com/core-data/akkio/">Managing data store locality at scale with Akkio </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/">Calls between JavaScript and WebAssembly are finally fast 🎉 </a></li> 
+          
+            <li> <a href="https://engineering.gosquared.com/improve-javascript-page-load-time">How to reduce the impact of JavaScript on your page load time </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/10/how-we-are-keeping-our-android-ui-consistent.html">How We’re Keeping Our Android UI Consistent </a></li> 
+          
+            <li> <a href="https://www.toptal.com/full-stack/exploring-dependency-injection-patterns">Hold the Framework – Exploring Dependency Injection Patterns </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/review-deconvnet-unpooling-layer-semantic-segmentation-55cf8a6e380e?source=rss----7f60cf5620c9---4">Review: DeconvNet — Unpooling Layer (Semantic Segmentation) </a></li> 
+          
+            <li> <a href="https://nordicapis.com/whats-the-difference-between-versioning-and-revisioning-apis/">What’s The Difference Between Versioning and Revisioning APIs? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 16 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 15 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +292,6 @@ connected to Redux </a></li>
         <pubDate>Wed, 03 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 02 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8?source=rss----2615bd06b42e---4">Enhancing the Netflix UI Experience with HDR </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21?source=rss----7f60cf5620c9---4">Illustrated Guide to LSTM’s and GRU’s: A step by step explanation </a></li> 
-          
-            <li> <a href="http://engineering.laterooms.com/making-search-work-for-us/">Making Search Work For Us </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/">Dark Patterns And Other Design No-Nos For Mobile </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/turing-multi-view-rendering-vrworks/">Turing Multi-View Rendering in VRWorks </a></li> 
-          
-            <li> <a href="https://hackernoon.com/turtledb-a-javascript-framework-for-building-offline-first-collaborative-web-apps-7183cd787163?source=rss----3a8144eabfe3---4">turtleDB: A JavaScript Framework for building offline-first, collaborative web apps </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/machine-coding-neural-networks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Teaching a Machine to Code </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-networking?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Networking Your Microservices Applications </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 02 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-02.html</guid>
       </item>
       
   </channel>
