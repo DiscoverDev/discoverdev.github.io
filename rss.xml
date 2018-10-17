@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 17 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/10/an-introduction-to-ai-at-linkedin">An Introduction to AI at LinkedIn </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/review-programs-with-graphs/">Paper review: “Learning to Represent Programs with Graphs” </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/">Using machine learning to index text from billions of images </a></li> 
+          
+            <li> <a href="https://eng.uber.com/rewrite-uber-carbon-app/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rewrite-uber-carbon-app">Why We Decided to Rewrite Uber’s Driver App </a></li> 
+          
+            <li> <a href="https://blog.codeship.com/use-custom-packet-framing-microservices-messaging/">Use Custom Packet Framing for Microservices Messaging </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/mixed-precision-nlp-speech-openseq2seq/">Mixed Precision Training for NLP and Speech Recognition with OpenSeq2Seq </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-lda-to-build-a-missing-yelp-feature-43436e575d65?source=rss----7f60cf5620c9---4">Using LDA to Build a Missing Yelp Feature </a></li> 
+          
+            <li> <a href="https://hackernoon.com/rendering-external-texture-an-flutter-optimization-by-alibaba-c5ed143af747?source=rss----3a8144eabfe3---4">Rendering “External Texture”: An Flutter Optimization by Alibaba </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 17 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 16 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -262,36 +290,6 @@ connected to Redux </a></li>
         <pubDate>Thu, 04 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 03 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760?source=rss----53c7c27702d5---4">Experimentation &amp; Measurement for Search Engine Optimization </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/">How we rolled out one of the largest Python 3 migrations ever </a></li> 
-          
-            <li> <a href="https://itnext.io/what-is-modular-css-659949e23534?source=rss----5b301f10ddcd---4">What is Modular CSS? </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/real-time-presence-detection-apache-kafka-aws">Real-Time Presence Detection at Scale with Apache Kafka on AWS </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/speech-classification-using-neural-networks-the-basics-e5b08d6928b7?source=rss----7f60cf5620c9---4">Speech Classification Using Neural Networks: The Basics </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-quicening/">The QUICening </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/elasticsearch-logstash-kibana?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fast Log Analysis by Automatically Parsing Heterogeneous Log </a></li> 
-          
-            <li> <a href="https://nordicapis.com/interview-with-graphql-co-creator-lee-byron/">Interview With GraphQL Co-Creator Lee Byron </a></li> 
-          
-            <li> <a href="https://getstream.io/blog/how-a-go-program-compiles-down-to-machine-code/">How a Go Program Compiles down to Machine Code </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 03 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-03.html</guid>
       </item>
       
   </channel>
