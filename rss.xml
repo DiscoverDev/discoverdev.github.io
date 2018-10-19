@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 19 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/10/checkpointing-and-consistent-recovery-lines-how-we-handle-failure-in-wallaroo/">Checkpointing and Consistent Recovery Lines: How We Handle Failure in Wallaroo </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/kotlin-language-tour?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Why Bother with Kotlin - Not Just Another Language Tour </a></li> 
+          
+            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter.html">ZooKeeper at Twitter </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html">Introducing Oboe: A C++ library for low latency audio </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2018/10/11/creating-leaflet-tiles-from-open-data/">Creating Leaflet Tiles from Open Data using PostGIS and QGIS </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/10/building-linkedin-talent-hub">Building Enterprise Software on LinkedIn&#39;s Consumer Stack: Behind the Scenes of LinkedIn Talent Hub </a></li> 
+          
+            <li> <a href="https://medium.com/content-uneditable/lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration-c35870046987?source=rss----217c2715f1c8---4">Lessons learned from creating a rich-text editor with real-time collaboration </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/graceful-upgrades-in-go/">Graceful upgrades in Go </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 19 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 18 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,37 +287,6 @@
         <pubDate>Mon, 08 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 05 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Modeling Uncertainty With Reactive DDD </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c?source=rss----2615bd06b42e---4">Rethinking Netflix’s Edge Load Balancing </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/09/wayfairs-conversion-to-react-redux-seven-months-later/">Reflecting on Wayfair’s Conversion to React and Redux: Seven Months Later </a></li> 
-          
-            <li> <a href="https://eng.uber.com/one-click-chat/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=one-click-chat">Improving Driver Communication through One-Click Chat, Uber’s Smart Reply System </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/building-with-workers-kv/">Building With Workers KV, a Fast Distributed Key-Value Store </a></li> 
-          
-            <li> <a href="https://www.olioapps.com/blog/aframe-typescript-redux/">A-Frame + Redux: Writing VR Experiences
-connected to Redux </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/review-building-static-analysis-tools/">Paper review: “Lessons from Building Static Analysis Tools at Google”. </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2018/09/27/build-a-simple-api-service-with-express-and-graphql">Build a Simple API Service with Express and GraphQL </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/monitoring-java-jre/">Monitoring Java applications: Memory usage, threads and other JRE metrics </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 05 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-05.html</guid>
       </item>
       
   </channel>
