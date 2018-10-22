@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 22 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/">Hexagonal Architecture: three principles and an implementation example </a></li> 
+          
+            <li> <a href="https://hackernoon.com/client-side-encryption-in-firebase-database-60dd55abadb2?source=rss----3a8144eabfe3---4">Client Side Encryption in Firebase Database and Storage </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/vectorization-implementation-in-machine-learning-ca652920c55d?source=rss----7f60cf5620c9---4">Vectorization Implementation in Machine Learning </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2018/10/12/digitizing-maps-using-remote-sensing-techniques-in-arcmap-and-r/">Digitizing Maps Using Remote Sensing Techniques in ArcMap and R </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2018/10/12/writing-a-faster-jsonnet-compiler.html">Writing a Faster Jsonnet Compiler </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/10/applying-deep-learning-to-metastatic.html">Applying Deep Learning to Metastatic Breast Cancer Detection </a></li> 
+          
+            <li> <a href="https://hackernoon.com/write-better-python-functions-c3a9a36382a6?source=rss----3a8144eabfe3---4">Write Better Python Functions </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/http-2-prioritization-with-nginx/">Optimizing HTTP/2 prioritization with BBR and tcp_notsent_lowat </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 22 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 19 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 09 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 08 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/">Patterns for distributed transactions within a microservices architecture </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-run-1m-neural-network-agents-at-60-steps-per-second-in-a-browser-183c6213156b?source=rss----3a8144eabfe3---4">Under the hood of Pixling World </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/webassembly-on-cloudflare-workers/">WebAssembly on Cloudflare Workers </a></li> 
-          
-            <li> <a href="https://hackernoon.com/fundamentals-of-display-technologies-for-augmented-and-virtual-reality-c88e4b9b0895?source=rss----3a8144eabfe3---4">Fundamentals of display technologies for Augmented and Virtual Reality </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deepgl-on-neo4j-b27e8c64190f?source=rss----7f60cf5620c9---4">DeepGL on Neo4j </a></li> 
-          
-            <li> <a href="https://allegro.tech/2018/10/custom-solr-collapsing-plugin-development.html">From Simple to Fast - Custom Solr Document Collapsing </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-lamport-timestamps-with-pythons-multiprocessing-library-12a6427881c6?source=rss----7f60cf5620c9---4">Understanding Lamport Timestamps with Python’s multiprocessing library </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/coral-cities-an-ito-design-lab-concept-c01a3f4a2722?source=rss----7f60cf5620c9---4">Coral Cities: An Ito Design Lab Concept </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 08 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-08.html</guid>
       </item>
       
   </channel>
