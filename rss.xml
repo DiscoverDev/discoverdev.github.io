@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 23 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/square-corner-blog/sqr00t-offensive-security-tech-talks-1353784216aa?source=rss----3650599ae4e2---4">SqR00t Offensive Security Tech Talks </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/dynamic-meta-embeddings/">Improving AI language understanding by combining multiple word representations </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/the-netflix-media-database-nmdb-9bf8e6d0944d?source=rss----2615bd06b42e---4">The Netflix Media Database (NMDB) </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/an-overview-of-open-standards/">An Overview of Open Standards </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/10/how-we-use-machine-learning-and-natural-language-processing-to-empower-search/">How We Use Machine Learning and Natural Language Processing to Empower Search </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/siamese-networks-and-stuart-weitzman-boots-c414be7eff78?source=rss----7f60cf5620c9---4">Siamese Networks and Stuart Weitzman Boots </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/">Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers </a></li> 
+          
+            <li> <a href="https://techblog.king.com/benchmarking-google-bigquery-at-scale/">Benchmarking Google BigQuery at Scale </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 23 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 22 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Wed, 10 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 09 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/video-real-time-ray-tracing-workflows-frostbite/">Video Series: Real-Time Ray Tracing for Interactive Global Illumination Workflows in Frostbite </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/10/validating-performance-and-reliability-of-the-new-dropbox-search-engine/">Validating Performance and Reliability of the new Dropbox Search Engine </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/">Unicorn—Rheos Remediation Center </a></li> 
-          
-            <li> <a href="https://www.toptal.com/deep-learning/4-sentiment-analysis-accuracy-traps">Four Pitfalls of Sentiment Analysis Accuracy </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/why-can-a-machine-beat-mario-but-not-pokemon-ff61313187e1?source=rss----7f60cf5620c9---4">Why Can a Machine Beat Mario but not Pokemon? </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ux/design-system">Understanding Design Systems and Patterns </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/experimenting-with-graphql-e4ad1c076020?source=rss----89d4108ce2a3---4">Experimenting with GraphQL </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/advanced-reinforcement-learning-6d769f529eb3?source=rss----7f60cf5620c9---4">Beyond DQN/A3C: A Survey in Advanced Reinforcement Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 09 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-09.html</guid>
       </item>
       
   </channel>
