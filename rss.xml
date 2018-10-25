@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 25 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blogs.windows.com/buildingapps/2018/10/17/introducing-component-firmware-update/">Introducing Component Firmware Update </a></li> 
+          
+            <li> <a href="https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f?source=rss----2817475205d3---4">Microservice Architecture at Medium </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/10/building-titan-better-security-through.html">Building a Titan: Better security through a tiny chip </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/10/pylift-a-fast-python-package-for-uplift-modeling/">Pylift: A Fast Python Package for Uplift Modeling </a></li> 
+          
+            <li> <a href="https://eng.uber.com/uber-big-data-platform/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-big-data-platform">Uber’s Big Data Platform: 100+ Petabytes with Minute Latency </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/10/dweb-decentralised-real-time-interoperable-communication-with-matrix/">Dweb: Decentralised, Real-Time, Interoperable Communication with Matrix </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c?source=rss----2615bd06b42e---4">Lumen: Custom, Self-Service Dashboarding For Netflix </a></li> 
+          
+            <li> <a href="https://3mdeb.com/firmware/enabling-ecc-on-pc-engines-platforms/">Enabling ECC on PC Engines platforms </a></li> 
+          
+            <li> <a href="https://www.toptal.com/ios/collusion-ios-multipeerconnectivity">Collusion: Nearby Device Networking with MultipeerConnectivity in iOS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 25 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 24 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -255,36 +285,6 @@
         <pubDate>Fri, 12 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 11 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b?source=rss----7f60cf5620c9---4">Machine Learning for Cybersecurity 101 </a></li> 
-          
-            <li> <a href="https://code.fb.com/open-source/stateservice/">Open-sourcing StateService: Automating recovery of third-party services after a major outage </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/brief-history-high-availability/">A Brief History of High Availability </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/open-sourcing-mirus-3ec2c8a38537?source=rss----cfe1120185d3---4">Open Sourcing Mirus </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/deduplicating_pga_with_apollo/">Deduplicating files in Public Git Archive </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd?source=rss----89d4108ce2a3---4">Experimenting with GraphQL </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2018/10/sinkholing-1/">Sinkholing - Face the Threat, Beat the Threat </a></li> 
-          
-            <li> <a href="https://eng.datafox.com/solr/2018/10/03/the-history-of-our-solr-and-performance/">The History of our Solr and Performance </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/">How Etsy Handles Peeking in A/B Testing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 11 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-11.html</guid>
       </item>
       
   </channel>
