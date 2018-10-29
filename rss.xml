@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 29 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.lyft.com/the-challenges-behind-rolling-out-security-updates-to-your-docker-images-86106de47ece?source=rss----25cd379abb8---4">The Challenges Behind Rolling Out Security Updates To Your Docker Images </a></li> 
+          
+            <li> <a href="https://allegro.tech/2018/10/turnilo-lets-change-the-way-people-explore-big-data.html">Turnilo — let’s change the way people explore Big Data </a></li> 
+          
+            <li> <a href="https://eng.uber.com/nlp-deep-learning-uber-maps/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nlp-deep-learning-uber-maps">Applying Customer Feedback: How NLP &amp; Deep Learning Improve Uber&amp;rsquo;s Maps </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/">WebAssembly’s post-MVP future: A cartoon skill tree </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/sing/">Significantly faster generation and training for AI-based audio systems </a></li> 
+          
+            <li> <a href="https://hackernoon.com/youtube-is-making-machines-really-smart-48df30016d5b?source=rss----3a8144eabfe3---4">YouTube Is Making Machines Really Smart </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/distributed-systems-debug-manage?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Help! I Accidentally Distributed My System! </a></li> 
+          
+            <li> <a href="https://code.fb.com/android/mobilelab/">MobileLab: Highly accurate testing to prevent mobile performance regressions </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 29 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 26 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Tue, 16 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 15 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/clojurescript-choices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Finding a Balance </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/mouse-control-facial-movements-hci-app-c16b0494a971?source=rss----7f60cf5620c9---4">Mouse Cursor Control Using Facial Movements — An HCI Application </a></li> 
-          
-            <li> <a href="https://hackernoon.com/concurrent-programming-in-python-is-not-what-you-think-it-is-b6439c3f3e6a?source=rss----3a8144eabfe3---4">Concurrent Programming in Python is not what you think it is. </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d?source=rss----7f60cf5620c9---4">The 4 Convolutional Neural Network Models That Can Classify Your Fashion Images </a></li> 
-          
-            <li> <a href="https://hackernoon.com/speaker-diarization-the-squad-way-2205e0accbda?source=rss----3a8144eabfe3---4">Speaker Diarization — The Squad Way </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/resilient-banking-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Resilient Systems in Banking </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602?source=rss----7f60cf5620c9---4">Consistently Beautiful Visualizations with Altair Themes </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/lunar-way-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: To RPC or not to RPC: Choosing the Right Communication Strategies in a Microservice Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 15 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-15.html</guid>
       </item>
       
   </channel>
