@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 30 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/">Splicing HTML’s DNA With CSS Attribute Selectors </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/packet-challenges?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Programming in Hostile Environments </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827?source=rss----3650599ae4e2---4">Open Sourcing Subzero </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/the--economist-go?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Digital Publishing for Scale: The Economist and Go </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2018/10/22/stolen-access-tokens">Stolen Access Tokens and You </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/learning-neural-network-architectures-6109cb133caf?source=rss----7f60cf5620c9---4">Learning neural network architectures </a></li> 
+          
+            <li> <a href="https://convox.com/blog/twelve-factor-revisited/">12 factor apps revisited </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/">Introduction to Linux interfaces for virtual networking </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 30 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 29 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Wed, 17 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 16 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.pivotal.io/post/local-eureka-zuul-cloud_config-with-spring/">Eureka, Zuul, and Cloud Configuration - Local Development </a></li> 
-          
-            <li> <a href="https://code.fb.com/core-data/akkio/">Managing data store locality at scale with Akkio </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/">Calls between JavaScript and WebAssembly are finally fast 🎉 </a></li> 
-          
-            <li> <a href="https://engineering.gosquared.com/improve-javascript-page-load-time">How to reduce the impact of JavaScript on your page load time </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/10/how-we-are-keeping-our-android-ui-consistent.html">How We’re Keeping Our Android UI Consistent </a></li> 
-          
-            <li> <a href="https://www.toptal.com/full-stack/exploring-dependency-injection-patterns">Hold the Framework – Exploring Dependency Injection Patterns </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/review-deconvnet-unpooling-layer-semantic-segmentation-55cf8a6e380e?source=rss----7f60cf5620c9---4">Review: DeconvNet — Unpooling Layer (Semantic Segmentation) </a></li> 
-          
-            <li> <a href="https://nordicapis.com/whats-the-difference-between-versioning-and-revisioning-apis/">What’s The Difference Between Versioning and Revisioning APIs? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 16 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-16.html</guid>
       </item>
       
   </channel>
