@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 31 Oct 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2018/10/curiosity-and-procrastination-in.html">Curiosity and Procrastination in Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/a-run-through-the-owasp-top-10/">A tour through the OWASP Top 10 </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/10/dweb-identity-for-the-decentralized-web-with-indieauth/">Dweb: Identity for the Decentralized Web with IndieAuth </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/10/building-the-contacts-platform-at-linkedin">Building the Contacts Platform at LinkedIn </a></li> 
+          
+            <li> <a href="https://eng.uber.com/michelangelo-pyml/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=michelangelo-pyml">Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/aaron-lahey/2018/10/23/sharing-secrets-with-gpg.html">Sharing Secrets with GPG </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/prisma-horizontal-scaling-a-practical-guide-3a05833d4fc3?source=rss----d3d69d818e3d---4">Prisma Horizontal Scaling: a practical guide </a></li> 
+          
+            <li> <a href="https://engineering.mongodb.com/post/ryp0ohr2w9pvv0fks88kq6qkz9k9p3">Causal guarantees are anything but casual </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/practical-real-time-ray-tracing-rtx/">Video Series: Practical Real-Time Ray Tracing With RTX </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 31 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 30 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +287,6 @@
         <pubDate>Thu, 18 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 17 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/10/an-introduction-to-ai-at-linkedin">An Introduction to AI at LinkedIn </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/review-programs-with-graphs/">Paper review: “Learning to Represent Programs with Graphs” </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/">Using machine learning to index text from billions of images </a></li> 
-          
-            <li> <a href="https://eng.uber.com/rewrite-uber-carbon-app/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rewrite-uber-carbon-app">Why We Decided to Rewrite Uber’s Driver App </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/use-custom-packet-framing-microservices-messaging/">Use Custom Packet Framing for Microservices Messaging </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/mixed-precision-nlp-speech-openseq2seq/">Mixed Precision Training for NLP and Speech Recognition with OpenSeq2Seq </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-lda-to-build-a-missing-yelp-feature-43436e575d65?source=rss----7f60cf5620c9---4">Using LDA to Build a Missing Yelp Feature </a></li> 
-          
-            <li> <a href="https://hackernoon.com/rendering-external-texture-an-flutter-optimization-by-alibaba-c5ed143af747?source=rss----3a8144eabfe3---4">Rendering “External Texture”: An Flutter Optimization by Alibaba </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 17 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-17.html</guid>
       </item>
       
   </channel>
