@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 01 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/sql-at-scale-with-apache-spark-sql-and-dataframes-concepts-architecture-and-examples-c567853a702f?source=rss----7f60cf5620c9---4">SQL at Scale with Apache Spark SQL and DataFrames — Concepts, Architecture and Examples </a></li> 
+          
+            <li> <a href="https://hackernoon.com/detecting-fake-video-needs-to-start-with-video-authentication-224a988996ce?source=rss----3a8144eabfe3---4">Detecting fake video needs to start with video authentication </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-2/">Video Playback On The Web: Video Delivery Best Practices (Part 2) </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/elixir-otp-concurrency?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Modeling the Real World with Elixir/OTP </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-infrastructure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Next Gen Networking Infrastructure with Rust </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/demystifying-convolutional-neural-networks-384785791596?source=rss----7f60cf5620c9---4">Demystifying Convolutional Neural Networks </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961?source=rss-ef81ef829bcb------2">API Profiling at Pinterest </a></li> 
+          
+            <li> <a href="https://blog.bugsnag.com/the-monitoring-landscape/">Getting started with monitoring for developers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 01 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 31 Oct 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Fri, 19 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 18 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/strava-engineering/stravas-new-end-to-end-testing-setup-18b541727555?source=rss----89d4108ce2a3---4">Strava’s New End-to-End Testing Setup </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/10/building-representative-talent-search-at-linkedin">Building Representative Talent Search at LinkedIn </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/vulkan-raytracing/">Introduction to Real-Time Ray Tracing with Vulkan </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/">Dropbox traffic infrastructure: Edge network </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/10/control-flow-integrity-in-android-kernel.html">Control Flow Integrity in the Android kernel </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/10/open-sourcing-active-question.html">Open Sourcing Active Question Reformulation with Reinforcement Learning </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/a-tour-inside-cloudflares-g9-servers/">A Tour Inside Cloudflare&#39;s G9 Servers </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/mapping-factorio-with-leaflet/">Mapping Factorio with Leaflet </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 18 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-18.html</guid>
       </item>
       
   </channel>
