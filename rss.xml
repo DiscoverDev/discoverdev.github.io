@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 02 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/myheritage-engineering/reacts-render-props-in-practice-b3775fcbf3c3?source=rss----c98dcd6fa33c---4">React’s Render Props in Practice </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/xlni/">Facebook, NYU expand available languages for natural language understanding systems </a></li> 
+          
+            <li> <a href="https://hackernoon.com/cloud-based-file-transfer-at-scale-63d8e2dacb3a?source=rss----3a8144eabfe3---4">Cloud-based file transfer at scale </a></li> 
+          
+            <li> <a href="https://www.opsian.com/blog/understanding-production-what-can-you-measure/">Understanding Production: What can you measure? </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617?source=rss----7f60cf5620c9---4">Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/vmaf-the-journey-continues-44b51ee9ed12?source=rss----2615bd06b42e---4">VMAF: The Journey Continues </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/join-ordering-pt1/">An Introduction to Join Ordering </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/">Building Ambitious Apps with MDX </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 02 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 01 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 22 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 19 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/10/checkpointing-and-consistent-recovery-lines-how-we-handle-failure-in-wallaroo/">Checkpointing and Consistent Recovery Lines: How We Handle Failure in Wallaroo </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/kotlin-language-tour?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Why Bother with Kotlin - Not Just Another Language Tour </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter.html">ZooKeeper at Twitter </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html">Introducing Oboe: A C++ library for low latency audio </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2018/10/11/creating-leaflet-tiles-from-open-data/">Creating Leaflet Tiles from Open Data using PostGIS and QGIS </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/10/building-linkedin-talent-hub">Building Enterprise Software on LinkedIn&#39;s Consumer Stack: Behind the Scenes of LinkedIn Talent Hub </a></li> 
-          
-            <li> <a href="https://medium.com/content-uneditable/lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration-c35870046987?source=rss----217c2715f1c8---4">Lessons learned from creating a rich-text editor with real-time collaboration </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/graceful-upgrades-in-go/">Graceful upgrades in Go </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 19 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-19.html</guid>
       </item>
       
   </channel>
