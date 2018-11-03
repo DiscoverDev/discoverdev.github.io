@@ -50,6 +50,12 @@ body > header {
     color: black;
 }
 
+.tags a.tlink-highlight {
+    color: black;
+    padding: 2px;
+    background: yellow;
+}
+
 /******** LOGO ********/
 
 .logo {
