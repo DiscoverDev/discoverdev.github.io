@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 06 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/">Deep Learning for Classifying Hotel Aesthetics Photos </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3?source=rss----7f60cf5620c9---4">How to solve the last mile logistics conundrum? </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/10/performance-server-timing/">Measuring Performance With Server Timing </a></li> 
+          
+            <li> <a href="https://advancedweb.hu/2018/10/30/s3_signed_urls/">How S3 Signed URLs work </a></li> 
+          
+            <li> <a href="https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8?source=rss----5b301f10ddcd---4">Immutable Infrastructure Using Packer, Ansible, and Terraform </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52?source=rss----7f3d96429888---4">Lazy-Loading Components in React 16.6 </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/10/testing-privacy-preserving-telemetry-with-prio/">Testing Privacy-Preserving Telemetry with Prio </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql">ATM Fraud Detection with Apache Kafka and KSQL </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 05 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Wed, 24 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 23 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/square-corner-blog/sqr00t-offensive-security-tech-talks-1353784216aa?source=rss----3650599ae4e2---4">SqR00t Offensive Security Tech Talks </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/dynamic-meta-embeddings/">Improving AI language understanding by combining multiple word representations </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/the-netflix-media-database-nmdb-9bf8e6d0944d?source=rss----2615bd06b42e---4">The Netflix Media Database (NMDB) </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/an-overview-of-open-standards/">An Overview of Open Standards </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/10/how-we-use-machine-learning-and-natural-language-processing-to-empower-search/">How We Use Machine Learning and Natural Language Processing to Empower Search </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/siamese-networks-and-stuart-weitzman-boots-c414be7eff78?source=rss----7f60cf5620c9---4">Siamese Networks and Stuart Weitzman Boots </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/">Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers </a></li> 
-          
-            <li> <a href="https://techblog.king.com/benchmarking-google-bigquery-at-scale/">Benchmarking Google BigQuery at Scale </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 23 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-23.html</guid>
       </item>
       
   </channel>
