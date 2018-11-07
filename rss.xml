@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 07 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56?source=rss----3a8144eabfe3---4">Reflecting on Building Real-time APIs at Facebook </a></li> 
+          
+            <li> <a href="https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302?source=rss----3a8144eabfe3---4">Apache Kafka’s Distributed System Firefighter — The Controller Broker </a></li> 
+          
+            <li> <a href="https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b?source=rss----5b301f10ddcd---4">Power-efficiency for performance-deficiency </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/profiling-case-missing-milliseconds">Profiling: The Case of the Missing Milliseconds </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html">Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees </a></li> 
+          
+            <li> <a href="https://eng.uber.com/peloton/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=peloton">Peloton: Uber’s Unified Resource Scheduler for Diverse Cluster Workloads </a></li> 
+          
+            <li> <a href="https://code.fb.com/open-source/linux/">Facebook open-sources new suite of Linux kernel components and tools </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb?source=rss----7f60cf5620c9---4">Neural Networks For Music: A Journey Through Its History </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 07 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 06 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Thu, 25 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 24 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/10/linkedin-feed-with-creator-side-optimization">Spreading the Love in the LinkedIn Feed with Creator-Side Optimization </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html">Modern background execution in Android </a></li> 
-          
-            <li> <a href="https://eng.uber.com/uber-visualization-mapbox/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-visualization-mapbox">Uber Expands Advanced Visualization Ecosystem with Mapbox Integration </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/10/yelp-production-engineering-documentation-style-guide.html">The Yelp Production Engineering Documentation Style Guide </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Serverless Rust with Cloudflare Workers </a></li> 
-          
-            <li> <a href="https://nordicapis.com/8-types-of-oauth-flows-and-powers/">8 Vital OAuth Flows and Powers </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/">RAPIDS Accelerates Data Science End-to-End </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/10/see-better-and-further-with-super-res.html">See Better and Further with Super Res Zoom on the Pixel 3 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 24 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-24.html</guid>
       </item>
       
   </channel>
