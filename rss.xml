@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 08 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.mixpanel.com/2018/10/31/the-state-of-ui-testing-at-mixpanel/">The state of UI testing at Mixpanel </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/10/google-at-emnlp-2018.html">Google at EMNLP 2018 </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-pos-android-using-mvvm">Building Shopify POS for Android Using MVVM </a></li> 
+          
+            <li> <a href="https://medium.engineering/graphql-medium-tech-talk-videos-a4812932abf3?source=rss----2817475205d3---4">GraphQL @ Medium Tech Talk Videos </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47?source=rss----51e1d1745b32---4">How Does This Article Make You Feel? </a></li> 
+          
+            <li> <a href="https://research.fb.com/facebook-research-at-emnlp/">Facebook Research at EMNLP </a></li> 
+          
+            <li> <a href="https://blog.asana.com/2018/10/move-fast-without-technical-debt-product-tours-react/">Architecting product tours in React: How we moved fast without leaving a trail of tech debt </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/">Real-Time Noise Suppression Using Deep Learning </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/quest-react-micro-apps-beginning/">The Quest for React Micro-Apps: The Beginning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 08 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 07 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +289,6 @@
         <pubDate>Fri, 26 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 25 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blogs.windows.com/buildingapps/2018/10/17/introducing-component-firmware-update/">Introducing Component Firmware Update </a></li> 
-          
-            <li> <a href="https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f?source=rss----2817475205d3---4">Microservice Architecture at Medium </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/10/building-titan-better-security-through.html">Building a Titan: Better security through a tiny chip </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/10/pylift-a-fast-python-package-for-uplift-modeling/">Pylift: A Fast Python Package for Uplift Modeling </a></li> 
-          
-            <li> <a href="https://eng.uber.com/uber-big-data-platform/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-big-data-platform">Uber’s Big Data Platform: 100+ Petabytes with Minute Latency </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/10/dweb-decentralised-real-time-interoperable-communication-with-matrix/">Dweb: Decentralised, Real-Time, Interoperable Communication with Matrix </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c?source=rss----2615bd06b42e---4">Lumen: Custom, Self-Service Dashboarding For Netflix </a></li> 
-          
-            <li> <a href="https://3mdeb.com/firmware/enabling-ecc-on-pc-engines-platforms/">Enabling ECC on PC Engines platforms </a></li> 
-          
-            <li> <a href="https://www.toptal.com/ios/collusion-ios-multipeerconnectivity">Collusion: Nearby Device Networking with MultipeerConnectivity in iOS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 25 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-25.html</guid>
       </item>
       
   </channel>
