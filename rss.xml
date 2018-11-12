@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 12 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af?source=rss----42df4a1e8725---4">Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps! </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/database-encryption-detection-tools?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Making Security Usable: Product Engineer Perspective </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/11/unstructured-data-transfer-in-rest-li">Unstructured Data Transfer in Rest.li </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/javascript-design-pattern-214d888096a3?source=rss----7f3d96429888---4">JavaScript design patterns </a></li> 
+          
+            <li> <a href="https://medium.engineering/graphql-server-design-medium-34862677b4b8?source=rss----2817475205d3---4">GraphQL Server Design @ Medium </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/understanding_keep_alive_timeouts/">Understanding Keep-Alive Timeouts in the Cloud Foundry Networking Stack </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html">Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/11/the-treacherous-tangle-of-redundant-data-resilience-for-wallaroo/">The Treacherous Tangle of Redundant Data: Resilience for Wallaroo </a></li> 
+          
+            <li> <a href="https://research.fb.com/using-ai-to-help-people-with-visual-impairments-share-images-on-facebook/">Using AI to help people with visual impairments share images on Facebook </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 09 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +293,6 @@
         <pubDate>Tue, 30 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 29 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.lyft.com/the-challenges-behind-rolling-out-security-updates-to-your-docker-images-86106de47ece?source=rss----25cd379abb8---4">The Challenges Behind Rolling Out Security Updates To Your Docker Images </a></li> 
-          
-            <li> <a href="https://allegro.tech/2018/10/turnilo-lets-change-the-way-people-explore-big-data.html">Turnilo — let’s change the way people explore Big Data </a></li> 
-          
-            <li> <a href="https://eng.uber.com/nlp-deep-learning-uber-maps/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nlp-deep-learning-uber-maps">Applying Customer Feedback: How NLP &amp; Deep Learning Improve Uber&amp;rsquo;s Maps </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/">WebAssembly’s post-MVP future: A cartoon skill tree </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/sing/">Significantly faster generation and training for AI-based audio systems </a></li> 
-          
-            <li> <a href="https://hackernoon.com/youtube-is-making-machines-really-smart-48df30016d5b?source=rss----3a8144eabfe3---4">YouTube Is Making Machines Really Smart </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/distributed-systems-debug-manage?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Help! I Accidentally Distributed My System! </a></li> 
-          
-            <li> <a href="https://code.fb.com/android/mobilelab/">MobileLab: Highly accurate testing to prevent mobile performance regressions </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 29 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-29.html</guid>
       </item>
       
   </channel>
