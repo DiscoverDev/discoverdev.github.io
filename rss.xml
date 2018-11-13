@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 13 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://technology.skybettingandgaming.com/2018/11/02/optimising-microservices-part-1/">Optimising an AWS microservice - Part 1 </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/">Accelerated Ray Tracing in One Weekend in CUDA </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/container-runtimes-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Who Is Running My Kubernetes Pod? The Past, Present, and Future of Container Runtimes </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines">Modernizing your build pipelines </a></li> 
+          
+            <li> <a href="https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43?source=rss----3a8144eabfe3---4">Blockchains vs. Hashgraphs </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/asynchronous-methods-task?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: I&#39;ll Get Back to You: Task, Await, and Asynchronous Methods </a></li> 
+          
+            <li> <a href="https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe?source=rss----3a8144eabfe3---4">Writing a Frontend Web Framework with WebAssembly And Go </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-double-q-learning-7fca410b193a?source=rss----7f60cf5620c9---4">Deep (Double) Q-Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df?source=rss----3a8144eabfe3---4">Create your own dysfunctional single-page app in five easy steps </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 13 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 12 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +295,6 @@
         <pubDate>Wed, 31 Oct 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-10-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 30 Oct 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/">Splicing HTML’s DNA With CSS Attribute Selectors </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/packet-challenges?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Programming in Hostile Environments </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827?source=rss----3650599ae4e2---4">Open Sourcing Subzero </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/the--economist-go?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Digital Publishing for Scale: The Economist and Go </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2018/10/22/stolen-access-tokens">Stolen Access Tokens and You </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/learning-neural-network-architectures-6109cb133caf?source=rss----7f60cf5620c9---4">Learning neural network architectures </a></li> 
-          
-            <li> <a href="https://convox.com/blog/twelve-factor-revisited/">12 factor apps revisited </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/">Introduction to Linux interfaces for virtual networking </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 30 Oct 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-10-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-30.html</guid>
       </item>
       
   </channel>
