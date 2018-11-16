@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 16 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586?source=rss----2615bd06b42e---4">Scaling Time Series Data Storage — Part II </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/sharding-cash-10280fa3ef3b?source=rss----3650599ae4e2---4">Sharding Cash </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/running-apache-kafka-on-kubernetes-at-shopify">Running Apache Kafka on Kubernetes at Shopify </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6?source=rss----25cd379abb8---4">Empowering personalized marketing with machine learning </a></li> 
+          
+            <li> <a href="https://eng.uber.com/analyzing-experiment-outcomes/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=analyzing-experiment-outcomes">Analyzing Experiment Outcomes: Beyond Average Treatment Effects </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/11/07/double-bucketing-in-ab-testing/">Double-bucketing in A/B Testing </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/cuda-turing-new-gpu-compute-possibilities/">CUDA on Turing Opens New GPU Compute Possibilities </a></li> 
+          
+            <li> <a href="https://code.fb.com/ml-applications/fbgemm/">Open-sourcing FBGEMM for state-of-the-art server-side inference </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/11/virtual-reality-model-real-time-cross-device-preview/">How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/i-am-a-developer-why-should-i-use-docker/">I am a Developer: why should I use Docker ? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 16 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 15 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +299,6 @@
         <pubDate>Mon, 05 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 02 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/myheritage-engineering/reacts-render-props-in-practice-b3775fcbf3c3?source=rss----c98dcd6fa33c---4">React’s Render Props in Practice </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/xlni/">Facebook, NYU expand available languages for natural language understanding systems </a></li> 
-          
-            <li> <a href="https://hackernoon.com/cloud-based-file-transfer-at-scale-63d8e2dacb3a?source=rss----3a8144eabfe3---4">Cloud-based file transfer at scale </a></li> 
-          
-            <li> <a href="https://www.opsian.com/blog/understanding-production-what-can-you-measure/">Understanding Production: What can you measure? </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/uber-introduces-pyml-their-secret-weapon-for-rapid-machine-learning-development-c0f40009a617?source=rss----7f60cf5620c9---4">Uber Introduces PyML: Their Secret Weapon for Rapid Machine Learning Development </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/vmaf-the-journey-continues-44b51ee9ed12?source=rss----2615bd06b42e---4">VMAF: The Journey Continues </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/join-ordering-pt1/">An Introduction to Join Ordering </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/">Building Ambitious Apps with MDX </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 02 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-02.html</guid>
       </item>
       
   </channel>
