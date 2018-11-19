@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 19 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/speed-up-inference-tensorrt/">How to Speed Up Deep Learning Inference Using TensorRT </a></li> 
+          
+            <li> <a href="https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4?source=rss----d57e27362b5---4">Building a Type-safe Embedded DSL for Form Components with Validation </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development">Optimizing Cluster Resources for Kubernetes Team Development </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/making-beats-with-generative-design-6e0e151e592?source=rss----5e5bef33608a---4">Making beats with generative design </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ux/visual-hierarchy">Boost Your UX with Clear Visual Hierarchy </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/floating-point-math/">Making floating point math highly efficient for AI hardware </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/">Proactive Data Pipeline Alerting with Pulse </a></li> 
+          
+            <li> <a href="https://hackernoon.com/eli5-plasma-cash-ff242c55e8de?source=rss----3a8144eabfe3---4">ELI5: Plasma Cash </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 19 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 16 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,36 +297,6 @@
         <pubDate>Tue, 06 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 05 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/10/acoustic-detection-of-humpback-whales.html">Acoustic Detection of Humpback Whales Using a Convolutional Neural Network </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1?source=rss----cfe1120185d3---4">Anomaly Detection in Zipkin Trace Data </a></li> 
-          
-            <li> <a href="https://code.fb.com/ml-applications/qnnpack/">QNNPACK: Open source library for optimized mobile deep learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/scaling-up-with-distributed-tensorflow-on-spark-afc3655d8f95?source=rss----7f60cf5620c9---4">Scaling up with Distributed Tensorflow on Spark </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/effectively-integrating-rtx-ray-tracing-real-time-rendering-engine/">Effectively Integrating RTX Ray Tracing into a Real-Time Rendering Engine </a></li> 
-          
-            <li> <a href="https://blog.jooq.org/2018/10/29/imperative-loop-or-functional-stream-pipeline-beware-of-the-performance-impact/">Imperative Loop or Functional Stream Pipeline? Beware of the Performance Impact! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/data-models-automl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Implementing AutoML Techniques at Salesforce Scale </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/code-documentation?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Write Code that Documents Itself </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/decoded-entity-embeddings-of-categorical-variables-in-neural-networks-1d2468311635?source=rss----7f60cf5620c9---4">Decoded Entity Embeddings of Categorical Variables in Neural Networks </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 05 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-05.html</guid>
       </item>
       
   </channel>
