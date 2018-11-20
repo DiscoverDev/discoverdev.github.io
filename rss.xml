@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 20 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://technology.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/">Optimising an AWS microservice - Part 2 </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/">Basic Accessibility for Web Applications </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/blazor-web-assembly?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Blazor: C# Running in the Browser via WebAssembly </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/idsplit/">Splitting Millions of Source Code Identifiers with Deep Learning </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/how-we-use-aws-batch-at-zendesk-to-build-all-the-machine-learning-models-a41d93eabd45?source=rss----a88376ea904a---4">How we use AWS Batch at Zendesk to Build All The Machine Learning Models </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93?source=rss----2615bd06b42e---4">Netflix MediaDatabase — Media Timeline Data Model </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/">SRE Case Study: Mysterious Traffic Imbalance </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/">How We Built a Cost-Based SQL Optimizer </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/11/into-the-depths-the-technical-details-behind-av1/">Into the Depths: The Technical Details Behind AV1 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1?source=rss----7f60cf5620c9---4">WaveNet: Google Assistant’s Voice Synthesizer. </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 20 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 19 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +301,6 @@
         <pubDate>Wed, 07 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 06 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/">Deep Learning for Classifying Hotel Aesthetics Photos </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3?source=rss----7f60cf5620c9---4">How to solve the last mile logistics conundrum? </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/10/performance-server-timing/">Measuring Performance With Server Timing </a></li> 
-          
-            <li> <a href="https://advancedweb.hu/2018/10/30/s3_signed_urls/">How S3 Signed URLs work </a></li> 
-          
-            <li> <a href="https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8?source=rss----5b301f10ddcd---4">Immutable Infrastructure Using Packer, Ansible, and Terraform </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52?source=rss----7f3d96429888---4">Lazy-Loading Components in React 16.6 </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/10/testing-privacy-preserving-telemetry-with-prio/">Testing Privacy-Preserving Telemetry with Prio </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql">ATM Fraud Detection with Apache Kafka and KSQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 06 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-06.html</guid>
       </item>
       
   </channel>
