@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 21 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/the-rise-of-multivector-amplifications/">The rise of multivector DDoS attacks </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7?source=rss----7f60cf5620c9---4">A Deeper Look into Embeddings — A Linguistic Approach </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?source=rss----7f60cf5620c9---4">BERT Explained: State of the art language model for NLP </a></li> 
+          
+            <li> <a href="https://hackernoon.com/rewriting-the-wrongs-of-web2-and-other-political-events-f217e5134ef2?source=rss----3a8144eabfe3---4">Rewriting the Wrongs of Web2 and Other Political Events </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/">Cross shard transactions at 10 million requests per second </a></li> 
+          
+            <li> <a href="https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-ribs-architecture">Architecting Uber’s New Driver App in RIBs </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/">Your Client Engagement Program Isn&amp;#39;t Doing What You Think It Is. </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/cloud-computing-without-containers/">Cloud Computing without Containers </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/challenges-realtime-chat-service-pusher?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Challenges of Building a Reliable Realtime Chat Service </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 21 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 20 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,34 +303,6 @@
         <pubDate>Thu, 08 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 07 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56?source=rss----3a8144eabfe3---4">Reflecting on Building Real-time APIs at Facebook </a></li> 
-          
-            <li> <a href="https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302?source=rss----3a8144eabfe3---4">Apache Kafka’s Distributed System Firefighter — The Controller Broker </a></li> 
-          
-            <li> <a href="https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b?source=rss----5b301f10ddcd---4">Power-efficiency for performance-deficiency </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/profiling-case-missing-milliseconds">Profiling: The Case of the Missing Milliseconds </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html">Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees </a></li> 
-          
-            <li> <a href="https://eng.uber.com/peloton/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=peloton">Peloton: Uber’s Unified Resource Scheduler for Diverse Cluster Workloads </a></li> 
-          
-            <li> <a href="https://code.fb.com/open-source/linux/">Facebook open-sources new suite of Linux kernel components and tools </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb?source=rss----7f60cf5620c9---4">Neural Networks For Music: A Journey Through Its History </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 07 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-07.html</guid>
       </item>
       
   </channel>
