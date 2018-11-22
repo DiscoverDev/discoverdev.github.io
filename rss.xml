@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 22 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/calibration-translate-video-data/">Using Calibration to Translate Video Data to the Real World </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c?source=rss----53c7c27702d5---4">Druid @ Airbnb Data Platform </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/">Working on the Engines While the Plane is Flying </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/nodejs-microservices-scaling-case-study/">Serving Millions of Users in Real-Time with Node.js &amp; Microservices [Case Study] </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/11/firefox-sync-privacy/">Private by Design: How we built Firefox Sync </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/11/sinkholing-2/">Sinkholing - Face the Threat, Beat the Threat </a></li> 
+          
+            <li> <a href="https://hackernoon.com/demystify-the-multi-threading-in-node-js-4ff07eae9abe?source=rss----3a8144eabfe3---4">Demystify The Multi-threading in Node.JS </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html">Accurate Online Speaker Diarization with Supervised Learning </a></li> 
+          
+            <li> <a href="https://tech.findmypast.com/graphql-schema-modeling-1/">GraphQL Schema Modeling: Part 1 </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html">Automating Terraform: Infrastructure as Code as a Service </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 22 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 21 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +305,6 @@
         <pubDate>Fri, 09 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 08 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.mixpanel.com/2018/10/31/the-state-of-ui-testing-at-mixpanel/">The state of UI testing at Mixpanel </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/10/google-at-emnlp-2018.html">Google at EMNLP 2018 </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-pos-android-using-mvvm">Building Shopify POS for Android Using MVVM </a></li> 
-          
-            <li> <a href="https://medium.engineering/graphql-medium-tech-talk-videos-a4812932abf3?source=rss----2817475205d3---4">GraphQL @ Medium Tech Talk Videos </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47?source=rss----51e1d1745b32---4">How Does This Article Make You Feel? </a></li> 
-          
-            <li> <a href="https://research.fb.com/facebook-research-at-emnlp/">Facebook Research at EMNLP </a></li> 
-          
-            <li> <a href="https://blog.asana.com/2018/10/move-fast-without-technical-debt-product-tours-react/">Architecting product tours in React: How we moved fast without leaving a trail of tech debt </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/">Real-Time Noise Suppression Using Deep Learning </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/quest-react-micro-apps-beginning/">The Quest for React Micro-Apps: The Beginning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 08 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-08.html</guid>
       </item>
       
   </channel>
