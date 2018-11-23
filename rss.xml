@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 23 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs">Transport: Towards Logical Independence Using Translatable Portable UDFs </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/inferring-label-hierarchies-with-hlda-2093d0413337?source=rss----3650599ae4e2---4">Inferring Label Hierarchies with hLDA </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/progressive-service-architecture-at-auth0/">Progressive Service Architecture At Auth0 </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world">Handling Addresses from All Around the World </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/11/14/federated-learning.html">Federated learning: distributed machine learning with data locality and privacy </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2?source=rss----7f60cf5620c9---4">Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/11/use-case-for-augmented-reality-in-design/">Use Case For Augmented Reality In Design </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/">How we spent two weeks hunting an NFS bug in the Linux kernel </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/intelligent-video-analytics-deepstream-sdk-3-0/">Breaking the Boundaries of Intelligent Video Analytics with DeepStream SDK 3.0 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 23 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 22 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +305,6 @@
         <pubDate>Mon, 12 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 09 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/scaling-michelangelo/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=scaling-michelangelo">Scaling Machine Learning at Uber with Michelangelo </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/java-troubleshooting-guide/">A Java troubleshooting guide: network, memory leaks and threads </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/">Introducing FuseBox, an alternative to Webpack </a></li> 
-          
-            <li> <a href="https://code.fb.com/ml-applications/horizon/">Horizon: The first open source reinforcement learning platform for large-scale products and services </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html">The Decentralized Web </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/re-imagining-price-check-with-augmented-reality-41b8178a3e44?source=rss----905ea2b3d4d1---4">Re-imagining Price Check with Augmented Reality </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5?source=rss----7f3d96429888---4">Why you should avoid ORMs (with examples in Node.js) </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/">More Efficient Range Scan Paging with Scylla 3.0 </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/product-design/guide-to-onboarding-ux">First Impressions - a Guide to Onboarding UX </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 09 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-09.html</guid>
       </item>
       
   </channel>
