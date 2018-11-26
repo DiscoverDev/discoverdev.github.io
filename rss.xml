@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 26 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/dyslexic-friendly-fonts.htm">Dyslexic Friendly Font - Khan Academy&#39;s New Accessibility Feature </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/11/the-power-of-web-components/">The Power of Web Components </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d?source=rss----7f60cf5620c9---4">Dash: A Beginner’s Guide </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rest-api-testing-postman?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Testing the Endpoints of Your REST APIs </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a?source=rss----7f60cf5620c9---4">A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2018/11/14/boundary-layer%E2%80%89-declarative-airflow-workflows/">boundary-layer : Declarative Airflow Workflows </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained">Kafka Connect Deep Dive – Converters and Serialization Explained </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/how-to-deal-with-the-seasonality-of-a-market-584cc94d6b75?source=rss----25cd379abb8---4">How to deal with the seasonality of a market? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 26 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 23 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +303,6 @@
         <pubDate>Tue, 13 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 12 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af?source=rss----42df4a1e8725---4">Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/database-encryption-detection-tools?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Making Security Usable: Product Engineer Perspective </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/11/unstructured-data-transfer-in-rest-li">Unstructured Data Transfer in Rest.li </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/javascript-design-pattern-214d888096a3?source=rss----7f3d96429888---4">JavaScript design patterns </a></li> 
-          
-            <li> <a href="https://medium.engineering/graphql-server-design-medium-34862677b4b8?source=rss----2817475205d3---4">GraphQL Server Design @ Medium </a></li> 
-          
-            <li> <a href="http://engineering.pivotal.io/post/understanding_keep_alive_timeouts/">Understanding Keep-Alive Timeouts in the Cloud Foundry Networking Stack </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html">Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/11/the-treacherous-tangle-of-redundant-data-resilience-for-wallaroo/">The Treacherous Tangle of Redundant Data: Resilience for Wallaroo </a></li> 
-          
-            <li> <a href="https://research.fb.com/using-ai-to-help-people-with-visual-impairments-share-images-on-facebook/">Using AI to help people with visual impairments share images on Facebook </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 12 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-12.html</guid>
       </item>
       
   </channel>
