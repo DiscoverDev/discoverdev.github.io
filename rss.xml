@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 27 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/">Microcontainers for Unit Testing </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107?source=rss----7484818e9f88---4">Real-time context based smart type-ahead suggestions </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/uber-big-data-dl-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Big Data and Deep Learning: A Tale of Two Systems </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/">MySQL High Availability On-Premises: A Geographically Distributed Scenario </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd?source=rss----51e1d1745b32---4">Measuring What Makes Readers Subscribe to The New York Times </a></li> 
+          
+            <li> <a href="https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a?source=rss----3a8144eabfe3---4">Can SNMP (Still) Be Used to Detect DDoS Attacks? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f?source=rss----3a8144eabfe3---4">Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html">Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 27 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 26 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +301,6 @@
         <pubDate>Wed, 14 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 13 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://technology.skybettingandgaming.com/2018/11/02/optimising-microservices-part-1/">Optimising an AWS microservice - Part 1 </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/">Accelerated Ray Tracing in One Weekend in CUDA </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/container-runtimes-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Who Is Running My Kubernetes Pod? The Past, Present, and Future of Container Runtimes </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines">Modernizing your build pipelines </a></li> 
-          
-            <li> <a href="https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43?source=rss----3a8144eabfe3---4">Blockchains vs. Hashgraphs </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/asynchronous-methods-task?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: I&#39;ll Get Back to You: Task, Await, and Asynchronous Methods </a></li> 
-          
-            <li> <a href="https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe?source=rss----3a8144eabfe3---4">Writing a Frontend Web Framework with WebAssembly And Go </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-double-q-learning-7fca410b193a?source=rss----7f60cf5620c9---4">Deep (Double) Q-Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df?source=rss----3a8144eabfe3---4">Create your own dysfunctional single-page app in five easy steps </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 13 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-13.html</guid>
       </item>
       
   </channel>
