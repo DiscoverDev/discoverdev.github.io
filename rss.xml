@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 28 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/">Building An Interactive Infographic With Vue.js </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/3d-visualization-of-nn-layers-with-tensorspace-js-7a8ef5440125?source=rss----7f60cf5620c9---4">3D Visualization of NN layers with TensorSpace.js </a></li> 
+          
+            <li> <a href="https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e?source=rss----3a8144eabfe3---4">Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke">Coding Conversations: The &amp;ldquo;Perfect Storm&#34; that Brought Down LinkedIn.com </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/">Offensive testing to make Dropbox (and the world) a safer place </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-question-of-why-in-single-page-application-frameworks-91383446d0f5?source=rss----7f3d96429888---4">The question of “why?” in single-page application frameworks </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/11/improved-grading-of-prostate-cancer.html">Improved Grading of Prostate Cancer Using Deep Learning </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4">What’s the big deal about Decentralized Consensus? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 28 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 27 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +299,6 @@
         <pubDate>Thu, 15 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 14 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.udacity.com/three-simple-rules-for-putting-secrets-into-git-d47b207852b9?source=rss----23c8405c11b4---4">Three Simple Rules for Putting Secrets into Git </a></li> 
-          
-            <li> <a href="https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9?source=rss----32c64651a75---4">A Netflix Web Performance Case Study </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union">Five years of PostCSS: State of the Union </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/11/crash-reporting-in-desktop-python-applications/">Crash reporting in desktop Python applications </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/linear-regression-in-real-life/">Linear Regression in Real Life </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/modanet-a-large-scale-street-fashion-dataset-with-polygon-annotations/">ModaNet: A Large-scale Street Fashion Dataset with Polygon Annotations </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/11/gif-to-video/">Improve Animated GIF Performance With HTML5 video </a></li> 
-          
-            <li> <a href="https://www.toptal.com/devops/terraform-aws-cloud-iac">Terraform AWS Cloud - Sane Infrastructure Management </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/zero-shot-learning/">Zero-shot learning: Using text to more accurately identify images </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 14 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-14.html</guid>
       </item>
       
   </channel>
