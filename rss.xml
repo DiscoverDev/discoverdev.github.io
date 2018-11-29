@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 29 Nov 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/11/implications-blocks-blobs/">Implications Of Thinking In Blocks Instead Of Blobs </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html">TTL as a Service: Automatic Revocation of Stale Privileges </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning">Using Apache Kafka to Drive Cutting-Edge Machine Learning </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-general-approach-for-using-2d-object-detection-for-facial-id-b5dc816a970?source=rss----7f60cf5620c9---4">A General Approach for Using 2D Object Detection for Facial ID </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/adding-pipelines-to-javascript-f79ae7311574?source=rss----7f3d96429888---4">Adding pipelines to JavaScript </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411?source=rss----7f60cf5620c9---4">Interpretable Neural Networks </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/ai-agents-see/">Toward a deeper understanding of the way AI agents see things </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758?source=rss----7f60cf5620c9---4">Handling Imbalanced Datasets in Deep Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 29 Nov 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-11-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 28 Nov 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +299,6 @@
         <pubDate>Fri, 16 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 15 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/r2dbc?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reactive Relational Database Connectivity </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin">Rebuilding the Groups Experience on LinkedIn </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/enabling-modern-javascript-in-rails-with-webpack-er-fd4a1b8dd0c6?source=rss----3650599ae4e2---4">Enabling Modern JavaScript in Rails with Webpack(er) </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f?source=rss----53c7c27702d5---4">Applying Deep Learning To Airbnb Search </a></li> 
-          
-            <li> <a href="https://blog.codeship.com/what-is-the-difference-between-implicit-vs-explicit-programming/">What’s the Difference Between Implicit vs. Explicit Programming? </a></li> 
-          
-            <li> <a href="https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/">Getafix: How Facebook tools learn to fix bugs automatically </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7?source=rss----f5105b08f43a---4">The how and why on React’s usage of linked list in Fiber </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/rethinking-quality-engineers/">Rethinking quality and the engineers who protect it </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 15 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-15.html</guid>
       </item>
       
   </channel>
