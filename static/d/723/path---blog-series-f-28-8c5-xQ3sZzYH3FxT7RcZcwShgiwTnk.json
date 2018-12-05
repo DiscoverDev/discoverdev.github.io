@@ -1,0 +1,1 @@
+{"errors":[{"message":"Fields \"twoBit\" conflict because they have differing arguments. Use different aliases on the fields to fetch both if this was intentional.","locations":[{"line":14,"column":3},{"line":20,"column":3}]}],"pageContext":{}}
