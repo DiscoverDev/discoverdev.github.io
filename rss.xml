@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 05 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.fb.com/ai-research/fastmri/">New fastMRI open source AI research tools from Facebook and NYU School of Medicine </a></li> 
+          
+            <li> <a href="https://eng.uber.com/go-explore/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=go-explore">Montezuma’s Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too) </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/greenplum-for-kubernetes-operator/">Greenplum for Kubernetes Operator </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-best-data-visualizations-for-grabbing-readers-attention-19dec3b8fc9?source=rss----3a8144eabfe3---4">The Best Data Visualizations for Grabbing Readers’ Attention </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance">Errors in Go: From denial to acceptance </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-make-any-website-faster-65111ced2923?source=rss----7f3d96429888---4">How to make any website faster </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/what-is-physically-based-animation-cd92a7f8d6a4?source=rss----7f60cf5620c9---4">What Is Physically-Based Animation? </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/visualizing-air-pollution-with-folium-maps-4ce1a1880677?source=rss----7f60cf5620c9---4">Visualizing Air Pollution with Folium Maps </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/">Avoiding The Pitfalls Of Automatically Inlined Code </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 05 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 04 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,36 +295,6 @@
         <pubDate>Thu, 22 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 21 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/the-rise-of-multivector-amplifications/">The rise of multivector DDoS attacks </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7?source=rss----7f60cf5620c9---4">A Deeper Look into Embeddings — A Linguistic Approach </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?source=rss----7f60cf5620c9---4">BERT Explained: State of the art language model for NLP </a></li> 
-          
-            <li> <a href="https://hackernoon.com/rewriting-the-wrongs-of-web2-and-other-political-events-f217e5134ef2?source=rss----3a8144eabfe3---4">Rewriting the Wrongs of Web2 and Other Political Events </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/">Cross shard transactions at 10 million requests per second </a></li> 
-          
-            <li> <a href="https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-ribs-architecture">Architecting Uber’s New Driver App in RIBs </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/">Your Client Engagement Program Isn&amp;#39;t Doing What You Think It Is. </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/cloud-computing-without-containers/">Cloud Computing without Containers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/challenges-realtime-chat-service-pusher?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Challenges of Building a Reliable Realtime Chat Service </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 21 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-21.html</guid>
       </item>
       
   </channel>
