@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 07 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89?source=rss----7f60cf5620c9---4">Audio Classification using FastAI and On-the-Fly Frequency Transforms </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/l4drop-xdp-ebpf-based-ddos-mitigations/">L4Drop: XDP DDoS Mitigations </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/reimagining-the-morning-briefing-655100304624?source=rss----51e1d1745b32---4">Reimagining the Morning Briefing </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2018/11/28/artsy-auth/">Everything You Ever Wanted To Know About Authentication at Artsy (But Didn&#39;t Know How To Ask) </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d?source=rss----3a8144eabfe3---4">The Ultimate Guide To Starting Your First IoT Project </a></li> 
+          
+            <li> <a href="https://eng.uber.com/driver-app-optimistic-mode/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-optimistic-mode">How Uber’s New Driver App Overcomes Network Lag </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/a-vip-connection-timeout-issue-caused-by-snat-and-tcp-tw-recycle/">Troubleshooting a Connection Timeout Issue with tcp_tw_recycle Enabled </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/better-development-with-chrome-developer-tools-78b7d688438a?source=rss----7f3d96429888---4">Improving load performance and debugging with Chrome DevTools </a></li> 
+          
+            <li> <a href="https://code.fb.com/ml-applications/neural-egg-separation/">Neural Egg Separation: Training ML systems to extract audio/video from noisy/cluttered environments </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 07 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 06 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +293,6 @@
         <pubDate>Mon, 26 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 23 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs">Transport: Towards Logical Independence Using Translatable Portable UDFs </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/inferring-label-hierarchies-with-hlda-2093d0413337?source=rss----3650599ae4e2---4">Inferring Label Hierarchies with hLDA </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/progressive-service-architecture-at-auth0/">Progressive Service Architecture At Auth0 </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world">Handling Addresses from All Around the World </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/11/14/federated-learning.html">Federated learning: distributed machine learning with data locality and privacy </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2?source=rss----7f60cf5620c9---4">Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/11/use-case-for-augmented-reality-in-design/">Use Case For Augmented Reality In Design </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/">How we spent two weeks hunting an NFS bug in the Linux kernel </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/intelligent-video-analytics-deepstream-sdk-3-0/">Breaking the Boundaries of Intelligent Video Analytics with DeepStream SDK 3.0 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 23 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-23.html</guid>
       </item>
       
   </channel>
