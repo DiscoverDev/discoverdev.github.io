@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 10 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2018/11/instagram-across-continents?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Splitting Stateful Services across Continents at Instagram </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/globalizing-player-accounts">Globalizing Player Accounts </a></li> 
+          
+            <li> <a href="https://eng.uber.com/mh-gan/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mh-gan">How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179?source=rss----2615bd06b42e---4">Netflix Information Security: Preventing Credential Compromise in AWS </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/tips-for-visual-search-at-scale/">Seven Tips for Visual Search at Scale </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ux/design-thinking-process">Breaking Down the Design Thinking Process </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/11/structured-content-done-right/">Strategies For Headless Projects With Structured Content Management Systems </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/hci-ctrllabsco?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rethinking HCI with Neural Interfaces @CTRLlabsCo </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/abstracting-sharding-with-vitess-and-distributed-deadlocks-3128d7c8ffd1?source=rss----3650599ae4e2---4">Abstracting Sharding with Vitess and Distributed Deadlocks </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 10 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 07 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +295,6 @@
         <pubDate>Tue, 27 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 26 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/dyslexic-friendly-fonts.htm">Dyslexic Friendly Font - Khan Academy&#39;s New Accessibility Feature </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/11/the-power-of-web-components/">The Power of Web Components </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d?source=rss----7f60cf5620c9---4">Dash: A Beginner’s Guide </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rest-api-testing-postman?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Testing the Endpoints of Your REST APIs </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a?source=rss----7f60cf5620c9---4">A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2018/11/14/boundary-layer%E2%80%89-declarative-airflow-workflows/">boundary-layer : Declarative Airflow Workflows </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained">Kafka Connect Deep Dive – Converters and Serialization Explained </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/how-to-deal-with-the-seasonality-of-a-market-584cc94d6b75?source=rss----25cd379abb8---4">How to deal with the seasonality of a market? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 26 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-26.html</guid>
       </item>
       
   </channel>
