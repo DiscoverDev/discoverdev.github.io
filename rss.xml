@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 11 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/dev-channel/visbug-101-749f26a485c8?source=rss----32c64651a75---4">VisBug 101 </a></li> 
+          
+            <li> <a href="https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/">Reasons to Scale Horizontally </a></li> 
+          
+            <li> <a href="https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884?source=rss----3d4aa8fb07ea---4">Enforcing Transitive Constraints in SQL </a></li> 
+          
+            <li> <a href="http://engineering.pivotal.io/post/ssh_handshake_failed/">Troubleshooting Obscure OpenSSH Failures </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/exploring-machine-learning-for-airbnb-listings-in-toronto-efdbdeba2644?source=rss----7f60cf5620c9---4">Exploring &amp; Machine Learning for Airbnb Listings in Toronto </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b?source=rss-ef81ef829bcb------2">An update on Pixie, Pinterest’s recommendation system </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html">Tag-based Navigation of a Fashion Catalog </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/11/learning-to-predict-depth-on-pixel-3.html">Learning to Predict Depth on the Pixel 3 Phones </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 11 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 10 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Wed, 28 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 27 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/">Microcontainers for Unit Testing </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107?source=rss----7484818e9f88---4">Real-time context based smart type-ahead suggestions </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/uber-big-data-dl-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Big Data and Deep Learning: A Tale of Two Systems </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/">MySQL High Availability On-Premises: A Geographically Distributed Scenario </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd?source=rss----51e1d1745b32---4">Measuring What Makes Readers Subscribe to The New York Times </a></li> 
-          
-            <li> <a href="https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a?source=rss----3a8144eabfe3---4">Can SNMP (Still) Be Used to Detect DDoS Attacks? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f?source=rss----3a8144eabfe3---4">Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html">Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 27 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-27.html</guid>
       </item>
       
   </channel>
