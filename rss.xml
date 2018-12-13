@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 13 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-pitfalls-lessons?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Winning the Microservice War to Keeping the Peace </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd?source=rss----3650599ae4e2---4">Shard Splits with Consistent Snapshots </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe?source=rss----587883b5d2ee---4">Predicting real-time availability of 200 million grocery items in US/Canada stores </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop">Big on Heroku: Scaling Fountain without losing a drop </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1?source=rss----3650599ae4e2---4">Cross-Shard Queries &amp; Lookup Tables </a></li> 
+          
+            <li> <a href="https://eng.uber.com/sessionizing-data/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sessionizing-data">Sessionizing Uber Trips in Real Time </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important">Why is a PULL vs a PUSH pipeline important? </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642?source=rss----2615bd06b42e---4">Cache warming: Agility for a stateful service </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/relational-nosql-fauna?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Back to the Future with Relational NoSQL </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 13 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 12 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +297,6 @@
         <pubDate>Fri, 30 Nov 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-11-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 29 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/11/implications-blocks-blobs/">Implications Of Thinking In Blocks Instead Of Blobs </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html">TTL as a Service: Automatic Revocation of Stale Privileges </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning">Using Apache Kafka to Drive Cutting-Edge Machine Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-general-approach-for-using-2d-object-detection-for-facial-id-b5dc816a970?source=rss----7f60cf5620c9---4">A General Approach for Using 2D Object Detection for Facial ID </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/adding-pipelines-to-javascript-f79ae7311574?source=rss----7f3d96429888---4">Adding pipelines to JavaScript </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411?source=rss----7f60cf5620c9---4">Interpretable Neural Networks </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/ai-agents-see/">Toward a deeper understanding of the way AI agents see things </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758?source=rss----7f60cf5620c9---4">Handling Imbalanced Datasets in Deep Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 29 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-29.html</guid>
       </item>
       
   </channel>
