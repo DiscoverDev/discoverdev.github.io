@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 14 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.eventbrite.com/engineering/automated-cross-browser-testing-webgl-not-going-happen/">Automated Cross-Browser Testing for WebGL— It’s Not Going to Happen </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/semantic-search-engine?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Representation: Building a Semantic Image Search Engine </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/airbnb-soa-migration?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Great Migration: From Monolith to Service-oriented </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html">TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank </a></li> 
+          
+            <li> <a href="https://eng.uber.com/payments-platform/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=payments-platform">Engineering Uber’s Next-Gen Payments Platform </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/">Caching Smartly In The Age Of Gutenberg </a></li> 
+          
+            <li> <a href="https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/">How to build a fault tolerant system? </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2?source=rss----53c7c27702d5---4">How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/google-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What We Got Wrong: Lessons From the Birth of Microservices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 14 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 13 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +295,6 @@
         <pubDate>Mon, 03 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 30 Nov 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.fb.com/developer-tools/predictive-test-selection/">Predictive test selection: A more efficient way to ensure reliability of code changes </a></li> 
-          
-            <li> <a href="https://product.canva.com/improving-design-with-machine-learning/">Can Canva use AI to help people design? </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/fundamental-problem-search/">The Fundamental Problem of Search </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html">Dynamic configuration at Twitter </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/experiments-with-link-previews-to-help-guide-readers-79dbe843ad29?source=rss----51e1d1745b32---4">Experiments with Link Previews to Help Guide Readers </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/pga_history/">The Public Git Archive Story </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/11/lpcnet-dsp-boosted-neural-speech-synthesis/">LPCNet: DSP-Boosted Neural Speech Synthesis </a></li> 
-          
-            <li> <a href="https://eng.uber.com/observability-at-scale/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=observability-at-scale">Observability at Scale: Building Uber’s Alerting Ecosystem </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d?source=rss----53c7c27702d5---4">Scaling Spark Streaming for Logging Event Ingestion </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/">Decentralizing Social Interactions with ActivityPub </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 30 Nov 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-11-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-11-30.html</guid>
       </item>
       
   </channel>
