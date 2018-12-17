@@ -6,6 +6,42 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 17 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/12/06/designing-turbofan-tycoon.html">Designing Turbofan Tycoon </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/an-approach-for-metadata-store-on-large-volume-data-sets/">Providing Metadata Discovery on Large-Volume Data Sets </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/midway-simplifying-mocked-responses-da5601fc667d?source=rss----905ea2b3d4d1---4">Midway: Simplifying Mocked Responses </a></li> 
+          
+            <li> <a href="https://engineering.gosquared.com/building-the-deepracer-leaderboard">How to build a real-time leaderboard that’s serverless, fault-tolerant, and scaleable. </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/event-streams-kafka-redshift-metabase">Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase </a></li> 
+          
+            <li> <a href="https://eng.uber.com/makisu/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=makisu">Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2018/12/rust-2018-is-here/">Rust 2018 is here… but what is it? </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html">Front-End Micro Services </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b?source=rss----7f60cf5620c9---4">TagOverflow — Correlating Tags in Stackoverflow </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/handling-error-circuit-breaker?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Expect the Unexpected: How to Handle Errors Gracefully </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/">Building a scalable, highly reliable, asynchronous user service </a></li> 
+          
+            <li> <a href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture">Better Android Apps Using MVVM with Clean Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 17 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 14 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +303,6 @@
         <pubDate>Tue, 04 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 03 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/speedy-cv-pipelines-using-parallelism-d7bebad2ff5f?source=rss----7f60cf5620c9---4">Speedy Computer Vision Pipelines using Parallelism </a></li> 
-          
-            <li> <a href="http://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/">Snapshot Testing Going Beyond UI </a></li> 
-          
-            <li> <a href="https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/">Storing files in a distributed file system using blockchain technology </a></li> 
-          
-            <li> <a href="https://drivy.engineering/airflow-architecture/">Airflow Architecture at Drivy </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/">Fast Google Fonts with Cloudflare Workers </a></li> 
-          
-            <li> <a href="https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/">5 Ways To Hack An API (And How To Defend) </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/">Zero Config JavaScript App Prototyping with Webpack </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/five-not-well-known-machine-learning-architectures-that-will-help-you-move-from-pilot-to-production-a051eaae69ef?source=rss----7f60cf5620c9---4">Five Not Well-Known Machine Learning Architectures that will Help You Move from Pilot to Production </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 03 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-03.html</guid>
       </item>
       
   </channel>
