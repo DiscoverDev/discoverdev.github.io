@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 18 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f?source=rss----2615bd06b42e---4">Our learnings from adopting GraphQL </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/">How To Build A Real-Time App With GraphQL Subscriptions On Postgres </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/containers-net?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Containers - What Are They Good For? </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/how-we-load-tested-our-apis-in-production-18225ee77f45?source=rss----42df4a1e8725---4">How we load tested our APIs in Production </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831?source=rss----7fa310224bc5---4">Evaluating High Availability Solutions for TimescaleDB + PostgreSQL </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/">IP packet buffering in OVN </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/12/gutenberg-accessibility-situation/">What Can Be Learned From The Gutenberg Accessibility Situation? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/from-mvc-to-modern-web-frameworks-8067ec9dee65?source=rss----3a8144eabfe3---4">From MVC to Modern Web Frameworks </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 18 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 17 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -275,34 +303,6 @@
         <pubDate>Wed, 05 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 04 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and-convolutional-neural-networks-9f35bd4af948?source=rss----7f60cf5620c9---4">A Beginner’s Guide to Brain-Computer Interface and Convolutional Neural Networks </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-git-workflow-you-need-how-to-deal-with-multiple-teams-in-a-single-repository-faf5bb17a6e4?source=rss----7f3d96429888---4">The Git workflow you need: How to deal with multiple teams in a single repository </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/a-pragmatic-approach-to-tech-debt-reduction">A Pragmatic Approach to Tech Debt Reduction </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/">Every 7.8μs your computer’s memory has a hiccup </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/serverless-pwa-react-cloudflare-workers/">Serverless Progressive Web Apps using React with Cloudflare Workers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/serverless-sea-change?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: The Serverless Sea Change </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2018/11/22/crypto-charting-d3fc-perspective.html">Realtime crypto charting with JPM Perspective and d3fc </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/discovering-the-shadow-dom-e541d74aefb3?source=rss----7f3d96429888---4">Discovering the Shadow DOM </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 04 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-04.html</guid>
       </item>
       
   </channel>
