@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 19 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/">GraphQL Stitching 101 </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7?source=rss----7f3d96429888---4">The quiet revolution: How JSON displaced XML </a></li> 
+          
+            <li> <a href="https://eng.uber.com/neural-networks-jpeg/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neural-networks-jpeg">Faster Neural Networks Straight from JPEG </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d?source=rss----53c7c27702d5---4">Building Services at Airbnb Part 3 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/on-integrating-symbolic-inference-into-deep-neural-networks-22ed13ebbba9?source=rss----7f60cf5620c9---4">On integrating symbolic inference into deep neural networks </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/">The truth about Black Friday and Cyber Monday </a></li> 
+          
+            <li> <a href="https://nordicapis.com/the-three-principles-of-excellent-api-design/">The Three Principles of Excellent API Design </a></li> 
+          
+            <li> <a href="https://americanexpress.io/on-the-importance-of-commit-messages/">On the Importance of Commit Messages </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/12/providing-gender-specific-translations.html">Providing Gender-Specific Translations in Google Translate </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 19 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 18 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +303,6 @@
         <pubDate>Thu, 06 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 05 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://code.fb.com/ai-research/fastmri/">New fastMRI open source AI research tools from Facebook and NYU School of Medicine </a></li> 
-          
-            <li> <a href="https://eng.uber.com/go-explore/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=go-explore">Montezuma’s Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too) </a></li> 
-          
-            <li> <a href="http://engineering.pivotal.io/post/greenplum-for-kubernetes-operator/">Greenplum for Kubernetes Operator </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-best-data-visualizations-for-grabbing-readers-attention-19dec3b8fc9?source=rss----3a8144eabfe3---4">The Best Data Visualizations for Grabbing Readers’ Attention </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance">Errors in Go: From denial to acceptance </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-make-any-website-faster-65111ced2923?source=rss----7f3d96429888---4">How to make any website faster </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/what-is-physically-based-animation-cd92a7f8d6a4?source=rss----7f60cf5620c9---4">What Is Physically-Based Animation? </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/visualizing-air-pollution-with-folium-maps-4ce1a1880677?source=rss----7f60cf5620c9---4">Visualizing Air Pollution with Folium Maps </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/">Avoiding The Pitfalls Of Automatically Inlined Code </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 05 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-05.html</guid>
       </item>
       
   </channel>
