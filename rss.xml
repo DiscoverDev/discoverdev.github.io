@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 20 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/more-consistent-luajit-performance/">More consistent LuaJIT performance </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/12/12/bridging-ui-libraries-for-decoupled-long-lived-widely-reusable-components.html">Bridging UI libraries for decoupled, long-lived, widely-reusable components </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2018/12/feature-policy/">Protecting Your Site With Feature Policy </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/electron-pitfalls?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Desktop Applications in Electron: Pro Tips and Tricks </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/modernizing-the-web-playback-ui-1ad2f184a5a0?source=rss----2615bd06b42e---4">Modernizing the Web Playback UI </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2018/12/09/about-dom-render-utilities.html">About DOM render utilities </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/12/grasp2vec-learning-object.html">Grasp2Vec: Learning Object Representations from Self-Supervised Grasping </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2018/12/joinery-a-tale-of-unwindowed-joins.html">Joinery: A Tale of Un-Windowed Joins </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 20 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 19 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +301,6 @@
         <pubDate>Fri, 07 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 06 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/">How to run Docker and get more sleep than I did </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be?source=rss-ef81ef829bcb------2">How Pinterest runs Kafka at scale </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732?source=rss----3650599ae4e2---4">Reliable Webhooks Using Serverless Architecture </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/11/a-structured-approach-to-unsupervised.html">A Structured Approach to Unsupervised Depth Learning from Monocular Videos </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/advanced-search-experience-for-e-commerce/">Beyond the search bar: advanced e-commerce search experiences </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/">Solving the challenges of debugging microservices on a container platform </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/">An Extensive Guide To Progressive Web Applications </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/xworks-my-machine-and-also-everywhere-else-local-build-and-testing-environments-code">Works on my machine… and also everywhere else: local build and testing environments as code </a></li> 
-          
-            <li> <a href="https://hackernoon.com/debugging-node-services-in-kubernetes-with-linkerd-2-0-f878382fb380?source=rss----3a8144eabfe3---4">Debugging Node Services in Kubernetes With Linkerd 2.0 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 06 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-06.html</guid>
       </item>
       
   </channel>
