@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 21 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2018/12/improving-effectiveness-of-diabetic.html">Improving the Effectiveness of Diabetic Retinopathy Models </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/performance-comparison-of-video-coding-standards-an-adaptive-streaming-perspective-d45d0183ca95?source=rss----2615bd06b42e---4">Performance comparison of video coding standards: an adaptive streaming perspective </a></li> 
+          
+            <li> <a href="https://product.canva.com/automated-visual-testing-at-canva/">Why we left manual UI testing behind </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/big-data-workloads-presto-auto-scaling/">Boosting Big Data workloads with Presto Auto Scaling </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/netflix-play-api?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Netflix Play API - An Evolutionary Architecture </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/npm-javascript-users?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: npm and the Future of JavaScript </a></li> 
+          
+            <li> <a href="https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/">Achieving high availability with stateful Kafka Streams applications </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/12/wayfair-spaces-innovation-in-mixed-reality/">Wayfair Spaces: Innovation in Mixed Reality </a></li> 
+          
+            <li> <a href="https://eng.uber.com/driver-app-cash-payments/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-cash-payments">Scaling Cash Payments in Uber Eats </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 21 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 20 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +301,6 @@
         <pubDate>Mon, 10 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 07 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89?source=rss----7f60cf5620c9---4">Audio Classification using FastAI and On-the-Fly Frequency Transforms </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/l4drop-xdp-ebpf-based-ddos-mitigations/">L4Drop: XDP DDoS Mitigations </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/reimagining-the-morning-briefing-655100304624?source=rss----51e1d1745b32---4">Reimagining the Morning Briefing </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2018/11/28/artsy-auth/">Everything You Ever Wanted To Know About Authentication at Artsy (But Didn&#39;t Know How To Ask) </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d?source=rss----3a8144eabfe3---4">The Ultimate Guide To Starting Your First IoT Project </a></li> 
-          
-            <li> <a href="https://eng.uber.com/driver-app-optimistic-mode/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-optimistic-mode">How Uber’s New Driver App Overcomes Network Lag </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/a-vip-connection-timeout-issue-caused-by-snat-and-tcp-tw-recycle/">Troubleshooting a Connection Timeout Issue with tcp_tw_recycle Enabled </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/better-development-with-chrome-developer-tools-78b7d688438a?source=rss----7f3d96429888---4">Improving load performance and debugging with Chrome DevTools </a></li> 
-          
-            <li> <a href="https://code.fb.com/ml-applications/neural-egg-separation/">Neural Egg Separation: Training ML systems to extract audio/video from noisy/cluttered environments </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 07 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-07.html</guid>
       </item>
       
   </channel>
