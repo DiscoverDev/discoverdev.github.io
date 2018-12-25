@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 25 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/">Bigtable Autoscaler: saving money and time using managed storage </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/typography/web-typography-infographic">Designing for Readability - A Guide to Web Typography (with Infographic) </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f?source=rss----7f3d96429888---4">React Custom Hooks and the death of Render Props </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1?source=rss----7f60cf5620c9---4">Training a Neural Network to Detect Gestures with OpenCV in Python </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html">Exploring Quantum Neural Networks </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html">Monte Carlo Power Analysis </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832?source=rss----7f60cf5620c9---4">Real Time Video Neural Style Transfer </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2018/12/using-economic-graph-data-to-power-the-linkedin-salary-product">Using Economic Graph Data to Power the LinkedIn Salary Product </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/pytext-open-source-nlp-framework/">Open-sourcing PyText for faster NLP development </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 25 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 24 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +301,6 @@
         <pubDate>Wed, 12 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 11 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/dev-channel/visbug-101-749f26a485c8?source=rss----32c64651a75---4">VisBug 101 </a></li> 
-          
-            <li> <a href="https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/">Reasons to Scale Horizontally </a></li> 
-          
-            <li> <a href="https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884?source=rss----3d4aa8fb07ea---4">Enforcing Transitive Constraints in SQL </a></li> 
-          
-            <li> <a href="http://engineering.pivotal.io/post/ssh_handshake_failed/">Troubleshooting Obscure OpenSSH Failures </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/exploring-machine-learning-for-airbnb-listings-in-toronto-efdbdeba2644?source=rss----7f60cf5620c9---4">Exploring &amp; Machine Learning for Airbnb Listings in Toronto </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b?source=rss-ef81ef829bcb------2">An update on Pixie, Pinterest’s recommendation system </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html">Tag-based Navigation of a Fashion Catalog </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/11/learning-to-predict-depth-on-pixel-3.html">Learning to Predict Depth on the Pixel 3 Phones </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 11 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-11.html</guid>
       </item>
       
   </channel>
