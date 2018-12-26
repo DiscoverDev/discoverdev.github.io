@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 26 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/">Envoy Proxy at Reddit </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d?source=rss----3650599ae4e2---4">Operating Vitess </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deconstructing-bert-distilling-6-patterns-from-100-million-parameters-b49113672f77?source=rss----7f60cf5620c9---4">Deconstructing BERT: Distilling 6 Patterns from 100 Million Parameters </a></li> 
+          
+            <li> <a href="https://engineering.riotgames.com/news/runes-reforged-technical-retro">Runes Reforged: A Technical Retro </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56?source=rss----37dc2a3034f2---4">Lessons Learned at Instagram Stories and Feed Machine Learning </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02?source=rss----53c7c27702d5---4">Beyond “How May I Help you? “ </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/open-sourcing-bro-sysmon-946295bc7da2?source=rss----cfe1120185d3---4">Open Sourcing Bro-Sysmon </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157?source=rss----53c7c27702d5---4">Introducing Deploy Pipelines to Airbnb </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 26 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 25 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -273,34 +301,6 @@
         <pubDate>Thu, 13 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 12 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/technical-workflow-building-transportation-scenarios-for-accessibility-analysis-419e927ca92f?source=rss----7f60cf5620c9---4">Technical workflow: Building transportation scenarios for accessibility analysis </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/author-balajis-balajir/">Why we fancied Testcafe over Webdriver for a mordern web app? </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/state-ai-marketing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The State of AI Marketing </a></li> 
-          
-            <li> <a href="https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616?source=rss----3a8144eabfe3---4">Forget Docker, the future is JAMstack </a></li> 
-          
-            <li> <a href="https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72?source=rss----5b301f10ddcd---4">Learn to visualize React components by parsing JSX with Babel </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/explained-gpipe-training-giant-neural-nets-using-pipeline-parallelism-341b63bfc74b?source=rss----7f60cf5620c9---4">Explained: GPipe — Training Giant Neural Nets using Pipeline Parallelism </a></li> 
-          
-            <li> <a href="https://medium.com/carousell-insider/deep-image-understanding-at-carousell-121857434837?source=rss----6c35dc0cba4d---4">Deep image understanding at Carousell </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html">Twitter’s Kafka adoption story </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 12 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-12.html</guid>
       </item>
       
   </channel>
