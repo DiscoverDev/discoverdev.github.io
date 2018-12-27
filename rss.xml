@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 27 Dec 2018</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/">Security Considerations for Container Runtimes </a></li> 
+          
+            <li> <a href="https://code.fb.com/virtual-reality/deepfocus/">Open-sourcing DeepFocus, an AI-powered system for more realistic VR images </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/crdt-production?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CRDTs in Production </a></li> 
+          
+            <li> <a href="https://blog.golang.org/modules2019">Go Modules in 2019 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/netflix-migration-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Resilience in Production Migrations </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/slack-scalability-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Slack - The Good, the Unexpected, and the Road Ahead </a></li> 
+          
+            <li> <a href="https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres">Bye bye Mongo, Hello Postgres | Digital blog </a></li> 
+          
+            <li> <a href="https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de?source=rss----3a8144eabfe3---4">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00?source=rss----905ea2b3d4d1---4">Learnings from rebuilding our checkout experience </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 27 Dec 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-12-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 26 Dec 2018</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +301,6 @@
         <pubDate>Fri, 14 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 13 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-pitfalls-lessons?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Winning the Microservice War to Keeping the Peace </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd?source=rss----3650599ae4e2---4">Shard Splits with Consistent Snapshots </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe?source=rss----587883b5d2ee---4">Predicting real-time availability of 200 million grocery items in US/Canada stores </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop">Big on Heroku: Scaling Fountain without losing a drop </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1?source=rss----3650599ae4e2---4">Cross-Shard Queries &amp; Lookup Tables </a></li> 
-          
-            <li> <a href="https://eng.uber.com/sessionizing-data/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sessionizing-data">Sessionizing Uber Trips in Real Time </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important">Why is a PULL vs a PUSH pipeline important? </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642?source=rss----2615bd06b42e---4">Cache warming: Agility for a stateful service </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/relational-nosql-fauna?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Back to the Future with Relational NoSQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 13 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-13.html</guid>
       </item>
       
   </channel>
