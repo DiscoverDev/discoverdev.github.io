@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 02 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/introducing-wav2latter-9e94ae13246?source=rss----7f60cf5620c9---4">Introducing Wav2latter++ </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/generating-twitter-ego-networks-detecting-ego-communities-93897883d255?source=rss----7f60cf5620c9---4">Generating Twitter Ego-Networks &amp; Detecting Ego-Communities </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/improving-html-time-to-first-byte/">Improving HTML Time to First Byte </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/blockchain-basics-use-cases?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Understanding Blockchain Basics and Use Cases </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/risk-management-engineering-resilience">Risk Management for Engineering Resilience </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/under-the-hood-of-an-analytics-project-1cc2348a5411?source=rss----7f60cf5620c9---4">Under the Hood of an Analytics Project </a></li> 
+          
+            <li> <a href="https://hackernoon.com/sharding-writes-with-mysql-and-increment-offsets-48df32379563?source=rss----3a8144eabfe3---4">Sharding writes with MySQL and increment offsets </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/real-time-noise-suppression-using-deep-learning-38719819e051?source=rss----7f60cf5620c9---4">Real-Time Noise Suppression Using Deep Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 02 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 01 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +291,6 @@
         <pubDate>Thu, 20 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 19 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/">GraphQL Stitching 101 </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7?source=rss----7f3d96429888---4">The quiet revolution: How JSON displaced XML </a></li> 
-          
-            <li> <a href="https://eng.uber.com/neural-networks-jpeg/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neural-networks-jpeg">Faster Neural Networks Straight from JPEG </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d?source=rss----53c7c27702d5---4">Building Services at Airbnb Part 3 </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/on-integrating-symbolic-inference-into-deep-neural-networks-22ed13ebbba9?source=rss----7f60cf5620c9---4">On integrating symbolic inference into deep neural networks </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/">The truth about Black Friday and Cyber Monday </a></li> 
-          
-            <li> <a href="https://nordicapis.com/the-three-principles-of-excellent-api-design/">The Three Principles of Excellent API Design </a></li> 
-          
-            <li> <a href="https://americanexpress.io/on-the-importance-of-commit-messages/">On the Importance of Commit Messages </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/12/providing-gender-specific-translations.html">Providing Gender-Specific Translations in Google Translate </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 19 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-19.html</guid>
       </item>
       
   </channel>
