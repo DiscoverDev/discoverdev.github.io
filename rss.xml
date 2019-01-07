@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 07 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/generating-haiku-with-deep-learning-dbf5d18b4246?source=rss----7f60cf5620c9---4">Generating Haiku with Deep Learning </a></li> 
+          
+            <li> <a href="http://engineering.opensooq.com/testing-android-deep-linking-at-opensooq/">Testing Android Deep Linking at OpenSooq </a></li> 
+          
+            <li> <a href="https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c?source=rss----5b301f10ddcd---4">webpack: From 0 to automated testing </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/taap?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing Microservices in Hybrid Cloud </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c?source=rss----7f60cf5620c9---4">Understanding how LIME explains predictions </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2018/12/self-service-hybrid-performance-engineering/">Our Self-Service Hybrid Performance Engineering Platform </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/african-masks-gans-tpu-9a6b0cf3105c?source=rss----7f60cf5620c9---4">ART + AI — Generating African Masks using (Tensorflow and TPUs) </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/service-mesh-microservices-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Connecting, Managing, Observing, and Securing Services </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 07 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 03 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Mon, 24 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 21 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2018/12/improving-effectiveness-of-diabetic.html">Improving the Effectiveness of Diabetic Retinopathy Models </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/performance-comparison-of-video-coding-standards-an-adaptive-streaming-perspective-d45d0183ca95?source=rss----2615bd06b42e---4">Performance comparison of video coding standards: an adaptive streaming perspective </a></li> 
-          
-            <li> <a href="https://product.canva.com/automated-visual-testing-at-canva/">Why we left manual UI testing behind </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/big-data-workloads-presto-auto-scaling/">Boosting Big Data workloads with Presto Auto Scaling </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-play-api?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Netflix Play API - An Evolutionary Architecture </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/npm-javascript-users?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: npm and the Future of JavaScript </a></li> 
-          
-            <li> <a href="https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/">Achieving high availability with stateful Kafka Streams applications </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/12/wayfair-spaces-innovation-in-mixed-reality/">Wayfair Spaces: Innovation in Mixed Reality </a></li> 
-          
-            <li> <a href="https://eng.uber.com/driver-app-cash-payments/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-app-cash-payments">Scaling Cash Payments in Uber Eats </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 21 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-21.html</guid>
       </item>
       
   </channel>
