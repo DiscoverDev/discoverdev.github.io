@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 09 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://nordicapis.com/review-of-gloo-the-function-api-gateway/">Review of Gloo, The Function Gateway </a></li> 
+          
+            <li> <a href="https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/">Fast Gaussian-distributed Random Numbers </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a?source=rss----7f60cf5620c9---4">Understanding High Dimensional Spaces in Machine Learning </a></li> 
+          
+            <li> <a href="https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474?source=rss----3a8144eabfe3---4">Implementing AudioWorklets with React </a></li> 
+          
+            <li> <a href="https://hackernoon.com/hypothesis-cqrs-models-with-blockchain-as-the-persistence-layer-will-work-a6aa72c31800?source=rss----3a8144eabfe3---4">Hypothesis: CQRS Models with Blockchain as the Persistence Layer Will Work </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a?source=rss----7f60cf5620c9---4">Understanding how IME (Shapley Values) explains predictions </a></li> 
+          
+            <li> <a href="https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/">Advanced Jupyter Notebooks: A Tutorial </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4">Using TypeScript transforms to enrich runtime code </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/">How To Learn CSS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 09 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 08 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +289,6 @@
         <pubDate>Wed, 26 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 25 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/">Bigtable Autoscaler: saving money and time using managed storage </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/typography/web-typography-infographic">Designing for Readability - A Guide to Web Typography (with Infographic) </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f?source=rss----7f3d96429888---4">React Custom Hooks and the death of Render Props </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1?source=rss----7f60cf5620c9---4">Training a Neural Network to Detect Gestures with OpenCV in Python </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html">Exploring Quantum Neural Networks </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html">Monte Carlo Power Analysis </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832?source=rss----7f60cf5620c9---4">Real Time Video Neural Style Transfer </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/12/using-economic-graph-data-to-power-the-linkedin-salary-product">Using Economic Graph Data to Power the LinkedIn Salary Product </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/pytext-open-source-nlp-framework/">Open-sourcing PyText for faster NLP development </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 25 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-25.html</guid>
       </item>
       
   </channel>
