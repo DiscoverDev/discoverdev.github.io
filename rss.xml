@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 10 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/data-validation-netflix?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Crisis to Calm: Story of Data Validation @ Netflix </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/basics-of-caching-data-in-graphql-7ce9489dac15?source=rss----5517fd7b58a6---4">Basics of Caching Data in GraphQL </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4">Reactivity with RxJS: force press </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin">Scaling Machine Learning Productivity at LinkedIn </a></li> 
+          
+            <li> <a href="https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=carbon-dual-binary-mobile-app">How to Ship an App Rewrite Without Risking Your Entire Business </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks">Integration Testing for Memory Leaks </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/css-grid-for-designers-f74a883b98f5?source=rss----51e1d1745b32---4">CSS Grid for Designers </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/01/03/mongodb-engines-mmapv1-vs-wiredtiger/">MongoDB Engines: MMAPV1 Vs WiredTiger </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d?source=rss----7f60cf5620c9---4">Data Science Project Flow for Startups </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 10 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 09 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Thu, 27 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 26 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/">Envoy Proxy at Reddit </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d?source=rss----3650599ae4e2---4">Operating Vitess </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deconstructing-bert-distilling-6-patterns-from-100-million-parameters-b49113672f77?source=rss----7f60cf5620c9---4">Deconstructing BERT: Distilling 6 Patterns from 100 Million Parameters </a></li> 
-          
-            <li> <a href="https://engineering.riotgames.com/news/runes-reforged-technical-retro">Runes Reforged: A Technical Retro </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56?source=rss----37dc2a3034f2---4">Lessons Learned at Instagram Stories and Feed Machine Learning </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02?source=rss----53c7c27702d5---4">Beyond “How May I Help you? “ </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/open-sourcing-bro-sysmon-946295bc7da2?source=rss----cfe1120185d3---4">Open Sourcing Bro-Sysmon </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157?source=rss----53c7c27702d5---4">Introducing Deploy Pipelines to Airbnb </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 26 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-26.html</guid>
       </item>
       
   </channel>
