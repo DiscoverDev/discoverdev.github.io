@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 14 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.curalate.com/2018/12/31/holiday-load-prep.html">Hey, you busy? I have thousands of questions to ask you. </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/what-a-text-recognition-system-actually-sees-6c04864b8a98?source=rss----7f60cf5620c9---4">What a text recognition system actually sees </a></li> 
+          
+            <li> <a href="https://buildingvts.com/moving-on-from-angularjs-5417b79693a9?source=rss----f76c28ec6a84---4">Why VTS is Moving Off of AngularJS </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/hot-dog-or-not-a-hot-dog-using-metaprogramming-to-write-ui-tests-61e70b050dc5?source=rss----7f60cf5620c9---4">Hot Dog or Not a Hot Dog: Using Metaprogramming to Write UI Tests </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/serverless-chatbots?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless and Chatbots: A Match Made in the Cloud </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2018/12/28/finetuning-for-natural-language-processing.html">Fine-tuning for Natural Language Processing </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/multitask-learning-in-tensorflow-with-the-head-api-68f2717019df?source=rss----7f60cf5620c9---4">Multitask learning in TensorFlow with the Head API </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/">Keep your infrastructure keys safe with Vault </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/devops-database?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: DevOps for the Database </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 14 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 10 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +291,6 @@
         <pubDate>Fri, 28 Dec 2018 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2018-12-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 27 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/">Security Considerations for Container Runtimes </a></li> 
-          
-            <li> <a href="https://code.fb.com/virtual-reality/deepfocus/">Open-sourcing DeepFocus, an AI-powered system for more realistic VR images </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/crdt-production?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CRDTs in Production </a></li> 
-          
-            <li> <a href="https://blog.golang.org/modules2019">Go Modules in 2019 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-migration-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Resilience in Production Migrations </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/slack-scalability-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Slack - The Good, the Unexpected, and the Road Ahead </a></li> 
-          
-            <li> <a href="https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres">Bye bye Mongo, Hello Postgres | Digital blog </a></li> 
-          
-            <li> <a href="https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de?source=rss----3a8144eabfe3---4">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00?source=rss----905ea2b3d4d1---4">Learnings from rebuilding our checkout experience </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 27 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-27.html</guid>
       </item>
       
   </channel>
