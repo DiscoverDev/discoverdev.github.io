@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 16 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439?source=rss----905ea2b3d4d1---4">Reverse Engineering an Obfuscated Malicious Macro </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/">Courier: Dropbox migration to gRPC </a></li> 
+          
+            <li> <a href="https://eng.uber.com/poet-open-ended-deep-learning/">POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/bayesian-optimization-quantum-computing-27a9cbbf0930?source=rss----7f60cf5620c9---4">Bayesian Optimization &amp; Quantum Computing </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ux/data-driven-design">Strength in Numbers - an Overview of Data-Driven Design </a></li> 
+          
+            <li> <a href="https://nordicapis.com/should-you-build-an-api-gateway-in-house/">Should You Build An API Gateway In-House? </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0?source=rss----5517fd7b58a6---4">“Stack Too Deep”- Error in Solidity </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046?source=rss----7f60cf5620c9---4">A Deep Dive Into Data Quality </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 16 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 15 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -262,36 +290,6 @@ Learning </a></li>
         <pubDate>Tue, 01 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 31 Dec 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.scottlogic.com/2018/12/21/decent-code-a-concise-guide-to-writing-better-code.html">Introducing decent-code: A concise guide to writing better code </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/designing-resilient-systems-part-1">Designing resilient systems: Circuit Breakers or Retries? (Part 1) </a></li> 
-          
-            <li> <a href="https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813?source=rss----5b301f10ddcd---4">Kubernetes multi-cluster networking made simple </a></li> 
-          
-            <li> <a href="http://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/native-secondary-indexing-in-manhattan.html">Native secondary indexing in Manhattan </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff?source=rss----25cd379abb8---4">Running Apache Airflow At Lyft </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2018/12/top-shot-on-pixel-3.html">Top Shot on Pixel 3 </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2018/12/android-pie-la-mode-security-privacy.html">Android Pie à la mode: Security &amp; Privacy </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/">Benchmark PostgreSQL With Linux HugePages </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/nevergrad/">Nevergrad: An open source tool for derivative-free optimization </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 31 Dec 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-12-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-12-31.html</guid>
       </item>
       
   </channel>
