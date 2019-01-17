@@ -6,6 +6,35 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 17 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1?source=rss----3a8144eabfe3---4">Lessons I’ve Learned Building Distributed Systems with CQRS and Event Sourcing </a></li> 
+          
+            <li> <a href="https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd?source=rss----3a8144eabfe3---4">Exploring Distributed System Theory: Availability and Consistency </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/">Better understanding of Android accessibility for blind
+people </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/designing-resilient-systems-part-2">Designing resilient systems: Circuit Breakers or Retries? (Part 2) </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580?source=rss----42df4a1e8725---4">Progressive Web Apps, UX and Engagement </a></li> 
+          
+            <li> <a href="https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/">The Case of the Hidden Mongo Data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/capture-the-essence-of-any-video-visualize-its-subtitles-as-a-graph-5ce565d1820c?source=rss----7f60cf5620c9---4">Capture the Essence of Any Video: Visualize its Subtitles as a Graph </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study">The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 17 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 16 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -262,34 +291,6 @@ Learning </a></li>
         <pubDate>Wed, 02 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 01 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/cf-pipeline-mastercard?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Extreme Pipelines </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/">Cape Technical Deep Dive </a></li> 
-          
-            <li> <a href="https://eng.uber.com/uber-beacon/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uber-beacon">How Uber Beacon Helps Improve Safety for Riders and Drivers </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/">Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2018/12/stackoverflow-monitoring?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Inside Stack Overflow’s Monitoring Systems </a></li> 
-          
-            <li> <a href="https://code.fb.com/security/dns-over-tls/">DNS over TLS: Encrypting DNS end-to-end </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/what-the-rule-of-least-power-means-for-modern-developers-b846010a8595?source=rss----7f3d96429888---4">What the Rule of Least Power means for modern developers </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/">Generic First CSS: New Thinking On Mobile First </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-01.html</guid>
       </item>
       
   </channel>
