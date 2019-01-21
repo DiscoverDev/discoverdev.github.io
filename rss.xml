@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 21 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4">Using Animation Worklet </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/">Designing the Flexbox Inspector </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/01/divide-encode-1/">Divide &amp; Encode: How to Encode Videos Blazingly Fast </a></li> 
+          
+            <li> <a href="https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4">WebSockets &amp; API Gateway </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor">Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform </a></li> 
+          
+            <li> <a href="https://eng.uber.com/atari-zoo-deep-reinforcement-learning/">Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4">New horizons in CSS: Houdini and the Paint API </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/using-arkit-and-image-tracking/">Using ARKit and Image Tracking to Augment a Postcard </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 21 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 17 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@ Learning </a></li>
         <pubDate>Thu, 03 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 02 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/introducing-wav2latter-9e94ae13246?source=rss----7f60cf5620c9---4">Introducing Wav2latter++ </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/generating-twitter-ego-networks-detecting-ego-communities-93897883d255?source=rss----7f60cf5620c9---4">Generating Twitter Ego-Networks &amp; Detecting Ego-Communities </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/improving-html-time-to-first-byte/">Improving HTML Time to First Byte </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/blockchain-basics-use-cases?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Understanding Blockchain Basics and Use Cases </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/risk-management-engineering-resilience">Risk Management for Engineering Resilience </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/under-the-hood-of-an-analytics-project-1cc2348a5411?source=rss----7f60cf5620c9---4">Under the Hood of an Analytics Project </a></li> 
-          
-            <li> <a href="https://hackernoon.com/sharding-writes-with-mysql-and-increment-offsets-48df32379563?source=rss----3a8144eabfe3---4">Sharding writes with MySQL and increment offsets </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/real-time-noise-suppression-using-deep-learning-38719819e051?source=rss----7f60cf5620c9---4">Real-Time Noise Suppression Using Deep Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 02 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-02.html</guid>
       </item>
       
   </channel>
