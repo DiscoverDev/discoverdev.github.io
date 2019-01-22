@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 22 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/building-spacecraft-a-real-time-collaborative-repl-deebcf084ed9?source=rss----3a8144eabfe3---4">Building SpaceCraft: A Real-Time Collaborative REPL </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2019/01/08/how-to-debug-memory-usage-of-a-jvm-based-application.html">How to debug memory usage of a JVM-based application </a></li> 
+          
+            <li> <a href="https://drivy.engineering/snowflake-migration/">Why we&#39;ve chosen Snowflake &amp;#10052;&amp;#65039; as our Data Warehouse </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/fitness-function-driven-development">Fitness function-driven development </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/linux-cilium-ebpf?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Make Linux Microservice-aware with Cilium and eBPF </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/optimizing-neural-networks-where-to-start-5a2ed38c8345?source=rss----7f60cf5620c9---4">Optimizing Neural Networks — Where to Start? </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/natural-language-processing-and-content-analysis-at-conde-nast-part-2-system-architecture">Natural Language Processing and Content Analysis at Condé Nast, Part 2: System Architecture </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/transaction-pipelining/">Pipelining Consensus Writes to Speed Up Distributed SQL Transactions </a></li> 
+          
+            <li> <a href="https://eng.uber.com/building-a-scalable-and-reliable-map-interface-for-drivers/">Building a Scalable and Reliable Map Interface for Drivers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 22 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 21 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +293,6 @@ Learning </a></li>
         <pubDate>Mon, 07 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 03 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/linkedin-active-communities?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Nearline Recommendations for Active Communities @LinkedIn </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/reactive-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reactive DDD—When Concurrent Waxes Fluent </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-2-the-messy-middle-59f16a959b7f?source=rss----a88376ea904a---4">The history of infrastructure at Zendesk (Part 2) — the messy middle </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2018/12/improving-member-productivity-with-in-product-help-">Improving Member Productivity with In-Product Help </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2018/12/27/inheriting-a-codebase/">Four Steps for Inheriting a Codebase </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/">Common CSS Issues For Front-End Projects </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/slowfast-explained-dual-mode-cnn-for-video-understanding-8bf639960256?source=rss----7f60cf5620c9---4">SlowFast Explained - Dual-mode CNN for Video Understanding </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/classify-songs-genres-from-audio-data-554546280817?source=rss----7f60cf5620c9---4">Classify Songs Genres From Audio Data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-03.html</guid>
       </item>
       
   </channel>
