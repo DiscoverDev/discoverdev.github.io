@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 23 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/nvme-cache?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Caching Beyond RAM: The Case for NVMe </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/modern-operating-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Operating System in 2018 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/q-localsearch-51e276d04d20?source=rss----7f60cf5620c9---4">Q-LocalSearch </a></li> 
+          
+            <li> <a href="https://itnext.io/using-transducers-to-speed-up-javascript-arrays-92677d000096?source=rss----5b301f10ddcd---4">Using Transducers to Speed Up JavaScript Arrays </a></li> 
+          
+            <li> <a href="https://hackernoon.com/why-and-how-we-built-a-temporal-database-system-called-sirixdb-open-source-from-scratch-a7446f56f201?source=rss----3a8144eabfe3---4">Why And How We Built a Temporal Database System Called SirixDB (Open Source) From Scratch </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html">PHA Family Highlights: Zen and its cousins </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/reverse-engineering-observable-4069f3853139?source=rss----7f3d96429888---4">Reverse engineering Observable </a></li> 
+          
+            <li> <a href="https://hackernoon.com/the-need-for-layer-3-on-the-internet-of-value-85ae3ab2a9ea?source=rss----3a8144eabfe3---4">The Need For Layer 3 on the Internet of Value </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 23 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 22 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@ Learning </a></li>
         <pubDate>Tue, 08 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 07 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/generating-haiku-with-deep-learning-dbf5d18b4246?source=rss----7f60cf5620c9---4">Generating Haiku with Deep Learning </a></li> 
-          
-            <li> <a href="http://engineering.opensooq.com/testing-android-deep-linking-at-opensooq/">Testing Android Deep Linking at OpenSooq </a></li> 
-          
-            <li> <a href="https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c?source=rss----5b301f10ddcd---4">webpack: From 0 to automated testing </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/taap?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing Microservices in Hybrid Cloud </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c?source=rss----7f60cf5620c9---4">Understanding how LIME explains predictions </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2018/12/self-service-hybrid-performance-engineering/">Our Self-Service Hybrid Performance Engineering Platform </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/african-masks-gans-tpu-9a6b0cf3105c?source=rss----7f60cf5620c9---4">ART + AI — Generating African Masks using (Tensorflow and TPUs) </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/service-mesh-microservices-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Connecting, Managing, Observing, and Securing Services </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 07 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-07.html</guid>
       </item>
       
   </channel>
