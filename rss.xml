@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 24 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://code.fb.com/data-center-engineering/singapore-data-center/">Rethinking data center design for Singapore </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/service-oriented-architecture-rails-kafka">Building a Service-oriented Architecture with Rails and Kafka </a></li> 
+          
+            <li> <a href="https://eng.uber.com/manifold/">Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/01/14/should-you-use-clickhouse-as-a-main-operational-database/">Should You Use ClickHouse as a Main Operational Database? </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/01/web-standards-guide/">Web Standards: The What, The Why, And The How </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/solid-javascript?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: SOLID JavaScript </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/distributed-systems-components-designs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Decoding Distributed Systems </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/zendesk-ml-model-building-pipeline-on-aws-batch-monitoring-and-load-testing-8a7decbb5ad9?source=rss----a88376ea904a---4">Zendesk ML Model Building Pipeline on AWS Batch: Monitoring and Load Testing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 24 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 23 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@ Learning </a></li>
         <pubDate>Wed, 09 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 08 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.toptal.com/designers/usability/mobile-heuristic-principles">Heuristic Principles for Mobile Interfaces </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/big-data-real-time-presto-talariadb">Querying Big Data in Real-Time with Presto &amp; Grab&#39;s TalariaDB </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032?source=rss----7f60cf5620c9---4">Make your pictures beautiful with a touch of machine learning magic </a></li> 
-          
-            <li> <a href="https://nordicapis.com/key-lessons-from-100-api-projects/">Key Lessons From 100 API Projects </a></li> 
-          
-            <li> <a href="https://hackernoon.com/one-year-with-flutter-my-experience-5bfe64acc96f?source=rss----3a8144eabfe3---4">One Year with Flutter: My Experience </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2018/12/envoycon-ebay-edge?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Running Envoy as an Edge Proxy at eBay: Replacing Hardware Load Balancers with a Software Solution </a></li> 
-          
-            <li> <a href="https://hackernoon.com/postgresql-connection-pooling-and-load-balancing-with-pgpool-ii-cluster-edbbb7959ef1?source=rss----3a8144eabfe3---4">PostgreSQL Connection Pooling and Load Balancing with PgPool-II Cluster </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/design-app-improve?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Improving the Design of Existing Software </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 08 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-08.html</guid>
       </item>
       
   </channel>
