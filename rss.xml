@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 25 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/">Podman: Managing pods and containers in a local container runtime </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/managing-secrets-in-kubernetes">Managing Secrets in Kubernetes </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2019/01/14/android-vs-ios-development/">With Jetpack, Android Development Has Leapfrogged iOS </a></li> 
+          
+            <li> <a href="https://americanexpress.io/git-bisect/">Using Git Bisect To Find Bugs </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/keeping-it-classy-how-quizlet-uses-hierarchical-classification-to-label-content-with-academic-4e89a175ebe3?source=rss----7f60cf5620c9---4">Keeping It Classy: How Quizlet uses hierarchical classification to label content with academic… </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec?source=rss----7f60cf5620c9---4">Word Bags vs Word Sequences for Text Classification </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b?source=rss----7f3d96429888---4">Common API mistakes and how to avoid them </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/01/how-linkedin-uses-data-to-improve-video-performance">How LinkedIn Uses Data to Improve Video Performance </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 25 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 24 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +291,6 @@ Learning </a></li>
         <pubDate>Thu, 10 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 09 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://nordicapis.com/review-of-gloo-the-function-api-gateway/">Review of Gloo, The Function Gateway </a></li> 
-          
-            <li> <a href="https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/">Fast Gaussian-distributed Random Numbers </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a?source=rss----7f60cf5620c9---4">Understanding High Dimensional Spaces in Machine Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474?source=rss----3a8144eabfe3---4">Implementing AudioWorklets with React </a></li> 
-          
-            <li> <a href="https://hackernoon.com/hypothesis-cqrs-models-with-blockchain-as-the-persistence-layer-will-work-a6aa72c31800?source=rss----3a8144eabfe3---4">Hypothesis: CQRS Models with Blockchain as the Persistence Layer Will Work </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a?source=rss----7f60cf5620c9---4">Understanding how IME (Shapley Values) explains predictions </a></li> 
-          
-            <li> <a href="https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/">Advanced Jupyter Notebooks: A Tutorial </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4">Using TypeScript transforms to enrich runtime code </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/">How To Learn CSS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 09 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-09.html</guid>
       </item>
       
   </channel>
