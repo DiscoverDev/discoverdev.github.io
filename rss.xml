@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 28 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/storage-algorithms?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Algorithms Behind Modern Storage Systems </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/gvisor-os-go?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: gVisor: Building and Battle Testing a Userspace OS in Go </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/porting-30k-lines-of-code-from-flow-to-typescript/">Porting 30K Lines of Code from Flow to TypeScript </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/01/augmented-reality-and-the-browser%E2%80%8A-%E2%80%8Aan-app-experiment/">Augmented Reality and the Browser — An App Experiment </a></li> 
+          
+            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/ios-application-testing-strategies-at-shopify">iOS Application Testing Strategies at Shopify </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356?source=rss----7f60cf5620c9---4">Introduction to Video Classification </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/interpretable-machine-learning-part-i-bd1829b42b3a?source=rss----905ea2b3d4d1---4">Interpretable Machine learning : Part I </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967?source=rss----cfe1120185d3---4">TLS Fingerprinting with JA3 and JA3S </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/">GraphQL: Union vs. Interface </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 28 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 25 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +291,6 @@ Learning </a></li>
         <pubDate>Mon, 14 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 10 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/data-validation-netflix?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Crisis to Calm: Story of Data Validation @ Netflix </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/basics-of-caching-data-in-graphql-7ce9489dac15?source=rss----5517fd7b58a6---4">Basics of Caching Data in GraphQL </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4">Reactivity with RxJS: force press </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin">Scaling Machine Learning Productivity at LinkedIn </a></li> 
-          
-            <li> <a href="https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=carbon-dual-binary-mobile-app">How to Ship an App Rewrite Without Risking Your Entire Business </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks">Integration Testing for Memory Leaks </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/css-grid-for-designers-f74a883b98f5?source=rss----51e1d1745b32---4">CSS Grid for Designers </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/01/03/mongodb-engines-mmapv1-vs-wiredtiger/">MongoDB Engines: MMAPV1 Vs WiredTiger </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d?source=rss----7f60cf5620c9---4">Data Science Project Flow for Startups </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 10 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-10.html</guid>
       </item>
       
   </channel>
