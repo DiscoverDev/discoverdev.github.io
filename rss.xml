@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 29 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/os-rust?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Is It Time to Rewrite the Operating System in Rust? </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html">Migrating Kafka&#39;s Zookeeper With No Downtime </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/">Automating Datacenter Operations at Dropbox </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4">How to limit front-end bugs </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript">The History (and Future) of Asynchronous JavaScript </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/01/trends-in-ai--neurips-2018">Trends in AI: NeurIPS 2018 </a></li> 
+          
+            <li> <a href="https://auth0.com/blog/creating-a-node-grpc-service-using-mali/">Creating a Node gRPC Service Using Mali </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/exploratory-design-in-data-visualization-87bc60ce7f04?source=rss----7f60cf5620c9---4">Exploratory Design in Data Visualization </a></li> 
+          
+            <li> <a href="https://blog.sqreen.io/demystifying-radix-trees/">How Radix trees made blocking IPs 5000 times faster </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/">An overview of 2018 language models </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 29 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 28 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +293,6 @@ Learning </a></li>
         <pubDate>Tue, 15 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 14 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.curalate.com/2018/12/31/holiday-load-prep.html">Hey, you busy? I have thousands of questions to ask you. </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/what-a-text-recognition-system-actually-sees-6c04864b8a98?source=rss----7f60cf5620c9---4">What a text recognition system actually sees </a></li> 
-          
-            <li> <a href="https://buildingvts.com/moving-on-from-angularjs-5417b79693a9?source=rss----f76c28ec6a84---4">Why VTS is Moving Off of AngularJS </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/hot-dog-or-not-a-hot-dog-using-metaprogramming-to-write-ui-tests-61e70b050dc5?source=rss----7f60cf5620c9---4">Hot Dog or Not a Hot Dog: Using Metaprogramming to Write UI Tests </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/serverless-chatbots?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Serverless and Chatbots: A Match Made in the Cloud </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2018/12/28/finetuning-for-natural-language-processing.html">Fine-tuning for Natural Language Processing </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/multitask-learning-in-tensorflow-with-the-head-api-68f2717019df?source=rss----7f60cf5620c9---4">Multitask learning in TensorFlow with the Head API </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/">Keep your infrastructure keys safe with Vault </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/devops-database?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: DevOps for the Database </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 14 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-14.html</guid>
       </item>
       
   </channel>
