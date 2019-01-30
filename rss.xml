@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 30 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/01/rearchitecture-system-success?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">An Incremental Architecture Approach to Building Systems </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/">Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps) </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/">Why we built CockroachDB on top of RocksDB </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/patient-care-stream-processing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Increasing the Quality of Patient Care Through Stream Processing </a></li> 
+          
+            <li> <a href="http://rockthecode.io/blog/distributed-application-using-raft/">Application Scaling with Raft </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/">Using Parallel Query with Amazon Aurora for MySQL </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-674f4e17a59?source=rss----53c7c27702d5---4">Machine Learning-Powered Search Ranking of Airbnb Experiences </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4">Why are we getting Streams in Redis? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 30 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 29 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,35 +292,6 @@ people </a></li>
         <pubDate>Wed, 16 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 15 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/">Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word] </a></li> 
-          
-            <li> <a href="https://www.toptal.com/api-developers/fast-powerful-js-sdks-for-rest-apis">ActiveResource.js: Building a Powerful JavaScript SDK For Your JSON API, Fast </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/industrial-document-classification-with-deep-learning/">Industrial document classification with Deep
-Learning </a></li> 
-          
-            <li> <a href="https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5?source=rss----5b301f10ddcd---4">Why I Wrote Redux in Lua </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/design-automatic-pipelines-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Designing Automated Pipelines for Unseen Custom Data </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/mobile-testing-apps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Break Things to Fix Things: Testing More than What &#34;Should&#34; Work </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604?source=rss----7f60cf5620c9---4">ELMo: Contextual language embedding </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/java-responsive-cloud?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Responsive Systems with Serverless, Event-driven Java </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 15 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-15.html</guid>
       </item>
       
   </channel>
