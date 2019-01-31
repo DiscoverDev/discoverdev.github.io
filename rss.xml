@@ -6,6 +6,39 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 31 Jan 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/flight-bayesian-prediction?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reasoning About Uncertainty at Scale </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microsoft-tfs-azure-devops?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Journey to Cloud Architecture </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3?source=rss----7f60cf5620c9---4">Attn: Illustrated Attention </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/why-architectural-diagrams?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Why Do We Need Architectural Diagrams? </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html">MySQL High Availability Framework Explained – Part II </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042?source=rss----53c7c27702d5---4">Empowering Data Science with Engineering Education </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/01/soft-actor-critic-deep-reinforcement.html">Soft Actor-Critic: Deep Reinforcement Learning for Robotics </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/painting-with-css-644cd4e67fad?source=rss----7f3d96429888---4">Painting with CSS </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/experimentation-platform-data-pipeline">A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/">OCTO’s vision on the Service Mesh: radiography of the
+Service Mesh </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 31 Jan 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-01-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 30 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +297,6 @@ people </a></li>
         <pubDate>Thu, 17 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 16 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439?source=rss----905ea2b3d4d1---4">Reverse Engineering an Obfuscated Malicious Macro </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/">Courier: Dropbox migration to gRPC </a></li> 
-          
-            <li> <a href="https://eng.uber.com/poet-open-ended-deep-learning/">POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/bayesian-optimization-quantum-computing-27a9cbbf0930?source=rss----7f60cf5620c9---4">Bayesian Optimization &amp; Quantum Computing </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ux/data-driven-design">Strength in Numbers - an Overview of Data-Driven Design </a></li> 
-          
-            <li> <a href="https://nordicapis.com/should-you-build-an-api-gateway-in-house/">Should You Build An API Gateway In-House? </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0?source=rss----5517fd7b58a6---4">“Stack Too Deep”- Error in Solidity </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046?source=rss----7f60cf5620c9---4">A Deep Dive Into Data Quality </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 16 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-16.html</guid>
       </item>
       
   </channel>
