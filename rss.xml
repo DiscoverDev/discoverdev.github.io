@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 01 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c?source=rss----53c7c27702d5---4">Discovering and Classifying In-app Message Intent at Airbnb </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/">Enjoy a slice of QUIC, and Rust! </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/01/how-to-make-vr-with-the-web-video-series/">How to make VR with the web, a new video series </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/01/expanding-application-of-deep-learning.html">Expanding the Application of Deep Learning to Electronic Health Records </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d?source=rss----7f60cf5620c9---4">One Shot Learning with Siamese Networks using Keras </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/">Type-Driven Development – Replacing Unit Tests with Types in Typescript </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4">Node.js multithreading: What are Worker Threads and why do they matter? </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/01/21/scylla-summit-video-grab-and-scylla-driving-southeast-asia-forward/">Scylla Summit Video: Grab and Scylla Driving Southeast Asia Forward </a></li> 
+          
+            <li> <a href="https://www.toptal.com/algorithms/horuslp-python-optimization-library">Architecting Optimization Algorithms with HorusLP </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/01/introducing-component-based-api/">Introducing The Component-Based API </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 31 Jan 2019</title>
         <description><![CDATA[
           <ul>
@@ -268,35 +300,6 @@ Service Mesh </a></li>
         <pubDate>Mon, 21 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 17 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1?source=rss----3a8144eabfe3---4">Lessons I’ve Learned Building Distributed Systems with CQRS and Event Sourcing </a></li> 
-          
-            <li> <a href="https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd?source=rss----3a8144eabfe3---4">Exploring Distributed System Theory: Availability and Consistency </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/">Better understanding of Android accessibility for blind
-people </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/designing-resilient-systems-part-2">Designing resilient systems: Circuit Breakers or Retries? (Part 2) </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580?source=rss----42df4a1e8725---4">Progressive Web Apps, UX and Engagement </a></li> 
-          
-            <li> <a href="https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/">The Case of the Hidden Mongo Data </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/capture-the-essence-of-any-video-visualize-its-subtitles-as-a-graph-5ce565d1820c?source=rss----7f60cf5620c9---4">Capture the Essence of Any Video: Visualize its Subtitles as a Graph </a></li> 
-          
-            <li> <a href="https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study">The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 17 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-17.html</guid>
       </item>
       
   </channel>
