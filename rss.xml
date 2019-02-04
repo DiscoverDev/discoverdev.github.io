@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 04 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/front-end-performance-optimization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fantastic Front-end Performance Tricks &amp; Why We Do Them </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/tensor-cores-mixed-precision-scientific-computing/">Using Tensor Cores for Mixed-Precision Scientific Computing </a></li> 
+          
+            <li> <a href="https://eng.uber.com/engineering-uber-lite/">Expanding Access: Engineering Uber Lite </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/">The scalable fabric behind our growing data center network </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introducing-feast-5eb4d539c13f?source=rss----7f60cf5620c9---4">Introducing Feast </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/">Designing Emotional Interfaces Of The Future </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/">Interactive Visual Search </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c?source=rss----905ea2b3d4d1---4">Writing a GraphQL Client in Vanilla JS </a></li> 
+          
+            <li> <a href="https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f?source=rss----3ae745429979---4">Analyzing Twitch chat during a Pokémon Marathon </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730?source=rss----cfe1120185d3---4">Performance Analysis of Linux Kernel Library User-Space Tcp Stack </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 04 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 01 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -272,34 +304,6 @@ Service Mesh </a></li>
         <pubDate>Tue, 22 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 21 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4">Using Animation Worklet </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/">Designing the Flexbox Inspector </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/01/divide-encode-1/">Divide &amp; Encode: How to Encode Videos Blazingly Fast </a></li> 
-          
-            <li> <a href="https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4">WebSockets &amp; API Gateway </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor">Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform </a></li> 
-          
-            <li> <a href="https://eng.uber.com/atari-zoo-deep-reinforcement-learning/">Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4">New horizons in CSS: Houdini and the Paint API </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/using-arkit-and-image-tracking/">Using ARKit and Image Tracking to Augment a Postcard </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 21 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-21.html</guid>
       </item>
       
   </channel>
