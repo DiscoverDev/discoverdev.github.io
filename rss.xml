@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 05 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications">Garbage Collection in Redux Applications </a></li> 
+          
+            <li> <a href="https://www.theguardian.com/info/2019/jan/24/leaving-scribe">Leaving Scribe </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/">Explainable Reasoning over Knowledge Graphs for Recommendation </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4">Big Data Metrics Discovery </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/vaes-generating-images-with-tensorflow-61de08e82f1f?source=rss----7f60cf5620c9---4">VAEs! Generating images with Tensorflow </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669?source=rss----7f60cf5620c9---4">Understanding Customer Churning with Big Data Analytics </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ui/minimal-web-design">Simplicity is Key - Exploring Minimal Web Design </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/01/table-design-patterns-web/">Table Design Patterns On The Web </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component">Feedback and Control - an Essential GitOps Component </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 05 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 04 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -274,36 +304,6 @@ Service Mesh </a></li>
         <pubDate>Wed, 23 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 22 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/building-spacecraft-a-real-time-collaborative-repl-deebcf084ed9?source=rss----3a8144eabfe3---4">Building SpaceCraft: A Real-Time Collaborative REPL </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2019/01/08/how-to-debug-memory-usage-of-a-jvm-based-application.html">How to debug memory usage of a JVM-based application </a></li> 
-          
-            <li> <a href="https://drivy.engineering/snowflake-migration/">Why we&#39;ve chosen Snowflake &amp;#10052;&amp;#65039; as our Data Warehouse </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/fitness-function-driven-development">Fitness function-driven development </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/linux-cilium-ebpf?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Make Linux Microservice-aware with Cilium and eBPF </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/optimizing-neural-networks-where-to-start-5a2ed38c8345?source=rss----7f60cf5620c9---4">Optimizing Neural Networks — Where to Start? </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/natural-language-processing-and-content-analysis-at-conde-nast-part-2-system-architecture">Natural Language Processing and Content Analysis at Condé Nast, Part 2: System Architecture </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/transaction-pipelining/">Pipelining Consensus Writes to Speed Up Distributed SQL Transactions </a></li> 
-          
-            <li> <a href="https://eng.uber.com/building-a-scalable-and-reliable-map-interface-for-drivers/">Building a Scalable and Reliable Map Interface for Drivers </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 22 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-22.html</guid>
       </item>
       
   </channel>
