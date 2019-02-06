@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 06 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/competing-frameworks-alibaba-puts-sdk-flutter-to-the-test-88eb8cf1f35a?source=rss----3a8144eabfe3---4">Competing Frameworks: Alibaba Puts SDK Flutter to the Test </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/text-to-image-a3b201b003ae?source=rss----7f60cf5620c9---4">Text to Image </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/how-shopify-uses-recommender-systems-to-empower-entrepreneurs">How Shopify Uses Recommender Systems to Empower Entrepreneurs </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/rolling-our-own-medium-style-wysiwyg-c10fda0e5699?source=rss----5517fd7b58a6---4">Rolling our own Medium-style WYSIWYG </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/be-creative-with-midway-mock-3e0e0c2d1524?source=rss----905ea2b3d4d1---4">Be creative with Midway mock </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/consistency-model/">CockroachDB&#39;s Consistency Model </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework">Managing Distributed Tasks with Helix Task Framework </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-build-atari-bot-with-openai-gym">Bias-Variance for Deep Reinforcement Learning: How To Build a Bot for Atari with OpenAI Gym </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/faster-and-lighter-moving-ad-tech-server-side-ef4bd6d2f2eb?source=rss----51e1d1745b32---4">Faster and Lighter: Moving Ad Tech Server-Side </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/http-3-from-root-to-tip/">HTTP/3: From root to tip </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 06 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 05 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -276,34 +308,6 @@ Service Mesh </a></li>
         <pubDate>Thu, 24 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 23 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/nvme-cache?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Caching Beyond RAM: The Case for NVMe </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/modern-operating-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Operating System in 2018 </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/q-localsearch-51e276d04d20?source=rss----7f60cf5620c9---4">Q-LocalSearch </a></li> 
-          
-            <li> <a href="https://itnext.io/using-transducers-to-speed-up-javascript-arrays-92677d000096?source=rss----5b301f10ddcd---4">Using Transducers to Speed Up JavaScript Arrays </a></li> 
-          
-            <li> <a href="https://hackernoon.com/why-and-how-we-built-a-temporal-database-system-called-sirixdb-open-source-from-scratch-a7446f56f201?source=rss----3a8144eabfe3---4">Why And How We Built a Temporal Database System Called SirixDB (Open Source) From Scratch </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html">PHA Family Highlights: Zen and its cousins </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/reverse-engineering-observable-4069f3853139?source=rss----7f3d96429888---4">Reverse engineering Observable </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-need-for-layer-3-on-the-internet-of-value-85ae3ab2a9ea?source=rss----3a8144eabfe3---4">The Need For Layer 3 on the Internet of Value </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 23 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-23.html</guid>
       </item>
       
   </channel>
