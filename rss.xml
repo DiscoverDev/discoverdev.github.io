@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 08 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/01/29/making-an-interactive-umap-visualization-of-the-mnist-data-set.html">Making an interactive UMAP visualization of the MNIST data set </a></li> 
+          
+            <li> <a href="https://eng.uber.com/aresdb/">Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine </a></li> 
+          
+            <li> <a href="https://itnext.io/auditing-containers-with-osquery-389636f8c420?source=rss----5b301f10ddcd---4">Auditing containers with osquery </a></li> 
+          
+            <li> <a href="https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533?source=rss----3a8144eabfe3---4">Parallel programming and developing fast solutions for your slow programs using threads </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ux/ux-trends-2018">UX Trends 2018: A Retrospective </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/anonymous-web-authentication-with-stellar-blockchain">Anonymous web authentication with Stellar blockchain </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/">Understanding API-Based Platforms: A Guide For Product Managers </a></li> 
+          
+            <li> <a href="https://research.fb.com/a-new-predictive-model-for-more-accurate-electrical-grid-mapping/">A new predictive model for more accurate electrical grid mapping </a></li> 
+          
+            <li> <a href="https://www.semantics3.com/blog/how-we-do-data-qa-semantics3-statistics-algorithms-part-1/">How we do Data QA @ Semantics3: Statistics &amp; Algorithms (Part 1) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 08 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 07 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -280,34 +310,6 @@ Service Mesh </a></li>
         <pubDate>Mon, 28 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 25 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/">Podman: Managing pods and containers in a local container runtime </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/managing-secrets-in-kubernetes">Managing Secrets in Kubernetes </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2019/01/14/android-vs-ios-development/">With Jetpack, Android Development Has Leapfrogged iOS </a></li> 
-          
-            <li> <a href="https://americanexpress.io/git-bisect/">Using Git Bisect To Find Bugs </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/keeping-it-classy-how-quizlet-uses-hierarchical-classification-to-label-content-with-academic-4e89a175ebe3?source=rss----7f60cf5620c9---4">Keeping It Classy: How Quizlet uses hierarchical classification to label content with academic… </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec?source=rss----7f60cf5620c9---4">Word Bags vs Word Sequences for Text Classification </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b?source=rss----7f3d96429888---4">Common API mistakes and how to avoid them </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/01/how-linkedin-uses-data-to-improve-video-performance">How LinkedIn Uses Data to Improve Video Performance </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 25 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-25.html</guid>
       </item>
       
   </channel>
