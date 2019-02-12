@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 12 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything">Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/building-a-scalable-event-pipeline-with-heroku-and-salesforce-2549cb20ce06?source=rss----cfe1120185d3---4">Building a Scalable Event Pipeline with Heroku and Salesforce </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46?source=rss----2615bd06b42e---4">Detecting Performance Anomalies in External Firmware Deployments </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/01/31/the-curious-case-of-disappeared-buses.html">The curious case of disappearing buses </a></li> 
+          
+            <li> <a href="https://blog.sourced.tech/post/formatting-with-style/">Formatting. With Style. </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-openstreetmap-tiles-for-machine-learning-4a3e41bb3ea6?source=rss----7f60cf5620c9---4">Using OpenStreetMap tiles for Machine Learning </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/zerospeech/">Teaching AI to learn speech the way children do </a></li> 
+          
+            <li> <a href="https://www.toptal.com/swift/advanced-concurrency-in-swift-with-honeybee">Advanced Concurrency in Swift with HoneyBee </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/api-gateway-clojure-golang?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report </a></li> 
+          
+            <li> <a href="https://nordicapis.com/using-hypermedia-to-design-event-driven-uis/">Using Hypermedia To Design Event-Driven UIs </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 12 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 11 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -278,38 +310,6 @@ Service Mesh </a></li>
         <pubDate>Wed, 30 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 29 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/os-rust?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Is It Time to Rewrite the Operating System in Rust? </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html">Migrating Kafka&#39;s Zookeeper With No Downtime </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/">Automating Datacenter Operations at Dropbox </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4">How to limit front-end bugs </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript">The History (and Future) of Asynchronous JavaScript </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/01/trends-in-ai--neurips-2018">Trends in AI: NeurIPS 2018 </a></li> 
-          
-            <li> <a href="https://auth0.com/blog/creating-a-node-grpc-service-using-mali/">Creating a Node gRPC Service Using Mali </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/exploratory-design-in-data-visualization-87bc60ce7f04?source=rss----7f60cf5620c9---4">Exploratory Design in Data Visualization </a></li> 
-          
-            <li> <a href="https://blog.sqreen.io/demystifying-radix-trees/">How Radix trees made blocking IPs 5000 times faster </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/">An overview of 2018 language models </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 29 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-29.html</guid>
       </item>
       
   </channel>
