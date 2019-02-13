@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 13 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/massively-scale-deep-learning-training-nccl-2-4/">Massively Scale Your Deep Learning Training with NCCL 2.4 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-pcf-pcc?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: It’s a Multi-cloud World, But What About the Data? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/asymmetric-cryptography-in-blockchains-d1a4c1654a71?source=rss----3a8144eabfe3---4">Asymmetric Cryptography In Blockchains </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/02/01/meshify-and-scylla-an-industrial-strength-iot-solution/">Meshify and Scylla: an Industrial-Strength IoT Solution </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/overcoming-restlessness?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Overcoming RESTlessness </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2019/02/01/executing-a-sunset/">Executing a Sunset </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/vectorized-hash-joiner/">40x faster hash joiner with vectorized execution </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/01/exploring-quantum-neural-nets?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Exploring the Relationship Between Quantum Computers and Machine Learning </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be?source=rss----2615bd06b42e---4">Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 13 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 12 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -282,34 +312,6 @@ Service Mesh </a></li>
         <pubDate>Thu, 31 Jan 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-01-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 30 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/01/rearchitecture-system-success?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">An Incremental Architecture Approach to Building Systems </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/">Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps) </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/">Why we built CockroachDB on top of RocksDB </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/patient-care-stream-processing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Increasing the Quality of Patient Care Through Stream Processing </a></li> 
-          
-            <li> <a href="http://rockthecode.io/blog/distributed-application-using-raft/">Application Scaling with Raft </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/">Using Parallel Query with Amazon Aurora for MySQL </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-674f4e17a59?source=rss----53c7c27702d5---4">Machine Learning-Powered Search Ranking of Airbnb Experiences </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4">Why are we getting Streams in Redis? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 30 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-30.html</guid>
       </item>
       
   </channel>
