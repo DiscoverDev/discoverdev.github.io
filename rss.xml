@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 14 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.semantics3.com/blog/how-we-do-data-qa-semantics3-processes-humans-in-the-loop-part-2/">How we do Data QA @ Semantics3: Processes &amp; Humans-in-the-Loop (Part 2) </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789?source=rss----53c7c27702d5---4">Machine Learning-Powered Search Ranking of Airbnb Experiences </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/debug-nodejs-dependencies-51eb40f484ec?source=rss----905ea2b3d4d1---4">Debug NodeJS Dependencies </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html">Improving Stream Data Quality With Protobuf Schema Validation </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/02/ios-performance-tricks-apps/">iOS Performance Tricks To Make Your App Feel More Performant </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/cross-lingual-pretraining/">Cross-lingual pretraining sets new state of the art for natural language understanding </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/engineering-to-scale-paid-media-campaigns-84ba018fb3fa?source=rss----2615bd06b42e---4">Engineering to Improve Marketing Effectiveness (Part 3) — Scaling Paid Media campaigns </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/beginners-perspective-kafka-streams-building-real-time-walkthrough-detection">A Beginner’s Perspective on Kafka Streams: Building Real-Time Walkthrough Detection </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/02/real-time-continuous-transcription-with.html">Real-time Continuous Transcription with Live Transcribe </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 14 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 13 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -279,39 +309,6 @@
         <pubDate>Fri, 01 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 31 Jan 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/flight-bayesian-prediction?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reasoning About Uncertainty at Scale </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microsoft-tfs-azure-devops?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Journey to Cloud Architecture </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3?source=rss----7f60cf5620c9---4">Attn: Illustrated Attention </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/why-architectural-diagrams?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Why Do We Need Architectural Diagrams? </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html">MySQL High Availability Framework Explained – Part II </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042?source=rss----53c7c27702d5---4">Empowering Data Science with Engineering Education </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/01/soft-actor-critic-deep-reinforcement.html">Soft Actor-Critic: Deep Reinforcement Learning for Robotics </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/painting-with-css-644cd4e67fad?source=rss----7f3d96429888---4">Painting with CSS </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/experimentation-platform-data-pipeline">A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/">OCTO’s vision on the Service Mesh: radiography of the
-Service Mesh </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-01-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-01-31.html</guid>
       </item>
       
   </channel>
