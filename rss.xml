@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 15 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/">SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/understanding-database-sharding">Understanding Database Sharding </a></li> 
+          
+            <li> <a href="https://medium.com/jobteaser-dev-team/python-packaging-how-do-we-manage-it-at-jobteaser-2bc8d1e9d206?source=rss----bd77d16a0035---4">Python Packaging : How do we manage it at JobTeaser </a></li> 
+          
+            <li> <a href="https://itnext.io/improving-react-application-perfomance-by-avoiding-unnecessary-updates-bd96d03dec40?source=rss----5b301f10ddcd---4">Improving React Application Perfomance by Avoiding Unnecessary Updates </a></li> 
+          
+            <li> <a href="https://nordicapis.com/should-you-design-natural-language-first-apis/">Should You Design Natural Language First APIs? </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/automating-shop-the-look-on-pinterest-a17aeff0eae2?source=rss-ef81ef829bcb------2">Automating Shop The Look on Pinterest </a></li> 
+          
+            <li> <a href="https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4?source=rss----3d4aa8fb07ea---4">Move fast and migrate things: how we automated migrations in Postgres </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/02/incrementally-migrating-over-one-million-lines-of-code-from-python-2-to-python-3/">Incrementally migrating over one million lines of code from Python 2 to Python 3 </a></li> 
+          
+            <li> <a href="https://hackernoon.com/consider-grpc-for-mobile-apis-2f0a8552ec23?source=rss----3a8144eabfe3---4">Consider gRPC for Mobile APIs </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/02/complex-web-tables/">How To Architect A Complex Web Table </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 15 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 14 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,38 +309,6 @@
         <pubDate>Mon, 04 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 01 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c?source=rss----53c7c27702d5---4">Discovering and Classifying In-app Message Intent at Airbnb </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/">Enjoy a slice of QUIC, and Rust! </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/01/how-to-make-vr-with-the-web-video-series/">How to make VR with the web, a new video series </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/01/expanding-application-of-deep-learning.html">Expanding the Application of Deep Learning to Electronic Health Records </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d?source=rss----7f60cf5620c9---4">One Shot Learning with Siamese Networks using Keras </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/">Type-Driven Development – Replacing Unit Tests with Types in Typescript </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4">Node.js multithreading: What are Worker Threads and why do they matter? </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/01/21/scylla-summit-video-grab-and-scylla-driving-southeast-asia-forward/">Scylla Summit Video: Grab and Scylla Driving Southeast Asia Forward </a></li> 
-          
-            <li> <a href="https://www.toptal.com/algorithms/horuslp-python-optimization-library">Architecting Optimization Algorithms with HorusLP </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/01/introducing-component-based-api/">Introducing The Component-Based API </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-01.html</guid>
       </item>
       
   </channel>
