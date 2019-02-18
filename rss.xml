@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 18 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/review-segnet-semantic-segmentation-e66f2e30fb96?source=rss----7f60cf5620c9---4">Review: SegNet (Semantic Segmentation) </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/kafka-pks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Cloud-native Streaming Platform: Running Apache Kafka on PKS </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/messaging-architecture-future?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Point-to-Point Messaging Architecture - The Reactive Endgame </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/02/open-sourcing-clusterfuzz.html">Open sourcing ClusterFuzz </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-nlp-to-build-a-search-discovery-app-for-regulators-e674baae2288?source=rss----7f60cf5620c9---4">Using NLP to build a search &amp; discovery app for Regulators </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/so-you-think-you-know-java-multi-threading-f38e3fd5df85?source=rss----905ea2b3d4d1---4">So you think you know Java Multi threading! </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-only-reason-your-css-fails-8e4388d562af?source=rss----7f3d96429888---4">The only reason your CSS fails </a></li> 
+          
+            <li> <a href="https://eng.uber.com/financial-planning-for-data-scientist/">Why Financial Planning is Exciting… At Least for a Data Scientist </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html">Introducing Adiantum: Encryption for the Next Billion Users </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 18 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 15 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,38 +307,6 @@
         <pubDate>Tue, 05 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 04 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/front-end-performance-optimization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fantastic Front-end Performance Tricks &amp; Why We Do Them </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/tensor-cores-mixed-precision-scientific-computing/">Using Tensor Cores for Mixed-Precision Scientific Computing </a></li> 
-          
-            <li> <a href="https://eng.uber.com/engineering-uber-lite/">Expanding Access: Engineering Uber Lite </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/">The scalable fabric behind our growing data center network </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introducing-feast-5eb4d539c13f?source=rss----7f60cf5620c9---4">Introducing Feast </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/">Designing Emotional Interfaces Of The Future </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/interactive-visual-search/">Interactive Visual Search </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c?source=rss----905ea2b3d4d1---4">Writing a GraphQL Client in Vanilla JS </a></li> 
-          
-            <li> <a href="https://blog.twitch.tv/analyzing-twitch-chat-during-a-pok%C3%A9mon-marathon-8f53ca281d4f?source=rss----3ae745429979---4">Analyzing Twitch chat during a Pokémon Marathon </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730?source=rss----cfe1120185d3---4">Performance Analysis of Linux Kernel Library User-Space Tcp Stack </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 04 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-04.html</guid>
       </item>
       
   </channel>
