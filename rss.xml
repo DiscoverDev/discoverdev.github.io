@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 19 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/under-the-hood-of-apollo-6d8642066b28?source=rss----5b301f10ddcd---4">Under-the-hood of Apollo </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/building-a-cross-platform-in-app-messaging-orchestration-service-86ba614f92d8?source=rss----2615bd06b42e---4">Building a Cross-platform In-app Messaging Orchestration Service </a></li> 
+          
+            <li> <a href="https://eng.uber.com/introducing-ludwig/">Introducing Ludwig, a Code-Free Deep Learning Toolbox </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/machine-learning-for-detecting-code-bugs-a79f37f144b7?source=rss----7f60cf5620c9---4">Machine Learning for Detecting Code Bugs </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/02/testing-mobile-first-experiences/">A/B Testing For Mobile-First Experiences </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introduction-to-augmented-random-search-d8d7b55309bd?source=rss----7f60cf5620c9---4">Introduction to Augmented Random Search. </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/chaos-engineering-gamedays?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chaos Engineering with Containers </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/10-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The 10 Kubernetes Commandments </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/02/mysql-clustering-wepay?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Highly Available MySQL Clustering at WePay Using Orchestrator, Consul and HAProxy </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 18 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +307,6 @@
         <pubDate>Wed, 06 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 05 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications">Garbage Collection in Redux Applications </a></li> 
-          
-            <li> <a href="https://www.theguardian.com/info/2019/jan/24/leaving-scribe">Leaving Scribe </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/explainable-reasoning-over-knowledge-graphs-for-recommendation/">Explainable Reasoning over Knowledge Graphs for Recommendation </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/big-data-metrics-discovery-842e3cac6d1d?source=rss----cfe1120185d3---4">Big Data Metrics Discovery </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/vaes-generating-images-with-tensorflow-61de08e82f1f?source=rss----7f60cf5620c9---4">VAEs! Generating images with Tensorflow </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-customer-churning-with-big-data-analytics-70ce4eb17669?source=rss----7f60cf5620c9---4">Understanding Customer Churning with Big Data Analytics </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ui/minimal-web-design">Simplicity is Key - Exploring Minimal Web Design </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/01/table-design-patterns-web/">Table Design Patterns On The Web </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/feedback-and-control-an-essential-gitops-component">Feedback and Control - an Essential GitOps Component </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 05 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-05.html</guid>
       </item>
       
   </channel>
