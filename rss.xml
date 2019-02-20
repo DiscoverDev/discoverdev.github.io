@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 20 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/02/learning-hiring-preferences--the-ai-behind-linkedin-jobs">Learning Hiring Preferences: The AI Behind LinkedIn Jobs </a></li> 
+          
+            <li> <a href="http://rockthecode.io/blog/using-svg-build-better-reports/">Build Great PDFs on the Web Using SVG </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/joe-beda-kubernetes-cncf?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Joe Beda on Kubernetes &amp; the CNCF </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2?source=rss----7484818e9f88---4">Anomaly Detection with Isolation Forest &amp; Visualization </a></li> 
+          
+            <li> <a href="https://nordicapis.com/introduction-to-unikernels/">Introduction To Unikernels </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/xlm-enhancing-bert-for-cross-lingual-language-model-5aeed9e6f14b?source=rss----7f60cf5620c9---4">XLM — Enhancing BERT for Cross-lingual Language Model </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe?source=rss----3a8144eabfe3---4">How I got rid of the new sponsored Facebook posts. </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/inference-using-em-algorithm-d71cccb647bc?source=rss----7f60cf5620c9---4">Inference using EM algorithm </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/02/using-global-localization-to-improve.html">Using Global Localization to Improve Navigation </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 20 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 19 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +305,6 @@
         <pubDate>Thu, 07 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 06 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/competing-frameworks-alibaba-puts-sdk-flutter-to-the-test-88eb8cf1f35a?source=rss----3a8144eabfe3---4">Competing Frameworks: Alibaba Puts SDK Flutter to the Test </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/text-to-image-a3b201b003ae?source=rss----7f60cf5620c9---4">Text to Image </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/how-shopify-uses-recommender-systems-to-empower-entrepreneurs">How Shopify Uses Recommender Systems to Empower Entrepreneurs </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/rolling-our-own-medium-style-wysiwyg-c10fda0e5699?source=rss----5517fd7b58a6---4">Rolling our own Medium-style WYSIWYG </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/be-creative-with-midway-mock-3e0e0c2d1524?source=rss----905ea2b3d4d1---4">Be creative with Midway mock </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/consistency-model/">CockroachDB&#39;s Consistency Model </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework">Managing Distributed Tasks with Helix Task Framework </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-build-atari-bot-with-openai-gym">Bias-Variance for Deep Reinforcement Learning: How To Build a Bot for Atari with OpenAI Gym </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/faster-and-lighter-moving-ad-tech-server-side-ef4bd6d2f2eb?source=rss----51e1d1745b32---4">Faster and Lighter: Moving Ad Tech Server-Side </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/http-3-from-root-to-tip/">HTTP/3: From root to tip </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 06 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-06.html</guid>
       </item>
       
   </channel>
