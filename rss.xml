@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 21 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.toptal.com/front-end/guide-to-monorepos">Guide to Monorepos for Front-end Code </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324?source=rss----7f60cf5620c9---4">Consistent Hashing Simplified </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/">An Introduction To WebBluetooth </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/data-driven-decision-making?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Data-driven Decision Making </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/hunting-for-memory-leaks-in-python-applications-6824d0518774?source=rss----a88376ea904a---4">Hunting for Memory Leaks in Python applications </a></li> 
+          
+            <li> <a href="https://blog.novoda.com/working-with-legacy-testing-frameworks-part-1-huge-checks/">Working with Legacy Testing Frameworks </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/typesafe-frontend-development-89c7600f2759?source=rss----5517fd7b58a6---4">Typesafe Frontend Development </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/cloud-native-application-architecture-a84ddf378f82?source=rss----905ea2b3d4d1---4">Cloud Native Application Architecture </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-extract-text-from-an-image-using-javascript-8fe282fb0e71?source=rss----7f3d96429888---4">How to extract text from an image using JavaScript </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 20 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +307,6 @@
         <pubDate>Fri, 08 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/applied-behavioral-science-at-scale/">How Uber Leverages Applied Behavioral Science at Scale </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2019/1/28/a-hybrid-cloud-approach-from-fraudguardio-that-handles-50m-r.html">A Hybrid Cloud Approach from FraudGuard.io that Handles 50M Requests a Day </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2019/01/28/ltdd/">Building Stable Systems with Load-Test Driven Development </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/data-visualization-in-music-11fcd702c893?source=rss----7f60cf5620c9---4">Data Visualization in Music </a></li> 
-          
-            <li> <a href="https://hackernoon.com/distributed-pki-development-and-use-cases-a828287a2e67?source=rss----3a8144eabfe3---4">Distributed PKI: Development and Use Cases </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/kubernetes-yaml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Dissecting Kubernetes (K8s) - An Intro to Main Components </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/type-system-typescript-flow-graphql?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Learning to Love Type Systems </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/microservices-bdd-interface-oriented?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Developing Microservices with Behavior Driven Development and Interface Oriented Design </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 07 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-07.html</guid>
       </item>
       
   </channel>
