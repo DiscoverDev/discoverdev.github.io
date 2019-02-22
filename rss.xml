@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 22 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/uber-beacon-bluetooth-mobile-app/">Engineering Uber Beacon: Matching Riders and Drivers in 24-bit RGB Colors </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/02/fearless-security-thread-safety/">Fearless Security: Thread Safety </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html">Moving from Ruby to Rust </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-compression-optimization-techniques-for-inference-efficiency-615252c18f18?source=rss----7f60cf5620c9---4">Deep Compression: Optimization Techniques for Inference &amp; Efficiency </a></li> 
+          
+            <li> <a href="http://tech.gc.com/application-performance-monitoring/">Fishing For Correlations </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/developing-fast-reliable-ios-builds-at-pinterest-part-one-cb1810407b92?source=rss-ef81ef829bcb------2">Developing fast &amp; reliable iOS builds at Pinterest (Part one) </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/02/13/delayed-replication-for-disaster-recovery-with-postgresql/">How we used delayed replication for disaster recovery with PostgreSQL </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/unifying-graphql-design-patterns-best-practices-tutorials">Unifying Our GraphQL Design Patterns and Best Practices with Tutorials </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/complementary-item-recommendations-at-ebay-scale/">Complementary Item Recommendations at eBay Scale </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/getting-organized-with-an-engineering-logbook/">Getting Organized with an Engineering Logbook </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 22 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 21 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +309,6 @@
         <pubDate>Mon, 11 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 08 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/01/29/making-an-interactive-umap-visualization-of-the-mnist-data-set.html">Making an interactive UMAP visualization of the MNIST data set </a></li> 
-          
-            <li> <a href="https://eng.uber.com/aresdb/">Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine </a></li> 
-          
-            <li> <a href="https://itnext.io/auditing-containers-with-osquery-389636f8c420?source=rss----5b301f10ddcd---4">Auditing containers with osquery </a></li> 
-          
-            <li> <a href="https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533?source=rss----3a8144eabfe3---4">Parallel programming and developing fast solutions for your slow programs using threads </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ux/ux-trends-2018">UX Trends 2018: A Retrospective </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/anonymous-web-authentication-with-stellar-blockchain">Anonymous web authentication with Stellar blockchain </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/">Understanding API-Based Platforms: A Guide For Product Managers </a></li> 
-          
-            <li> <a href="https://research.fb.com/a-new-predictive-model-for-more-accurate-electrical-grid-mapping/">A new predictive model for more accurate electrical grid mapping </a></li> 
-          
-            <li> <a href="https://www.semantics3.com/blog/how-we-do-data-qa-semantics3-statistics-algorithms-part-1/">How we do Data QA @ Semantics3: Statistics &amp; Algorithms (Part 1) </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 08 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-08.html</guid>
       </item>
       
   </channel>
