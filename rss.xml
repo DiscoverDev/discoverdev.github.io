@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 25 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/scalability-performance-benchmark?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Up Performance Benchmarking </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html">Introducing PlaNet: A Deep Planning Network for Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/02/15/user-migration-the-definitive-guide">User Migration: The Definitive Guide </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/how-we-prepared-new-york-times-engineering-for-the-midterm-elections-2a615fe4196e?source=rss----51e1d1745b32---4">How We Prepared New York Times Engineering for the Midterm Elections </a></li> 
+          
+            <li> <a href="https://eng.uber.com/modeling-censored-time-to-event-data-using-pyro/">Modeling Censored Time-to-Event Data Using Pyro, an Open Source Probabilistic Programming Language </a></li> 
+          
+            <li> <a href="http://blog.arkency.com/read-model-patterns-in-case-of-lack-of-order-guarantee/">Patterns for asynchronous read models in infrastructure without order guarantee </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca?source=rss----7f60cf5620c9---4">A Hitchhiker’s Guide to Mixture Density Networks </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/end-to-end-microservices/index.html">A Journey On End To End Testing A Microservices Architecture </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/solving-problems-with-serverless-the-cloudflare-led-data-center-board-part-i/">Solving Problems with Serverless – The Cloudflare LED Data Center Board, Part I </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 25 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 22 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -279,36 +309,6 @@
         <pubDate>Tue, 12 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 11 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/api-gateways-are-going-through-an-identity-crisis-e5dc3a5ab6d4?source=rss----5b301f10ddcd---4">API Gateways are going through an identity crisis </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/writing-a-custom-typescript-ast-transformer-731e2b0b66e6?source=rss----5517fd7b58a6---4">Writing a Custom TypeScript AST Transformer </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/">Finding Kafka’s throughput limit in Dropbox infrastructure </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/how-to-build-a-technology-platform-5d0b0fc92af1?source=rss----7484818e9f88---4">How to build a technology platform </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/streamlining-frontend-as-a-service-for-backend-teams-69d9223efcec?source=rss----905ea2b3d4d1---4">Streamlining Frontend-as-a-Service for Backend Teams </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/01/bridging-offline-and-nearline-computations-with-apache-calcite">Bridging Offline and Nearline Computations with Apache Calcite </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html">Transformer-XL: Unleashing the Potential of Attention Models </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a?source=rss----53c7c27702d5---4">Contextualizing Airbnb by Building Knowledge Graph </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/">From TSLint to ESLint, or How I Learned to Lint GraphQL Code </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 11 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-11.html</guid>
       </item>
       
   </channel>
