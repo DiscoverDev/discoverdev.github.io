@@ -6,6 +6,66 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/avs-autonomous-vehicle-visualization/">Introducing AVS, an Open Standard for Autonomous Vehicle Visualization from Uber </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/divide-and-conquer-scale-your-node-js-app-using-distributed-queues-8231a9486d3a?source=rss----7f3d96429888---4">Divide and conquer: Scale your Node.js app using distributed queues </a></li> 
+          
+            <li> <a href="https://distill.pub/2019/safety-needs-social-scientists">AI Safety Needs Social Scientists </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/real-time-finger-detection-1e18fea0d1d4?source=rss----5e5bef33608a---4">Real-time Finger Detection </a></li> 
+          
+            <li> <a href="https://www.opsian.com/blog/what-is-continuous-profiling/">What is Continuous Profiling? </a></li> 
+          
+            <li> <a href="https://hackernoon.com/messaging-pattern-for-high-availability-and-handling-failures-in-microservices-26cdd7a0aec6?source=rss----3a8144eabfe3---4">Messaging Pattern For High Availability and Handling Failures in Microservices </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/graphql-adoption-at-commercetools-cab25a1d1f4a?source=rss----d3d69d818e3d---4">GraphQL adoption at commercetools </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/02/accessibility-webinar/">How A Screen Reader User Accesses The Web: A Smashing Video </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/">SOCKMAP - TCP splicing of the future </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 27 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-27.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 26 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/understanding-micro-frontends-b1c11585a297?source=rss----3a8144eabfe3---4">Understanding Micro Frontends </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/memory-jvm?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Trouble with Memory </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/net-runtime-architecture?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Tuning a Runtime for Both Productivity and Performance </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/hand-keypoints-detection-ec2dca27973e?source=rss----7f60cf5620c9---4">Hand Keypoints Detection </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23?source=rss----a88376ea904a---4">Maintaining Binary Compatibility in Scala </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/02/rethinking-observability?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Three Pillars with Zero Answers: Rethinking Observability with Ben Sigelman </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/ai-for-algorithmic-trading-rethinking-bars-labeling-and-stationarity-90a7b626f3e1?source=rss----7f60cf5620c9---4">AI for algorithmic trading: rethinking bars, labeling, and stationarity </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a?source=rss----3a8144eabfe3---4">Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/myntra-scheduler-service-a0153a04526c?source=rss----7484818e9f88---4">Myntra Scheduler Service </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 26 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 25 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -247,68 +307,6 @@
         <pubDate>Thu, 14 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 13 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/massively-scale-deep-learning-training-nccl-2-4/">Massively Scale Your Deep Learning Training with NCCL 2.4 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-pcf-pcc?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: It’s a Multi-cloud World, But What About the Data? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/asymmetric-cryptography-in-blockchains-d1a4c1654a71?source=rss----3a8144eabfe3---4">Asymmetric Cryptography In Blockchains </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/02/01/meshify-and-scylla-an-industrial-strength-iot-solution/">Meshify and Scylla: an Industrial-Strength IoT Solution </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/overcoming-restlessness?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Overcoming RESTlessness </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2019/02/01/executing-a-sunset/">Executing a Sunset </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/vectorized-hash-joiner/">40x faster hash joiner with vectorized execution </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/01/exploring-quantum-neural-nets?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Exploring the Relationship Between Quantum Computers and Machine Learning </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be?source=rss----2615bd06b42e---4">Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 12 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything">Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/building-a-scalable-event-pipeline-with-heroku-and-salesforce-2549cb20ce06?source=rss----cfe1120185d3---4">Building a Scalable Event Pipeline with Heroku and Salesforce </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46?source=rss----2615bd06b42e---4">Detecting Performance Anomalies in External Firmware Deployments </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/01/31/the-curious-case-of-disappeared-buses.html">The curious case of disappearing buses </a></li> 
-          
-            <li> <a href="https://blog.sourced.tech/post/formatting-with-style/">Formatting. With Style. </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-openstreetmap-tiles-for-machine-learning-4a3e41bb3ea6?source=rss----7f60cf5620c9---4">Using OpenStreetMap tiles for Machine Learning </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/zerospeech/">Teaching AI to learn speech the way children do </a></li> 
-          
-            <li> <a href="https://www.toptal.com/swift/advanced-concurrency-in-swift-with-honeybee">Advanced Concurrency in Swift with HoneyBee </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/api-gateway-clojure-golang?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report </a></li> 
-          
-            <li> <a href="https://nordicapis.com/using-hypermedia-to-design-event-driven-uis/">Using Hypermedia To Design Event-Driven UIs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 12 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-12.html</guid>
       </item>
       
   </channel>
