@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 28 Feb 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/extending-vector-with-ebpf-to-inspect-host-and-container-performance-5da3af4c584b?source=rss----2615bd06b42e---4">Extending Vector with eBPF to inspect host and container performance </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/02/20/valustor-a-memcached-alternative-built-on-scylla/">ValuStor — a memcached alternative built on Scylla </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/">The Challenging Migration from Heroku to Google Kubernetes Engine </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/stop-the-bots-practical-lessons-in-machine-learning/">Stop the Bots: Practical Lessons in Machine Learning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/apache-flink-streaming-app?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Patterns of Streaming Applications </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/vitess?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Massively Scaling MySQL using Vitess </a></li> 
+          
+            <li> <a href="https://medium.com/dev-channel/javascript-loading-priorities-in-chrome-57c54cfa6672?source=rss----32c64651a75---4">JavaScript Loading Priorities in Chrome </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/a-beginners-guide-to-deploys-and-releases-d2a823f274c4?source=rss----a88376ea904a---4">A Beginners Guide to Deploys and Releases </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/02/autoscaling-mesos-clusters-with-clusterman.html">Autoscaling Mesos Clusters with Clusterman </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 28 Feb 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-02-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 27 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +307,6 @@
         <pubDate>Fri, 15 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 14 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.semantics3.com/blog/how-we-do-data-qa-semantics3-processes-humans-in-the-loop-part-2/">How we do Data QA @ Semantics3: Processes &amp; Humans-in-the-Loop (Part 2) </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789?source=rss----53c7c27702d5---4">Machine Learning-Powered Search Ranking of Airbnb Experiences </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/debug-nodejs-dependencies-51eb40f484ec?source=rss----905ea2b3d4d1---4">Debug NodeJS Dependencies </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html">Improving Stream Data Quality With Protobuf Schema Validation </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/02/ios-performance-tricks-apps/">iOS Performance Tricks To Make Your App Feel More Performant </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/cross-lingual-pretraining/">Cross-lingual pretraining sets new state of the art for natural language understanding </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/engineering-to-scale-paid-media-campaigns-84ba018fb3fa?source=rss----2615bd06b42e---4">Engineering to Improve Marketing Effectiveness (Part 3) — Scaling Paid Media campaigns </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/beginners-perspective-kafka-streams-building-real-time-walkthrough-detection">A Beginner’s Perspective on Kafka Streams: Building Real-Time Walkthrough Detection </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/02/real-time-continuous-transcription-with.html">Real-time Continuous Transcription with Live Transcribe </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 14 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-14.html</guid>
       </item>
       
   </channel>
