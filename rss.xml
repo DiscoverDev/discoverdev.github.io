@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 01 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.weave.works/blog/prometheus-scalability-with-bryan-boreham">Prometheus Scalability with Bryan Boreham </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/optimizing-end-to-end-memory-networks-using-sigopt-gpus/">Optimizing End-to-End Memory Networks Using SigOpt and GPUs </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/02/21/parallel-queries-in-postgresql/">Parallel queries in PostgreSQL </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/02/animation-design-system/">Including Animation In Your Design System </a></li> 
+          
+            <li> <a href="http://engineering.opensooq.com/opensooq-android-performance-testing-make-hard-things-easy/">OpenSooq Android Performance Testing: Make Hard Things Easy </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/understanding-supply-demand-ride-hailing-data">Understanding Supply &amp; Demand in Ride-hailing Through the Lens of Data </a></li> 
+          
+            <li> <a href="https://itnext.io/functional-architecture-e9031090ff18?source=rss----5b301f10ddcd---4">Taming Side-Effects </a></li> 
+          
+            <li> <a href="https://code.fb.com/open-source/sparta/">Open-sourcing SPARTA to make abstract interpretation easy </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74?source=rss----51e1d1745b32---4">Remembering a Programming Language that Helped Shape the Digital New York Times </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/02/migz-for-compression-and-decompression">MiGz for Compression and Decompression </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 01 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 28 Feb 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +307,6 @@
         <pubDate>Mon, 18 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 15 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/">SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue </a></li> 
-          
-            <li> <a href="https://www.digitalocean.com/community/tutorials/understanding-database-sharding">Understanding Database Sharding </a></li> 
-          
-            <li> <a href="https://medium.com/jobteaser-dev-team/python-packaging-how-do-we-manage-it-at-jobteaser-2bc8d1e9d206?source=rss----bd77d16a0035---4">Python Packaging : How do we manage it at JobTeaser </a></li> 
-          
-            <li> <a href="https://itnext.io/improving-react-application-perfomance-by-avoiding-unnecessary-updates-bd96d03dec40?source=rss----5b301f10ddcd---4">Improving React Application Perfomance by Avoiding Unnecessary Updates </a></li> 
-          
-            <li> <a href="https://nordicapis.com/should-you-design-natural-language-first-apis/">Should You Design Natural Language First APIs? </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/automating-shop-the-look-on-pinterest-a17aeff0eae2?source=rss-ef81ef829bcb------2">Automating Shop The Look on Pinterest </a></li> 
-          
-            <li> <a href="https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4?source=rss----3d4aa8fb07ea---4">Move fast and migrate things: how we automated migrations in Postgres </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/02/incrementally-migrating-over-one-million-lines-of-code-from-python-2-to-python-3/">Incrementally migrating over one million lines of code from Python 2 to Python 3 </a></li> 
-          
-            <li> <a href="https://hackernoon.com/consider-grpc-for-mobile-apis-2f0a8552ec23?source=rss----3a8144eabfe3---4">Consider gRPC for Mobile APIs </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/02/complex-web-tables/">How To Architect A Complex Web Table </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 15 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-15.html</guid>
       </item>
       
   </channel>
