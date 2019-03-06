@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 06 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/real-time-streaming-and-anomaly-detection-pipeline-on-aws-cbd0bef6f20e?source=rss----7f60cf5620c9---4">Real-Time Streaming and Anomaly detection Pipeline on AWS </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/02/25/in-memory-scylla-or-racing-the-red-queen/">In-Memory Scylla, or Racing the Red Queen </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/building-a-query-suggestion-ux-like-googles/">Building a query suggestion UX like Google’s </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html">Design Of A Modern Cache—Part Deux </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/02/25/mysql-challenge-100k-connections/">MySQL Challenge: 100k Connections </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/lambda-architecture-how-to-build-a-big-data-pipeline-part-1-8b56075e83fe?source=rss----7f60cf5620c9---4">Lambda architecture— how to build a Big data pipeline part 1 </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/graphql-and-rest-level-3-hateoas-70904ff1f9cf?source=rss----d3d69d818e3d---4">GraphQL and REST Level 3 (HATEOAS) </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/exploring-virtual-worlds-with-reinforcement-learning-25a245e9afea?source=rss----7f60cf5620c9---4">Exploring virtual worlds with reinforcement learning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/attention-nlp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Creating Robust Interpretable NLP Systems with Attention </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/blazor-javascript-net-mono?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Goodbye Client Side JavaScript, Hello C#&#39;s Blazor </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 06 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 05 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -281,36 +313,6 @@
         <pubDate>Thu, 21 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 20 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/02/learning-hiring-preferences--the-ai-behind-linkedin-jobs">Learning Hiring Preferences: The AI Behind LinkedIn Jobs </a></li> 
-          
-            <li> <a href="http://rockthecode.io/blog/using-svg-build-better-reports/">Build Great PDFs on the Web Using SVG </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/joe-beda-kubernetes-cncf?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Joe Beda on Kubernetes &amp; the CNCF </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2?source=rss----7484818e9f88---4">Anomaly Detection with Isolation Forest &amp; Visualization </a></li> 
-          
-            <li> <a href="https://nordicapis.com/introduction-to-unikernels/">Introduction To Unikernels </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/xlm-enhancing-bert-for-cross-lingual-language-model-5aeed9e6f14b?source=rss----7f60cf5620c9---4">XLM — Enhancing BERT for Cross-lingual Language Model </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe?source=rss----3a8144eabfe3---4">How I got rid of the new sponsored Facebook posts. </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/inference-using-em-algorithm-d71cccb647bc?source=rss----7f60cf5620c9---4">Inference using EM algorithm </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/02/using-global-localization-to-improve.html">Using Global Localization to Improve Navigation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 20 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-20.html</guid>
       </item>
       
   </channel>
