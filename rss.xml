@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 07 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.novoda.com/the-ultimate-guide-to-ar-design-arkit-coreml-and-more/">The ultimate guide to AR Design, ARKit, CoreML and more! </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/better-web-video-with-av1-codec">Better web video with AV1 codec </a></li> 
+          
+            <li> <a href="https://itnext.io/apache-solr-because-your-database-is-not-a-search-engine-57705352df8a?source=rss----5b301f10ddcd---4">Apache Solr: Because your Database is not a Search Engine </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/company-website-design/ui-design-best-practices">UI Design Best Practices for Better Scannability </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/tracing-or-debugging-vue-js-reactivity-the-computed-tree-9da0ba1df5f9?source=rss----f5105b08f43a---4">Tracing or Debugging Vue.js Reactivity: The computed tree </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/3-reasons-to-add-deep-learning-to-your-time-series-toolkit">3 reasons to add deep learning to your time series toolkit </a></li> 
+          
+            <li> <a href="https://nordicapis.com/functional-contract-testing-a-case-study/">Functional Contract Testing: A Case Study </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571?source=rss----7f60cf5620c9---4">Language Translation with RNNs </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39?source=rss----7f3d96429888---4">Taming the front-end monolith </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 07 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 06 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -283,36 +313,6 @@
         <pubDate>Fri, 22 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 21 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.toptal.com/front-end/guide-to-monorepos">Guide to Monorepos for Front-end Code </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324?source=rss----7f60cf5620c9---4">Consistent Hashing Simplified </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/">An Introduction To WebBluetooth </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/data-driven-decision-making?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Data-driven Decision Making </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/hunting-for-memory-leaks-in-python-applications-6824d0518774?source=rss----a88376ea904a---4">Hunting for Memory Leaks in Python applications </a></li> 
-          
-            <li> <a href="https://blog.novoda.com/working-with-legacy-testing-frameworks-part-1-huge-checks/">Working with Legacy Testing Frameworks </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/typesafe-frontend-development-89c7600f2759?source=rss----5517fd7b58a6---4">Typesafe Frontend Development </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/cloud-native-application-architecture-a84ddf378f82?source=rss----905ea2b3d4d1---4">Cloud Native Application Architecture </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-extract-text-from-an-image-using-javascript-8fe282fb0e71?source=rss----7f3d96429888---4">How to extract text from an image using JavaScript </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 21 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-21.html</guid>
       </item>
       
   </channel>
