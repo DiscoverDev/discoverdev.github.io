@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 08 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.toptal.com/data-science/data-warehouse-concepts-principles">Three Principles of Data Warehouse Development </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/rendering-on-the-web-80a30c678c3a?source=rss----5517fd7b58a6---4">Rendering on the Web </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/">The art of writing eBPF programs: a primer. </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introducing-meta-reward-learning-5916ea2766de?source=rss----7f60cf5620c9---4">Introducing Meta Reward Learning </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/rendezvous-with-kafka-a-simple-guide-to-get-started-48db3b921cc?source=rss----905ea2b3d4d1---4">Rendezvous with Kafka : A simple guide to get started </a></li> 
+          
+            <li> <a href="https://hackernoon.com/limiting-your-api-requests-the-right-way-9608b661a0ce?source=rss----3a8144eabfe3---4">Limiting your API requests: the right way </a></li> 
+          
+            <li> <a href="https://www.bigeng.io/a-simple-architecture-for-mobile-apps/">A Simple Architecture for Mobile Apps </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/debugging-year-old-sprockets-bug">Debugging in Ruby—Busting a Year-old Bug in Sprockets </a></li> 
+          
+            <li> <a href="https://itnext.io/on-grpc-load-balancing-683257c5b7b3?source=rss----5b301f10ddcd---4">On gRPC Load Balancing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 08 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 07 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -281,38 +311,6 @@
         <pubDate>Mon, 25 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 22 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/uber-beacon-bluetooth-mobile-app/">Engineering Uber Beacon: Matching Riders and Drivers in 24-bit RGB Colors </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/02/fearless-security-thread-safety/">Fearless Security: Thread Safety </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html">Moving from Ruby to Rust </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-compression-optimization-techniques-for-inference-efficiency-615252c18f18?source=rss----7f60cf5620c9---4">Deep Compression: Optimization Techniques for Inference &amp; Efficiency </a></li> 
-          
-            <li> <a href="http://tech.gc.com/application-performance-monitoring/">Fishing For Correlations </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/developing-fast-reliable-ios-builds-at-pinterest-part-one-cb1810407b92?source=rss-ef81ef829bcb------2">Developing fast &amp; reliable iOS builds at Pinterest (Part one) </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/02/13/delayed-replication-for-disaster-recovery-with-postgresql/">How we used delayed replication for disaster recovery with PostgreSQL </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/unifying-graphql-design-patterns-best-practices-tutorials">Unifying Our GraphQL Design Patterns and Best Practices with Tutorials </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/complementary-item-recommendations-at-ebay-scale/">Complementary Item Recommendations at eBay Scale </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/getting-organized-with-an-engineering-logbook/">Getting Organized with an Engineering Logbook </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 22 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-22.html</guid>
       </item>
       
   </channel>
