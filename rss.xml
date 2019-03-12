@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 12 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe?source=rss----5e5bef33608a---4">How Netflix Uses AI and Machine Learning </a></li> 
+          
+            <li> <a href="https://blog.rapidapi.com/api-vs-web-service/">API vs Web Service: What’s the Difference? </a></li> 
+          
+            <li> <a href="https://www.bigeng.io/native-react-native-bigcommerce/">Native &amp; React Native @ BigCommerce </a></li> 
+          
+            <li> <a href="https://eng.uber.com/managing-data-workflows-at-scale/">Managing Uber’s Data Workflows at Scale </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/reactive-programming-salesforce-data">Reactive Programming with Salesforce Data </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/how-we-built-an-automated-anomaly-detection-system-onto-a-streaming-pipeline-84ecfd6420e0?source=rss----cfe1120185d3---4">How We Built an Automated Anomaly Detection System onto a Streaming Pipeline </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/02/long-range-robotic-navigation-via.html">Long-Range Robotic Navigation via Automated Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/generative-adversarial-networks-revitalizing-old-video-game-textures-669493f883a0?source=rss----7f60cf5620c9---4">Generative Adversarial Networks: Revitalizing old video game textures </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/monitor-workflow-collaborating-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Monitoring and Managing Workflows Across Collaborating Microservices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 12 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 11 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -281,36 +311,6 @@
         <pubDate>Wed, 27 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 26 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/understanding-micro-frontends-b1c11585a297?source=rss----3a8144eabfe3---4">Understanding Micro Frontends </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/memory-jvm?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Trouble with Memory </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/net-runtime-architecture?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Tuning a Runtime for Both Productivity and Performance </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/hand-keypoints-detection-ec2dca27973e?source=rss----7f60cf5620c9---4">Hand Keypoints Detection </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23?source=rss----a88376ea904a---4">Maintaining Binary Compatibility in Scala </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/02/rethinking-observability?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Three Pillars with Zero Answers: Rethinking Observability with Ben Sigelman </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/ai-for-algorithmic-trading-rethinking-bars-labeling-and-stationarity-90a7b626f3e1?source=rss----7f60cf5620c9---4">AI for algorithmic trading: rethinking bars, labeling, and stationarity </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a?source=rss----3a8144eabfe3---4">Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/myntra-scheduler-service-a0153a04526c?source=rss----7484818e9f88---4">Myntra Scheduler Service </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 26 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-26.html</guid>
       </item>
       
   </channel>
