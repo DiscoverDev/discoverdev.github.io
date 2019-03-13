@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 13 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://auth0.com/blog/what-is-identity-infrastructure/">What is Identity Infrastructure? </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/building-fast-interpreters-in-rust/">Building fast interpreters in Rust </a></li> 
+          
+            <li> <a href="https://itnext.io/performance-optimized-js-architecture-e95241d061f?source=rss----5b301f10ddcd---4">Performance optimized JS architecture </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2019/03/04/out-with-the-old-in-with-the-new-part-1-%E2%80%8A-%E2%80%8Areplacing-legacy-components-without-down-time/">Out with the old, in with the new! Part 1  -  Replacing legacy components without down time </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/data-ingestion-transformation-product-insights">How we simplified our Data Ingestion &amp; Transformation Process </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/learning-style?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Teaching TDD to Different Learning Styles </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/formal-verification-vehicles?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Quadcopters to Helicopters: Formal Verification for Safer Vehicles </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/rendezvous-architecture-for-data-science-in-production-79c4d48f12b?source=rss----7f60cf5620c9---4">Rendezvous Architecture for Data Science in Production </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/state-management-pattern-in-javascript-sharing-data-across-components-f4420581f535?source=rss----7f3d96429888---4">State management pattern in JavaScript: Sharing data across components </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 13 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 12 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -281,36 +311,6 @@
         <pubDate>Thu, 28 Feb 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-02-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 27 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/avs-autonomous-vehicle-visualization/">Introducing AVS, an Open Standard for Autonomous Vehicle Visualization from Uber </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/divide-and-conquer-scale-your-node-js-app-using-distributed-queues-8231a9486d3a?source=rss----7f3d96429888---4">Divide and conquer: Scale your Node.js app using distributed queues </a></li> 
-          
-            <li> <a href="https://distill.pub/2019/safety-needs-social-scientists">AI Safety Needs Social Scientists </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/real-time-finger-detection-1e18fea0d1d4?source=rss----5e5bef33608a---4">Real-time Finger Detection </a></li> 
-          
-            <li> <a href="https://www.opsian.com/blog/what-is-continuous-profiling/">What is Continuous Profiling? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/messaging-pattern-for-high-availability-and-handling-failures-in-microservices-26cdd7a0aec6?source=rss----3a8144eabfe3---4">Messaging Pattern For High Availability and Handling Failures in Microservices </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/graphql-adoption-at-commercetools-cab25a1d1f4a?source=rss----d3d69d818e3d---4">GraphQL adoption at commercetools </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/02/accessibility-webinar/">How A Screen Reader User Accesses The Web: A Smashing Video </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/">SOCKMAP - TCP splicing of the future </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 27 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-27.html</guid>
       </item>
       
   </channel>
