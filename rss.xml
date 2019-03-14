@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 14 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c?source=rss----2615bd06b42e---4">How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/03/robust-layouts-container-units-css/">Building Robust Layouts With Container Units </a></li> 
+          
+            <li> <a href="https://hackernoon.com/microservices-on-fargate-part1-f26a318827a8?source=rss----3a8144eabfe3---4">Independently Scalable Multi-Container Microservices Architecture on AWS Fargate (I) </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/reducing-rendering-complexity-gun-goddess-miss-fortune">Reducing Rendering Complexity with Gun Goddess Miss Fortune </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/03/04/lambda-global-state.html">Maintaining global state in AWS Lambda functions with Async Hooks </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2019/03/transparent-hierarchical-storage-management-with-apache-kudu-and-impala/">Transparent Hierarchical Storage Management with Apache Kudu and Impala </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html">Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html">How is software developed at Amazon? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 14 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 13 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -281,36 +309,6 @@
         <pubDate>Fri, 01 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 28 Feb 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/extending-vector-with-ebpf-to-inspect-host-and-container-performance-5da3af4c584b?source=rss----2615bd06b42e---4">Extending Vector with eBPF to inspect host and container performance </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/02/20/valustor-a-memcached-alternative-built-on-scylla/">ValuStor — a memcached alternative built on Scylla </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/">The Challenging Migration from Heroku to Google Kubernetes Engine </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/stop-the-bots-practical-lessons-in-machine-learning/">Stop the Bots: Practical Lessons in Machine Learning </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/apache-flink-streaming-app?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Patterns of Streaming Applications </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/vitess?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Massively Scaling MySQL using Vitess </a></li> 
-          
-            <li> <a href="https://medium.com/dev-channel/javascript-loading-priorities-in-chrome-57c54cfa6672?source=rss----32c64651a75---4">JavaScript Loading Priorities in Chrome </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/a-beginners-guide-to-deploys-and-releases-d2a823f274c4?source=rss----a88376ea904a---4">A Beginners Guide to Deploys and Releases </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/02/autoscaling-mesos-clusters-with-clusterman.html">Autoscaling Mesos Clusters with Clusterman </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 28 Feb 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-02-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-02-28.html</guid>
       </item>
       
   </channel>
