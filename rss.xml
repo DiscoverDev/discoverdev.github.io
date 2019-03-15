@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 15 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.showmax.com/2019/03/divide-encode-2/">Divide &amp; Encode: How to Encode Videos Blazingly Fast </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/structured-logging">Structured Logging: The Best Friend You’ll Want When Things Go Wrong </a></li> 
+          
+            <li> <a href="https://www.bigeng.io/re-platforming-data-at-bigcommerce-5-second-latency-on-petabytes-of-data/">Re-Platforming Data @BigCommerce: five second latency on Petabytes of data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/learning-to-plan-with-value-iteration-networks-5768e80df2c3?source=rss----7f60cf5620c9---4">Learning to Plan with Value Iteration Networks </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/03/feature-highlight--scaling-autoplay-videos-for-hundreds-of-milli">Feature Highlight: Scaling Autoplay Videos for Hundreds of Millions </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-streams-can-simplify-your-life-494a4b247f36?source=rss----7f3d96429888---4">How streams can simplify your life </a></li> 
+          
+            <li> <a href="https://blog.risingstack.com/rest-in-peace-long-live-graphql/">REST in Peace. Long Live GraphQL! </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/single-page-application-auditing/">Single-page applications need better auditing </a></li> 
+          
+            <li> <a href="https://eng.uber.com/introducing-kraken/">Introducing Kraken, an Open Source Peer-to-Peer Docker Registry </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 15 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 14 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,38 +307,6 @@
         <pubDate>Mon, 04 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 01 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.weave.works/blog/prometheus-scalability-with-bryan-boreham">Prometheus Scalability with Bryan Boreham </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/optimizing-end-to-end-memory-networks-using-sigopt-gpus/">Optimizing End-to-End Memory Networks Using SigOpt and GPUs </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/02/21/parallel-queries-in-postgresql/">Parallel queries in PostgreSQL </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/02/animation-design-system/">Including Animation In Your Design System </a></li> 
-          
-            <li> <a href="http://engineering.opensooq.com/opensooq-android-performance-testing-make-hard-things-easy/">OpenSooq Android Performance Testing: Make Hard Things Easy </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/understanding-supply-demand-ride-hailing-data">Understanding Supply &amp; Demand in Ride-hailing Through the Lens of Data </a></li> 
-          
-            <li> <a href="https://itnext.io/functional-architecture-e9031090ff18?source=rss----5b301f10ddcd---4">Taming Side-Effects </a></li> 
-          
-            <li> <a href="https://code.fb.com/open-source/sparta/">Open-sourcing SPARTA to make abstract interpretation easy </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74?source=rss----51e1d1745b32---4">Remembering a Programming Language that Helped Shape the Digital New York Times </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/02/migz-for-compression-and-decompression">MiGz for Compression and Decompression </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 01 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-01.html</guid>
       </item>
       
   </channel>
