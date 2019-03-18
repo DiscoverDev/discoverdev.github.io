@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 18 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html">Productionizing ML with workflows at Twitter </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-security-guarantees?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Most Secure Program Is One That Doesn’t Exist </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/webassembly-intro?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: WebAssembly. Neither Web Nor Assembly, All Revolutionary </a></li> 
+          
+            <li> <a href="https://hackernoon.com/stretching-the-mold-how-alibaba-enhances-database-flexibility-78ec97fcfd8a?source=rss----3a8144eabfe3---4">Stretching the Mold: How Alibaba Enhances Database Flexibility </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/how-ebay-uses-microinteractions-to-delight-customers-in-china/">How eBay Uses Microinteractions to Delight Customers </a></li> 
+          
+            <li> <a href="https://hackernoon.com/handtrackjs-677c29c1d585?source=rss----3a8144eabfe3---4">Handtrack.js: Hand Tracking  Interactions in the Browser using Tensorflow.js and 3 lines of code. </a></li> 
+          
+            <li> <a href="https://distill.pub/2019/activation-atlas">Activation Atlas </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/gpu-based-100-%C2%B5s-schedulingr-5g-nr/">GPU-based Design to Achieve 100 µs Scheduling for 5G NR </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 15 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +303,6 @@
         <pubDate>Tue, 05 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 04 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://deliveroo.engineering/2019/02/22/go-down-the-rabbit-hole.html">Go down the rabbit hole </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/02/wordpress-modern-php/">Improving WordPress Code With Modern PHP </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/wepay-database-streaming?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Whys and Hows of Database Streaming </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity">Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity </a></li> 
-          
-            <li> <a href="https://hackernoon.com/is-shared-database-in-microservices-actually-anti-pattern-8cc2536adfe4?source=rss----3a8144eabfe3---4">Is Shared Database in Microservices actually anti-pattern? </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/debugging-sidekiq-poison-pills/">Debugging Sidekiq Poison Pills </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/sysmon-security-event-processing-real-time-ksql-helk">Sysmon Security Event Processing in Real Time with KSQL and HELK </a></li> 
-          
-            <li> <a href="https://www.thumbtack.com/engineering/moving-forward-on-android-with-graphql/">Moving forward on Android with GraphQL </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/ten-ways-to-secure-your-apps">Ten Ways to Secure your Applications </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/02/on-path-to-cryogenic-control-of-quantum.html">On the Path to Cryogenic Control of Quantum Processors </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 04 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-04.html</guid>
       </item>
       
   </channel>
