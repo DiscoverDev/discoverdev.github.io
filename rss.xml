@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 19 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/machine-learning-capacity-safety/">Using Machine Learning to Ensure the Capacity Safety of Individual Microservices </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/diving-into-technical-seo-cloudflare-workers/">Diving into Technical SEO using Cloudflare Workers </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/03/connecting-real-things-to-virtual-worlds-using-web/">Real virtuality: connecting real things to virtual reality using web technologies </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/typescript-vs-purescript-not-all-compilers-are-created-equal-c16dadaa7d3e?source=rss----7f3d96429888---4">TypeScript vs PureScript </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/03/07/lessons-on-tree-shaking-lodash/">Lessons on tree-shaking Lodash with Webpack and Babel </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/10-tips-for-building-and-managing-containers">10 Tips for Building and Managing Containers </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/03/biometrics-neuro-measurements-user-testing/">Biometrics And Neuro-Measurements For User Testing </a></li> 
+          
+            <li> <a href="https://nordicapis.com/review-of-supermodel/">Review of Supermodel </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/datadog-log-management-from-zero-to-one-3a5a5675dff9?source=rss----a88376ea904a---4">Datadog Log Management from Zero to One </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 19 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 18 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,38 +301,6 @@
         <pubDate>Wed, 06 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 05 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/ai-architecture-f9d78c6958e0?source=rss----7f60cf5620c9---4">AI &amp; Architecture </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/monolith-microservices-refactoring-analysis-tools?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Getting from Monolith to Microservices </a></li> 
-          
-            <li> <a href="https://medium.com/carousell-insider/introducing-image-search-price-suggestions-ce8e40a0163f?source=rss----6c35dc0cba4d---4">Introducing Image Search &amp; Price Suggestions </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/credhub-kubernetes-pcf?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Using CredHub for Kubernetes Deployments </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-agility-communication?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Microservice Agility </a></li> 
-          
-            <li> <a href="https://hackernoon.com/deconstructing-the-magic-behind-react-hooks-33ca987e5307?source=rss----3a8144eabfe3---4">Deconstructing the Magic Behind React Hooks </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/02/learning-to-generalize-from-sparse-and.html">Learning to Generalize from Sparse and Underspecified Rewards </a></li> 
-          
-            <li> <a href="https://blog.bugsnag.com/avoid-android-app-crashes/">How to avoid delivering a crash-prone Android app </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/improving-stream-data-quality-with-protobuf-schema-validation">Improving Stream Data Quality with Protobuf Schema Validation </a></li> 
-          
-            <li> <a href="https://slack.engineering/how-to-fail-at-accessibility-99bdf3504f19?source=rss----58820b6d8904---4">How to Fail at Accessibility </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 05 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-05.html</guid>
       </item>
       
   </channel>
