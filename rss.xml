@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 21 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html">An All-Neural On-Device Speech Recognizer </a></li> 
+          
+            <li> <a href="https://stackshare.io/launchdarkly/redux-scaling-launchdarkly-from-4-to-200-billion-feature-flags-daily">Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/03/iodide-an-experimental-tool-for-scientific-communicatiodide-for-scientific-communication-exploration-on-the-web/">Iodide: an experimental tool for scientific communication and exploration on the web </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997?source=rss----5517fd7b58a6---4">Let’s Write a Simple Event Bus in Go </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/03/securing-third-party-calls-by-using-csrf-protection/">Securing third-party calls by using CSRF protection </a></li> 
+          
+            <li> <a href="https://medium.com/carousell-insider/automated-end-to-end-tests-and-how-they-fit-into-our-testing-culture-54c3fcc5ff26?source=rss----6c35dc0cba4d---4">Automated end-to-end tests and how they fit into our testing culture </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/03/11/the-power-of-types-in-idris/">The Power of Types in Idris </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/connectivity-patterns-in-deep-neural-networks-787c90316a6d?source=rss----7f60cf5620c9---4">Connectivity Patterns in Deep Neural Networks </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/mezzfs-mounting-object-storage-in-netflixs-media-processing-platform-cda01c446ba?source=rss----2615bd06b42e---4">MezzFS — Mounting object storage in Netflix’s media processing platform </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/context-deadlines-and-how-to-set-them">Context Deadlines and How to Set Them </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/istio-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reducing Microservices Architecture Complexity with Istio and Kubernetes </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 21 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 20 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +307,6 @@
         <pubDate>Fri, 08 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.novoda.com/the-ultimate-guide-to-ar-design-arkit-coreml-and-more/">The ultimate guide to AR Design, ARKit, CoreML and more! </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/better-web-video-with-av1-codec">Better web video with AV1 codec </a></li> 
-          
-            <li> <a href="https://itnext.io/apache-solr-because-your-database-is-not-a-search-engine-57705352df8a?source=rss----5b301f10ddcd---4">Apache Solr: Because your Database is not a Search Engine </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/company-website-design/ui-design-best-practices">UI Design Best Practices for Better Scannability </a></li> 
-          
-            <li> <a href="https://medium.com/dailyjs/tracing-or-debugging-vue-js-reactivity-the-computed-tree-9da0ba1df5f9?source=rss----f5105b08f43a---4">Tracing or Debugging Vue.js Reactivity: The computed tree </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/3-reasons-to-add-deep-learning-to-your-time-series-toolkit">3 reasons to add deep learning to your time series toolkit </a></li> 
-          
-            <li> <a href="https://nordicapis.com/functional-contract-testing-a-case-study/">Functional Contract Testing: A Case Study </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571?source=rss----7f60cf5620c9---4">Language Translation with RNNs </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39?source=rss----7f3d96429888---4">Taming the front-end monolith </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 07 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-07.html</guid>
       </item>
       
   </channel>
