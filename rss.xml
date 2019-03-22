@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 22 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/u-net-deep-learning-colourisation-of-greyscale-images-ee6c1c61aabe?source=rss----7f60cf5620c9---4">U-Net deep learning colourisation of greyscale images </a></li> 
+          
+            <li> <a href="https://eng.uber.com/dbevents-ingestion-framework/">DBEvents: A Standardized Framework for Efficiently Ingesting Data into Uber’s Apache Hadoop Data Lake </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/sre-case-study-url-distribution-issue-caused-by-application/">SRE Case Study: URL Distribution Issue Caused by an Application </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-to-pin-mobile-grpc-connections-fd3ff1143dda?source=rss----3a8144eabfe3---4">How to Pin Mobile gRPC Connections </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/redesigning-our-docs-part-4-building-a-scalable-css-architecture/">Redesigning Our Docs – Part 4 – Building a Scalable CSS Architecture </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/03/13/quantifying-ux-validating-the-redesign-of-gitlabs-settings-pages/">Quantifying UX: How we validated the redesign of GitLab&#39;s settings pages </a></li> 
+          
+            <li> <a href="https://hackernoon.com/easily-impossible-one-approach-to-designing-a-great-api-16fc02e42d?source=rss----3a8144eabfe3---4">Easily Impossible: One approach to designing a great API </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/02/28/machine-learning-in-the-browser.html">Machine Learning In The Browser </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 21 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,36 +305,6 @@
         <pubDate>Mon, 11 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 08 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.toptal.com/data-science/data-warehouse-concepts-principles">Three Principles of Data Warehouse Development </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/rendering-on-the-web-80a30c678c3a?source=rss----5517fd7b58a6---4">Rendering on the Web </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/">The art of writing eBPF programs: a primer. </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/introducing-meta-reward-learning-5916ea2766de?source=rss----7f60cf5620c9---4">Introducing Meta Reward Learning </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/rendezvous-with-kafka-a-simple-guide-to-get-started-48db3b921cc?source=rss----905ea2b3d4d1---4">Rendezvous with Kafka : A simple guide to get started </a></li> 
-          
-            <li> <a href="https://hackernoon.com/limiting-your-api-requests-the-right-way-9608b661a0ce?source=rss----3a8144eabfe3---4">Limiting your API requests: the right way </a></li> 
-          
-            <li> <a href="https://www.bigeng.io/a-simple-architecture-for-mobile-apps/">A Simple Architecture for Mobile Apps </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/debugging-year-old-sprockets-bug">Debugging in Ruby—Busting a Year-old Bug in Sprockets </a></li> 
-          
-            <li> <a href="https://itnext.io/on-grpc-load-balancing-683257c5b7b3?source=rss----5b301f10ddcd---4">On gRPC Load Balancing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 08 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-08.html</guid>
       </item>
       
   </channel>
