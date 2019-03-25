@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 25 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/rfc8482-saying-goodbye-to-any/">RFC8482 - Saying goodbye to ANY </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-pcf-scalability?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Achieving Hyper-Productivity Through the Use of Microservices and PCF </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/container-security-multi-tenant?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Developer Secure Containers for the Cyberspace Battlefield </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-center-engineering/f16-minipack/">Reinventing Facebook’s data center network </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html">Harnessing Organizational Knowledge for Machine Learning </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-center-engineering/accelerating-infrastructure/">Accelerating Facebook’s infrastructure with application-specific hardware </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/an-introduction-to-meta-learning-ced7072b80e7?source=rss----905ea2b3d4d1---4">An Introduction to Meta-Learning </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/">Fast, Bump-Allocated Virtual DOMs with Rust and Wasm </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/state-of-the-art-multilingual-lemmatization-f303e8ff1a8?source=rss----7f60cf5620c9---4">State-of-the-art Multilingual Lemmatization </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 25 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 22 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +305,6 @@
         <pubDate>Tue, 12 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 11 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/">Implications of Rewriting a Browser Component in Rust </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/failure-cache-redis-pcc-hazelcast?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Enterprise Systems Built with Microservices are Designed to Expect Failures, but Then What? How Do We Handle Failures? </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/architecting-transactional-system?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Achieving High Throughput with Reliability in Transactional Systems </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/02/rebuilding-the-profile-highlights-system-at-linkedin">Rebuilding the Profile Highlights System at LinkedIn </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless">Journey to Event Driven – Part 3: The Affinity Between Events, Streams and Serverless </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e?source=rss----5517fd7b58a6---4">To Create An Evolvable API, Stop Thinking About URLs </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/02/automl-predictive-modeling/">AutoML for predictive modeling </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/02/automated-mem-leak-testing-ios/">Automated Memory Leak Testing on iOS </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understand-how-your-tensorflow-model-is-making-predictions-d0b3c7e88500?source=rss----7f60cf5620c9---4">Understand how your TensorFlow Model is Making Predictions </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 11 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-11.html</guid>
       </item>
       
   </channel>
