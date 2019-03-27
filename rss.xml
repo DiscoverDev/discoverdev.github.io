@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/03/network-protocols-analysis?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Protocols are Important: Martin Thompson at QCon London </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/annotation-transfer-learning-clara-train/">Fast AI Assisted Annotation and Transfer Learning with Clara Train </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/03/open-sourcing-sandboxed-api.html">Open-sourcing Sandboxed API </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/monsters-in-the-middleboxes/">Monsters in the Middleboxes: Introducing Two New Tools for Detecting HTTPS Interception </a></li> 
+          
+            <li> <a href="https://eng.uber.com/machine-learning-data-workflow-management/">Accessible Machine Learning through Data Workflow Management </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/tackling-discrimination-in-machine-learning-5c95fde95e95?source=rss----d02e65779d7b---4">Tackling Bias in Machine Learning </a></li> 
+          
+            <li> <a href="https://becominghuman.ai/utilising-cnns-to-transform-your-model-into-a-budding-artist-1330dc392e25?source=rss----5e5bef33608a---4">Utilising CNNs to transform your model into a budding artist </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/3-strategies-for-boosting-web-app-performance/">Make Your Web App Faster, Fast: 3 Performance Strategies </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 27 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 26 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +303,6 @@
         <pubDate>Thu, 14 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 13 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://auth0.com/blog/what-is-identity-infrastructure/">What is Identity Infrastructure? </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/building-fast-interpreters-in-rust/">Building fast interpreters in Rust </a></li> 
-          
-            <li> <a href="https://itnext.io/performance-optimized-js-architecture-e95241d061f?source=rss----5b301f10ddcd---4">Performance optimized JS architecture </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2019/03/04/out-with-the-old-in-with-the-new-part-1-%E2%80%8A-%E2%80%8Areplacing-legacy-components-without-down-time/">Out with the old, in with the new! Part 1  -  Replacing legacy components without down time </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/data-ingestion-transformation-product-insights">How we simplified our Data Ingestion &amp; Transformation Process </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/learning-style?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Teaching TDD to Different Learning Styles </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/formal-verification-vehicles?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Quadcopters to Helicopters: Formal Verification for Safer Vehicles </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/rendezvous-architecture-for-data-science-in-production-79c4d48f12b?source=rss----7f60cf5620c9---4">Rendezvous Architecture for Data Science in Production </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/state-management-pattern-in-javascript-sharing-data-across-components-f4420581f535?source=rss----7f3d96429888---4">State management pattern in JavaScript: Sharing data across components </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 13 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-13.html</guid>
       </item>
       
   </channel>
