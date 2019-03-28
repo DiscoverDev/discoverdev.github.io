@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 28 Mar 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/preventing-request-loops-using-cdn-loop/">Preventing Request Loops Using CDN-Loop </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f?source=rss----7f3d96429888---4">A complete guide to threads in Node.js </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/recommender-system-ab-tests?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Would You Have Clicked on What We Would Have Recommended? </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/services-are-not-a-silver-bullet">Services are Not a Silver Bullet </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/03/authorization-at-linkedins-scale">Authorization at LinkedIn’s Scale </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/soa-vs-eda-is-not-life-simply-a-series-of-events">SOA vs. EDA: Is Not Life Simply a Series of Events? </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/03/measuring-limits-of-data-parallel.html">Measuring the Limits of Data Parallel Training for Neural Networks </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/what-nature-can-teach-us-about-notifications/">What Nature Can Teach Us About Notifications </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 28 Mar 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-03-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 27 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,34 +303,6 @@
         <pubDate>Fri, 15 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 14 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c?source=rss----2615bd06b42e---4">How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/03/robust-layouts-container-units-css/">Building Robust Layouts With Container Units </a></li> 
-          
-            <li> <a href="https://hackernoon.com/microservices-on-fargate-part1-f26a318827a8?source=rss----3a8144eabfe3---4">Independently Scalable Multi-Container Microservices Architecture on AWS Fargate (I) </a></li> 
-          
-            <li> <a href="https://technology.riotgames.com/news/reducing-rendering-complexity-gun-goddess-miss-fortune">Reducing Rendering Complexity with Gun Goddess Miss Fortune </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/03/04/lambda-global-state.html">Maintaining global state in AWS Lambda functions with Async Hooks </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2019/03/transparent-hierarchical-storage-management-with-apache-kudu-and-impala/">Transparent Hierarchical Storage Management with Apache Kudu and Impala </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html">Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html">How is software developed at Amazon? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 14 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-14.html</guid>
       </item>
       
   </channel>
