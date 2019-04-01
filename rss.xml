@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 01 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://grafana.com/blog/2019/03/21/pro-tips-how-booking.com-handles-millions-of-metrics-per-second-with-graphite/">Pro Tips: How Booking.com Handles Millions of Metrics Per Second with Graphite </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/03/open-sourcing-our-day-view-ui-library-for-making-meetings-easier">Open Sourcing our Day View UI Library for Making Meetings Easier </a></li> 
+          
+            <li> <a href="https://eng.uber.com/hdfs-file-format-apache-spark/">Uber Case Study: Choosing the Right  HDFS File Format for Your Apache Spark Jobs </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/how-to-reindex-1-billion-documents-in-1-hour-at-soundcloud">How to Reindex One Billion Documents in One Hour at SoundCloud </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/03/sanity-portabletext-speech-synthesis/">How To Make A Speech Synthesis Editor </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/beyond-retries-part-1">Designing resilient systems beyond retries (Part 1): Rate-Limiting </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/vlcfe?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Heavyweights: Tipping the Scales with Very Large Foundations </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/mitigating-serverless-lock-fears">Mitigating serverless lock-in fears </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 01 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 29 Mar 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +305,6 @@
         <pubDate>Tue, 19 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 18 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html">Productionizing ML with workflows at Twitter </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rust-security-guarantees?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Most Secure Program Is One That Doesn’t Exist </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/webassembly-intro?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: WebAssembly. Neither Web Nor Assembly, All Revolutionary </a></li> 
-          
-            <li> <a href="https://hackernoon.com/stretching-the-mold-how-alibaba-enhances-database-flexibility-78ec97fcfd8a?source=rss----3a8144eabfe3---4">Stretching the Mold: How Alibaba Enhances Database Flexibility </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/how-ebay-uses-microinteractions-to-delight-customers-in-china/">How eBay Uses Microinteractions to Delight Customers </a></li> 
-          
-            <li> <a href="https://hackernoon.com/handtrackjs-677c29c1d585?source=rss----3a8144eabfe3---4">Handtrack.js: Hand Tracking  Interactions in the Browser using Tensorflow.js and 3 lines of code. </a></li> 
-          
-            <li> <a href="https://distill.pub/2019/activation-atlas">Activation Atlas </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/gpu-based-100-%C2%B5s-schedulingr-5g-nr/">GPU-based Design to Achieve 100 µs Scheduling for 5G NR </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 18 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-18.html</guid>
       </item>
       
   </channel>
