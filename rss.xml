@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 02 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/ai-demo-serverless?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Making AI FaaSt </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-security-isolation-containers-hypervisors?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Secure Isolation in Rust: Hypervisors, Containers, and the Future of Composable Infrastructure </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/devops-value-stream-mapping?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Path to Production: Value Stream Mapping in a DevOps World </a></li> 
+          
+            <li> <a href="https://hackernoon.com/creating-truly-modular-code-with-no-dependencies-16f8f784d4a6?source=rss----3a8144eabfe3---4">Creating Truly Modular Code with No Dependencies </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/architecture/The-Conservation-of-Complexity-in-Software-Architecture/">The Conservation of Complexity in Software </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b?source=rss----7f60cf5620c9---4">BERT in Keras with Tensorflow hub </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/view-model-state-preservation-using-autoconnect-d75ee791954b?source=rss----587883b5d2ee---4">View Model state preservation using autoConnect </a></li> 
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/windows-high-contrast-mode.htm">Making Websites Work with Windows High Contrast Mode </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 02 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 01 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,36 +303,6 @@
         <pubDate>Wed, 20 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 19 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/machine-learning-capacity-safety/">Using Machine Learning to Ensure the Capacity Safety of Individual Microservices </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/diving-into-technical-seo-cloudflare-workers/">Diving into Technical SEO using Cloudflare Workers </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/03/connecting-real-things-to-virtual-worlds-using-web/">Real virtuality: connecting real things to virtual reality using web technologies </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/typescript-vs-purescript-not-all-compilers-are-created-equal-c16dadaa7d3e?source=rss----7f3d96429888---4">TypeScript vs PureScript </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2019/03/07/lessons-on-tree-shaking-lodash/">Lessons on tree-shaking Lodash with Webpack and Babel </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/10-tips-for-building-and-managing-containers">10 Tips for Building and Managing Containers </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/03/biometrics-neuro-measurements-user-testing/">Biometrics And Neuro-Measurements For User Testing </a></li> 
-          
-            <li> <a href="https://nordicapis.com/review-of-supermodel/">Review of Supermodel </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/datadog-log-management-from-zero-to-one-3a5a5675dff9?source=rss----a88376ea904a---4">Datadog Log Management from Zero to One </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 19 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-19.html</guid>
       </item>
       
   </channel>
