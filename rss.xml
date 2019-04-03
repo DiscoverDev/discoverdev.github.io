@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 03 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/03/simulated-policy-learning-in-video.html">Simulated Policy Learning in Video Models </a></li> 
+          
+            <li> <a href="https://distill.pub/2019/memorization-in-rnns">Visualizing memorization in RNNs </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/">Building Spotify’s New Web Player </a></li> 
+          
+            <li> <a href="https://eng.uber.com/real-time-earnings-tracker/">Building a Real-time Earnings Tracker into Uber’s New Driver App </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/how-to-build-your-own-cdn-with-kubernetes-5cab00d5c258?source=rss----d02e65779d7b---4">How to build your own CDN with Kubernetes </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977?source=rss----2615bd06b42e---4">Building and Scaling Data Lineage at Netflix to Improve Data Infrastructure Reliability, and… </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/pinsage-how-pinterest-improved-their-recommendation-system-149cb35fdfa5?source=rss----7f60cf5620c9---4">PinSage: How Pinterest improved their recommendation system? </a></li> 
+          
+            <li> <a href="https://itnext.io/multi-segment-distributed-storage-for-kubernetes-aa9163dad735?source=rss----5b301f10ddcd---4">Multi-Segment Distributed Storage for Kubernetes </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/uber-ml-michelangelo?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Michelangelo - Machine Learning @Uber </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 03 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 02 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,40 +299,6 @@
         <pubDate>Thu, 21 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 20 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://yahooeng.tumblr.com/post/183315480351">Bullet Updates - Windowing, Apache Pulsar PubSub, Configuration-based Data Ingestion, and More </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/03/airbnb-kubernetes-workflow?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How Airbnb Simplified the Kubernetes Workflow for 1000+ Engineers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/03/flexsearch-fast-full-text-search?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">FlexSearch.js: A Fast, Zero-Dependency Full-Text Search Library </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/03/real-time-ar-self-expression-with.html">Real-Time AR Self-Expression with Machine Learning </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/lessons-learned-building-natural-language-processing-systems-in-health-care">Lessons learned building natural language processing systems in health care </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/peak-shift-demand-travel-trends">Recipe for building a widget: How we helped to “peak-shift” demand by helping passengers understand travel trends </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/tensorflow-js/">TensorFlow.js </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/kotlin-run-anywhere?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Kotlin: Write Once, Run (Actually) Everywhere </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/design-principles-for-mathematical-engineering-in-experimentation-platform-15b3ea143b1f?source=rss----2615bd06b42e---4">Design Principles for Mathematical Engineering in Experimentation Platform at Netflix </a></li> 
-          
-            <li> <a href="https://blog.postmates.com/route-efficiencies-in-on-demand-delivery-741e4e227593?source=rss----2664e1d3cff9--engineering">Route Efficiencies in On-Demand Delivery </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/03/rnn-based-handwriting-recognition-in.html">RNN-Based Handwriting Recognition in Gboard </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 20 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-20.html</guid>
       </item>
       
   </channel>
