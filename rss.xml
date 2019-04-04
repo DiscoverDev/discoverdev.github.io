@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 04 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.showmax.com/2019/03/sm-cluster-mutex/">Reliable, Distributed Locking in the Cloud </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/03/27/an-introduction-to-linux-virtual-interfaces-tunnels/">An introduction to Linux virtual interfaces: Tunnels </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/03/unifying-physics-and-deep-learning-with.html">Unifying Physics and Deep Learning with TossingBot </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6?source=rss----7f60cf5620c9---4">Illustrated: Efficient Neural Architecture Search </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2019/03/26/shipping-quickly-with-a-large-team.html">Shipping Quickly with a Large Team </a></li> 
+          
+            <li> <a href="https://hackernoon.com/dharma-protocol-tokenized-debt-and-funding-through-decentralized-systems-384527f1a75d?source=rss----3a8144eabfe3---4">Dharma Protocol: Tokenized Debt and Funding Through Decentralized Systems </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/troubleshooting-data-engineering-software/">Troubleshooting Data Engineering Software </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/beyond-retries-part-2">Designing resilient systems beyond retries (Part 2): Bulkheading, Load Balancing, and Fallbacks </a></li> 
+          
+            <li> <a href="https://nordicapis.com/rest-vs-graphql-how-constraints-determine-api-style/">REST vs GraphQL: How Constraints Determine API Style </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 04 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 03 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,40 +295,6 @@
         <pubDate>Fri, 22 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 21 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html">An All-Neural On-Device Speech Recognizer </a></li> 
-          
-            <li> <a href="https://stackshare.io/launchdarkly/redux-scaling-launchdarkly-from-4-to-200-billion-feature-flags-daily">Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/03/iodide-an-experimental-tool-for-scientific-communicatiodide-for-scientific-communication-exploration-on-the-web/">Iodide: an experimental tool for scientific communication and exploration on the web </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997?source=rss----5517fd7b58a6---4">Let’s Write a Simple Event Bus in Go </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/03/securing-third-party-calls-by-using-csrf-protection/">Securing third-party calls by using CSRF protection </a></li> 
-          
-            <li> <a href="https://medium.com/carousell-insider/automated-end-to-end-tests-and-how-they-fit-into-our-testing-culture-54c3fcc5ff26?source=rss----6c35dc0cba4d---4">Automated end-to-end tests and how they fit into our testing culture </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2019/03/11/the-power-of-types-in-idris/">The Power of Types in Idris </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/connectivity-patterns-in-deep-neural-networks-787c90316a6d?source=rss----7f60cf5620c9---4">Connectivity Patterns in Deep Neural Networks </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/mezzfs-mounting-object-storage-in-netflixs-media-processing-platform-cda01c446ba?source=rss----2615bd06b42e---4">MezzFS — Mounting object storage in Netflix’s media processing platform </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/context-deadlines-and-how-to-set-them">Context Deadlines and How to Set Them </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/istio-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reducing Microservices Architecture Complexity with Istio and Kubernetes </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 21 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-21.html</guid>
       </item>
       
   </channel>
