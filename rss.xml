@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 05 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/customer-obsession-ticket-routing-workflow-and-orchestration-engine/">Improving the User Experience with Uber’s Customer Obsession Ticket Routing Workflow and Orchestration Engine </a></li> 
+          
+            <li> <a href="https://blog.algolia.com/vue-instantsearch-v2-deep-dive/">Deep Diving into Vue InstantSearch Version 2 </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/beyond-retries-part-3">Designing resilient systems beyond retries (Part 3): Architecture Patterns and Chaos Engineering </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2019/03/17/three-years-of-react-native/">React Native at Artsy, 3 years later </a></li> 
+          
+            <li> <a href="http://eng.wealthfront.com/2019/03/27/running-in-the-background-building-seamless-account-linking/">Running in the Background: Building Seamless Account Linking </a></li> 
+          
+            <li> <a href="https://grafana.com/blog/2019/03/21/pro-tips-how-booking.com-handles-millions-of-metrics-per-second-with-graphite/">Pro Tips: How Booking.com Handles Millions of Metrics Per Second with Graphite </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/from-front-end-developer-to-a-devops-an-intro-to-ci-cd-7a8a8713fb34?source=rss----7f3d96429888---4">From front-end developer to a DevOps: An intro to CI/CD </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2019/03/performance-monitoring-best-practices-wayfair-at-influxdays-nyc/">Performance Monitoring Best Practices: Wayfair at InfluxDays NYC </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366?source=rss----d02e65779d7b---4">AutoML for Data Augmentation </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/">Standardizing WASI: A system interface to run WebAssembly outside the web </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/boringtun-userspace-wireguard-rust/">BoringTun, a userspace WireGuard implementation in Rust </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 05 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 04 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +301,6 @@
         <pubDate>Mon, 25 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 22 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/u-net-deep-learning-colourisation-of-greyscale-images-ee6c1c61aabe?source=rss----7f60cf5620c9---4">U-Net deep learning colourisation of greyscale images </a></li> 
-          
-            <li> <a href="https://eng.uber.com/dbevents-ingestion-framework/">DBEvents: A Standardized Framework for Efficiently Ingesting Data into Uber’s Apache Hadoop Data Lake </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/sre-case-study-url-distribution-issue-caused-by-application/">SRE Case Study: URL Distribution Issue Caused by an Application </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-pin-mobile-grpc-connections-fd3ff1143dda?source=rss----3a8144eabfe3---4">How to Pin Mobile gRPC Connections </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/redesigning-our-docs-part-4-building-a-scalable-css-architecture/">Redesigning Our Docs – Part 4 – Building a Scalable CSS Architecture </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/03/13/quantifying-ux-validating-the-redesign-of-gitlabs-settings-pages/">Quantifying UX: How we validated the redesign of GitLab&#39;s settings pages </a></li> 
-          
-            <li> <a href="https://hackernoon.com/easily-impossible-one-approach-to-designing-a-great-api-16fc02e42d?source=rss----3a8144eabfe3---4">Easily Impossible: One approach to designing a great API </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/02/28/machine-learning-in-the-browser.html">Machine Learning In The Browser </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 22 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-22.html</guid>
       </item>
       
   </channel>
