@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 10 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.weave.works/blog/securing-developer-workflows">Securing Developer Workflows </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/tensor-core-programming-using-cuda-fortran/">Tensor Core Programming Using CUDA Fortran </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/04/network-boot-to-the-rescue/">Network Boot To The Rescue </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ia/card-sorting">Card Sorting: Better Information Architecture by Aligning with Users&#39; Mental Models </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2?source=rss----5517fd7b58a6---4">Explained: How does async work in Rust? </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/correcting-restaurant-locations-harnessing-wisdom-of-the-crowd">How we harnessed the wisdom of crowds to improve restaurant location accuracy </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/04/02/how-data-layout-affects-memory-performance/">How data layout affects memory performance </a></li> 
+          
+            <li> <a href="https://hackernoon.com/trunk-based-development-vs-git-flow-b1b23044dfb?source=rss----3a8144eabfe3---4">Trunk-based Development vs. Git Flow </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/04/01/evolution-of-zero-trust/">The evolution of Zero Trust </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 10 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 09 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +299,6 @@
         <pubDate>Thu, 28 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 27 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/03/network-protocols-analysis?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Protocols are Important: Martin Thompson at QCon London </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/annotation-transfer-learning-clara-train/">Fast AI Assisted Annotation and Transfer Learning with Clara Train </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/03/open-sourcing-sandboxed-api.html">Open-sourcing Sandboxed API </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/monsters-in-the-middleboxes/">Monsters in the Middleboxes: Introducing Two New Tools for Detecting HTTPS Interception </a></li> 
-          
-            <li> <a href="https://eng.uber.com/machine-learning-data-workflow-management/">Accessible Machine Learning through Data Workflow Management </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/tackling-discrimination-in-machine-learning-5c95fde95e95?source=rss----d02e65779d7b---4">Tackling Bias in Machine Learning </a></li> 
-          
-            <li> <a href="https://becominghuman.ai/utilising-cnns-to-transform-your-model-into-a-budding-artist-1330dc392e25?source=rss----5e5bef33608a---4">Utilising CNNs to transform your model into a budding artist </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/3-strategies-for-boosting-web-app-performance/">Make Your Web App Faster, Fast: 3 Performance Strategies </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 27 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-27.html</guid>
       </item>
       
   </channel>
