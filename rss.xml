@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 11 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.algolia.com/one-year-load-balancing/">One Year of Load Balancing </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/04/02/a-guide-to-learning-with-limited-labeled-data.html">A Guide to Learning with Limited Labeled Data </a></li> 
+          
+            <li> <a href="https://distill.pub/2019/visual-exploration-gaussian-processes">A Visual Exploration of Gaussian Processes </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/04/using-deep-learning-to-improve.html">Using Deep Learning to Improve Usability on Mobile Devices </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/ex_rabbit_pool-open-source-amqp-connection-pool.html">ex_rabbit_pool open source AMQP connection pool </a></li> 
+          
+            <li> <a href="https://eng.uber.com/scaling-mobile-device-management-at-uber/">Scaling Mobile Device Management for macOS with Chef at Uber </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9?source=rss----25cd379abb8---4">Amundsen — Lyft’s data discovery &amp; metadata engine </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/04/crossing-the-rust-ffi-frontier-with-protocol-buffers/">Crossing the Rust FFI frontier with Protocol Buffers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 10 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +299,6 @@
         <pubDate>Fri, 29 Mar 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-03-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 28 Mar 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/preventing-request-loops-using-cdn-loop/">Preventing Request Loops Using CDN-Loop </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f?source=rss----7f3d96429888---4">A complete guide to threads in Node.js </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/recommender-system-ab-tests?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Would You Have Clicked on What We Would Have Recommended? </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/services-are-not-a-silver-bullet">Services are Not a Silver Bullet </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/03/authorization-at-linkedins-scale">Authorization at LinkedIn’s Scale </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/soa-vs-eda-is-not-life-simply-a-series-of-events">SOA vs. EDA: Is Not Life Simply a Series of Events? </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/03/measuring-limits-of-data-parallel.html">Measuring the Limits of Data Parallel Training for Neural Networks </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/what-nature-can-teach-us-about-notifications/">What Nature Can Teach Us About Notifications </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 28 Mar 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-03-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-03-28.html</guid>
       </item>
       
   </channel>
