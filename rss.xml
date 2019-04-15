@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 15 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://webuild.envato.com/blog/automating-the-migration-of-lodash-to-lodash-es-in-a-large-codebase-with-jscodeshift/">Automating the migration of lodash to lodash-es in a large codebase with jscodeshift </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing">Putting Events in Their Place with Dynamic Routing </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/animation-performance-101-browser-under-the-hood/">Animation Performance 101: Browser Under the Hood </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/04/avro2tf--an-open-source-feature-transformation-engine-for-tensor">Avro2TF: An Open Source Feature Transformation Engine for TensorFlow </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/driving-dns-with-network-latency-feedback-b7c543089b22?source=rss----cfe1120185d3---4">Driving DNS with network latency feedback </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-distributed-tracing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Restoring Confidence in Microservices: Tracing That&#39;s More Than Traces </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/event-flow-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Complex Event Flows in Distributed Systems </a></li> 
+          
+            <li> <a href="https://kickstarter.engineering/how-to-konmari-your-git-repo-474907a29d2e?source=rss----c5ef8826f270---4">How to KonMari™ your Git Repo </a></li> 
+          
+            <li> <a href="https://www.toptal.com/devops/scaling-microservices-applications">Do the Math: Scaling Microservices Applications with Orchestrators </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2019/04/04/peril-architecture-deep-dive/">Peril Architecture Deep Dive </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 15 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 12 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +301,6 @@
         <pubDate>Tue, 02 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 01 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://grafana.com/blog/2019/03/21/pro-tips-how-booking.com-handles-millions-of-metrics-per-second-with-graphite/">Pro Tips: How Booking.com Handles Millions of Metrics Per Second with Graphite </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/03/open-sourcing-our-day-view-ui-library-for-making-meetings-easier">Open Sourcing our Day View UI Library for Making Meetings Easier </a></li> 
-          
-            <li> <a href="https://eng.uber.com/hdfs-file-format-apache-spark/">Uber Case Study: Choosing the Right  HDFS File Format for Your Apache Spark Jobs </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/how-to-reindex-1-billion-documents-in-1-hour-at-soundcloud">How to Reindex One Billion Documents in One Hour at SoundCloud </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/03/sanity-portabletext-speech-synthesis/">How To Make A Speech Synthesis Editor </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/beyond-retries-part-1">Designing resilient systems beyond retries (Part 1): Rate-Limiting </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/vlcfe?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Heavyweights: Tipping the Scales with Very Large Foundations </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/mitigating-serverless-lock-fears">Mitigating serverless lock-in fears </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 01 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-01.html</guid>
       </item>
       
   </channel>
