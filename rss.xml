@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 16 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/solving-a-data-science-challenge-the-visual-way-355cfabcb1c5?source=rss----7f60cf5620c9---4">Solving A Data Science Challenge - The Visual Way </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/modern-mobile?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Engineering Dumb: Modern Mobile Thin Clients </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/04/monolith-microservices-migration?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Migrating a Retail Monolith to Microservices: Sebastian Gauder at MicroXchg Berlin </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/detecting-retina-damage-from-oct-retinal-images-315b4af62938?source=rss----7f60cf5620c9---4">Detecting Retina Damage from OCT-Retinal Images </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/quantum-simulate-chemistry?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Using Quantum Computers to Simulate Chemistry </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/graal-truffleruby-project-loom?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Oracle Labs&amp;rsquo; Duncan MacGregor on Graal, TruffleRuby, &amp; Project Loom </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/linkerd-v2-production-adoption?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Linkerd v2: How Lessons from Production Adoption Resulted in a Rewrite of the Service Mesh </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/">How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 16 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 15 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -273,34 +301,6 @@
         <pubDate>Wed, 03 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 02 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/ai-demo-serverless?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Making AI FaaSt </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rust-security-isolation-containers-hypervisors?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Secure Isolation in Rust: Hypervisors, Containers, and the Future of Composable Infrastructure </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/devops-value-stream-mapping?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Path to Production: Value Stream Mapping in a DevOps World </a></li> 
-          
-            <li> <a href="https://hackernoon.com/creating-truly-modular-code-with-no-dependencies-16f8f784d4a6?source=rss----3a8144eabfe3---4">Creating Truly Modular Code with No Dependencies </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/architecture/The-Conservation-of-Complexity-in-Software-Architecture/">The Conservation of Complexity in Software </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b?source=rss----7f60cf5620c9---4">BERT in Keras with Tensorflow hub </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/view-model-state-preservation-using-autoconnect-d75ee791954b?source=rss----587883b5d2ee---4">View Model state preservation using autoConnect </a></li> 
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/windows-high-contrast-mode.htm">Making Websites Work with Windows High Contrast Mode </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 02 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-02.html</guid>
       </item>
       
   </channel>
