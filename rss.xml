@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 18 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/end-to-end-load-testing-zalandos-production-website/index.html">End-to-end load testing Zalando’s production website </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/04/conveiro/">Introducing Conveiro, an open source library for visualizing convolutional neural networks </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/04/how-we-detect-anomalies-in-our-product-recommendations-metrics/">How We Detect Anomalies in Our Product Recommendations Metrics </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/pre-modern-databases-oltp-olap-and-nosql/">Pre-Modern Databases: OLTP, OLAP, and NoSQL </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/review-residual-attention-network-attention-aware-features-image-classification-7ae44c4f4b8?source=rss----7f60cf5620c9---4">Review: Residual Attention Network — Attention-Aware Features (Image Classification) </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/how-ebay-governs-its-big-data-fabric/">How eBay Governs its Big Data Fabric </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/loki-dynamic-mock-server-http-tcp-testing">Loki, a dynamic mock server for HTTP/TCP testing </a></li> 
+          
+            <li> <a href="https://engineering.gusto.com/layering-authorization-into-a-web-application/">Layering authorization into a web application </a></li> 
+          
+            <li> <a href="https://medium.com/square-corner-blog/spin-cycle-automating-the-tedious-3f569106fd3c?source=rss----3650599ae4e2---4">Spin Cycle — Automating the Tedious </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 18 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 17 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +301,6 @@
         <pubDate>Fri, 05 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 04 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.showmax.com/2019/03/sm-cluster-mutex/">Reliable, Distributed Locking in the Cloud </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/03/27/an-introduction-to-linux-virtual-interfaces-tunnels/">An introduction to Linux virtual interfaces: Tunnels </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/03/unifying-physics-and-deep-learning-with.html">Unifying Physics and Deep Learning with TossingBot </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6?source=rss----7f60cf5620c9---4">Illustrated: Efficient Neural Architecture Search </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2019/03/26/shipping-quickly-with-a-large-team.html">Shipping Quickly with a Large Team </a></li> 
-          
-            <li> <a href="https://hackernoon.com/dharma-protocol-tokenized-debt-and-funding-through-decentralized-systems-384527f1a75d?source=rss----3a8144eabfe3---4">Dharma Protocol: Tokenized Debt and Funding Through Decentralized Systems </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/troubleshooting-data-engineering-software/">Troubleshooting Data Engineering Software </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/beyond-retries-part-2">Designing resilient systems beyond retries (Part 2): Bulkheading, Load Balancing, and Fallbacks </a></li> 
-          
-            <li> <a href="https://nordicapis.com/rest-vs-graphql-how-constraints-determine-api-style/">REST vs GraphQL: How Constraints Determine API Style </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 04 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-04.html</guid>
       </item>
       
   </channel>
