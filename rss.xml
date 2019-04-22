@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 22 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/04/design-scale-figma/">Design At Scale: One Year With Figma </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/building-an-open-source-mixpanel-alternative-part-2-conversion-funnels-e9e93c904fde?source=rss----cfc9f21a543a---4">Building an Open Source Mixpanel Alternative. Part 2: Conversion Funnels </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/04/monolith-vs-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Build a Monolith before Going for Microservices: Jan de Vries at MicroXchg Berlin </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0?source=rss----7f60cf5620c9---4">End-To-End Topic Modeling in Python: Latent Dirichlet Allocation (LDA) </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/https-medium-com-santoshdasa001-retinal-oct-damage-detection-5492c11763ce?source=rss----7f60cf5620c9---4">Retinal Damage Detection </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/culture-blameless-failure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Who Broke Prod? - Growing Teams Who Can Fail Without Fear </a></li> 
+          
+            <li> <a href="https://itnext.io/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-354ed0e67d7e?source=rss----5b301f10ddcd---4">Learn how YOU can build a Serverless GraphQL API on top of a Microservice architecture </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/history-protocols-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Interaction Protocols: It&#39;s All about Good Manners </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 22 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 19 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Tue, 09 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 08 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/cloudflare-v8?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fine-grained Sandboxing with V8 Isolates </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/complex-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Cultivating Production Excellence - Taming Complex Distributed Systems </a></li> 
-          
-            <li> <a href="https://itnext.io/the-everything-guide-to-lambda-throttling-reserved-concurrency-and-execution-limits-d64f144129e5?source=rss----5b301f10ddcd---4">The Everything Guide to Lambda Throttling, Reserved Concurrency, and Execution Limits </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-financial-times?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Mature Microservices and How to Operate Them </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-pin-cohesion-8e7d7025f519?source=rss-ef81ef829bcb------2">Building Pin cohesion </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/2">Consuming Messages Out of Apache Kafka in a Browser </a></li> 
-          
-            <li> <a href="https://engineering.squarespace.com/blog/2019/building-the-squarespace-image-filters">Building the Squarespace Image Filters </a></li> 
-          
-            <li> <a href="https://blog.sqreen.com/leverage-pentest/">How to fully leverage your pentest </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 08 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-08.html</guid>
       </item>
       
   </channel>
