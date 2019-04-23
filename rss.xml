@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 23 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.just-eat.com/2019/04/16/deep-linking-at-scale-on-ios/">Deep Linking at Scale on iOS </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/information-visualization-techniques?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Winning Ways for Your Visualization Plays </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/towards-explainable-ai-for-healthcare-predicting-and-visualizing-age-in-chest-radiographs-2e461c31c037?source=rss----7f60cf5620c9---4">Towards explainable AI for healthcare: Predicting and visualizing age in Chest Radiographs </a></li> 
+          
+            <li> <a href="https://galois.com/blog/2019/04/fixr-mining-and-understanding-bug-fixes-for-app-framework-protocol-defects/">Fixr: Mining and Understanding Bug Fixes for App-Framework Protocol Defects </a></li> 
+          
+            <li> <a href="https://grafana.com/blog/2019/04/15/how-we-designed-loki-to-work-easily-both-as-microservices-and-as-monoliths/">How We Designed Loki to Work Easily Both as Microservices and as Monoliths </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/rails-database-optimization">Optimizing Database Performance in Rails </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/cqrs-event-spring-boot-axon?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Bootiful CQRS and Event Sourcing with Axon Framework </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/">(Right to Left (The Mirror World </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/programming-by-voice-in-2019-3e1855f5add9?source=rss----7f3d96429888---4">Programming by voice in 2019 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/what-are-zero-knowledge-proofs-7ef6aab955fc?source=rss----7f60cf5620c9---4">What are Zero Knowledge Proofs? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 22 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +299,6 @@
         <pubDate>Wed, 10 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 09 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://android-developers.googleblog.com/2019/04/improving-app-performance-with-art.html">Improving app performance with ART optimizing profiles in the cloud </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/apache-druid-part-1-a-scalable-timeseries-olap-database-system-af8c18fc766d?source=rss----7f60cf5620c9---4">Apache Druid (part 1): A Scalable Timeseries OLAP Database System </a></li> 
-          
-            <li> <a href="https://www.toptal.com/bitcoin/intro-to-bitcoin-lightning-network">Scale with Speed: The Bitcoin Lightning Network Explained </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/magic-leap-input-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Multi-modal Input Design for Magic Leap </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/linkedin-privacy-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fairness, Transparency, and Privacy in AI @LinkedIn </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/infrastructure-cookbook?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Lessons from 300k+ Lines of Infrastructure Code </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/semantic-search-73fa1177548f?source=rss----7f60cf5620c9---4">Semantic search </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-efficient-data-pipelines-using-tensorflow-8f647f03b4ce?source=rss----7f60cf5620c9---4">Building efficient data pipelines using TensorFlow </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 09 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-09.html</guid>
       </item>
       
   </channel>
