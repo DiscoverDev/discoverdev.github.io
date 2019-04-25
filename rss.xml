@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 25 Apr 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb?source=rss----53c7c27702d5---4">Avoiding Double Payments in a Distributed Payments System </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/04/16/naturas-short-and-straight-road-from-cassandra-to-scylla/">Natura’s Short and Straight Road from Cassandra to Scylla </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/thundering-herds-promises-82191c8af57d?source=rss----37dc2a3034f2---4">Thundering Herds &amp; Promises </a></li> 
+          
+            <li> <a href="https://laravel-news.com/podcast-the-laravel-origin-story">Podcast: The Laravel Origin Story </a></li> 
+          
+            <li> <a href="https://eng.uber.com/introducing-base-web/">Introducing Base Web, Uber’s New Design System for Building Websites in React </a></li> 
+          
+            <li> <a href="https://www.toptal.com/qa/7-debugging-techniques-prod">7 Debugging Techniques To Speed Up Troubleshooting in Production </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/">Pyodide: Bringing the scientific Python stack to the browser </a></li> 
+          
+            <li> <a href="https://itnext.io/start-killing-mutants-mutation-test-your-code-3bea71df27f2?source=rss----5b301f10ddcd---4">Start Killing Mutants: Mutation test your code </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 25 Apr 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-04-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 23 Apr 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,36 +297,6 @@
         <pubDate>Thu, 11 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 10 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.weave.works/blog/securing-developer-workflows">Securing Developer Workflows </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/tensor-core-programming-using-cuda-fortran/">Tensor Core Programming Using CUDA Fortran </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/04/network-boot-to-the-rescue/">Network Boot To The Rescue </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ia/card-sorting">Card Sorting: Better Information Architecture by Aligning with Users&#39; Mental Models </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2?source=rss----5517fd7b58a6---4">Explained: How does async work in Rust? </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/correcting-restaurant-locations-harnessing-wisdom-of-the-crowd">How we harnessed the wisdom of crowds to improve restaurant location accuracy </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/04/02/how-data-layout-affects-memory-performance/">How data layout affects memory performance </a></li> 
-          
-            <li> <a href="https://hackernoon.com/trunk-based-development-vs-git-flow-b1b23044dfb?source=rss----3a8144eabfe3---4">Trunk-based Development vs. Git Flow </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/04/01/evolution-of-zero-trust/">The evolution of Zero Trust </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 10 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-10.html</guid>
       </item>
       
   </channel>
