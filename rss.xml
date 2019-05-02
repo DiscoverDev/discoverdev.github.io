@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 02 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/data-partitioning-global-indexing/">Consistent Data Partitioning through Global Indexing for Large Apache Hadoop Tables at Uber </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/tailwind-css-is-it-tomorrows-bootstrap-ebe560f9d00b?source=rss----7f3d96429888---4">Tailwind CSS: Is it tomorrow’s Bootstrap? </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390?source=rss----a88376ea904a---4">The history of infrastructure at Zendesk (Part 3) — Foundation team forming and evolving </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/04/ai-behind-linkedin-recruiter-search-and-recommendation-systems">The AI Behind LinkedIn Recruiter Search and Recommendation Systems </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html">SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/storeon-redux-in-173-bytes">Storeon: &#34;Redux&#34; in 173 bytes </a></li> 
+          
+            <li> <a href="https://code.fb.com/developer-tools/isinputpending-api/">Faster input events with Facebook’s first browser API contribution </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/kubernetes-production-spring-platform-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Containers Were Never Your End State </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 02 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 01 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -247,36 +275,6 @@
         <pubDate>Fri, 19 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 18 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/end-to-end-load-testing-zalandos-production-website/index.html">End-to-end load testing Zalando’s production website </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/04/conveiro/">Introducing Conveiro, an open source library for visualizing convolutional neural networks </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/04/how-we-detect-anomalies-in-our-product-recommendations-metrics/">How We Detect Anomalies in Our Product Recommendations Metrics </a></li> 
-          
-            <li> <a href="https://www.memsql.com/blog/pre-modern-databases-oltp-olap-and-nosql/">Pre-Modern Databases: OLTP, OLAP, and NoSQL </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/review-residual-attention-network-attention-aware-features-image-classification-7ae44c4f4b8?source=rss----7f60cf5620c9---4">Review: Residual Attention Network — Attention-Aware Features (Image Classification) </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/how-ebay-governs-its-big-data-fabric/">How eBay Governs its Big Data Fabric </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/loki-dynamic-mock-server-http-tcp-testing">Loki, a dynamic mock server for HTTP/TCP testing </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/layering-authorization-into-a-web-application/">Layering authorization into a web application </a></li> 
-          
-            <li> <a href="https://medium.com/square-corner-blog/spin-cycle-automating-the-tedious-3f569106fd3c?source=rss----3650599ae4e2---4">Spin Cycle — Automating the Tedious </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 18 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-18.html</guid>
       </item>
       
   </channel>
