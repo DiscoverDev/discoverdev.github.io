@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 06 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/xdpcap/">xdpcap: XDP Packet Capture </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html">Evaluating the Unsupervised Learning of Disentangled Representations </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/testing-event-driven-systems">Testing Event-Driven Systems </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/04/under-the-hood--learning-with-documents">Under The Hood: Learning With Documents </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/04/24/cross-platform-design-a-look-at-challenger-bank-mobile-applications.html">Cross-Platform Design: A look at Challenger Bank Mobile Applications </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/deriving-data-structure/">Deriving Data Structures </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/query-segmentation-and-spelling-correction-483173008981?source=rss----7f60cf5620c9---4">Query Segmentation and Spelling Correction </a></li> 
+          
+            <li> <a href="https://hackernoon.com/improve-your-site-performance-with-load-balancing-2337aecd7065?source=rss----3a8144eabfe3---4">Improve Your Site Performance with Load Balancing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 06 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 03 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -249,34 +277,6 @@
         <pubDate>Tue, 23 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 22 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/04/design-scale-figma/">Design At Scale: One Year With Figma </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/building-an-open-source-mixpanel-alternative-part-2-conversion-funnels-e9e93c904fde?source=rss----cfc9f21a543a---4">Building an Open Source Mixpanel Alternative. Part 2: Conversion Funnels </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/04/monolith-vs-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Build a Monolith before Going for Microservices: Jan de Vries at MicroXchg Berlin </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0?source=rss----7f60cf5620c9---4">End-To-End Topic Modeling in Python: Latent Dirichlet Allocation (LDA) </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/https-medium-com-santoshdasa001-retinal-oct-damage-detection-5492c11763ce?source=rss----7f60cf5620c9---4">Retinal Damage Detection </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/culture-blameless-failure?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Who Broke Prod? - Growing Teams Who Can Fail Without Fear </a></li> 
-          
-            <li> <a href="https://itnext.io/learn-how-you-can-build-a-serverless-graphql-api-on-top-of-a-microservice-architecture-354ed0e67d7e?source=rss----5b301f10ddcd---4">Learn how YOU can build a Serverless GraphQL API on top of a Microservice architecture </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/history-protocols-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Interaction Protocols: It&#39;s All about Good Manners </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 22 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-22.html</guid>
       </item>
       
   </channel>
