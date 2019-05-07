@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 07 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/mapping-accuracy-with-catchme/">Improving Uber’s Mapping Accuracy with CatchME </a></li> 
+          
+            <li> <a href="https://code.fb.com/developer-tools/f14/">Open-sourcing F14 for faster, more memory-efficient hash tables </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/ux/design-and-emotion">Personalized UX and the Power of Design and Emotion </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/service-virtualization-hoverfly-java?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Service Virtualization Meets Java: Hoverfly Tutorial </a></li> 
+          
+            <li> <a href="https://nordicapis.com/from-api-craftsmanship-to-api-landscaping/">From API Craftsmanship to API Landscaping </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/bbc-iplayer-tv?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: BBC iPlayer: Architecting for TV </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-we-reduced-the-time-complexity-from-18-days-to-4-5-minutes-a4bdfa72e523?source=rss----3a8144eabfe3---4">How we reduced the time complexity from 18 days to 4.5 minutes. </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/tdd-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Test-driven Machine Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 07 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 06 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -245,38 +273,6 @@
         <pubDate>Wed, 24 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 23 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.just-eat.com/2019/04/16/deep-linking-at-scale-on-ios/">Deep Linking at Scale on iOS </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/information-visualization-techniques?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Winning Ways for Your Visualization Plays </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/towards-explainable-ai-for-healthcare-predicting-and-visualizing-age-in-chest-radiographs-2e461c31c037?source=rss----7f60cf5620c9---4">Towards explainable AI for healthcare: Predicting and visualizing age in Chest Radiographs </a></li> 
-          
-            <li> <a href="https://galois.com/blog/2019/04/fixr-mining-and-understanding-bug-fixes-for-app-framework-protocol-defects/">Fixr: Mining and Understanding Bug Fixes for App-Framework Protocol Defects </a></li> 
-          
-            <li> <a href="https://grafana.com/blog/2019/04/15/how-we-designed-loki-to-work-easily-both-as-microservices-and-as-monoliths/">How We Designed Loki to Work Easily Both as Microservices and as Monoliths </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/rails-database-optimization">Optimizing Database Performance in Rails </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/cqrs-event-spring-boot-axon?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Bootiful CQRS and Event Sourcing with Axon Framework </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/">(Right to Left (The Mirror World </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/programming-by-voice-in-2019-3e1855f5add9?source=rss----7f3d96429888---4">Programming by voice in 2019 </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/what-are-zero-knowledge-proofs-7ef6aab955fc?source=rss----7f60cf5620c9---4">What are Zero Knowledge Proofs? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 23 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-23.html</guid>
       </item>
       
   </channel>
