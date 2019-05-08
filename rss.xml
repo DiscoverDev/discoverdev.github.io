@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 08 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/benchmarking-the-experimental-redis-multi-threaded-i-o-1bb28b69a314?source=rss----5b301f10ddcd---4">Benchmarking the experimental Redis Multi-Threaded I/O </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/zilic-detect-any-disease-with-machine-learning-fdae88664148?source=rss----7f60cf5620c9---4">Zilic: Detect any disease with machine learning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/ashley-williams-web-assembly?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Ashley Williams on Web Assembly, Wasi, &amp; the Application Edge </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/learning-devops-as-a-software-engineer/index.html">Learning DevOps as a Software Engineer </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/04/mutationobserver-api-guide/">Getting To Know The MutationObserver API </a></li> 
+          
+            <li> <a href="https://www.olioapps.com/blog/legacy-code/">Legacies Never Die: How to Handle Legacy Code </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/what-is-distributed-sql/">Distributed SQL: An Evolution of the Database </a></li> 
+          
+            <li> <a href="https://grafana.com/blog/2019/04/25/how-to-visualize-data-that-really-matters-to-business-with-grafana-and-mysql/">How to Visualize Data that Really Matters to Business with Grafana and MySQL </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 08 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 07 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,18 +289,6 @@
         <pubDate>Thu, 25 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 24 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 24 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-24.html</guid>
       </item>
       
   </channel>
