@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 09 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/adaptive-cruise-control-with-sensor-fusion-within-matlab-simulink-294aeb24e6e0?source=rss----7f60cf5620c9---4">Adaptive Cruise Control with Sensor Fusion within Matlab/Simulink </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e?source=rss----2615bd06b42e---4">Python at Netflix </a></li> 
+          
+            <li> <a href="https://tech.findmypast.com/highly-available-postgres-DBs/">Highly Available Postgres Databases </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/04/designers-guide-better-decisions/">A Designer’s Guide To Better Decisions </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/meaning-representation-and-srl-assuming-there-is-some-meaning-741f35bfdd6?source=rss----7f60cf5620c9---4">Meaning Representation and SRL​: assuming there is some meaning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/tla-plus?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Designing Distributed Systems with TLA+ </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d?source=rss----7f3d96429888---4">5 things to consider when creating your CSS style guide </a></li> 
+          
+            <li> <a href="https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181?source=rss----3a8144eabfe3---4">Understanding Kafka with Factorio </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 09 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 08 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Fri, 26 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 25 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb?source=rss----53c7c27702d5---4">Avoiding Double Payments in a Distributed Payments System </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/04/16/naturas-short-and-straight-road-from-cassandra-to-scylla/">Natura’s Short and Straight Road from Cassandra to Scylla </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/thundering-herds-promises-82191c8af57d?source=rss----37dc2a3034f2---4">Thundering Herds &amp; Promises </a></li> 
-          
-            <li> <a href="https://laravel-news.com/podcast-the-laravel-origin-story">Podcast: The Laravel Origin Story </a></li> 
-          
-            <li> <a href="https://eng.uber.com/introducing-base-web/">Introducing Base Web, Uber’s New Design System for Building Websites in React </a></li> 
-          
-            <li> <a href="https://www.toptal.com/qa/7-debugging-techniques-prod">7 Debugging Techniques To Speed Up Troubleshooting in Production </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/">Pyodide: Bringing the scientific Python stack to the browser </a></li> 
-          
-            <li> <a href="https://itnext.io/start-killing-mutants-mutation-test-your-code-3bea71df27f2?source=rss----5b301f10ddcd---4">Start Killing Mutants: Mutation test your code </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 25 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-25.html</guid>
       </item>
       
   </channel>
