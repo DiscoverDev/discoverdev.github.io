@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 10 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/04/how-natural-language-processing-help-support">How Natural Language Processing Helps LinkedIn Members Get Support Easily </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/optimizing-kafka-streams-applications">Optimizing Kafka Streams Applications </a></li> 
+          
+            <li> <a href="https://eng.uber.com/measuring-kotlin-build-performance/">Measuring Kotlin Build Performance at Uber </a></li> 
+          
+            <li> <a href="https://engineering.mongodb.com/post/reducing-variability-in-performance-tests-on-ec2-setup-and-key-results">Reducing variability in performance tests on EC2: Setup and Key Results </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2019/04/30/understanding-dynamic-time-warping.html">Understanding Dynamic Time Warping </a></li> 
+          
+            <li> <a href="https://www.toptal.com/nodejs/benchmark-nodejs-promise">Benchmarking A Node.js Promise </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/securing-gitops-pipelines">Securing GitOps Pipelines </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-companies-adopt-and-apply-cloud-native-infrastructure">How companies adopt and apply cloud native infrastructure </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 10 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 09 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +287,6 @@
         <pubDate>Mon, 29 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 26 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/04/engineering-linkedin-reactions">Engineering LinkedIn Reactions </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/04/morphnet-towards-faster-and-smaller.html">MorphNet: Towards Faster and Smaller Neural Networks </a></li> 
-          
-            <li> <a href="https://grafana.com/blog/2019/04/17/how-bloomberg-tracks-hundreds-of-billions-of-data-points-daily-with-metrictank-and-grafana/">How Bloomberg Tracks Hundreds of Billions of Data Points Daily with MetricTank and Grafana </a></li> 
-          
-            <li> <a href="https://hackernoon.com/a-guide-to-post-quantum-cryptography-d785a70ea04b?source=rss----3a8144eabfe3---4">A Guide to Post-Quantum Cryptography </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/differentiable-architecture-search-for-rnn-with-fastai-a5e247aeb937?source=rss----7f60cf5620c9---4">Differentiable Architecture Search for RNN with fastai </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/">Optimizing Performance With Resource Hints </a></li> 
-          
-            <li> <a href="https://blog.novoda.com/playing-with-foldables-in-android-q/">Playing with Foldables in Android Q </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/how-to-set-an-ideal-thread-pool-size/index.html">How to set an ideal thread pool size </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/04/fluent-1-0-a-localization-system-for-natural-sounding-translations/">Fluent 1.0: a localization system for natural-sounding translations </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 26 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-26.html</guid>
       </item>
       
   </channel>
