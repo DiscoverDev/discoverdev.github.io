@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 13 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.weave.works/blog/kubernetes-deployment-strategies">Kubernetes Deployment Strategies </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/yugabytedb?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: YugaByte DB - A Planet-scale Database for Low Latency Transactional Apps </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/beam-a-distributed-knowledge-graph-store/">Beam: A Distributed Knowledge Graph Store </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/engineering-a-studio-quality-experience-with-high-quality-audio-at-netflix-eaa0b6145f32?source=rss----2615bd06b42e---4">Engineering a Studio Quality Experience With High-Quality Audio at Netflix </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/05/display-box-generation/">Digging Into The Display Property: Box Generation </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/05/01/a-guide-to-the-open-source-distributed-tracing-landscape/">A guide to the open source distributed tracing landscape </a></li> 
+          
+            <li> <a href="https://stackshare.io/codacy/how-codacy-analyzes-30b-lines-of-code-per-day">How Codacy Analyzes 30B Lines of Code Per Day </a></li> 
+          
+            <li> <a href="https://engineering.gusto.com/building-toward-a-modular-monolith/">Building Toward a Modular Monolith </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 13 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 10 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 30 Apr 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-04-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 29 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/go-file-size/">Why are my Go executable files so large? </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/04/the-android-platform-security-model.html">The Android Platform Security Model </a></li> 
-          
-            <li> <a href="https://eng.uber.com/optimizing-m3/">Optimizing M3: How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/04/introducing-mozilla-webthings/">Introducing Mozilla WebThings </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae?source=rss----7f60cf5620c9---4">Word2vec Made Easy </a></li> 
-          
-            <li> <a href="https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/">Everything You Need To Know About API Rate Limiting </a></li> 
-          
-            <li> <a href="https://itnext.io/jenkins-is-getting-old-2c98b3422f79?source=rss----5b301f10ddcd---4">Jenkins is Getting Old </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/introducing-svt-av1-a-scalable-open-source-av1-framework-c726cce3103a?source=rss----2615bd06b42e---4">Introducing SVT-AV1: a scalable open-source AV1 framework </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 29 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-29.html</guid>
       </item>
       
   </channel>
