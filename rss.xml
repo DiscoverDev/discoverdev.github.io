@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 14 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud">Playback on Web at SoundCloud </a></li> 
+          
+            <li> <a href="https://tech.small-improvements.com/implementing-domain-driven-design-at-small-improvements/">Implementing Domain Driven Design at Small Improvements </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/coroutines-explained?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Coroutines Explained </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/05/driving-business-decisions-using-data-science-and-machine-learni">Driving Business Decisions Using Data Science and Machine Learning </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/05/introducing-bento.html">Introducing Bento </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/05/02/gitlab-journey-from-azure-to-gcp/">GitLab’s journey from Azure to GCP </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/05/02/analyzing-life-expectancy-in-python/">Analyzing Spatial Patterns in Life Expectancy with Python </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/05/content-suggestions-machine-learning/">Using machine learning to predict what file you need next </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/an-intuitive-understanding-of-the-lamb-optimizer-46f8c0ae4866?source=rss----7f60cf5620c9---4">An intuitive understanding of the LAMB optimizer </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 14 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 13 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,36 +287,6 @@
         <pubDate>Wed, 01 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 30 Apr 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/graph-neural-networks-20d0f8da7df6?source=rss----7f60cf5620c9---4">How do Graph Neural Networks Work? </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/airbnb-kubernetes-services?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Develop Hundreds of Kubernetes Services at Scale with Airbnb </a></li> 
-          
-            <li> <a href="https://hackernoon.com/shamir-secret-sharing-vs-multi-sig-124a42bc1662?source=rss----3a8144eabfe3---4">Shamir Secret Sharing vs Multi-sig </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-radiologists-exploration-of-the-stanford-ml-group-s-mrnet-data-8e2374e11bfb?source=rss----7f60cf5620c9---4">A Radiologist’s Exploration of the Stanford ML Group’s MRNet data </a></li> 
-          
-            <li> <a href="https://itnext.io/kubernetes-ingress-past-present-and-future-f614f11ea924?source=rss----5b301f10ddcd---4">Kubernetes Ingress Past, Present, and Future </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/building-serverless-apps-with-workers/">Eating Dogfood at Scale: How We Build Serverless Apps with Workers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/04/ink-react-command-line-app?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Ink: React for Interactive Command-Line Apps </a></li> 
-          
-            <li> <a href="https://hackernoon.com/better-to-give-and-to-receive-alibabas-open-source-contributions-to-flink-295b3aef1da8?source=rss----3a8144eabfe3---4">Better to Give and to Receive: Alibaba’s Open-source Contributions to Flink </a></li> 
-          
-            <li> <a href="https://code.fb.com/ai-research/panoptic-segmentation/">Improving scene understanding through panoptic segmentation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 30 Apr 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-04-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-04-30.html</guid>
       </item>
       
   </channel>
