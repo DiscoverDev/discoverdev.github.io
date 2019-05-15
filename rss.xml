@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 15 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/podcasts/dapper-open-tracing-api?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Ben Sigelman, Co-Creator of Dapper &amp; OpenTracing API, on Observability </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788?source=rss----7f60cf5620c9---4">Markov Chains and HMMs </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=rss----7f60cf5620c9---4">Python’s One Liner graph creation library with animations Hans Rosling Style </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/freshebt?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: FreshEBT </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/bdd-model-testing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: BDD and the New Model for Testing </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/real-time-data-processing-for-monitoring-and-reporting-a-practical-use-case-of-spark-structured-8e4f91f6f3a7?source=rss----905ea2b3d4d1---4">Real-time data processing for monitoring and reporting — A practical use case of spark structured… </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/demystifying-reactive-android-apps">Demystifying Reactive Android Apps </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/ebpf-cant-count/">eBPF can&#39;t count?! </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/05/svg-design-tools-practical-guide/">A Practical Guide To SVG And Design Tools </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 15 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 14 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +289,6 @@
         <pubDate>Thu, 02 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 01 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/diving-into-golang-channels-e9e610d586e8?source=rss----5b301f10ddcd---4">Diving Into Golang Channels </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-infrastructure-security?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reducing Risk of Credential Compromise @Netflix </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/automated-ml-assistant-ds?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Data Science for Lazy People, Automated Machine Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/extracting-knowledge-from-knowledge-graphs-e5521e4861a0?source=rss----7f60cf5620c9---4">Extracting knowledge from knowledge graphs. </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/what-is-geometric-deep-learning-b2adb662d91d?source=rss----7f60cf5620c9---4">What is Geometric Deep Learning? </a></li> 
-          
-            <li> <a href="https://hackernoon.com/ethvm-first-open-source-block-explorer-powered-by-kafka-e1639fc93e8e?source=rss----3a8144eabfe3---4">EthVM: First Open-Source Block Explorer Powered by Kafka </a></li> 
-          
-            <li> <a href="https://drivy.engineering/sorbet-a-ruby-type-checker/">Sorbet: A Ruby type checker </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/cotinuous-profiling-production?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Continuous Profiling in Production: What, Why and How </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 01 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-01.html</guid>
       </item>
       
   </channel>
