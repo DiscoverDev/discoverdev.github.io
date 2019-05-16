@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 16 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/deconstructing-lottery-tickets/">Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/05/how-we-optimized-magic-pocket-for-cold-storage/">How we optimized Magic Pocket for cold storage </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-deep-learning-for-finger-vein-based-biometric-authentication-3f6601635821?source=rss----7f60cf5620c9---4">Using Deep Learning for finger-vein based biometric authentication </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/">Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/">How C array sizes become part of the binary interface of a library </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/simple-redux-implementation-4fb54b01704d?source=rss----5517fd7b58a6---4">Simplifying Redux </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/test-automation-blunders?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Blunders in Test Automation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/markov-chains?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Forecasting in Complex Systems </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/proc-composition-in-ruby">Function Composition in Ruby </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 16 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 15 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Fri, 03 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 02 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/data-partitioning-global-indexing/">Consistent Data Partitioning through Global Indexing for Large Apache Hadoop Tables at Uber </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/tailwind-css-is-it-tomorrows-bootstrap-ebe560f9d00b?source=rss----7f3d96429888---4">Tailwind CSS: Is it tomorrow’s Bootstrap? </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390?source=rss----a88376ea904a---4">The history of infrastructure at Zendesk (Part 3) — Foundation team forming and evolving </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/04/ai-behind-linkedin-recruiter-search-and-recommendation-systems">The AI Behind LinkedIn Recruiter Search and Recommendation Systems </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html">SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/storeon-redux-in-173-bytes">Storeon: &#34;Redux&#34; in 173 bytes </a></li> 
-          
-            <li> <a href="https://code.fb.com/developer-tools/isinputpending-api/">Faster input events with Facebook’s first browser API contribution </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/kubernetes-production-spring-platform-2018?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Containers Were Never Your End State </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 02 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-02.html</guid>
       </item>
       
   </channel>
