@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 20 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://grafana.com/blog/2019/05/08/kubernetes-co-creator-brendan-burns-lessons-learned-monitoring-cloud-native-systems/">Kubernetes Co-Creator Brendan Burns: Lessons Learned Monitoring Cloud Native Systems </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/05/08/mysql-innodb-sorted-index-builds/">MySQL InnoDB Sorted Index Builds </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/security-best-practices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Evolving Practice of Security </a></li> 
+          
+            <li> <a href="https://stripe.com/blog/railyard-training-models">Railyard: how we rapidly train machine learning models with Kubernetes </a></li> 
+          
+            <li> <a href="https://stackoverflow.blog/2019/05/06/predicting-stack-overflow-tags-with-googles-cloud-ai/">Predicting Stack Overflow Tags with Google’s Cloud AI </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership">Apache Kafka Data Access Semantics: Consumers and Membership </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/lottie-and-swift-at-airbnb-e0c85dc365e7?source=rss----53c7c27702d5---4">Moving Lottie Swiftly into the Future </a></li> 
+          
+            <li> <a href="https://www.toptal.com/wpf/reactiveui-and-mvvm-in-wpf">ReactiveUI and the MVVM Pattern in WPF Applications </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 20 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 17 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Tue, 07 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 06 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/xdpcap/">xdpcap: XDP Packet Capture </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html">Evaluating the Unsupervised Learning of Disentangled Representations </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/testing-event-driven-systems">Testing Event-Driven Systems </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/04/under-the-hood--learning-with-documents">Under The Hood: Learning With Documents </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/04/24/cross-platform-design-a-look-at-challenger-bank-mobile-applications.html">Cross-Platform Design: A look at Challenger Bank Mobile Applications </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/deriving-data-structure/">Deriving Data Structures </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/query-segmentation-and-spelling-correction-483173008981?source=rss----7f60cf5620c9---4">Query Segmentation and Spelling Correction </a></li> 
-          
-            <li> <a href="https://hackernoon.com/improve-your-site-performance-with-load-balancing-2337aecd7065?source=rss----3a8144eabfe3---4">Improve Your Site Performance with Load Balancing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 06 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-06.html</guid>
       </item>
       
   </channel>
