@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 21 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/securing-third-party-applications-at-scale-6acb3a74ccc8?source=rss----cfe1120185d3---4">Securing Third-Party Applications at Scale </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/how-we-built-v8-natively-on-arm/">How we built V8 natively on ARM </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/05/introducing-rose-wayfairs-room-style-estimator/">Introducing RoSE: Wayfair’s Room Style Estimator </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2019/05/queue-hardening-enhancements.html">Queue the Hardening Enhancements </a></li> 
+          
+            <li> <a href="https://jobs.zalando.com/tech/blog/back-pressure-strategy-for-a-sharded-akka-cluster/index.html">Back-Pressure Strategy for a Sharded Akka Cluster </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/service-mesh-event-driven-messaging?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: The Potential for Using a Service Mesh for Event-Driven Messaging </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/the-story-behind-an-instacart-order-part-1-building-a-digital-catalog-46df5a8ff705?source=rss----587883b5d2ee---4">The Story Behind an Instacart Order, Part 1: Building a Digital Catalog </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/04/29/visualizing-active-learning.html">Visualizing Active Learning </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/05/introducing-data-compaction-in-ambry">Introducing Data Compaction in Ambry </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 21 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 20 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +295,6 @@
         <pubDate>Wed, 08 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 07 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/mapping-accuracy-with-catchme/">Improving Uber’s Mapping Accuracy with CatchME </a></li> 
-          
-            <li> <a href="https://code.fb.com/developer-tools/f14/">Open-sourcing F14 for faster, more memory-efficient hash tables </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ux/design-and-emotion">Personalized UX and the Power of Design and Emotion </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/service-virtualization-hoverfly-java?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Service Virtualization Meets Java: Hoverfly Tutorial </a></li> 
-          
-            <li> <a href="https://nordicapis.com/from-api-craftsmanship-to-api-landscaping/">From API Craftsmanship to API Landscaping </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/bbc-iplayer-tv?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: BBC iPlayer: Architecting for TV </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-we-reduced-the-time-complexity-from-18-days-to-4-5-minutes-a4bdfa72e523?source=rss----3a8144eabfe3---4">How we reduced the time complexity from 18 days to 4.5 minutes. </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/tdd-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Test-driven Machine Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 07 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-07.html</guid>
       </item>
       
   </channel>
