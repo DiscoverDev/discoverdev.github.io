@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 22 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/how-wavenet-works-12e2420ef386?source=rss----7f60cf5620c9---4">How WaveNet Works </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/its-a-trap-ezoid-css-shapes-aren-t-what-you-d-expect-fe27a210001e?source=rss----7f3d96429888---4">It’s a trap-ezoid: CSS Shapes aren’t what you’d expect </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/how-gpu-computing-literally-saved-me-at-work-fc1dc70f48b6?source=rss----905ea2b3d4d1---4">How GPU Computing literally saved me at work? </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/development/Introduction-to-Quarkus-Supersonic-Subatomic-Java/">Introduction to Quarkus: Supersonic Subatomic Java </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2019/05/small-files-big-foils-addressing-the-associated-metadata-and-application-challenges/">Small Files, Big Foils: Addressing the Associated Metadata and Application Challenges </a></li> 
+          
+            <li> <a href="https://itnext.io/essential-react-hooks-design-patterns-a04309cc0404?source=rss----5b301f10ddcd---4">Essential React Hooks Design Patterns </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/continuous-aggregates-faster-queries-with-automatically-maintained-materialized-views/">Continuous aggregates: faster queries with automatically maintained materialized views </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/05/iris-mobile--an-open-source--mobile-interface-for-incident-manag">Iris Mobile: An Open Source, Mobile Interface for Incident Management </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 22 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 21 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Thu, 09 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 08 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/benchmarking-the-experimental-redis-multi-threaded-i-o-1bb28b69a314?source=rss----5b301f10ddcd---4">Benchmarking the experimental Redis Multi-Threaded I/O </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/zilic-detect-any-disease-with-machine-learning-fdae88664148?source=rss----7f60cf5620c9---4">Zilic: Detect any disease with machine learning </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/ashley-williams-web-assembly?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Ashley Williams on Web Assembly, Wasi, &amp; the Application Edge </a></li> 
-          
-            <li> <a href="https://jobs.zalando.com/tech/blog/learning-devops-as-a-software-engineer/index.html">Learning DevOps as a Software Engineer </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/04/mutationobserver-api-guide/">Getting To Know The MutationObserver API </a></li> 
-          
-            <li> <a href="https://www.olioapps.com/blog/legacy-code/">Legacies Never Die: How to Handle Legacy Code </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/what-is-distributed-sql/">Distributed SQL: An Evolution of the Database </a></li> 
-          
-            <li> <a href="https://grafana.com/blog/2019/04/25/how-to-visualize-data-that-really-matters-to-business-with-grafana-and-mysql/">How to Visualize Data that Really Matters to Business with Grafana and MySQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 08 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-08.html</guid>
       </item>
       
   </channel>
