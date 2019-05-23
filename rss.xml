@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 23 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d?source=rss----7f60cf5620c9---4">Building a Multi-label Text Classifier using BERT and TensorFlow </a></li> 
+          
+            <li> <a href="https://hackernoon.com/ci-cd-ingredients-for-success-2031cf7ad152?source=rss----3a8144eabfe3---4">CI/CD Ingredients for Success </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/an-intuitive-understanding-to-neural-style-transfer-e85fd80394be?source=rss----7f60cf5620c9---4">An Intuitive Understanding to Neural Style Transfer </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/using-ant-colony-and-genetic-evolution-to-optimize-ride-sharing-trip-duration-56194215923f?source=rss----7f60cf5620c9---4">Using Ant Colony and Genetic Evolution to Optimize Ride-Sharing Trip Duration </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/unikernels-includeos?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Unikernels Aren’t Dead, They’re Just Not Containers </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/h2o-model-spark?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Productionizing H2O Models with Apache Spark </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/automatic-sql-statistics/">Automatic Table Statistics in CockroachDB </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2019/05/open-tracing-for-ios-a-performance-tool-for-everyone/">Open Tracing for iOS: A Performance Tool for Everyone </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 23 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 22 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Fri, 10 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 09 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/adaptive-cruise-control-with-sensor-fusion-within-matlab-simulink-294aeb24e6e0?source=rss----7f60cf5620c9---4">Adaptive Cruise Control with Sensor Fusion within Matlab/Simulink </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e?source=rss----2615bd06b42e---4">Python at Netflix </a></li> 
-          
-            <li> <a href="https://tech.findmypast.com/highly-available-postgres-DBs/">Highly Available Postgres Databases </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/04/designers-guide-better-decisions/">A Designer’s Guide To Better Decisions </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/meaning-representation-and-srl-assuming-there-is-some-meaning-741f35bfdd6?source=rss----7f60cf5620c9---4">Meaning Representation and SRL​: assuming there is some meaning </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/tla-plus?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Designing Distributed Systems with TLA+ </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d?source=rss----7f3d96429888---4">5 things to consider when creating your CSS style guide </a></li> 
-          
-            <li> <a href="https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181?source=rss----3a8144eabfe3---4">Understanding Kafka with Factorio </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 09 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-09.html</guid>
       </item>
       
   </channel>
