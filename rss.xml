@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 24 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html">MetricsDB: TimeSeries Database for storing metrics at Twitter </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/evolving-deep-neural-networks-ceb8d135d74d?source=rss----7f60cf5620c9---4">Evolving Deep Neural Networks </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/">Kafka Replication: The case for MirrorMaker 2.0 </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/member-transaction-history-architecture-8b6e34b87c21?source=rss----905ea2b3d4d1---4">Member Transaction History Architecture </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/toward-the-next-generation-of-programming-tools">Toward the next generation of programming tools </a></li> 
+          
+            <li> <a href="https://tech.pic-collage.com/developer-experience-at-any-scale-f28f0d52a8b1?source=rss----3819a69148cb---4">Developer Experience at Facebook F8 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/google-lessons-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What We Got Wrong: Lessons from the Birth of Microservices </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ml-systems-failure-production?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Prevent Catastrophic Failure in Production ML Systems </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 24 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 23 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Mon, 13 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 10 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/04/how-natural-language-processing-help-support">How Natural Language Processing Helps LinkedIn Members Get Support Easily </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/optimizing-kafka-streams-applications">Optimizing Kafka Streams Applications </a></li> 
-          
-            <li> <a href="https://eng.uber.com/measuring-kotlin-build-performance/">Measuring Kotlin Build Performance at Uber </a></li> 
-          
-            <li> <a href="https://engineering.mongodb.com/post/reducing-variability-in-performance-tests-on-ec2-setup-and-key-results">Reducing variability in performance tests on EC2: Setup and Key Results </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2019/04/30/understanding-dynamic-time-warping.html">Understanding Dynamic Time Warping </a></li> 
-          
-            <li> <a href="https://www.toptal.com/nodejs/benchmark-nodejs-promise">Benchmarking A Node.js Promise </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/securing-gitops-pipelines">Securing GitOps Pipelines </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-companies-adopt-and-apply-cloud-native-infrastructure">How companies adopt and apply cloud native infrastructure </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 10 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-10.html</guid>
       </item>
       
   </channel>
