@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 27 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/articles/application-integration-service-mesh?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Application Integration for Microservices Architectures: A Service Mesh Is Not an ESB </a></li> 
+          
+            <li> <a href="https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d?source=rss----3a8144eabfe3---4">Has the Python GIL been slain? </a></li> 
+          
+            <li> <a href="https://engineering.zomato.com/blog/how-we-improved-our-ios-app-compile-time-by-99%EF%BB%BF">How we improved our iOS app compile time by 99% </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-state-of-3d-object-detection-f65a385f67a8?source=rss----7f60cf5620c9---4">The state of 3D object detection </a></li> 
+          
+            <li> <a href="https://eng.uber.com/employing-quic-protocol/">Employing QUIC Protocol to Optimize Uber’s App Performance </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/parallel-streaming-of-progressive-images/">Parallel streaming of progressive images </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/roc-curves-and-the-efficient-frontier-7bfa1daf1d9c?source=rss----7f60cf5620c9---4">ROC Curves and the Efficient Frontier </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/better-http-2-prioritization-for-a-faster-web/">Better HTTP/2 Prioritization for a Faster Web </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/05/14/building-a-more-flexible-d3-chart.html">Building a more flexible D3 chart </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 27 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 24 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +297,6 @@
         <pubDate>Tue, 14 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 13 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.weave.works/blog/kubernetes-deployment-strategies">Kubernetes Deployment Strategies </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/yugabytedb?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: YugaByte DB - A Planet-scale Database for Low Latency Transactional Apps </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/beam-a-distributed-knowledge-graph-store/">Beam: A Distributed Knowledge Graph Store </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/engineering-a-studio-quality-experience-with-high-quality-audio-at-netflix-eaa0b6145f32?source=rss----2615bd06b42e---4">Engineering a Studio Quality Experience With High-Quality Audio at Netflix </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/05/display-box-generation/">Digging Into The Display Property: Box Generation </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/05/01/a-guide-to-the-open-source-distributed-tracing-landscape/">A guide to the open source distributed tracing landscape </a></li> 
-          
-            <li> <a href="https://stackshare.io/codacy/how-codacy-analyzes-30b-lines-of-code-per-day">How Codacy Analyzes 30B Lines of Code Per Day </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/building-toward-a-modular-monolith/">Building Toward a Modular Monolith </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 13 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-13.html</guid>
       </item>
       
   </channel>
