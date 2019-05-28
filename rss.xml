@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 28 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/introducing-concurrent-streaming-acceleration/">Live video just got more live: Introducing Concurrent Streaming Acceleration </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/nlp-word-embedding?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Intuition &amp; Use-Cases of Embeddings in NLP &amp; Beyond </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/understanding-deep-learning?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Understanding Deep Learning </a></li> 
+          
+            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/capping-image-fidelity-on-ultra-high-resolution-devices.html">Capping image fidelity on ultra-high resolution devices </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-inherent-insecurity-in-neural-networks-and-machine-learning-based-applications-2de4c975bbbc?source=rss----7f60cf5620c9---4">The Inherent Insecurity in Neural Networks and Machine Learning Based Applications </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html">Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/05/empowering-user-privacy-and-decentralizing-iot-with-mozilla-webthings/">Empowering User Privacy and Decentralizing IoT with Mozilla WebThings </a></li> 
+          
+            <li> <a href="https://drivy.engineering/non-deterministic-testing/">Embracing or banishing randomness </a></li> 
+          
+            <li> <a href="https://blog.overops.com/strangler-pattern-how-to-keep-sane-with-legacy-monolith-applications/">Strangler Pattern: How to Deal With Legacy Code During the Container Revolution </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 28 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 27 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,36 +297,6 @@
         <pubDate>Wed, 15 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 14 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud">Playback on Web at SoundCloud </a></li> 
-          
-            <li> <a href="https://tech.small-improvements.com/implementing-domain-driven-design-at-small-improvements/">Implementing Domain Driven Design at Small Improvements </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/coroutines-explained?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Coroutines Explained </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/05/driving-business-decisions-using-data-science-and-machine-learni">Driving Business Decisions Using Data Science and Machine Learning </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/05/introducing-bento.html">Introducing Bento </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/05/02/gitlab-journey-from-azure-to-gcp/">GitLab’s journey from Azure to GCP </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2019/05/02/analyzing-life-expectancy-in-python/">Analyzing Spatial Patterns in Life Expectancy with Python </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/05/content-suggestions-machine-learning/">Using machine learning to predict what file you need next </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/an-intuitive-understanding-of-the-lamb-optimizer-46f8c0ae4866?source=rss----7f60cf5620c9---4">An intuitive understanding of the LAMB optimizer </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 14 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-14.html</guid>
       </item>
       
   </channel>
