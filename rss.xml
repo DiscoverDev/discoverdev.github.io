@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 29 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3?source=rss----cb96a1f03649---4">Using Rust to Scale Elixir for 11 Million Concurrent Users </a></li> 
+          
+            <li> <a href="https://technology.condenast.com/story/accelerating-machine-learning-with-the-feature-store-service">Accelerating Machine Learning with the Feature Store Service </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/binary-ast/">Faster script loading with BinaryAST? </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html">Testing Go services using interfaces </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/line-game-data-analysis/">Introducing LINE Games analytics environment </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008?source=rss----7f60cf5620c9---4">Graph Convolutional Networks for Geometric Deep Learning </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1?source=rss----7f60cf5620c9---4">10x Faster Parallel Python Without Python Multiprocessing </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/end-to-end-object-detection-for-furniture-using-deep-learning-45a235f47a9a?source=rss----d02e65779d7b---4">End-to-End Object Detection for Furniture Using Deep Learning </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/">Faster smarter JavaScript debugging in Firefox DevTools </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 29 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 28 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,36 +297,6 @@
         <pubDate>Thu, 16 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 15 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/podcasts/dapper-open-tracing-api?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Ben Sigelman, Co-Creator of Dapper &amp; OpenTracing API, on Observability </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788?source=rss----7f60cf5620c9---4">Markov Chains and HMMs </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=rss----7f60cf5620c9---4">Python’s One Liner graph creation library with animations Hans Rosling Style </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/freshebt?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: FreshEBT </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/bdd-model-testing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: BDD and the New Model for Testing </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/real-time-data-processing-for-monitoring-and-reporting-a-practical-use-case-of-spark-structured-8e4f91f6f3a7?source=rss----905ea2b3d4d1---4">Real-time data processing for monitoring and reporting — A practical use case of spark structured… </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/demystifying-reactive-android-apps">Demystifying Reactive Android Apps </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/ebpf-cant-count/">eBPF can&#39;t count?! </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/05/svg-design-tools-practical-guide/">A Practical Guide To SVG And Design Tools </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 15 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-15.html</guid>
       </item>
       
   </channel>
