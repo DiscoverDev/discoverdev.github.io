@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 30 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/ing-docker-hadoop?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Docker Data Science Pipeline </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/automated-visual-testing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Spot the Difference; Automating Visual Regression Testing </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/">Cloudflare architecture and how BPF eats the world </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/visual-perception-from-human-vision-to-computer-vision-3152134292?source=rss----7f60cf5620c9---4">Visual Perception-From Human Vision to Computer Vision </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/hiertcn-deep-learning-models-for-dynamic-recommendations-and-inferring-user-interests-a31e8cd4b71e?source=rss-ef81ef829bcb------2">HierTCN: Deep learning models for dynamic recommendations and inferring user interests </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/mobile-release-engineering-scale-shipit-mobile">Mobile Release Engineering at Scale with Shipit Mobile </a></li> 
+          
+            <li> <a href="https://eng.uber.com/kepler-data-visualization-traffic-safety/">Visualizing Traffic Safety with Uber Movement Data and Kepler.gl </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48?source=rss----37dc2a3034f2---4">Core Modeling at Instagram </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html">Build your own WebAssembly Compiler </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 30 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 29 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,36 +297,6 @@
         <pubDate>Fri, 17 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 16 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/deconstructing-lottery-tickets/">Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/05/how-we-optimized-magic-pocket-for-cold-storage/">How we optimized Magic Pocket for cold storage </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-deep-learning-for-finger-vein-based-biometric-authentication-3f6601635821?source=rss----7f60cf5620c9---4">Using Deep Learning for finger-vein based biometric authentication </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/">Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/">How C array sizes become part of the binary interface of a library </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/simple-redux-implementation-4fb54b01704d?source=rss----5517fd7b58a6---4">Simplifying Redux </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/test-automation-blunders?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Blunders in Test Automation </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/markov-chains?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Forecasting in Complex Systems </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/proc-composition-in-ruby">Function Composition in Ruby </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 16 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-16.html</guid>
       </item>
       
   </channel>
