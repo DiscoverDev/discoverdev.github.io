@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 31 May 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/sequential-concurrent-crdt?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CRDTs: From Sequential to Concurrent Executions </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969?source=rss----7f3d96429888---4">Truly reactive programming with Svelte 3.0 </a></li> 
+          
+            <li> <a href="https://code.fb.com/ai-research/pythia/">Releasing Pythia for vision and language multimodal AI models </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/linuxkit-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: LinuxKit </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/schemas-contracts-compatibility">Schemas, Contracts, and Compatibility </a></li> 
+          
+            <li> <a href="https://stripe.com/blog/secret-life-of-dns">The secret life of DNS packets: investigating complex networks </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/service-mesh-api-federating?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Towards Building an Open API For Consolidating and Federating Service Meshes </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/05/21/analysing-electron-performance-chromium-tracing.html">Analysing multi-window Electron application performance using Chromium tracing </a></li> 
+          
+            <li> <a href="https://stackshare.io/elastic/observability-with-the-elastic-stack">Observability with the Elastic Stack </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 31 May 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-05-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 30 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +295,6 @@
         <pubDate>Mon, 20 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 17 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudera.com/blog/2019/05/partition-management-in-hadoop/">Partition Management in Hadoop </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-for-single-cell-biology-935d45064438?source=rss----7f60cf5620c9---4">Deep Learning for Single Cell Biology </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/analyzing-different-types-of-activation-functions-in-neural-networks-which-one-to-prefer-e11649256209?source=rss----7f60cf5620c9---4">Analyzing different types of activation functions in neural networks — which one to prefer? </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/preventing-pipeline-calls-from-crashing-redis-clusters">Preventing Pipeline Calls from Crashing Redis Clusters </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/life-packet-istio?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Life of a Packet Through Istio </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/graal-jit-c2?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Graal: Not Just a New JIT for the JVM </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/hybrid-search-building-a-textual-and-visual-discovery-experience-at-pinterest-8527ba9728a9?source=rss-ef81ef829bcb------2">Hybrid Search: Building a textual and visual discovery experience at Pinterest </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/accuracy-vs-interpretability-paradox-382803f6a99d?source=rss----905ea2b3d4d1---4">Accuracy vs Interpretability paradox </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/test-driven-development-best-thing-has-happened-software-design">Test Driven Development is the best thing that has happened to software design </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/need-for-feature-engineering-in-machine-learning-897df2ed00e6?source=rss----7f60cf5620c9---4">Need for Feature Engineering in Machine Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 17 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-17.html</guid>
       </item>
       
   </channel>
