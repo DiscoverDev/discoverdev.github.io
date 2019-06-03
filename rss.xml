@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 03 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://benchling.engineering/analyzing-performance-analysis-performance-56cb2e212629?source=rss----3d4aa8fb07ea---4">Analyzing Performance Analysis Performance </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/05/athena-our-automated-build-health-management-system/">Athena: Our automated build health management system </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/">WebAssembly at eBay: A Real-World Use Case </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/05/22/metalearners-learning-how-to-learn.html">Meta-Learners - learning how to learn </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/">Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/monzo-microservices-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling for the Known Unknown </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/intel-sgx?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Journey into Intel’s SGX </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/function-approximation-in-reinforcement-learning-85a4864d566?source=rss----7f60cf5620c9---4">Function Approximation in Reinforcement Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 03 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 31 May 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Tue, 21 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 20 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://grafana.com/blog/2019/05/08/kubernetes-co-creator-brendan-burns-lessons-learned-monitoring-cloud-native-systems/">Kubernetes Co-Creator Brendan Burns: Lessons Learned Monitoring Cloud Native Systems </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/05/08/mysql-innodb-sorted-index-builds/">MySQL InnoDB Sorted Index Builds </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/security-best-practices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Evolving Practice of Security </a></li> 
-          
-            <li> <a href="https://stripe.com/blog/railyard-training-models">Railyard: how we rapidly train machine learning models with Kubernetes </a></li> 
-          
-            <li> <a href="https://stackoverflow.blog/2019/05/06/predicting-stack-overflow-tags-with-googles-cloud-ai/">Predicting Stack Overflow Tags with Google’s Cloud AI </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership">Apache Kafka Data Access Semantics: Consumers and Membership </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/lottie-and-swift-at-airbnb-e0c85dc365e7?source=rss----53c7c27702d5---4">Moving Lottie Swiftly into the Future </a></li> 
-          
-            <li> <a href="https://www.toptal.com/wpf/reactiveui-and-mvvm-in-wpf">ReactiveUI and the MVVM Pattern in WPF Applications </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 20 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-20.html</guid>
       </item>
       
   </channel>
