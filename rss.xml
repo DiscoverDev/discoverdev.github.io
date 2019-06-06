@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 06 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.scottlogic.com/2019/05/28/drawing-2d-charts-with-webgl.html">Drawing 2D charts with WebGL </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/">Tips For Managing Design Systems </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/05/28/upgrade-to-rails5/">The road to Rails 5 </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-infrastructure/dhcplb-server/">Extending DHCPLB: The path from load balancer to server </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/graph-query-distributed-execution?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Life of a Distributed Graph Database Query </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/intelligent-computing-in-snowflake-2be96ac11049?source=rss----7f60cf5620c9---4">Intelligent computing in Snowflake </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/habito-mortgage-broker?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Habito: The Purely-functional Mortgage Broker </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/risc-v-future?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Operating Systems on RISC-V </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 06 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 05 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Fri, 24 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 23 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d?source=rss----7f60cf5620c9---4">Building a Multi-label Text Classifier using BERT and TensorFlow </a></li> 
-          
-            <li> <a href="https://hackernoon.com/ci-cd-ingredients-for-success-2031cf7ad152?source=rss----3a8144eabfe3---4">CI/CD Ingredients for Success </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/an-intuitive-understanding-to-neural-style-transfer-e85fd80394be?source=rss----7f60cf5620c9---4">An Intuitive Understanding to Neural Style Transfer </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/using-ant-colony-and-genetic-evolution-to-optimize-ride-sharing-trip-duration-56194215923f?source=rss----7f60cf5620c9---4">Using Ant Colony and Genetic Evolution to Optimize Ride-Sharing Trip Duration </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/unikernels-includeos?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Unikernels Aren’t Dead, They’re Just Not Containers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/h2o-model-spark?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Productionizing H2O Models with Apache Spark </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/automatic-sql-statistics/">Automatic Table Statistics in CockroachDB </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2019/05/open-tracing-for-ios-a-performance-tool-for-everyone/">Open Tracing for iOS: A Performance Tool for Everyone </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 23 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-23.html</guid>
       </item>
       
   </channel>
