@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 07 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/path-tracing-quake-ii/">Video Series: Path Tracing for Quake II in Two Months </a></li> 
+          
+            <li> <a href="https://tech.findmypast.com/road-to-k8s-ha-part-1/">The Journey to Kubernetes High Availability - Part 1 </a></li> 
+          
+            <li> <a href="https://eng.uber.com/activity-service-dependency-android-architecture/">Activity/Service as a Dependency: Rethinking Android Architecture for the Uber Driver App </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/monitoring-at-ebay-with-druid/">Monitoring at eBay with Druid </a></li> 
+          
+            <li> <a href="https://itnext.io/how-we-improved-our-node-js-application-security-grade-from-f-to-a-cd42b48192e3?source=rss----5b301f10ddcd---4">How We Improved our Node.js Application Security Grade from F to A </a></li> 
+          
+            <li> <a href="https://code.fb.com/security/service-encryption/">Building Facebook’s service encryption infrastructure </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/05/28/jvm-performance">Debugging JVM Performance Issues at Okta </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/better-apps-react-server-side-rendering">Better Apps with React Server-Side Rendering </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/vrs-wrapper/">Easy VRS Integration with Eye Tracking </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 07 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 06 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +295,6 @@
         <pubDate>Mon, 27 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 24 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html">MetricsDB: TimeSeries Database for storing metrics at Twitter </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/evolving-deep-neural-networks-ceb8d135d74d?source=rss----7f60cf5620c9---4">Evolving Deep Neural Networks </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/">Kafka Replication: The case for MirrorMaker 2.0 </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/member-transaction-history-architecture-8b6e34b87c21?source=rss----905ea2b3d4d1---4">Member Transaction History Architecture </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/toward-the-next-generation-of-programming-tools">Toward the next generation of programming tools </a></li> 
-          
-            <li> <a href="https://tech.pic-collage.com/developer-experience-at-any-scale-f28f0d52a8b1?source=rss----3819a69148cb---4">Developer Experience at Facebook F8 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/google-lessons-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What We Got Wrong: Lessons from the Birth of Microservices </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ml-systems-failure-production?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Prevent Catastrophic Failure in Production ML Systems </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 24 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-24.html</guid>
       </item>
       
   </channel>
