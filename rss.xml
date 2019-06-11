@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 11 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a?source=rss----3a8144eabfe3---4">React Native Performance: Do and Don&#39;t </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/reinforcement-learning-multi-arm-bandit-implementation-5399ef67b24b?source=rss----7f60cf5620c9---4">Reinforcement Learning — Multi-Arm Bandit Implementation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/05/litmus-chaos-engineering-kube?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Chaos Engineering Kubernetes with the Litmus Framework </a></li> 
+          
+            <li> <a href="https://hackernoon.com/ens-ethereum-name-service-how-it-works-cc57ed296473?source=rss----3a8144eabfe3---4">ENS (Ethereum Name Service): How it works? </a></li> 
+          
+            <li> <a href="https://engineering.gusto.com/a-practical-guide-to-building-secure-sso/">A Practical Guide to Building Secure SSO </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/react-native-in-grabpay">React Native in GrabPay </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Sustainable Operations in Complex Systems With Production Excellence </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/practical-nlp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Practical NLP for the Real World </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 11 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 10 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +291,6 @@
         <pubDate>Wed, 29 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 28 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/introducing-concurrent-streaming-acceleration/">Live video just got more live: Introducing Concurrent Streaming Acceleration </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/nlp-word-embedding?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Intuition &amp; Use-Cases of Embeddings in NLP &amp; Beyond </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/understanding-deep-learning?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Understanding Deep Learning </a></li> 
-          
-            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/capping-image-fidelity-on-ultra-high-resolution-devices.html">Capping image fidelity on ultra-high resolution devices </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-inherent-insecurity-in-neural-networks-and-machine-learning-based-applications-2de4c975bbbc?source=rss----7f60cf5620c9---4">The Inherent Insecurity in Neural Networks and Machine Learning Based Applications </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html">Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/05/empowering-user-privacy-and-decentralizing-iot-with-mozilla-webthings/">Empowering User Privacy and Decentralizing IoT with Mozilla WebThings </a></li> 
-          
-            <li> <a href="https://drivy.engineering/non-deterministic-testing/">Embracing or banishing randomness </a></li> 
-          
-            <li> <a href="https://blog.overops.com/strangler-pattern-how-to-keep-sane-with-legacy-monolith-applications/">Strangler Pattern: How to Deal With Legacy Code During the Container Revolution </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 28 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-28.html</guid>
       </item>
       
   </channel>
