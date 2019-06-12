@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 12 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://grafana.com/blog/2019/06/03/how-postgresql-and-grafana-can-improve-monitoring-together/">How PostgreSQL and Grafana Can Improve Monitoring Together </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244?source=rss----2615bd06b42e---4">Making our Android Studio Apps Reactive with UI Components &amp; Redux </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query">GraphQL&amp;nbsp;on Rails: from zero to the first query </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/alerting-on-slos">Alerting on SLOs like Pros </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor">Smart Alerts in ThirdEye, LinkedIn’s Real-Time Monitoring Platform </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/what-to-expect-in-react-v17/">What to expect in React v17 </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3?source=rss----7f60cf5620c9---4">Speech Emotion Recognition with Convolution Neural Network </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/paybase-microservices-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Powering Flexible Payments in the Cloud with Kubernetes </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 12 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 11 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Thu, 30 May 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-05-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 29 May 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3?source=rss----cb96a1f03649---4">Using Rust to Scale Elixir for 11 Million Concurrent Users </a></li> 
-          
-            <li> <a href="https://technology.condenast.com/story/accelerating-machine-learning-with-the-feature-store-service">Accelerating Machine Learning with the Feature Store Service </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/binary-ast/">Faster script loading with BinaryAST? </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html">Testing Go services using interfaces </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/line-game-data-analysis/">Introducing LINE Games analytics environment </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008?source=rss----7f60cf5620c9---4">Graph Convolutional Networks for Geometric Deep Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1?source=rss----7f60cf5620c9---4">10x Faster Parallel Python Without Python Multiprocessing </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/end-to-end-object-detection-for-furniture-using-deep-learning-45a235f47a9a?source=rss----d02e65779d7b---4">End-to-End Object Detection for Furniture Using Deep Learning </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/">Faster smarter JavaScript debugging in Firefox DevTools </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 29 May 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-05-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-05-29.html</guid>
       </item>
       
   </channel>
