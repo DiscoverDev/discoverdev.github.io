@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 17 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/zendesk-engineering/adding-functionality-to-google-pub-sub-queue-meta-processing-fff15e2d3a2c?source=rss----a88376ea904a---4">Adding Functionality to Google Pub/Sub: Queue Meta Processing </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-center-engineering/delos/">Delos: Simple, flexible storage for the Facebook control plane </a></li> 
+          
+            <li> <a href="https://code.fb.com/data-center-engineering/tupperware/">Efficient, reliable cluster management at scale with Tupperware </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/06/pha-family-highlights-triada.html">PHA Family Highlights: Triada </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/bringing-scalable-real-time-analytics-to-the-enterprise">Bringing scalable real-time analytics to the enterprise </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/reduce-react-load-time?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How We Reduced Our React App’s Load Time by 60% </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/a-guide-to-tracing-in-elixir.html">A guide to tracing in Elixir! </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/dl-microcontrollers?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning on Microcontrollers </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/grpc-in-microservices-5887caef195?source=rss----5517fd7b58a6---4">gRPC in Microservices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 17 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 14 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +289,6 @@
         <pubDate>Tue, 04 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 03 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://benchling.engineering/analyzing-performance-analysis-performance-56cb2e212629?source=rss----3d4aa8fb07ea---4">Analyzing Performance Analysis Performance </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/05/athena-our-automated-build-health-management-system/">Athena: Our automated build health management system </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/">WebAssembly at eBay: A Real-World Use Case </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/05/22/metalearners-learning-how-to-learn.html">Meta-Learners - learning how to learn </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/">Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/monzo-microservices-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling for the Known Unknown </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/intel-sgx?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Journey into Intel’s SGX </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/function-approximation-in-reinforcement-learning-85a4864d566?source=rss----7f60cf5620c9---4">Function Approximation in Reinforcement Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 03 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-03.html</guid>
       </item>
       
   </channel>
