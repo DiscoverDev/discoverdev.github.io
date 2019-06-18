@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 18 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/ludwig-dl-toolbox?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Ludwig: A Code-Free Deep Learning Toolbox </a></li> 
+          
+            <li> <a href="https://engineering.gusto.com/debugging-memory-bloat/">Debugging Memory Bloat </a></li> 
+          
+            <li> <a href="https://eng.uber.com/web-development-video-series-one/">Learnings in Web Development: Design Patterns, Elm, and Progressive Enhancement </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/06/introducing-google-research-football.html">Introducing Google Research Football: A Novel Reinforcement Learning Environment </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/reliable-fast-access-to-on-chain-data-insights">Reliable, Fast Access to On-Chain Data Insights </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-the-amazon-go-store-works-a-deep-dive-3fde9d9939e9?source=rss----7f60cf5620c9---4">How the Amazon Go Store Works: A Deep Dive </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/06/web-accessibility-context/">Web Accessibility In Context </a></li> 
+          
+            <li> <a href="https://itnext.io/microservices-and-continuous-delivery-1e8c75b37ab1?source=rss----5b301f10ddcd---4">Microservices and continuous delivery </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 18 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 17 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Wed, 05 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 04 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/scale-anomaly-detection-framework?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Massive Scale Anomaly Detection Framework </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/nlp-practitioners?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Modern NLP for Pre-Modern Practitioners </a></li> 
-          
-            <li> <a href="https://www.toptal.com/designers/ui/design-for-developers">How to Approach Design for Developers </a></li> 
-          
-            <li> <a href="https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5?source=rss----5b301f10ddcd---4">Argo: Workflow Engine for Kubernetes </a></li> 
-          
-            <li> <a href="https://zulily-tech.com/2019/05/22/leveraging-serverless-tech-without-falling-into-the-ownerless-trap/">Leveraging Serverless Tech without falling into the “Ownerless” trap </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/05/kubernetes-future?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Kubernetes Future: VMs, Containers, or Hypervisor? </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/a-richer-activity-part-1-58b6ce4bde6a?source=rss----89d4108ce2a3---4">A Richer Activity, Part 1 </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/nginx-structural-enhancements-for-http-2-performance/">NGINX structural enhancements for HTTP/2 performance </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 04 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-04.html</guid>
       </item>
       
   </channel>
