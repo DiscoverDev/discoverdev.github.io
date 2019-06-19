@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 19 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/recommendation-massive-data?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: People You May Know: Fast Recommendations Over Massive Data </a></li> 
+          
+            <li> <a href="https://grafana.com/blog/2019/06/10/how-not-to-fail-at-visualization/">How Not to Fail at Visualization </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/wasserstein-gan-in-swift-for-tensorflow-61b557bd8c63?source=rss----7f60cf5620c9---4">Wasserstein GAN in Swift for TensorFlow </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre">How to get started with site reliability engineering (SRE) </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/optimizing-gpu-performance-tensor-cores/">Tips for Optimizing GPU Performance Using Tensor Cores </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/dl-airbnb?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Applying Deep Learning to Airbnb Search </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2019/06/getting-the-most-out-of-xml-and-exploring-anko-layouts-for-android/">Getting The Most Out of XML and Exploring Anko Layouts for Android </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/06/understanding-network-quality--the-rise-of-customized-content-de">Understanding Network Quality: The Rise of Customized Content Delivery </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2019/06/hdfs-erasure-coding-in-production/">HDFS Erasure Coding in Production </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 19 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 18 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Thu, 06 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 05 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.scylladb.com/2019/05/23/workload-prioritization-running-oltp-and-olap-traffic-on-the-same-superhighway/">Workload Prioritization: Running OLTP and OLAP Traffic on the Same Superhighway </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/05/24/an-overview-of-sharding-in-postgresql-and-how-it-relates-to-mongodbs/">An Overview of Sharding in PostgreSQL and How it Relates to MongoDB&amp;rsquo;s </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/privacy-fair-algorithms?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Privacy: The Last Stand for Fair Algorithms </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rxjs-front-end?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: RxJS: A Better Way to Write Front-end Applications </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/build-your-first-ar-app-3c9f682d4c89?source=rss----905ea2b3d4d1---4">Build your first AR App </a></li> 
-          
-            <li> <a href="https://slack.engineering/rewriting-the-slack-python-sdk-ea000f587de7?source=rss----58820b6d8904---4">Rewriting the Slack Python SDK </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-make-a-tic-tac-toe-bot-with-webassembly-for-go-e01800a874c9?source=rss----7f3d96429888---4">How to make a tic-tac-toe bot with WebAssembly for Go </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html">Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 05 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-05.html</guid>
       </item>
       
   </channel>
