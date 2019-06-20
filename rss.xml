@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 20 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.timescale.com/rethinking-the-database-materialized-view-as-an-index/">Rethinking the Database Materialized View as an Index </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/06/proxx-fast-web-apps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Proxx: Building Fast Web Applications </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/petastorm-ml-pipelines?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Petastorm: A Light-Weight Approach to Building ML Pipelines </a></li> 
+          
+            <li> <a href="https://itnext.io/the-perils-of-functional-css-c9484d1b4680?source=rss----5b301f10ddcd---4">The perils of functional CSS </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/golden-signals-kubernetes/">How to monitor Golden signals in Kubernetes </a></li> 
+          
+            <li> <a href="https://itnext.io/web-audio-for-electric-guitar-how-to-connect-instrument-24352df108ae?source=rss----5b301f10ddcd---4">Web Audio for Electric Guitar: How to Connect Instrument </a></li> 
+          
+            <li> <a href="https://medium.com/dailyjs/user-interfaces-you-can-trust-with-state-machines-49de7fa138a6?source=rss----f5105b08f43a---4">User Interfaces You Can Trust with State Machines </a></li> 
+          
+            <li> <a href="https://www.ably.io/blog/short-history-of-data/">Sharing: A Short History of Data </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 20 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 19 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Fri, 07 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 06 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.scottlogic.com/2019/05/28/drawing-2d-charts-with-webgl.html">Drawing 2D charts with WebGL </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/">Tips For Managing Design Systems </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/05/28/upgrade-to-rails5/">The road to Rails 5 </a></li> 
-          
-            <li> <a href="https://code.fb.com/data-infrastructure/dhcplb-server/">Extending DHCPLB: The path from load balancer to server </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/graph-query-distributed-execution?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Life of a Distributed Graph Database Query </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/intelligent-computing-in-snowflake-2be96ac11049?source=rss----7f60cf5620c9---4">Intelligent computing in Snowflake </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/habito-mortgage-broker?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Habito: The Purely-functional Mortgage Broker </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/risc-v-future?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Operating Systems on RISC-V </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 06 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-06.html</guid>
       </item>
       
   </channel>
