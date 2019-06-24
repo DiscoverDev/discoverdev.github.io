@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 24 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/06/applying-automl-to-transformer.html">Applying AutoML to Transformer Architectures </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-to-use-flutter-for-hybrid-development-alibabas-open-source-code-instance-302bf2273485?source=rss----3a8144eabfe3---4">How to Use Flutter for Hybrid Development: Alibaba’s Open Source Code Instance </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html">Adding a WebAssembly component to a React App </a></li> 
+          
+            <li> <a href="https://drivy.engineering/mobile-api-driven/">Design system and API-Driven UI </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/another-one-bites-the-apple/">Another one bites the apple! </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ml-engineering-paradigm?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Machine Learning Engineering - A New Yet Not so New Paradigm </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/wav2letter-facebook?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: wav2letter++: Facebook&#39;s Fast Open-source Speech Recognition System </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/streaming-data-from-the-universe-with-apache-kafka">Streaming Data from the Universe with Apache Kafka </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 24 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 21 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Tue, 11 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 10 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://open.nytimes.com/were-helping-times-photojournalists-deliver-images-to-the-world-faster-2d04dea5acd0?source=rss----51e1d1745b32---4">We’re Helping Times Photojournalists Deliver Images to the World Faster </a></li> 
-          
-            <li> <a href="https://grafana.com/blog/2019/05/30/grafana-labs-at-kubecon-awesome-query-performance-with-cortex/">Grafana Labs at KubeCon: Awesome Query Performance with Cortex </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/webassembly-blazor?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: WebAssembly and Blazor: A Decades Old Problem Solved </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/michelangelo-palette-uber?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Michelangelo Palette: A Feature Engineering Platform at Uber </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Instrumentation, Observability &amp; Monitoring of Machine Learning Models </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html">EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling </a></li> 
-          
-            <li> <a href="https://liveramp.com/engineering/migrating-a-big-data-environment-to-the-cloud-part-3/">Migrating a Big Data Environment to the Cloud, Part 3 </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/05/building-member-trust-through-a-centralized-and-scalable-setting">Building Member Trust Through a Centralized and Scalable Settings Platform </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 10 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-10.html</guid>
       </item>
       
   </channel>
