@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 25 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/06/athena-build-monitoring-dropbox?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Athena: Automated Build Health Monitoring at Dropbox Engineering </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/challenges-operationalizing-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What Lies Between: The Challenges of Operationalizing Microservices </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/arch-reactive-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reactive Systems&#39; Architecture </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/lerner-using-rl-agents-for-test-case-scheduling-3e0686211198?source=rss----2615bd06b42e---4">Lerner — using RL agents for test case scheduling </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/06/14/bloom-indexes-in-postgresql/">Bloom Indexes in PostgreSQL </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/06/creating-the-superclass-improving-object-detection-at-wayfair-via-product-class-clustering/">Creating the “Superclass”: Improving object detection at Wayfair via product class clustering </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/06/star-tree-index--powering-fast-aggregations-on-pinot">Star-Tree Index: Powering Fast Aggregations on Pinot </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/introducing-complete-the-look-a-scene-based-complementary-recommendation-system-eb891c3fe88?source=rss-ef81ef829bcb------2">Introducing Complete the Look: a scene-based complementary recommendation system </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 25 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 24 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Wed, 12 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 11 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a?source=rss----3a8144eabfe3---4">React Native Performance: Do and Don&#39;t </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/reinforcement-learning-multi-arm-bandit-implementation-5399ef67b24b?source=rss----7f60cf5620c9---4">Reinforcement Learning — Multi-Arm Bandit Implementation </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/05/litmus-chaos-engineering-kube?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Chaos Engineering Kubernetes with the Litmus Framework </a></li> 
-          
-            <li> <a href="https://hackernoon.com/ens-ethereum-name-service-how-it-works-cc57ed296473?source=rss----3a8144eabfe3---4">ENS (Ethereum Name Service): How it works? </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/a-practical-guide-to-building-secure-sso/">A Practical Guide to Building Secure SSO </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/react-native-in-grabpay">React Native in GrabPay </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Sustainable Operations in Complex Systems With Production Excellence </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/practical-nlp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Practical NLP for the Real World </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 11 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-11.html</guid>
       </item>
       
   </channel>
