@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 26 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.oreilly.com/ideas/the-quest-for-high-quality-data">The quest for high-quality data </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58?source=rss----7f60cf5620c9---4">A review of BERT based models </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2019/06/putting-machine-learning-models-into-production/">Putting Machine Learning Models into Production </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2019/06/17/detecting-bias-with-shap.html">Detecting Bias with SHAP </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/web-security-hack-anatomy?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Johnny Xmas on Web Security &amp; the Anatomy of a Hack </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/06/17/strategies-microservices-architecture/">3 Strategies for implementing a microservices architecture </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2019/06/history-of-integrator-scaling-software-deployment-automation/">A History of Integrator: Scaling Software Deployment Automation </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/inside-the-entropy/">Inside the Entropy </a></li> 
+          
+            <li> <a href="https://hackernoon.com/android-unidirectional-flow-with-livedata-bf24119e747?source=rss----3a8144eabfe3---4">Android Unidirectional Flow with LiveData </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/write-strong-tests?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Test of Strength </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 26 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 25 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +293,6 @@
         <pubDate>Thu, 13 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 12 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://grafana.com/blog/2019/06/03/how-postgresql-and-grafana-can-improve-monitoring-together/">How PostgreSQL and Grafana Can Improve Monitoring Together </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244?source=rss----2615bd06b42e---4">Making our Android Studio Apps Reactive with UI Components &amp; Redux </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query">GraphQL&amp;nbsp;on Rails: from zero to the first query </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/alerting-on-slos">Alerting on SLOs like Pros </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor">Smart Alerts in ThirdEye, LinkedIn’s Real-Time Monitoring Platform </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/what-to-expect-in-react-v17/">What to expect in React v17 </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3?source=rss----7f60cf5620c9---4">Speech Emotion Recognition with Convolution Neural Network </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/paybase-microservices-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Powering Flexible Payments in the Cloud with Kubernetes </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 12 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-12.html</guid>
       </item>
       
   </channel>
