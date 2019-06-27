@@ -6,6 +6,35 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 27 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/walmartlabs/high-availability-kafka-service-in-microsoft-azure-cloud-5c26f69bf4ef?source=rss----905ea2b3d4d1---4">High Availability Kafka Service in Microsoft Azure Cloud </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/combating-adversarial-attacks-barrage-random-transforms/">Combating Adversarial Attacks with a Barrage of Random Transforms (BaRT) </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/building-a-scalable-search-architecture">Building a Scalable Search Architecture </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/scale-dl-petaflops?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Deep Learning to Petaflops and Beyond! </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0?source=rss-ef81ef829bcb------2">Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run… </a></li> 
+          
+            <li> <a href="https://blog.overops.com/spring-cleaning-at-overops-how-and-why-we-changed-our-db-cleaning-strategy/">Spring Cleaning at OverOps: How (and Why) We Changed Our DB
+Cleaning Strategy </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/algorithmic-solutions-to-algorithmic-bias-aef59eaf6565?source=rss----7f60cf5620c9---4">Algorithmic Solutions to Algorithmic Bias: A Technical Guide </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/secure-certificate-issuance/">Securing Certificate Issuance using Multipath Domain Control Validation </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 27 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 26 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +294,6 @@
         <pubDate>Fri, 14 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 13 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/erland-scale-10000-nodes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Erlang Cluster to 10,000 Nodes </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/06/04/painting-a-picture-of-your-infrastructure-in-minutes/">Painting a Picture of Your Infrastructure in Minutes </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html">Introducing TensorNetwork, an Open Source Library for Efficient Tensor Calculations </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?source=rss----2615bd06b42e---4">Predictive CPU isolation of containers at Netflix </a></li> 
-          
-            <li> <a href="https://github.blog/2019-06-04-direct-instruction-marking-in-ruby-2-6/">Direct instruction marking in Ruby 2.6 </a></li> 
-          
-            <li> <a href="https://eng.uber.com/accelerating-self-driving-vehicle-development-with-data/">Power On: Accelerating Uber’s Self-Driving Vehicle Development with Data </a></li> 
-          
-            <li> <a href="https://liveramp.com/engineering/migrating-a-big-data-environment-to-the-cloud-part-4%EF%BB%BF/">Migrating a Big Data Environment to the Cloud, Part 4﻿ </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7?source=rss----7f60cf5620c9---4">Log Compacted Topics in Apache Kafka </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 13 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-13.html</guid>
       </item>
       
   </channel>
