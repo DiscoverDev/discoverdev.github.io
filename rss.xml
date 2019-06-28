@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 28 Jun 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/06/off-policy-classification-new.html">Off-Policy Classification - A New Reinforcement Learning Model Selection Method </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/debug-dl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Debuggable Deep Learning </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/object-detection-pipeline-gpus/">Creating an Object Detection Pipeline for GPUs </a></li> 
+          
+            <li> <a href="https://eng.uber.com/causal-inference-at-uber/">Using Causal Inference to Improve the Uber User Experience </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/api-mindset-at-ebay/">API Mindset at eBay </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/06/19/project-loom-lightweight-java-threads/">Project Loom: Lightweight Java threads </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/06/helping-organizations-do-more-without-collecting-more-data.html">Helping organizations do more without collecting more data </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/evolution-spotify-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Evolution of Spotify Home Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 28 Jun 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-06-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 27 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,36 +292,6 @@ Cleaning Strategy </a></li>
         <pubDate>Mon, 17 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 14 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests">Detecting Interference: An A/B Test of A/B Tests </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/implementing-android-pos-receipt-printing">Implementing Android POS Receipt Printing on Shopify </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/building-a-scalable-data-management-system-for-computer-vision-tasks-a6dee8f1c580?source=rss-ef81ef829bcb------2">Building A Scalable Data Management System for Computer Vision Tasks </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/modeling-the-unseen-6a51c9a02430?source=rss----587883b5d2ee---4">Modeling the Unseen </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/an-inside-look-at-google-earth-timelapse.html">An Inside Look at Google Earth Timelapse </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f?source=rss----37dc2a3034f2---4">Making Direct Messages Reliable and Fast </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d?source=rss----7f60cf5620c9---4">Advanced Topics in Deep Convolutional Neural Networks </a></li> 
-          
-            <li> <a href="https://itnext.io/end-to-end-microservices-testing-with-catcher-d29e5a2f1394?source=rss----5b301f10ddcd---4">End-to-end microservices testing with Catcher </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/line-things-automatic-communication/">LINE Things automatic communication </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 14 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-14.html</guid>
       </item>
       
   </channel>
