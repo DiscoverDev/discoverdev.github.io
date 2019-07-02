@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 02 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://liveramp.com/engineering/liveramp-hackweek-serializing-and-transmitting-bytecode-between-jvms/">LiveRamp Hackweek: Serializing and Transmitting Bytecode Between JVMs </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/open-sourcing-singer-pinterests-performant-and-reliable-logging-agent-610fecf35566?source=rss-ef81ef829bcb------2">Open sourcing Singer, Pinterest’s performant and reliable logging agent </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/detecting-background-on-android-275ea60c8124?source=rss----cfe1120185d3---4">Detecting Background on Android </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/">Towards Post-Quantum Cryptography in TLS </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-quantum-menace/">The Quantum Menace </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/">Optimizing Google Fonts Performance </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-tradeoffs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Rust Views Tradeoffs </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/real-time-processing-web-workers/">Real-time processing with Web Workers </a></li> 
+          
+            <li> <a href="https://nodesource.com/blog/worker-threads-nodejs">Understanding Worker Threads in Node.js </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 02 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 28 Jun 2019</title>
         <description><![CDATA[
           <ul>
@@ -262,36 +292,6 @@ Cleaning Strategy </a></li>
         <pubDate>Tue, 18 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 17 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/zendesk-engineering/adding-functionality-to-google-pub-sub-queue-meta-processing-fff15e2d3a2c?source=rss----a88376ea904a---4">Adding Functionality to Google Pub/Sub: Queue Meta Processing </a></li> 
-          
-            <li> <a href="https://code.fb.com/data-center-engineering/delos/">Delos: Simple, flexible storage for the Facebook control plane </a></li> 
-          
-            <li> <a href="https://code.fb.com/data-center-engineering/tupperware/">Efficient, reliable cluster management at scale with Tupperware </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/06/pha-family-highlights-triada.html">PHA Family Highlights: Triada </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/bringing-scalable-real-time-analytics-to-the-enterprise">Bringing scalable real-time analytics to the enterprise </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/reduce-react-load-time?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How We Reduced Our React App’s Load Time by 60% </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/a-guide-to-tracing-in-elixir.html">A guide to tracing in Elixir! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/dl-microcontrollers?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning on Microcontrollers </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/grpc-in-microservices-5887caef195?source=rss----5517fd7b58a6---4">gRPC in Microservices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 17 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-17.html</guid>
       </item>
       
   </channel>
