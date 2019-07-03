@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 03 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/06/designing-ar-apps-guide/">What I Learned From Designing AR Apps </a></li> 
+          
+            <li> <a href="https://tech.findmypast.com/road-to-k8s-ha-part-2/">The Journey to Kubernetes High Availability - Part 2 </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/graphql-for-busy-people">There and Back Again, A GraphQL Lifecycle Tale </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/">Hypothetical Indexes in PostgreSQL </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/soundcloud-is-playing-the-oboe">SoundCloud Is Playing the Oboe </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/continuations-java?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Why Continuations are Coming to Java </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2019/06/20/javascript-free-web-dev-bolero/">JavaScript-free Web Development with WebAssembly, Bolero, and F# </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239?source=rss----7f60cf5620c9---4">Distributed Deep Learning Pipelines with PySpark and Keras </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/06/using-virtual-private-clusters-for-testing-apache-samza">Using Virtual Private Clusters for Testing Apache Samza </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 03 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 02 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +294,6 @@ Cleaning Strategy </a></li>
         <pubDate>Wed, 19 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 18 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/ludwig-dl-toolbox?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Ludwig: A Code-Free Deep Learning Toolbox </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/debugging-memory-bloat/">Debugging Memory Bloat </a></li> 
-          
-            <li> <a href="https://eng.uber.com/web-development-video-series-one/">Learnings in Web Development: Design Patterns, Elm, and Progressive Enhancement </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/introducing-google-research-football.html">Introducing Google Research Football: A Novel Reinforcement Learning Environment </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/reliable-fast-access-to-on-chain-data-insights">Reliable, Fast Access to On-Chain Data Insights </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-the-amazon-go-store-works-a-deep-dive-3fde9d9939e9?source=rss----7f60cf5620c9---4">How the Amazon Go Store Works: A Deep Dive </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/06/web-accessibility-context/">Web Accessibility In Context </a></li> 
-          
-            <li> <a href="https://itnext.io/microservices-and-continuous-delivery-1e8c75b37ab1?source=rss----5b301f10ddcd---4">Microservices and continuous delivery </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 18 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-18.html</guid>
       </item>
       
   </channel>
