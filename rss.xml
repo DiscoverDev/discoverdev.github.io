@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 04 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/">Neural Code Search: ML-based code search using natural language queries </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/">How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/06/autoscaling-aws-step-functions-activities.html">Autoscaling AWS Step Functions Activities </a></li> 
+          
+            <li> <a href="https://eng.uber.com/simulated-marketplace/">Gaining Insights in a Simulated Marketplace with Machine Learning at Uber </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/obscuring-complexity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Obscuring Complexity </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/randomized-communication-hashicorp-consul?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Using Randomized Communication for Robust, Scalable Systems </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/introducing-pyrobot-how-facebook-is-democratizing-robotics-programming-using-deep-learning-7ed3c2a4b065?source=rss----7f60cf5620c9---4">Introducing PyRobot: How Facebook is Democratizing Robotics Programming Using Deep Learning </a></li> 
+          
+            <li> <a href="https://itnext.io/thinking-of-bem-as-a-ui-philosophy-instead-of-a-css-naming-convention-9727e2cf9328?source=rss----5b301f10ddcd---4">Thinking of BEM as a UI Philosophy Instead of a CSS Naming Convention </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 04 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 03 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,36 +292,6 @@ Cleaning Strategy </a></li>
         <pubDate>Thu, 20 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 19 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/recommendation-massive-data?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: People You May Know: Fast Recommendations Over Massive Data </a></li> 
-          
-            <li> <a href="https://grafana.com/blog/2019/06/10/how-not-to-fail-at-visualization/">How Not to Fail at Visualization </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/wasserstein-gan-in-swift-for-tensorflow-61b557bd8c63?source=rss----7f60cf5620c9---4">Wasserstein GAN in Swift for TensorFlow </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre">How to get started with site reliability engineering (SRE) </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/optimizing-gpu-performance-tensor-cores/">Tips for Optimizing GPU Performance Using Tensor Cores </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/dl-airbnb?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Applying Deep Learning to Airbnb Search </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2019/06/getting-the-most-out-of-xml-and-exploring-anko-layouts-for-android/">Getting The Most Out of XML and Exploring Anko Layouts for Android </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/understanding-network-quality--the-rise-of-customized-content-de">Understanding Network Quality: The Rise of Customized Content Delivery </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2019/06/hdfs-erasure-coding-in-production/">HDFS Erasure Coding in Production </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 19 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-19.html</guid>
       </item>
       
   </channel>
