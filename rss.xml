@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 08 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://security.googleblog.com/2019/06/how-google-adopted-beyondcorp.html">How Google adopted BeyondCorp </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/notpetya-retrospective?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: NotPetya Retrospective </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design">Microservices, Apache Kafka, and Domain-Driven Design </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-deep-dive-into-how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-monday/">The deep-dive into how Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Monday </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/graphql-vs-rest-what-you-didnt-know/">GraphQL vs. REST: What you didn’t know </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/bias-variance-decompositions-using-xgboost/">Bias Variance Decompositions using XGBoost </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/security-services-sso?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing Services Using SSO </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/key-conjurer-our-policy-least-privilege">Key Conjurer: Our Policy of Least Privilege </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 08 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 05 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +292,6 @@ Cleaning Strategy </a></li>
         <pubDate>Mon, 24 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 21 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449?source=rss----3d4aa8fb07ea---4">Evolving to Enterprise-Grade Permissions </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/intro-kubernetes-security">Introduction to Kubernetes Security </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/video-upload-latency-improvements-at-instagram-bcf4b4c5520a?source=rss----37dc2a3034f2---4">Video Upload Latency Improvements at Instagram </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/05/29/rise-of-the-lowcode-ml-toolboxes.html">Rise of the Low-Code ML toolboxes </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/05/29/openended-text-generation.html">Open-ended Text Generation </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/protecting-galileo-websites/">Protecting Project Galileo websites from HTTP attacks </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/06/flutter-journey/">Our Journey with Flutter </a></li> 
-          
-            <li> <a href="https://slack.engineering/chrome-tracing-for-fun-and-profit-a15ec83aa908?source=rss----58820b6d8904---4">Chrome Tracing for Fun and Profit </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 21 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-21.html</guid>
       </item>
       
   </channel>
