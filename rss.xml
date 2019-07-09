@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 09 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a?source=rss----7f60cf5620c9---4">Building a Search Engine with BERT and TensorFlow </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/improving-instagrams-music-audio-quality-284e555102e9?source=rss----37dc2a3034f2---4">Improving Instagram’s Music Audio Quality </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/robot-simulation-real-world?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Robot Simulation to the Real World </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0?source=rss----7f60cf5620c9---4">Neural Network Optimization </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/06/predicting-bus-delays-with-machine.html">Predicting Bus Delays with Machine Learning </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/design-patterns-in-node-js/">Design patterns in Node.js: a practical guide </a></li> 
+          
+            <li> <a href="https://www.olioapps.com/blog/prototype-vs-production/">Prototyping vs. Production Development: How to Avoid Creating a Monster </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/06/espresso-new-netty-framework">Improving Performance and Capacity for Espresso with New Netty Framework </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 09 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 08 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +292,6 @@ Cleaning Strategy </a></li>
         <pubDate>Tue, 25 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 24 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/applying-automl-to-transformer.html">Applying AutoML to Transformer Architectures </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-use-flutter-for-hybrid-development-alibabas-open-source-code-instance-302bf2273485?source=rss----3a8144eabfe3---4">How to Use Flutter for Hybrid Development: Alibaba’s Open Source Code Instance </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html">Adding a WebAssembly component to a React App </a></li> 
-          
-            <li> <a href="https://drivy.engineering/mobile-api-driven/">Design system and API-Driven UI </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/another-one-bites-the-apple/">Another one bites the apple! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ml-engineering-paradigm?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Machine Learning Engineering - A New Yet Not so New Paradigm </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/wav2letter-facebook?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: wav2letter++: Facebook&#39;s Fast Open-source Speech Recognition System </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/streaming-data-from-the-universe-with-apache-kafka">Streaming Data from the Universe with Apache Kafka </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 24 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-24.html</guid>
       </item>
       
   </channel>
