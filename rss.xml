@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 10 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/change-data-capture/">CockroachDB Change Data Capture: Transactionally and Horizontally Scalable </a></li> 
+          
+            <li> <a href="https://hackernoon.com/web-performance-understanding-the-critical-render-path-part-1-54eec8d7667c?source=rss----3a8144eabfe3---4">Web Performance: Understanding the Critical Render Path (Part 1) </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-listeners-explained">Kafka Listeners – Explained </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/scikit-tensorflow?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Comparing Machine Learning Strategies using Scikit-learn and TensorFlow </a></li> 
+          
+            <li> <a href="https://engineering.mongodb.com/post/transpiling-between-any-programming-languages-part-1">Transpiling between any programming languages (Part 1) </a></li> 
+          
+            <li> <a href="https://hackernoon.com/pilosa-a-scalable-high-performance-bitmap-database-index-82023c0c8ebc?source=rss----3a8144eabfe3---4">Pilosa: A Scalable High Performance Bitmap Database Index </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/elixir-containers-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Verifying a Distributed System with Combinatorial Topology </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/06/patterns-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Patterns in Distributed Systems </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 10 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 09 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -264,34 +292,6 @@ Cleaning Strategy </a></li>
         <pubDate>Wed, 26 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 25 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/06/athena-build-monitoring-dropbox?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Athena: Automated Build Health Monitoring at Dropbox Engineering </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/challenges-operationalizing-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What Lies Between: The Challenges of Operationalizing Microservices </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/arch-reactive-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reactive Systems&#39; Architecture </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/lerner-using-rl-agents-for-test-case-scheduling-3e0686211198?source=rss----2615bd06b42e---4">Lerner — using RL agents for test case scheduling </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/06/14/bloom-indexes-in-postgresql/">Bloom Indexes in PostgreSQL </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/06/creating-the-superclass-improving-object-detection-at-wayfair-via-product-class-clustering/">Creating the “Superclass”: Improving object detection at Wayfair via product class clustering </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/star-tree-index--powering-fast-aggregations-on-pinot">Star-Tree Index: Powering Fast Aggregations on Pinot </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/introducing-complete-the-look-a-scene-based-complementary-recommendation-system-eb891c3fe88?source=rss-ef81ef829bcb------2">Introducing Complete the Look: a scene-based complementary recommendation system </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-25.html</guid>
       </item>
       
   </channel>
