@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 11 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/deep-domain-adaptation-in-computer-vision-8da398d3167f?source=rss----7f60cf5620c9---4">Deep Domain Adaptation In Computer Vision </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/sqlsmith-randomized-sql-testing/">SQLsmith: Randomized SQL Testing in CockroachDB </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/catwalk-serving-machine-learning-models-at-scale">Catwalk: Serving Machine Learning Models at Scale </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/anomaly-detection-using-isolation-forest-80b3a3d1a9d8?source=rss----42df4a1e8725---4">Anomaly detection using Isolation forest </a></li> 
+          
+            <li> <a href="https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/">DLRM: An advanced, open source deep learning recommendation model </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/07/the-programmer-mindset-main-debug-loop/">The Programmer Mindset: Main Debug Loop </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/fuzzy-matching-at-scale-84f2bfd0c536?source=rss----7f60cf5620c9---4">Fuzzy matching at scale </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/query-plan-caching-in-cockroachdb/">Query Plan Caching in CockroachDB </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 11 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 10 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -260,38 +288,6 @@ Cleaning Strategy </a></li>
         <pubDate>Thu, 27 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 26 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.oreilly.com/ideas/the-quest-for-high-quality-data">The quest for high-quality data </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58?source=rss----7f60cf5620c9---4">A review of BERT based models </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2019/06/putting-machine-learning-models-into-production/">Putting Machine Learning Models into Production </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2019/06/17/detecting-bias-with-shap.html">Detecting Bias with SHAP </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/web-security-hack-anatomy?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Johnny Xmas on Web Security &amp; the Anatomy of a Hack </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/06/17/strategies-microservices-architecture/">3 Strategies for implementing a microservices architecture </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2019/06/history-of-integrator-scaling-software-deployment-automation/">A History of Integrator: Scaling Software Deployment Automation </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/inside-the-entropy/">Inside the Entropy </a></li> 
-          
-            <li> <a href="https://hackernoon.com/android-unidirectional-flow-with-livedata-bf24119e747?source=rss----3a8144eabfe3---4">Android Unidirectional Flow with LiveData </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/write-strong-tests?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Test of Strength </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-26.html</guid>
       </item>
       
   </channel>
