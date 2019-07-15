@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 15 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/componentizing-shopify-tax-engine">Componentizing Shopify’s Tax Engine </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300?source=rss----7f60cf5620c9---4">This New Google Technique Help Us Understand How Neural Networks are Thinking </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/grab-everyday-super-app">Making Grab’s everyday app super </a></li> 
+          
+            <li> <a href="https://hackernoon.com/cryptography-for-software-engineers-58f2e586e968?source=rss----3a8144eabfe3---4">Cryptography For Software Engineers </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/journey-99999?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: On a Deep Journey Towards Five Nines </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ocr-ml-doc-digitization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Document Digitization: Rethinking OCR with Machine Learning </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/bringing-rich-experiences-to-memory-constrained-tv-devices-6de771eabb16?source=rss----2615bd06b42e---4">Bringing Rich Experiences to Memory-constrained TV Devices </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/07/03/Demystifying-test-automation.html">Demystifying test automation </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 11 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,35 +287,6 @@
         <pubDate>Fri, 28 Jun 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-06-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 27 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/high-availability-kafka-service-in-microsoft-azure-cloud-5c26f69bf4ef?source=rss----905ea2b3d4d1---4">High Availability Kafka Service in Microsoft Azure Cloud </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/combating-adversarial-attacks-barrage-random-transforms/">Combating Adversarial Attacks with a Barrage of Random Transforms (BaRT) </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/building-a-scalable-search-architecture">Building a Scalable Search Architecture </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/scale-dl-petaflops?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Deep Learning to Petaflops and Beyond! </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0?source=rss-ef81ef829bcb------2">Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run… </a></li> 
-          
-            <li> <a href="https://blog.overops.com/spring-cleaning-at-overops-how-and-why-we-changed-our-db-cleaning-strategy/">Spring Cleaning at OverOps: How (and Why) We Changed Our DB
-Cleaning Strategy </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/algorithmic-solutions-to-algorithmic-bias-aef59eaf6565?source=rss----7f60cf5620c9---4">Algorithmic Solutions to Algorithmic Bias: A Technical Guide </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/secure-certificate-issuance/">Securing Certificate Issuance using Multipath Domain Control Validation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 27 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-27.html</guid>
       </item>
       
   </channel>
