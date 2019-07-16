@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 16 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/visualizing-city-cores-with-h3/">Visualizing City Cores with H3, Uber’s Open Source Geospatial Indexing System </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/07/08/git-performance-on-nfs/">What we&#39;re doing to fix Gitaly NFS performance regressions </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/understanding-serverless-servicefull-applications?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Understanding Serverless: Tips and Resources for Building Servicefull Applications </a></li> 
+          
+            <li> <a href="https://medium.com/engineering-housing/optimising-react-native-apk-size-c88ef39ab7a0?source=rss----3a69e32e2594---4">Optimising React Native APK Size </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/recommendation-systems-at-scale-making-grabs-everyday-app-super-4762c5ad162?source=rss----7f60cf5620c9---4">Recommendation Systems at Scale — Making Grab’s everyday app super </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/capital-markets-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Policing the Capital Markets with ML </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/generating-high-resolution-images-using-autoregressive-models-3683f9af0db4?source=rss----7f60cf5620c9---4">Generating High-Resolution Images Using Autoregressive Models </a></li> 
+          
+            <li> <a href="https://stackshare.io/posts/stack-history-timeline-uber-tech-stack-evolution">Stack History: A Timeline of Uber&#39;s Tech Stack Evolution </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 16 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 15 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 02 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 28 Jun 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/off-policy-classification-new.html">Off-Policy Classification - A New Reinforcement Learning Model Selection Method </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/debug-dl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Debuggable Deep Learning </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/object-detection-pipeline-gpus/">Creating an Object Detection Pipeline for GPUs </a></li> 
-          
-            <li> <a href="https://eng.uber.com/causal-inference-at-uber/">Using Causal Inference to Improve the Uber User Experience </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/api-mindset-at-ebay/">API Mindset at eBay </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/06/19/project-loom-lightweight-java-threads/">Project Loom: Lightweight Java threads </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/06/helping-organizations-do-more-without-collecting-more-data.html">Helping organizations do more without collecting more data </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/evolution-spotify-arch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Evolution of Spotify Home Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 28 Jun 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-06-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-06-28.html</guid>
       </item>
       
   </channel>
