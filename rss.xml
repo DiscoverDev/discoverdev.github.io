@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 17 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/07/predicting-generalization-gap-in-deep.html">Predicting the Generalization Gap in Deep Neural Networks </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/07/08/snorkel_final.html">Taking Snorkel for a spin </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/riot-games-api-transforms">The Riot Games API: Transforms </a></li> 
+          
+            <li> <a href="https://code.fb.com/video-engineering/oil-vcache/">OIL+VCache: File abstraction for distributed systems </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/opentsdb-metric-hbase-region-finder-cf3d55c79565?source=rss----cfe1120185d3---4">OpenTSDB Metric HBase Region Finder </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/reinforcement-learning?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reinforcement Learning: A Gentle Introduction with a Real Application </a></li> 
+          
+            <li> <a href="https://www.pubnub.com/blog/comprehensive-guide-realtime-tech-stack/">A Comprehensive Guide to the Realtime Tech Stack </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-quantum-menace/">The Quantum Menace </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/introducing-circl/">Introducing CIRCL: An Advanced Cryptographic Library </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/07/gemini-wayfairs-advanced-marketing-test-design-and-measurement-platform/">Gemini: Wayfair’s advanced marketing test design and measurement platform </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 17 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 16 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,36 +289,6 @@
         <pubDate>Wed, 03 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 02 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://liveramp.com/engineering/liveramp-hackweek-serializing-and-transmitting-bytecode-between-jvms/">LiveRamp Hackweek: Serializing and Transmitting Bytecode Between JVMs </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/open-sourcing-singer-pinterests-performant-and-reliable-logging-agent-610fecf35566?source=rss-ef81ef829bcb------2">Open sourcing Singer, Pinterest’s performant and reliable logging agent </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/detecting-background-on-android-275ea60c8124?source=rss----cfe1120185d3---4">Detecting Background on Android </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/towards-post-quantum-cryptography-in-tls/">Towards Post-Quantum Cryptography in TLS </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-quantum-menace/">The Quantum Menace </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/">Optimizing Google Fonts Performance </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rust-tradeoffs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Rust Views Tradeoffs </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/real-time-processing-web-workers/">Real-time processing with Web Workers </a></li> 
-          
-            <li> <a href="https://nodesource.com/blog/worker-threads-nodejs">Understanding Worker Threads in Node.js </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 02 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-02.html</guid>
       </item>
       
   </channel>
