@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 18 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.viget.com/articles/cross-platform-ar-with-unity/">Cross-platform Augmented Reality with Unity </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/how-heroku-operates-its-multi-tenant-apache-kafka-services">How Heroku Operates its Multi-Tenant Apache Kafka Services </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/07/advancing-semi-supervised-learning-with.html">Advancing Semi-supervised Learning with Unsupervised Data Augmentation </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/">The Scooters Are Coming: let’s require data this time </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/">A gentle introduction to Linux Kernel fuzzing </a></li> 
+          
+            <li> <a href="https://code.fb.com/security/zoncolan/">Zoncolan: How Facebook uses static analysis to detect and prevent security issues </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/07/09/simulacra-and-selection/">Simulacra And Selection </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/expediting-data-fixes-migrations">Expediting Data Fixes and Data Migrations </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 18 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 17 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +287,6 @@
         <pubDate>Thu, 04 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 03 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/06/designing-ar-apps-guide/">What I Learned From Designing AR Apps </a></li> 
-          
-            <li> <a href="https://tech.findmypast.com/road-to-k8s-ha-part-2/">The Journey to Kubernetes High Availability - Part 2 </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/graphql-for-busy-people">There and Back Again, A GraphQL Lifecycle Tale </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/">Hypothetical Indexes in PostgreSQL </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/soundcloud-is-playing-the-oboe">SoundCloud Is Playing the Oboe </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/continuations-java?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Why Continuations are Coming to Java </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2019/06/20/javascript-free-web-dev-bolero/">JavaScript-free Web Development with WebAssembly, Bolero, and F# </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239?source=rss----7f60cf5620c9---4">Distributed Deep Learning Pipelines with PySpark and Keras </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/using-virtual-private-clusters-for-testing-apache-samza">Using Virtual Private Clusters for Testing Apache Samza </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 03 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-03.html</guid>
       </item>
       
   </channel>
