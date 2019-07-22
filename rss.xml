@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 22 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/recent-advances-in-modern-computer-vision-56801edab980?source=rss----7f60cf5620c9---4">Recent Advances in Modern Computer Vision </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/deepracer?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: DeepRacer and DeepLens, Machine Learning for Fun! (and Profit?) </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html">Multilingual Universal Sentence Encoder for Semantic Retrieval </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/re-architecting-the-video-gatekeeper-f7b0ac2f6b00?source=rss----2615bd06b42e---4">Re-Architecting the Video Gatekeeper </a></li> 
+          
+            <li> <a href="https://medium.engineering/code-reviews-at-medium-bed2c0dce13a?source=rss----2817475205d3---4">Code Reviews at Medium </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/dl-audio-signal?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning with Audio Signals: Prepare, Process, Design, Expect </a></li> 
+          
+            <li> <a href="https://code.fb.com/android/hermes/">Hermes: An open source JavaScript engine optimized for mobile apps, starting with React Native </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/puma-4-hammering-out-h13s-a-debugging-story">Puma 4: Hammering Out H13s—A Debugging Story </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 22 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 19 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 08 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 05 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc?source=rss----25cd379abb8---4">Building Lyft’s Marketing Automation Platform </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/innovations-in-graph-representation.html">Innovations in Graph Representation Learning </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/migration-from-redshift-to-snowflake-the-path-for-success-4caaac5e3728?source=rss----587883b5d2ee---4">Migration from Redshift to Snowflake — The path for success </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/community-focused-feed-optimization">Community-Focused Feed Optimization </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/resilience-beam-erlang-otp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Unique Resiliency of the BEAM and Erlang OTP </a></li> 
-          
-            <li> <a href="https://blog.algolia.com/search-party-18-crawling/">Search Party #18 — Crawling Edition </a></li> 
-          
-            <li> <a href="https://nordicapis.com/building-fullstack-serverless-graphql-apis-in-the-cloud/">Building Fullstack, Serverless GraphQL APIs in the Cloud </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/tdding-with-react-and-apollo">TDDing in React with Apollo and TypeScript </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 05 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-05.html</guid>
       </item>
       
   </channel>
