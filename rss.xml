@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 24 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://semaphoreci.com/blog/kubernetes-deployment/">Kubernetes Deployments: The Ultimate Guide </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection">GraphQL&amp;nbsp;on Rails: On the way to perfection </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/">Redux with Code-Splitting and Type Checking </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/">The Ultimate Guide To Building Scalable Web Scrapers With Scrapy </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/07/frontend-framework-dimensions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">The Three Key Dimensions of Front-End Frameworks - Evan You at JS Conf Asia 2019 </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/build-a-modal-using-react-context-portals-and-hooks-bd0c4e54537e?source=rss----5517fd7b58a6---4">Build a  modal using React context, portals, and hooks </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-active-noise-cancellation-e364ce4562d4?source=rss----7f60cf5620c9---4">Deep Active  Noise Cancellation </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/similar-images-recommendations-using-fastai-and-annoy-16d6ceb3b809?source=rss----7f60cf5620c9---4">Similar Images Recommendations using FastAi and Annoy </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 24 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 23 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Wed, 10 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 09 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a?source=rss----7f60cf5620c9---4">Building a Search Engine with BERT and TensorFlow </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/improving-instagrams-music-audio-quality-284e555102e9?source=rss----37dc2a3034f2---4">Improving Instagram’s Music Audio Quality </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/robot-simulation-real-world?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Robot Simulation to the Real World </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0?source=rss----7f60cf5620c9---4">Neural Network Optimization </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/06/predicting-bus-delays-with-machine.html">Predicting Bus Delays with Machine Learning </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/design-patterns-in-node-js/">Design patterns in Node.js: a practical guide </a></li> 
-          
-            <li> <a href="https://www.olioapps.com/blog/prototype-vs-production/">Prototyping vs. Production Development: How to Avoid Creating a Monster </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/06/espresso-new-netty-framework">Improving Performance and Capacity for Espresso with New Netty Framework </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 09 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-09.html</guid>
       </item>
       
   </channel>
