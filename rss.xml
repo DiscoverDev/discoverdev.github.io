@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 26 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/archigan-generative-stack-apartment-building-design/">ArchiGAN: a Generative Stack for Apartment Building Design </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/models-cognition-brain?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Learning from Machines </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/blog/2019/07/yunikorn-a-universal-resource-scheduler/">YuniKorn: a universal resource scheduler </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/double-deep-q-networks-905dd8325412?source=rss----7f60cf5620c9---4">Double Deep Q Networks </a></li> 
+          
+            <li> <a href="https://eng.uber.com/uscs-apache-spark/">Making Apache Spark Effortless for All of Uber </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/moore-law-expiring?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: No Moore Left to Give: Enterprise Computing After Moore&#39;s Law </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/random-forests-for-store-forecasting-at-walmart-scale-82af5b55a4db?source=rss----905ea2b3d4d1---4">Random Forests for Store Forecasting at Walmart Scale </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/">Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 26 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 25 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 15 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 11 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/deep-domain-adaptation-in-computer-vision-8da398d3167f?source=rss----7f60cf5620c9---4">Deep Domain Adaptation In Computer Vision </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/sqlsmith-randomized-sql-testing/">SQLsmith: Randomized SQL Testing in CockroachDB </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/catwalk-serving-machine-learning-models-at-scale">Catwalk: Serving Machine Learning Models at Scale </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/anomaly-detection-using-isolation-forest-80b3a3d1a9d8?source=rss----42df4a1e8725---4">Anomaly detection using Isolation forest </a></li> 
-          
-            <li> <a href="https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/">DLRM: An advanced, open source deep learning recommendation model </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/07/the-programmer-mindset-main-debug-loop/">The Programmer Mindset: Main Debug Loop </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/fuzzy-matching-at-scale-84f2bfd0c536?source=rss----7f60cf5620c9---4">Fuzzy matching at scale </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/query-plan-caching-in-cockroachdb/">Query Plan Caching in CockroachDB </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 11 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-11.html</guid>
       </item>
       
   </channel>
