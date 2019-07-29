@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 29 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.octo.com/en/android-materialshapedrawable/">Android Material Components: Exploring MaterialShapeDrawable </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/apt-transports/">A Tale of Two (APT) Transports </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/a-complete-guide-to-the-node-js-event-loop/">A complete guide to the Node.js event loop </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7?source=rss----905ea2b3d4d1---4">Resiliency Doctor – A tool to achieve resiliency in hybrid cloud application ecosystems </a></li> 
+          
+            <li> <a href="https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine/">Building the Inspect measurement engine </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/07/lynx-identifying-wayfair-customers-functional-needs/">Lynx: Identifying Wayfair Customers’ Functional Needs </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/07/parrotron-new-research-into-improving.html">Parrotron: New Research into Improving Verbal Communication for People with Speech Impairments </a></li> 
+          
+            <li> <a href="https://www.honeybadger.io/blog/turbolinks/">How We Migrated To Turbolinks Without Breaking Javascript </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 29 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 26 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 16 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 15 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/componentizing-shopify-tax-engine">Componentizing Shopify’s Tax Engine </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300?source=rss----7f60cf5620c9---4">This New Google Technique Help Us Understand How Neural Networks are Thinking </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/grab-everyday-super-app">Making Grab’s everyday app super </a></li> 
-          
-            <li> <a href="https://hackernoon.com/cryptography-for-software-engineers-58f2e586e968?source=rss----3a8144eabfe3---4">Cryptography For Software Engineers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/journey-99999?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: On a Deep Journey Towards Five Nines </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ocr-ml-doc-digitization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Document Digitization: Rethinking OCR with Machine Learning </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/bringing-rich-experiences-to-memory-constrained-tv-devices-6de771eabb16?source=rss----2615bd06b42e---4">Bringing Rich Experiences to Memory-constrained TV Devices </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/07/03/Demystifying-test-automation.html">Demystifying test automation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 15 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-15.html</guid>
       </item>
       
   </channel>
