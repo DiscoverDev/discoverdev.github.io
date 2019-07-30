@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 30 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/articles/pipeline-driven-organization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: The Pipeline Driven Organization - Enabling True Continuous Delivery </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/07/19/elasticsearch-clustering.html">Elasticsearch - clustering on AWS with optional auto-scaling </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/cache-me-if-you-can-2/">Cache me if you can – 2 </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/faster-better-stronger-building-high-quality-product">Faster, better, stronger: Building a high quality product </a></li> 
+          
+            <li> <a href="https://capgemini.github.io/development/rematch-redux-without-the-bloat/">Rematch: Redux Without the Bloat </a></li> 
+          
+            <li> <a href="https://engineering.mixpanel.com/2019/07/18/petabyte-scale-data-deduplication/">Petabyte Scale Data Deduplication </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/07/18/container-security-a-developer-guide">Container Security: A Developer Guide </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/java-futures-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Java Futures, 2019 Edition </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 30 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 29 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Wed, 17 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 16 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/visualizing-city-cores-with-h3/">Visualizing City Cores with H3, Uber’s Open Source Geospatial Indexing System </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/07/08/git-performance-on-nfs/">What we&#39;re doing to fix Gitaly NFS performance regressions </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/understanding-serverless-servicefull-applications?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Understanding Serverless: Tips and Resources for Building Servicefull Applications </a></li> 
-          
-            <li> <a href="https://medium.com/engineering-housing/optimising-react-native-apk-size-c88ef39ab7a0?source=rss----3a69e32e2594---4">Optimising React Native APK Size </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/recommendation-systems-at-scale-making-grabs-everyday-app-super-4762c5ad162?source=rss----7f60cf5620c9---4">Recommendation Systems at Scale — Making Grab’s everyday app super </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/capital-markets-ml?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Policing the Capital Markets with ML </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/generating-high-resolution-images-using-autoregressive-models-3683f9af0db4?source=rss----7f60cf5620c9---4">Generating High-Resolution Images Using Autoregressive Models </a></li> 
-          
-            <li> <a href="https://stackshare.io/posts/stack-history-timeline-uber-tech-stack-evolution">Stack History: A Timeline of Uber&#39;s Tech Stack Evolution </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 16 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-16.html</guid>
       </item>
       
   </channel>
