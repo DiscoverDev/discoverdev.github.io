@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 31 Jul 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/going-multithread-with-node-js-492258ba32cf?source=rss----5b301f10ddcd---4">Going Multithread with Node.js </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a?source=rss----7f60cf5620c9---4">Holistic Large Scale Video Understanding </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/snowflake-automatic-clustering?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automatic Clustering at Snowflake </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/graalvm-optimizing-java?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Thomas Wuerthinger on GraalVM and Optimizing Java With Ahead-of-Time Compilation </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/07/building-smily-human-centric-similar.html">Building SMILY, a Human-Centric, Similar-Image Search Tool for Pathology </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-do-neural-style-transfers-work-b76de101eb3?source=rss----7f60cf5620c9---4">How Do Neural Style Transfers Work? </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/understanding-rxjs-observables/">Understanding RxJS Observables and why you need them </a></li> 
+          
+            <li> <a href="https://itnext.io/start-a-new-project-with-an-event-sourcing-architecture-59f8b8d0cf7?source=rss----5b301f10ddcd---4">Start a new project with an Event Sourcing Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 31 Jul 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-07-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 30 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -255,38 +283,6 @@
         <pubDate>Thu, 18 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 17 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/predicting-generalization-gap-in-deep.html">Predicting the Generalization Gap in Deep Neural Networks </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/07/08/snorkel_final.html">Taking Snorkel for a spin </a></li> 
-          
-            <li> <a href="https://technology.riotgames.com/news/riot-games-api-transforms">The Riot Games API: Transforms </a></li> 
-          
-            <li> <a href="https://code.fb.com/video-engineering/oil-vcache/">OIL+VCache: File abstraction for distributed systems </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/opentsdb-metric-hbase-region-finder-cf3d55c79565?source=rss----cfe1120185d3---4">OpenTSDB Metric HBase Region Finder </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/reinforcement-learning?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reinforcement Learning: A Gentle Introduction with a Real Application </a></li> 
-          
-            <li> <a href="https://www.pubnub.com/blog/comprehensive-guide-realtime-tech-stack/">A Comprehensive Guide to the Realtime Tech Stack </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-quantum-menace/">The Quantum Menace </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/introducing-circl/">Introducing CIRCL: An Advanced Cryptographic Library </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/07/gemini-wayfairs-advanced-marketing-test-design-and-measurement-platform/">Gemini: Wayfair’s advanced marketing test design and measurement platform </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 17 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-17.html</guid>
       </item>
       
   </channel>
