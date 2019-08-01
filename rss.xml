@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 01 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-webassembly-javascript?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rust, WebAssembly, and Javascript Make Three: An FFI Story </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac?source=rss----7f60cf5620c9---4">Understanding Partial Auto-Correlation </a></li> 
+          
+            <li> <a href="https://nordicapis.com/how-granular-should-you-design-apis/">How Granular Should You Design APIs? </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/linkerd-cloud-native?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Service Mesh: It&#39;s About Traffic </a></li> 
+          
+            <li> <a href="https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4?source=rss----58820b6d8904---4">When a rewrite isn’t: rebuilding Slack on the desktop </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/">Accelerating NiFi flows delivery: Part 1 </a></li> 
+          
+            <li> <a href="https://eng.uber.com/evograd/">Introducing EvoGrad: A Lightweight Library for Gradient-Based Evolution </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/graalvm-performance?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Maximizing Performance with GraalVM </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 31 Jul 2019</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Fri, 19 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 18 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.viget.com/articles/cross-platform-ar-with-unity/">Cross-platform Augmented Reality with Unity </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/how-heroku-operates-its-multi-tenant-apache-kafka-services">How Heroku Operates its Multi-Tenant Apache Kafka Services </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/advancing-semi-supervised-learning-with.html">Advancing Semi-supervised Learning with Unsupervised Data Augmentation </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2019/07/10/the-scooters-are-coming/">The Scooters Are Coming: let’s require data this time </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/">A gentle introduction to Linux Kernel fuzzing </a></li> 
-          
-            <li> <a href="https://code.fb.com/security/zoncolan/">Zoncolan: How Facebook uses static analysis to detect and prevent security issues </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/07/09/simulacra-and-selection/">Simulacra And Selection </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/expediting-data-fixes-migrations">Expediting Data Fixes and Data Migrations </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 18 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-18.html</guid>
       </item>
       
   </channel>
