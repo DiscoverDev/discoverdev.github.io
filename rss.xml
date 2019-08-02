@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 02 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e?source=rss----905ea2b3d4d1---4">How TCP segment size can affect application traffic flow </a></li> 
+          
+            <li> <a href="https://stackshare.io/circleci/update-how-circleci-processes-over-30-million-builds-per-month">Update: How CircleCI Processes Over 30 Million Builds Per Month </a></li> 
+          
+            <li> <a href="https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/">How we stopped vulnerable code from landing in production </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/reproducible-model-training-deep-dive-2a4988d69031?source=rss----7f60cf5620c9---4">Reproducible model training: deep dive </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2019/07/23/fast-parallel-testing-at-databricks-with-bazel.html">Fast Parallel Testing at Databricks with Bazel </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/07/learning-better-simulation-methods-for.html">Learning Better Simulation Methods for Partial Differential Equations </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/implementation-of-a-monitoring-strategy-for-products-based-on-microservices-24ad24c4c3e5?source=rss----cfe1120185d3---4">Implementation of a monitoring strategy for products based on microservices </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/07/23/Testing-WebSockets-for-beginners.html">Testing WebSockets for beginners </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/blog/observability-measuring-microservices">What Is Observability &amp; How to Measure the Quality of Microservices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 02 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 01 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +285,6 @@
         <pubDate>Mon, 22 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 19 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/07/javascript-knowledge-reading-source-code/">Improve Your JavaScript Knowledge By Reading Source Code </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/monitoring-to-prevent-game-cheating/">Monitoring to prevent game cheating </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/swamping-and-masking-in-anomaly-detection-how-subsampling-in-isolation-forests-helps-mitigate-bb192a8f8dd5?source=rss----905ea2b3d4d1---4">Swamping and Masking in Anomaly detection: How Subsampling in Isolation Forests helps mitigate… </a></li> 
-          
-            <li> <a href="https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/">Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/auto-tuning-pinot">Auto-Tuning Pinot Real-Time Consumption </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/07/11/docker-security-considerations-part-i/">Docker Security Considerations Part I </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/self-attention-and-transformers-882e9de5edda?source=rss----7f60cf5620c9---4">Self Attention and Transformers </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/building-distributed-apps-second-approximation-f792b3fe893f?source=rss----7f60cf5620c9---4">Building distributed apps: second approximation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 19 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-19.html</guid>
       </item>
       
   </channel>
