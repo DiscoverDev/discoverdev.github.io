@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 05 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/">Mapping roads through deep learning and weakly supervised training </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/kafka-distributed-deployments?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Streaming Log Analytics with Kafka </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger">Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger </a></li> 
+          
+            <li> <a href="https://umbrella.cisco.com/blog/2019/07/24/picture-perfect-how-jpg-exif-data-hides-malware/">Picture Perfect: How JPG EXIF Data Hides Malware </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998?source=rss----53c7c27702d5---4">Supporting Dynamic Type at Airbnb </a></li> 
+          
+            <li> <a href="https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/">Safely Rewriting Mixpanel’s Highest Throughput Service in Golang </a></li> 
+          
+            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/item-fast-light-service/">Improving the Speed and Accuracy of the Item Page with Light Service </a></li> 
+          
+            <li> <a href="https://blog.imaginea.com/semantic-graphs/">Semantic Graphs </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 05 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 02 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Tue, 23 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 22 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/recent-advances-in-modern-computer-vision-56801edab980?source=rss----7f60cf5620c9---4">Recent Advances in Modern Computer Vision </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/deepracer?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: DeepRacer and DeepLens, Machine Learning for Fun! (and Profit?) </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html">Multilingual Universal Sentence Encoder for Semantic Retrieval </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/re-architecting-the-video-gatekeeper-f7b0ac2f6b00?source=rss----2615bd06b42e---4">Re-Architecting the Video Gatekeeper </a></li> 
-          
-            <li> <a href="https://medium.engineering/code-reviews-at-medium-bed2c0dce13a?source=rss----2817475205d3---4">Code Reviews at Medium </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/dl-audio-signal?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning with Audio Signals: Prepare, Process, Design, Expect </a></li> 
-          
-            <li> <a href="https://code.fb.com/android/hermes/">Hermes: An open source JavaScript engine optimized for mobile apps, starting with React Native </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/puma-4-hammering-out-h13s-a-debugging-story">Puma 4: Hammering Out H13s—A Debugging Story </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 22 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-22.html</guid>
       </item>
       
   </channel>
