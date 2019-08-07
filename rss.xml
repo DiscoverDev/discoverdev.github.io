@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 07 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.memsql.com/blog/scalable-sql-database/">A Scalable SQL Database Powers Real-Time Analytics at Uber </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/join-ordering-ii-the-ikkbz-algorithm/">Join Ordering II: The IKKBZ Algorithm </a></li> 
+          
+            <li> <a href="https://eng.uber.com/uber-poet/">Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds </a></li> 
+          
+            <li> <a href="https://eng.uber.com/web-booking-flow/">Building a More Seamless Web Booking Flow for Uber </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/07/25/the-hardest-thing-about-data-encryption">The Hardest Thing About Data Encryption </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/major-trends-in-nlp-a-review-of-20-years-of-acl-research-56f5520d473?source=rss----7f60cf5620c9---4">Major trends in NLP: a review of 20 years of ACL research </a></li> 
+          
+            <li> <a href="https://blog.twitch.tv/thisemotedoesnotexist-training-a-gan-for-twitch-emotes-a742b6354b73?source=rss----3ae745429979---4">ThisEmoteDoesNotExist: Training a GAN for Twitch Emotes </a></li> 
+          
+            <li> <a href="https://timescale.ghost.io/blog/implementing-constraint-exclusion-for-faster-query-performance/">Implementing constraint exclusion for faster query performance </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 07 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 05 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Wed, 24 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 23 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.heroku.com/how-dataclips-power-insights-at-heroku">Dataclips Power Insights at Heroku </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043?source=rss----37dc2a3034f2---4">Adaptive process and memory management for Python web servers </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/sql-server-index-analysis-and-optimization-1edd84d9da?source=rss----7f60cf5620c9---4">SQL Server Index Analysis and Optimization </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/websocket-simplified-b532f266cc9f?source=rss----5517fd7b58a6---4">WebSocket Simplified </a></li> 
-          
-            <li> <a href="https://allegro.tech/2019/07/migrating-microservice-to-spring-webflux.html">Migrating a microservice to Spring WebFlux </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/07/15/multithreaded-webassembly.html">Faster Fractals with Multi-Threaded WebAssembly </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/profile-nodejs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A New Way to Profile Node.js </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/profiling-vim">Profiling Vim </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 23 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-23.html</guid>
       </item>
       
   </channel>
