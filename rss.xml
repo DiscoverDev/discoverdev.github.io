@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 08 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/pid-loops?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: PID Loops and the Art of Keeping Systems Stable </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/07/26/workflow/">Moving from Data-Driven to AI-Driven&amp;#58; The Next Step in the Evolution of Business Workflows </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/fairness-privacy-transparency-by-design">Fairness, Privacy, and Transparency by Design in AI/ML Systems </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/introduction-to-http-2-d3e3b4f4d662?source=rss----905ea2b3d4d1---4">Introduction to HTTP 2 </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/07/26/quantifying-ux-positioning-of-the-clone-button/">Quantifying UX: Positioning the clone button </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/improving-the-scalability-of-a-spark-pipeline-for-conversion-attribution-5b3e2e16c53b?source=rss-ef81ef829bcb------2">Improving the scalability of a Spark pipeline for conversion attribution </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c?source=rss----7f60cf5620c9---4">Image Panorama Stitching with OpenCV </a></li> 
+          
+            <li> <a href="https://itnext.io/a-deep-dive-in-the-vue-js-source-code-4601a3f5584?source=rss----5b301f10ddcd---4">A deep dive in the Vue.js source code </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 08 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 07 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Thu, 25 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 24 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://semaphoreci.com/blog/kubernetes-deployment/">Kubernetes Deployments: The Ultimate Guide </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection">GraphQL&amp;nbsp;on Rails: On the way to perfection </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/">Redux with Code-Splitting and Type Checking </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/">The Ultimate Guide To Building Scalable Web Scrapers With Scrapy </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/07/frontend-framework-dimensions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">The Three Key Dimensions of Front-End Frameworks - Evan You at JS Conf Asia 2019 </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/build-a-modal-using-react-context-portals-and-hooks-bd0c4e54537e?source=rss----5517fd7b58a6---4">Build a  modal using React context, portals, and hooks </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-active-noise-cancellation-e364ce4562d4?source=rss----7f60cf5620c9---4">Deep Active  Noise Cancellation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/similar-images-recommendations-using-fastai-and-annoy-16d6ceb3b809?source=rss----7f60cf5620c9---4">Similar Images Recommendations using FastAi and Annoy </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 24 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-24.html</guid>
       </item>
       
   </channel>
