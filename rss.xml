@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 12 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://codeascraft.com/2019/07/31/an-introduction-to-structured-data-at-etsy/">An Introduction to Structured Data at Etsy </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/linkedin-streams-brooklin?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Dive Into Streams @LinkedIn With Brooklin </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/traits-serverless-architecture">The traits of serverless architecture </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/yunikorn-a-universal-resources-scheduler/">YuniKorn: a universal resources scheduler </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/evolution-of-netflix-conductor-16600be36bca?source=rss----2615bd06b42e---4">Evolution of Netflix Conductor: </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/07/maptype-fast-doc-value-lookups-for-map-data-in-elasticsearch.html">Maptype — fast doc-value lookups for map data in Elasticsearch </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/netflix-graphql?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Not Sold Yet, GraphQL: A Humble Tale from Skeptic to Enthusiast </a></li> 
+          
+            <li> <a href="https://stripe.com/blog/canonical-log-lines">Fast and flexible observability with canonical log lines </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 12 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 09 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Mon, 29 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 26 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/archigan-generative-stack-apartment-building-design/">ArchiGAN: a Generative Stack for Apartment Building Design </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/models-cognition-brain?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Learning from Machines </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/blog/2019/07/yunikorn-a-universal-resource-scheduler/">YuniKorn: a universal resource scheduler </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/double-deep-q-networks-905dd8325412?source=rss----7f60cf5620c9---4">Double Deep Q Networks </a></li> 
-          
-            <li> <a href="https://eng.uber.com/uscs-apache-spark/">Making Apache Spark Effortless for All of Uber </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/moore-law-expiring?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: No Moore Left to Give: Enterprise Computing After Moore&#39;s Law </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/random-forests-for-store-forecasting-at-walmart-scale-82af5b55a4db?source=rss----905ea2b3d4d1---4">Random Forests for Store Forecasting at Walmart Scale </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/">Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 26 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-26.html</guid>
       </item>
       
   </channel>
