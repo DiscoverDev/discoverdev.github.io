@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 13 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.grab.com/how-built-logging-stack">How We Built A Logging Stack at Grab </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/08/continuous-security?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Implementing Continuous Security for Microservices and Kubernetes </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/how-to-fix-the-ugly-focus-ring-and-not-break-accessibility-in-react/">How to fix the ugly focus ring and not break accessibility in React </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/item-fast-light-service/">Improving the Speed and Accuracy of the Item Page with Light Service </a></li> 
+          
+            <li> <a href="https://blog.golang.org/why-generics">Why Generics? </a></li> 
+          
+            <li> <a href="https://blog.docker.com/2019/07/maintainable-integration-tests-with-docker/">Write Maintainable Integration Tests with Docker </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/ordered-append-an-optimization-for-range-partitioning/">OrderedAppend: An optimization for range partitioning </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/understanding-pins-through-keyword-extraction-40cf94214c18?source=rss-ef81ef829bcb------2">Understanding Pins through keyword extraction </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 13 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 12 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Tue, 30 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 29 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.octo.com/en/android-materialshapedrawable/">Android Material Components: Exploring MaterialShapeDrawable </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/apt-transports/">A Tale of Two (APT) Transports </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/a-complete-guide-to-the-node-js-event-loop/">A complete guide to the Node.js event loop </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7?source=rss----905ea2b3d4d1---4">Resiliency Doctor – A tool to achieve resiliency in hybrid cloud application ecosystems </a></li> 
-          
-            <li> <a href="https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine/">Building the Inspect measurement engine </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/07/lynx-identifying-wayfair-customers-functional-needs/">Lynx: Identifying Wayfair Customers’ Functional Needs </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/parrotron-new-research-into-improving.html">Parrotron: New Research into Improving Verbal Communication for People with Speech Impairments </a></li> 
-          
-            <li> <a href="https://www.honeybadger.io/blog/turbolinks/">How We Migrated To Turbolinks Without Breaking Javascript </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 29 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-29.html</guid>
       </item>
       
   </channel>
