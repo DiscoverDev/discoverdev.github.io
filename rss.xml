@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 14 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams">Building Shared State Microservices for Distributed Systems Using Kafka Streams </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-use-subjects-to-multicast-observers-in-rxjs/">How to use subjects to multicast observers in RxJS </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538?source=rss----37dc2a3034f2---4">Making Instagram.com faster: Part 1 </a></li> 
+          
+            <li> <a href="https://blog.golang.org/experiment">Experiment, Simplify, Ship </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/our-journey-to-optimal-job-sizes-for-apache-spark-e787501e63ef?source=rss----cfe1120185d3---4">Our Journey to Optimal Job Sizes for Apache Spark </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/">Extending Hive Replication: Transactional Tables, External Tables, and Statistics </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/top-10-security-best-practices-for-mongodb/">Top 10 Security Best Practices for MongoDB </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/real-time-recommendation-system-rolling-feature-matrix-f5ca701439df?source=rss----7f60cf5620c9---4">Real-time Recommendation System: Rolling Feature Matrix </a></li> 
+          
+            <li> <a href="https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering-3434422afb54?source=rss----58820b6d8904---4">Disasterpiece Theater: Slack’s process for approachable Chaos Engineering </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident">Taming chaos: Preparing for your next incident </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 14 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 13 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +289,6 @@
         <pubDate>Wed, 31 Jul 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-07-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 30 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/articles/pipeline-driven-organization?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: The Pipeline Driven Organization - Enabling True Continuous Delivery </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/07/19/elasticsearch-clustering.html">Elasticsearch - clustering on AWS with optional auto-scaling </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/cache-me-if-you-can-2/">Cache me if you can – 2 </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/faster-better-stronger-building-high-quality-product">Faster, better, stronger: Building a high quality product </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/development/rematch-redux-without-the-bloat/">Rematch: Redux Without the Bloat </a></li> 
-          
-            <li> <a href="https://engineering.mixpanel.com/2019/07/18/petabyte-scale-data-deduplication/">Petabyte Scale Data Deduplication </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/07/18/container-security-a-developer-guide">Container Security: A Developer Guide </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/java-futures-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Java Futures, 2019 Edition </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 30 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-30.html</guid>
       </item>
       
   </channel>
