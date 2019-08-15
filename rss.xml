@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 15 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.tumblr.com/post/186792717134">Advances in Spam Detection on Tumblr </a></li> 
+          
+            <li> <a href="https://itnext.io/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631?source=rss----5b301f10ddcd---4">Who watches the watchmen? Mutation testing in action </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/music-functional-composition?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Functional Composition </a></li> 
+          
+            <li> <a href="https://hackernoon.com/android-internals-art-vs-dvm-deep-dive-gf2zl3zpo?source=rss">Android Internals: ART vs DVM deep dive </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-comprehensive-guide-to-correlational-neural-network-with-keras-3f7886028e4a?source=rss----7f60cf5620c9---4">A Comprehensive Guide to Correlational Neural Network with Keras </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/serverless-resiliency-infrastructure-as-code?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Resilient Serverless Systems </a></li> 
+          
+            <li> <a href="https://engineering.indeedblog.com/blog/2019/08/recognizing-class-imbalance/">Recognize Class Imbalance with Baselines and Better Metrics </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/data-first-sla-always">Data first, SLA always </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 15 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 14 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Thu, 01 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 31 Jul 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/going-multithread-with-node-js-492258ba32cf?source=rss----5b301f10ddcd---4">Going Multithread with Node.js </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a?source=rss----7f60cf5620c9---4">Holistic Large Scale Video Understanding </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/snowflake-automatic-clustering?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automatic Clustering at Snowflake </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/graalvm-optimizing-java?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Thomas Wuerthinger on GraalVM and Optimizing Java With Ahead-of-Time Compilation </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/building-smily-human-centric-similar.html">Building SMILY, a Human-Centric, Similar-Image Search Tool for Pathology </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-do-neural-style-transfers-work-b76de101eb3?source=rss----7f60cf5620c9---4">How Do Neural Style Transfers Work? </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/understanding-rxjs-observables/">Understanding RxJS Observables and why you need them </a></li> 
-          
-            <li> <a href="https://itnext.io/start-a-new-project-with-an-event-sourcing-architecture-59f8b8d0cf7?source=rss----5b301f10ddcd---4">Start a new project with an Event Sourcing Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 31 Jul 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-07-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-07-31.html</guid>
       </item>
       
   </channel>
