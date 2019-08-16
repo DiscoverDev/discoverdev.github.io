@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 16 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/gpudirect-storage/">GPUDirect Storage: A Direct Path Between Storage and GPU Memory </a></li> 
+          
+            <li> <a href="https://www.toptal.com/designers/user-research/guide-to-ux-research-methods">The Complete Guide to UX Research Methods </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/08/05/noisy-labels-deep-learning/">Using Noisy Labels to Train Deep Learning Models on Satellite Imagery </a></li> 
+          
+            <li> <a href="https://itnext.io/how-we-manage-live-1m-graphql-websocket-subscriptions-11e1880758b0?source=rss----5b301f10ddcd---4">How we manage live 1M GraphQL Websocket Subscriptions </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/ad-metrics-quality-and-testing-on-mobile-fae9e70e7761?source=rss-ef81ef829bcb------2">Ad Metrics Quality and Testing on Mobile </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2019/08/02/code-as-craft-understand-the-role-of-style-at-e-commerce-shopping/">Code as Craft: Understand the role of Style in e-commerce shopping </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/an-interactive-automated-3d.html">An Interactive, Automated 3D Reconstruction of a Fly Brain </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/timbermill-a-better-logging-service-d86ff32fec58?source=rss----cfe1120185d3---4">Timbermill — A better logging service </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 16 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 15 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Fri, 02 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 01 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/rust-webassembly-javascript?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rust, WebAssembly, and Javascript Make Three: An FFI Story </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac?source=rss----7f60cf5620c9---4">Understanding Partial Auto-Correlation </a></li> 
-          
-            <li> <a href="https://nordicapis.com/how-granular-should-you-design-apis/">How Granular Should You Design APIs? </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/linkerd-cloud-native?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Service Mesh: It&#39;s About Traffic </a></li> 
-          
-            <li> <a href="https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4?source=rss----58820b6d8904---4">When a rewrite isn’t: rebuilding Slack on the desktop </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/">Accelerating NiFi flows delivery: Part 1 </a></li> 
-          
-            <li> <a href="https://eng.uber.com/evograd/">Introducing EvoGrad: A Lightweight Library for Gradient-Based Evolution </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/graalvm-performance?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Maximizing Performance with GraalVM </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-01.html</guid>
       </item>
       
   </channel>
