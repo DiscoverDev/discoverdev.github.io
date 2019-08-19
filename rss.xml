@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 19 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/08/postMessage-performance-study?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Improving Webapp Performance with Multi-Threading: a Study of Web Workers&#39; Communication Overhead </a></li> 
+          
+            <li> <a href="https://nordicapis.com/how-to-tackle-api-first-redesigns-for-legacy-applications/">How to Tackle API-First Redesigns for Legacy Applications </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948?source=rss-ef81ef829bcb------2">Building a Kubernetes platform at Pinterest </a></li> 
+          
+            <li> <a href="https://eng.uber.com/migrating-functionality-between-production-systems/">Migrating Functionality Between Large-scale Production Systems Seamlessly </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/blog/voice-recognition-machine-learning-cicd">Solving Real Problems with Voice Recognition, Machine Learning, and CI/CD </a></li> 
+          
+            <li> <a href="https://stackoverflow.blog/2019/08/06/how-stack-overflow-caches-apps-for-a-multi-tenant-architecture/">How Stack Overflow Caches Apps for a Multi-Tenant Architecture </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/efficientnet-edgetpu-creating.html">EfficientNet-EdgeTPU: Creating Accelerator-Optimized Neural Networks with AutoML </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/privacy-attacks-machine-learning-models?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Privacy Attacks on Machine Learning Models </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 19 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 16 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +287,6 @@
         <pubDate>Mon, 05 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 02 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e?source=rss----905ea2b3d4d1---4">How TCP segment size can affect application traffic flow </a></li> 
-          
-            <li> <a href="https://stackshare.io/circleci/update-how-circleci-processes-over-30-million-builds-per-month">Update: How CircleCI Processes Over 30 Million Builds Per Month </a></li> 
-          
-            <li> <a href="https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/">How we stopped vulnerable code from landing in production </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/reproducible-model-training-deep-dive-2a4988d69031?source=rss----7f60cf5620c9---4">Reproducible model training: deep dive </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2019/07/23/fast-parallel-testing-at-databricks-with-bazel.html">Fast Parallel Testing at Databricks with Bazel </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/learning-better-simulation-methods-for.html">Learning Better Simulation Methods for Partial Differential Equations </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/implementation-of-a-monitoring-strategy-for-products-based-on-microservices-24ad24c4c3e5?source=rss----cfe1120185d3---4">Implementation of a monitoring strategy for products based on microservices </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/07/23/Testing-WebSockets-for-beginners.html">Testing WebSockets for beginners </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/blog/observability-measuring-microservices">What Is Observability &amp; How to Measure the Quality of Microservices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 02 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-02.html</guid>
       </item>
       
   </channel>
