@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 20 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://android-developers.googleblog.com/2019/08/gesture-navigation-backstory.html">Gesture Navigation: A Backstory </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/python-pandas-at-extreme-performance-912912b1047c?source=rss----7f60cf5620c9---4">Python Pandas at Extreme Performance </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/video-understanding-using-temporal.html">Video Understanding Using Temporal Cycle-Consistency Learning </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/unifying-visual-embeddings-for-visual-search-at-pinterest-74ea7ea103f0?source=rss-ef81ef829bcb------2">Unifying visual embeddings for visual search at Pinterest </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/08/08/micro-frontends-for-microservices">How to Win at UI Development in the World of Microservices </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/08/08/reactive-android.html">Reactive Android </a></li> 
+          
+            <li> <a href="https://www.toptal.com/android/android-and-ios-app-design-tips">Avoiding Bad Practices in iOS and Android Design </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/08/life-of-image/">Life of Image </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 20 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 19 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Wed, 07 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 05 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/">Mapping roads through deep learning and weakly supervised training </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/kafka-distributed-deployments?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Streaming Log Analytics with Kafka </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger">Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger </a></li> 
-          
-            <li> <a href="https://umbrella.cisco.com/blog/2019/07/24/picture-perfect-how-jpg-exif-data-hides-malware/">Picture Perfect: How JPG EXIF Data Hides Malware </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998?source=rss----53c7c27702d5---4">Supporting Dynamic Type at Airbnb </a></li> 
-          
-            <li> <a href="https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/">Safely Rewriting Mixpanel’s Highest Throughput Service in Golang </a></li> 
-          
-            <li> <a href="https://www.ebayinc.com/stories/blogs/tech/item-fast-light-service/">Improving the Speed and Accuracy of the Item Page with Light Service </a></li> 
-          
-            <li> <a href="https://blog.imaginea.com/semantic-graphs/">Semantic Graphs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 05 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-05.html</guid>
       </item>
       
   </channel>
