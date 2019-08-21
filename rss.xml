@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 21 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://ai.facebook.com/blog/-a-new-model-for-word-embeddings-that-are-resilient-to-misspellings-/">A new model for word embeddings that are resilient to misspellings </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ebtree-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: EBtree - Design for a Scheduler and Use (Almost) Everywhere </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/across-down-diagonal-how-we-test-crossword-puzzles-on-android-cd2bcea7e829?source=rss----51e1d1745b32---4">Across, Down, Diagonal — How We Test Crossword Puzzles on Android </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/introducing-pinqueue3-0-pinterests-next-gen-content-moderation-platform-fcfa972bf39c?source=rss-ef81ef829bcb------2">Introducing Pinqueue3.0, Pinterest’s next-gen content moderation platform </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/dl-models-tensorflow?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning for Recommender Systems </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/08/badoo-20-billion-events-per-day?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Data Engineering in Badoo: Handling 20 Billion Events per Day </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999?source=rss----7f60cf5620c9---4">The Intuition Behind Facial Detection: The Viola-Jones Algorithm </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/serving-dependencies-at-scale">Who Depends On Me? Serving Dependency Queries at Scale </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 20 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Thu, 08 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 07 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.memsql.com/blog/scalable-sql-database/">A Scalable SQL Database Powers Real-Time Analytics at Uber </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/join-ordering-ii-the-ikkbz-algorithm/">Join Ordering II: The IKKBZ Algorithm </a></li> 
-          
-            <li> <a href="https://eng.uber.com/uber-poet/">Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds </a></li> 
-          
-            <li> <a href="https://eng.uber.com/web-booking-flow/">Building a More Seamless Web Booking Flow for Uber </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/07/25/the-hardest-thing-about-data-encryption">The Hardest Thing About Data Encryption </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/major-trends-in-nlp-a-review-of-20-years-of-acl-research-56f5520d473?source=rss----7f60cf5620c9---4">Major trends in NLP: a review of 20 years of ACL research </a></li> 
-          
-            <li> <a href="https://blog.twitch.tv/thisemotedoesnotexist-training-a-gan-for-twitch-emotes-a742b6354b73?source=rss----3ae745429979---4">ThisEmoteDoesNotExist: Training a GAN for Twitch Emotes </a></li> 
-          
-            <li> <a href="https://timescale.ghost.io/blog/implementing-constraint-exclusion-for-faster-query-performance/">Implementing constraint exclusion for faster query performance </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 07 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-07.html</guid>
       </item>
       
   </channel>
