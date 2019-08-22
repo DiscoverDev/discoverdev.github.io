@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 22 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/nlu-with-tensorrt-bert/">Real-Time Natural Language Understanding with BERT Using TensorRT </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/magic-transit-network-functions/">Magic Transit: Network functions at Cloudflare scale </a></li> 
+          
+            <li> <a href="https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/">Mapping roads through deep learning and weakly supervised training </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/pagination-relative-cursors">Pagination with Relative Cursors </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/kubernetes-workloads-serverless-era?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/introducing-coil-kotlin-first-image-loading-on-android-f0fdc7a2a99e?source=rss----587883b5d2ee---4">Introducing Coil: Kotlin-first image loading on Android </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/data--cern-lhc?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Tackling Computing Challenges @CERN </a></li> 
+          
+            <li> <a href="https://hackernoon.com/couchbase-mobile-the-power-of-nosql-on-the-edge-dkdhx30jl?source=rss">Couchbase Mobile: The Power of NoSQL on the Edge </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 22 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 21 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Fri, 09 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 08 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/pid-loops?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: PID Loops and the Art of Keeping Systems Stable </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/07/26/workflow/">Moving from Data-Driven to AI-Driven&amp;#58; The Next Step in the Evolution of Business Workflows </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/fairness-privacy-transparency-by-design">Fairness, Privacy, and Transparency by Design in AI/ML Systems </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/introduction-to-http-2-d3e3b4f4d662?source=rss----905ea2b3d4d1---4">Introduction to HTTP 2 </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/07/26/quantifying-ux-positioning-of-the-clone-button/">Quantifying UX: Positioning the clone button </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/improving-the-scalability-of-a-spark-pipeline-for-conversion-attribution-5b3e2e16c53b?source=rss-ef81ef829bcb------2">Improving the scalability of a Spark pipeline for conversion attribution </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c?source=rss----7f60cf5620c9---4">Image Panorama Stitching with OpenCV </a></li> 
-          
-            <li> <a href="https://itnext.io/a-deep-dive-in-the-vue-js-source-code-4601a3f5584?source=rss----5b301f10ddcd---4">A deep dive in the Vue.js source code </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 08 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-08.html</guid>
       </item>
       
   </channel>
