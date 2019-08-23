@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 23 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://advancedweb.hu/2019/08/14/plantuml_continuous/">Adding continuous rendering to the PlantUML server </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-history-and-legacy-of-jquery/">The history and legacy of jQuery </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/project-euphonias-personalized-speech.html">Project Euphonia’s Personalized Speech Recognition for Non-Standard Speech </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/isolation-forest">Detecting and Preventing Abuse on LinkedIn Using Isolation Forests </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/08/13/scylla-open-source-3-1-efficiently-maintaining-consistency-with-row-level-repair/">Scylla Open Source 3.1: Efficiently Maintaining Consistency with Row-Level Repair </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/gquic-protocol-analysis-and-fingerprinting-in-zeek-a4178855d75f?source=rss----cfe1120185d3---4">GQUIC Protocol Analysis and Fingerprinting in Zeek </a></li> 
+          
+            <li> <a href="https://www.elastic.co/blog/seccomp-in-the-elastic-stack">Seccomp in the Elastic Stack </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/spotify-event-system?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Events Must Flow: Lessons Learnt Evolving the Spotify’s Event Delivery System </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 23 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 22 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 12 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 09 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/pinterest-engineering/building-a-real-time-anomaly-detection-system-for-time-series-at-pinterest-a833e6856ddd?source=rss-ef81ef829bcb------2">Building a real-time anomaly detection system for time series at Pinterest </a></li> 
-          
-            <li> <a href="https://www.ably.io/blog/ably-debugging-tales-1/">Ably Debugging Tales Part 1 - An Elixir Erlang Mystery </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/lefthook-knock-your-teams-code-back-into-shape">Lefthook: Knock your team&#39;s code back into shape </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/">Parallelism in PostgreSQL </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/using-redux-with-react-hooks">Using Redux with React Hooks - Should You Though? </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/the-science-behind-consolidating-answer-bot-production-models-part-1-be5579a9047e?source=rss----a88376ea904a---4">The science behind consolidating Answer Bot production Models: Part 1 </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/07/robust-neural-machine-translation.html">Robust Neural Machine Translation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d?source=rss----7f60cf5620c9---4">Illustrated: 10 CNN Architectures </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 09 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-09.html</guid>
       </item>
       
   </channel>
