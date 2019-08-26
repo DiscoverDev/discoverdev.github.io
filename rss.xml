@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 26 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/video-analysis-with-tensor-decomposition-in-python-3a1fe088831c?source=rss----7f60cf5620c9---4">Video Analysis with Tensor Decomposition in Python </a></li> 
+          
+            <li> <a href="https://blog.developer.atlassian.com/why-atlassian-uses-an-internal-paas-to-regulate-aws-access/">Why Atlassian uses an internal PaaS to regulate AWS access </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/nuraft-a-lightweight-c-raft-core/">NuRaft: a Lightweight C++ Raft Core </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/data-hub">Data Hub: A Generalized Metadata Search &amp; Discovery Tool </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/blog/bret-fisher-devops-docker">Speeding Up Your DevOps Workflows with Docker </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/fraud-detection-random-forest?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Fraud Detection using Random Forest, Neural Autoencoder, and Isolation Forest techniques </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/">The (not so) hidden cost of sharing code between iOS and Android </a></li> 
+          
+            <li> <a href="https://www.toptal.com/react/react-testing-library-tutorial">Increase Code Maintainability with React Integration Testing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 26 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 23 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 13 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 12 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://codeascraft.com/2019/07/31/an-introduction-to-structured-data-at-etsy/">An Introduction to Structured Data at Etsy </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/linkedin-streams-brooklin?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Dive Into Streams @LinkedIn With Brooklin </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/traits-serverless-architecture">The traits of serverless architecture </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/yunikorn-a-universal-resources-scheduler/">YuniKorn: a universal resources scheduler </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/evolution-of-netflix-conductor-16600be36bca?source=rss----2615bd06b42e---4">Evolution of Netflix Conductor: </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/07/maptype-fast-doc-value-lookups-for-map-data-in-elasticsearch.html">Maptype — fast doc-value lookups for map data in Elasticsearch </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-graphql?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Not Sold Yet, GraphQL: A Humble Tale from Skeptic to Enthusiast </a></li> 
-          
-            <li> <a href="https://stripe.com/blog/canonical-log-lines">Fast and flexible observability with canonical log lines </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 12 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-12.html</guid>
       </item>
       
   </channel>
