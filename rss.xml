@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 27 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-2-be6d71d70f49?source=rss----7f60cf5620c9---4">Anisotropic, Dynamic, Spectral and Multiscale Filters Defined on Graphs </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/flatmap-your-job-queue">flatMap Your Job Queue </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/security/zoncolan/">Zoncolan: How Facebook uses static analysis to detect and prevent security issues </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c?source=rss----37dc2a3034f2---4">Static Analysis at Scale: An Instagram Story </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/upgrading-pinterest-operational-metrics-8718d058079a?source=rss-ef81ef829bcb------2">Upgrading Pinterest operational metrics </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/monolith-observable-microservices-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Monolith to Observable Microservices using DDD </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Testing Microservices: an Overview of 12 Useful Techniques - Part 1 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/go-locks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Let&#39;s Talk Locks! </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/08/15/delta-requests-frequently-updated-application-bundles-2002-to-service-workers.html">Delta requests for frequently-updated application bundles: from 2002 to service workers </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/labeling-transforming-and-structuring-training-data-sets-for-machine-learning">Labeling, transforming, and structuring training data sets for machine learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 27 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 26 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +291,6 @@
         <pubDate>Wed, 14 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 13 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.grab.com/how-built-logging-stack">How We Built A Logging Stack at Grab </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/08/continuous-security?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Implementing Continuous Security for Microservices and Kubernetes </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/how-to-fix-the-ugly-focus-ring-and-not-break-accessibility-in-react/">How to fix the ugly focus ring and not break accessibility in React </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/item-fast-light-service/">Improving the Speed and Accuracy of the Item Page with Light Service </a></li> 
-          
-            <li> <a href="https://blog.golang.org/why-generics">Why Generics? </a></li> 
-          
-            <li> <a href="https://blog.docker.com/2019/07/maintainable-integration-tests-with-docker/">Write Maintainable Integration Tests with Docker </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/ordered-append-an-optimization-for-range-partitioning/">OrderedAppend: An optimization for range partitioning </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/understanding-pins-through-keyword-extraction-40cf94214c18?source=rss-ef81ef829bcb------2">Understanding Pins through keyword extraction </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 13 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-13.html</guid>
       </item>
       
   </channel>
