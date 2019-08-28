@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 28 Aug 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.squarespace.com/blog/2019/performance-tuning-postgres-within-our-tls-infrastructure">Performance Tuning Postgres within our TLS Infrastructure </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/pin2interest-a-scalable-system-for-content-classification-41a586675ee7?source=rss-ef81ef829bcb------2">Pin2Interest: A scalable system for content classification </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/connection-coalescing">Evaluating Connection Coalescing For Static and Media Asset Downloads </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/joint-speech-recognition-and-speaker.html">Joint Speech Recognition and Speaker Diarization via Sequence Transduction </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/sql-prober-black-box-monitoring-in-managed-cockroachdb/">SQL Prober: Black-box Monitoring in Managed CockroachDB </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/adventures-in-big-data-wonderland-going-down-the-pinterest-path-49f6af21f6b5?source=rss-ef81ef829bcb------2">Adventures in big data wonderland: Going down the Pinterest Path </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/nlp-ml-dl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Hands-on Feature Engineering for Natural Language Processing </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/use-rxjs-operators-to-consume-observables/">How to use RxJS operators to consume Observables in your workflow </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/beacons-and-geofencing-real-time-asset-tracking-and-self-service-part-i">Beacons and geofencing: real time enterprise asset tracking and self-service </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2019/08/15/how-not-to-scale-deep-learning-in-6-easy-steps.html">How (Not) To Scale Deep Learning in 6 Easy Steps </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 28 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 27 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,38 +291,6 @@
         <pubDate>Thu, 15 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 14 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams">Building Shared State Microservices for Distributed Systems Using Kafka Streams </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-use-subjects-to-multicast-observers-in-rxjs/">How to use subjects to multicast observers in RxJS </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538?source=rss----37dc2a3034f2---4">Making Instagram.com faster: Part 1 </a></li> 
-          
-            <li> <a href="https://blog.golang.org/experiment">Experiment, Simplify, Ship </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/our-journey-to-optimal-job-sizes-for-apache-spark-e787501e63ef?source=rss----cfe1120185d3---4">Our Journey to Optimal Job Sizes for Apache Spark </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/">Extending Hive Replication: Transactional Tables, External Tables, and Statistics </a></li> 
-          
-            <li> <a href="https://blog.sqreen.com/top-10-security-best-practices-for-mongodb/">Top 10 Security Best Practices for MongoDB </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/real-time-recommendation-system-rolling-feature-matrix-f5ca701439df?source=rss----7f60cf5620c9---4">Real-time Recommendation System: Rolling Feature Matrix </a></li> 
-          
-            <li> <a href="https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering-3434422afb54?source=rss----58820b6d8904---4">Disasterpiece Theater: Slack’s process for approachable Chaos Engineering </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident">Taming chaos: Preparing for your next incident </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 14 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-14.html</guid>
       </item>
       
   </channel>
