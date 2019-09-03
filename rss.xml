@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 03 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/">Building a distributed time-series database on PostgreSQL </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/">RunBMC: OCP hardware spec solves data center BMC pain points </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/08/webassembly-interface-types/">WebAssembly Interface Types: Interoperate with All the Things! </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/autodesk-forge-viewer?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rendering Large Models in the Browser in Real Time </a></li> 
+          
+            <li> <a href="https://www.ably.io/blog/sqs-fifo-queues-message-ordering-and-exactly-once-processing-guaranteed/">SQS FIFO Queues: Message Ordering and Exactly-Once Processing Guaranteed? </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae?source=rss----7f60cf5620c9---4">Advanced Topics in Neural Networks </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/top-10-security-traps-to-avoid-when-migrating-from-a-monolith-to-microservices/">Top 10 security traps to avoid when migrating from a monolith to microservices </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/pytorch-torchscript-botorch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Research to Production With PyTorch </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 03 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 30 Aug 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Tue, 20 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 19 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/08/postMessage-performance-study?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Improving Webapp Performance with Multi-Threading: a Study of Web Workers&#39; Communication Overhead </a></li> 
-          
-            <li> <a href="https://nordicapis.com/how-to-tackle-api-first-redesigns-for-legacy-applications/">How to Tackle API-First Redesigns for Legacy Applications </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948?source=rss-ef81ef829bcb------2">Building a Kubernetes platform at Pinterest </a></li> 
-          
-            <li> <a href="https://eng.uber.com/migrating-functionality-between-production-systems/">Migrating Functionality Between Large-scale Production Systems Seamlessly </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/blog/voice-recognition-machine-learning-cicd">Solving Real Problems with Voice Recognition, Machine Learning, and CI/CD </a></li> 
-          
-            <li> <a href="https://stackoverflow.blog/2019/08/06/how-stack-overflow-caches-apps-for-a-multi-tenant-architecture/">How Stack Overflow Caches Apps for a Multi-Tenant Architecture </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/08/efficientnet-edgetpu-creating.html">EfficientNet-EdgeTPU: Creating Accelerator-Optimized Neural Networks with AutoML </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/privacy-attacks-machine-learning-models?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Privacy Attacks on Machine Learning Models </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 19 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-19.html</guid>
       </item>
       
   </channel>
