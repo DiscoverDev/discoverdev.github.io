@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 05 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://about.gitlab.com/2019/08/26/managing-your-snowflake-spend-with-periscope-and-dbt/">How to manage your Snowflake spend with Periscope and dbt </a></li> 
+          
+            <li> <a href="https://engineering.zomato.com/blog/sushi">Zomato’s new Sushi Design System </a></li> 
+          
+            <li> <a href="https://ai.facebook.com/blog/powered-by-ai-oculus-insight/">Powered by AI: Oculus Insight </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ai-ml-functional-programming?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Computer Mathematics, AI and Functional Programming </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/08/faster-image-loading-embedded-previews/">Faster Image Loading With Embedded Image Previews </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/replicating-postgresql-into-memsqls-columnstore/">Replicating PostgreSQL into MemSQL’s Columnstore </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/kubernetes-security-best-practices/">Kubernetes security best practices </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/graal-jvm-jit?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Graal: How to Use the New JVM JIT Compiler in Real Life </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 05 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 04 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Thu, 22 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 21 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://ai.facebook.com/blog/-a-new-model-for-word-embeddings-that-are-resilient-to-misspellings-/">A new model for word embeddings that are resilient to misspellings </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ebtree-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: EBtree - Design for a Scheduler and Use (Almost) Everywhere </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/across-down-diagonal-how-we-test-crossword-puzzles-on-android-cd2bcea7e829?source=rss----51e1d1745b32---4">Across, Down, Diagonal — How We Test Crossword Puzzles on Android </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/introducing-pinqueue3-0-pinterests-next-gen-content-moderation-platform-fcfa972bf39c?source=rss-ef81ef829bcb------2">Introducing Pinqueue3.0, Pinterest’s next-gen content moderation platform </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/dl-models-tensorflow?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deep Learning for Recommender Systems </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/08/badoo-20-billion-events-per-day?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Data Engineering in Badoo: Handling 20 Billion Events per Day </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999?source=rss----7f60cf5620c9---4">The Intuition Behind Facial Detection: The Viola-Jones Algorithm </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/serving-dependencies-at-scale">Who Depends On Me? Serving Dependency Queries at Scale </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 21 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-21.html</guid>
       </item>
       
   </channel>
