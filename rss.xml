@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 06 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/followfeed-features-auditing">Auditing Content Features in FollowFeed </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/cnn-architectures-a-deep-dive-a99441d18049?source=rss----7f60cf5620c9---4">CNN Architectures, a Deep-dive </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/2019/08/27/tyranny-of-the-clock/">6 Lessons we learned when debugging a scaling problem on GitLab.com </a></li> 
+          
+            <li> <a href="https://itnext.io/designing-a-kotlin-memory-safe-mode-c76c06317c3e?source=rss----5b301f10ddcd---4">Designing a Kotlin memory safe mode </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/08/javascript-video-editor?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">High Performance Video Editing for the Mobile Web </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/flutter-cross-platform?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Build Cross Platform Apps with Flutter </a></li> 
+          
+            <li> <a href="https://blog.developer.atlassian.com/lessons-learned-bitbucket-unit-testing-migration-jest/">What Bitbucket learned from migrating its unit testing tool </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99?source=rss----905ea2b3d4d1---4">Delivering ReactJS applications at scale </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html">Bi-Tempered Logistic Loss for Training Neural Nets with Noisy Data </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/08/26/combat-side-channel-attacks-with-corb">Combat Side-Channel Attacks with Cross-Origin Read Blocking </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 06 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 05 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +297,6 @@
         <pubDate>Fri, 23 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 22 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/nlu-with-tensorrt-bert/">Real-Time Natural Language Understanding with BERT Using TensorRT </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/magic-transit-network-functions/">Magic Transit: Network functions at Cloudflare scale </a></li> 
-          
-            <li> <a href="https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/">Mapping roads through deep learning and weakly supervised training </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/pagination-relative-cursors">Pagination with Relative Cursors </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/kubernetes-workloads-serverless-era?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/introducing-coil-kotlin-first-image-loading-on-android-f0fdc7a2a99e?source=rss----587883b5d2ee---4">Introducing Coil: Kotlin-first image loading on Android </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/data--cern-lhc?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Tackling Computing Challenges @CERN </a></li> 
-          
-            <li> <a href="https://hackernoon.com/couchbase-mobile-the-power-of-nosql-on-the-edge-dkdhx30jl?source=rss">Couchbase Mobile: The Power of NoSQL on the Edge </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 22 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-22.html</guid>
       </item>
       
   </channel>
