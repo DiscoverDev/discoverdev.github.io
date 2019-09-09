@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 09 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/08/28/two-approaches-for-data-validation-in-ml-production.html">Two approaches for data validation in ML production </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/acceptance-testing-continuous-delivery?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Acceptance Testing for Continuous Delivery </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly/">Beyond The Browser: Getting Started With Serverless WebAssembly </a></li> 
+          
+            <li> <a href="https://stackshare.io/segment/cultivating-your-data-lake">Cultivating your Data Lake </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/down-rabbit-hole-performance-monitoring">Down The Rabbit Hole of Performance Monitoring </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/building-resilient-graphql-apis-using-idempotency">Building Resilient GraphQL APIs Using Idempotency </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/cellery-code-first-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Cellery: A Code-First Approach to Deploy Applications on Kubernetes </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html">Exploring Weight Agnostic Neural Networks </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 09 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 06 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Mon, 26 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 23 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://advancedweb.hu/2019/08/14/plantuml_continuous/">Adding continuous rendering to the PlantUML server </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-history-and-legacy-of-jquery/">The history and legacy of jQuery </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/08/project-euphonias-personalized-speech.html">Project Euphonia’s Personalized Speech Recognition for Non-Standard Speech </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/isolation-forest">Detecting and Preventing Abuse on LinkedIn Using Isolation Forests </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/08/13/scylla-open-source-3-1-efficiently-maintaining-consistency-with-row-level-repair/">Scylla Open Source 3.1: Efficiently Maintaining Consistency with Row-Level Repair </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/gquic-protocol-analysis-and-fingerprinting-in-zeek-a4178855d75f?source=rss----cfe1120185d3---4">GQUIC Protocol Analysis and Fingerprinting in Zeek </a></li> 
-          
-            <li> <a href="https://www.elastic.co/blog/seccomp-in-the-elastic-stack">Seccomp in the Elastic Stack </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/spotify-event-system?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Events Must Flow: Lessons Learnt Evolving the Spotify’s Event Delivery System </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 23 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-23.html</guid>
       </item>
       
   </channel>
