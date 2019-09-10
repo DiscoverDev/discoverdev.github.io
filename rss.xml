@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 10 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://about.gitlab.com/2019/08/30/software-test-at-gitlab/">An inside look at software testing at GitLab </a></li> 
+          
+            <li> <a href="http://webuild.envato.com/blog/the-tale-of-the-missing-semaphore/">The tale of the missing semaphore </a></li> 
+          
+            <li> <a href="https://www.zillow.com/engineering/federated-graphql-server-at-scale/">Federated GraphQL Server at Scale: Zillow Rental Manager Real-time Chat Application </a></li> 
+          
+            <li> <a href="http://tech.trello.com/adopting-graphql-and-apollo/">Adopting GraphQL and Apollo in a Legacy Application </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-graph-visualizations">Using Graph Processing for Kafka Stream Visualizations </a></li> 
+          
+            <li> <a href="https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88?source=rss----58820b6d8904---4">Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support </a></li> 
+          
+            <li> <a href="https://eng.uber.com/best-practices-for-react-v16/">Best Practices for Unit Testing in React Version 16 </a></li> 
+          
+            <li> <a href="https://www.toptal.com/natural-language-processing/accelerate-with-bert-nlp-optimization-models">Accelerate with BERT: NLP Optimization Models </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/">Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/tracing-distributed-systems-using-jaeger?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Yuri Shkuro on Tracing Distributed Systems Using Jaeger </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 10 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 09 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +301,6 @@
         <pubDate>Tue, 27 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 26 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/video-analysis-with-tensor-decomposition-in-python-3a1fe088831c?source=rss----7f60cf5620c9---4">Video Analysis with Tensor Decomposition in Python </a></li> 
-          
-            <li> <a href="https://blog.developer.atlassian.com/why-atlassian-uses-an-internal-paas-to-regulate-aws-access/">Why Atlassian uses an internal PaaS to regulate AWS access </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/nuraft-a-lightweight-c-raft-core/">NuRaft: a Lightweight C++ Raft Core </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/data-hub">Data Hub: A Generalized Metadata Search &amp; Discovery Tool </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/blog/bret-fisher-devops-docker">Speeding Up Your DevOps Workflows with Docker </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/fraud-detection-random-forest?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Fraud Detection using Random Forest, Neural Autoencoder, and Isolation Forest techniques </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/">The (not so) hidden cost of sharing code between iOS and Android </a></li> 
-          
-            <li> <a href="https://www.toptal.com/react/react-testing-library-tutorial">Increase Code Maintainability with React Integration Testing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 26 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-26.html</guid>
       </item>
       
   </channel>
