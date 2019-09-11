@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 11 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/articles/chaos-engineering-security-networking?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How to Use Chaos Engineering to Break Things Productively </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html">X3D: Declarative 3D for the Modern Web </a></li> 
+          
+            <li> <a href="https://allegro.tech/2019/09/page-visibility-and-performance-metrics.html">Page visibility and performance metrics </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ddd-functional-programming?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: (Dys)functional DDD </a></li> 
+          
+            <li> <a href="https://hackernoon.com/writing-shellcode-for-iot-a-password-protected-reverse-shell-for-arm-2hi1320h?source=rss">Developing Shellcode for IoT: A Password-Protected Reverse Shell for ARM Processors </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/a-technical-introduction-to-memsql/">A Technical Introduction to MemSQL </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/automated-ml-dl-workflow?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automating Machine Learning and Deep Learning Workflows </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses">Gradle Remote Build Cache Misses </a></li> 
+          
+            <li> <a href="https://tech.transferwise.com/bringing-data-sources-together-with-pipelinewise/">Bringing Data Sources Together with PipelineWise </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/">The Baseline Interpreter: a faster JS interpreter in Firefox 70 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 11 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 10 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,38 +301,6 @@
         <pubDate>Wed, 28 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 27 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-2-be6d71d70f49?source=rss----7f60cf5620c9---4">Anisotropic, Dynamic, Spectral and Multiscale Filters Defined on Graphs </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/flatmap-your-job-queue">flatMap Your Job Queue </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/security/zoncolan/">Zoncolan: How Facebook uses static analysis to detect and prevent security issues </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c?source=rss----37dc2a3034f2---4">Static Analysis at Scale: An Instagram Story </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/upgrading-pinterest-operational-metrics-8718d058079a?source=rss-ef81ef829bcb------2">Upgrading Pinterest operational metrics </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/monolith-observable-microservices-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Monolith to Observable Microservices using DDD </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Testing Microservices: an Overview of 12 Useful Techniques - Part 1 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/go-locks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Let&#39;s Talk Locks! </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/08/15/delta-requests-frequently-updated-application-bundles-2002-to-service-workers.html">Delta requests for frequently-updated application bundles: from 2002 to service workers </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/labeling-transforming-and-structuring-training-data-sets-for-machine-learning">Labeling, transforming, and structuring training data sets for machine learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 27 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-27.html</guid>
       </item>
       
   </channel>
