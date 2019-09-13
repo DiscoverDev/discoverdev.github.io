@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 13 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.scylladb.com/2019/09/05/time-based-anti-patterns-for-caching-time-series-data/">Time-Based Anti-Patterns for Caching Time-Series Data </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/">Our journey to type checking 4 million lines of Python </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/how-graph-algorithms-improve-machine-learning">How graph algorithms improve machine learning </a></li> 
+          
+            <li> <a href="https://nordicapis.com/the-present-and-future-of-api-design/">The Present And Future Of API Design </a></li> 
+          
+            <li> <a href="https://hackernoon.com/different-strategies-for-designing-the-caching-in-large-scale-distributed-system-fg87307f?source=rss">Three Strategies For Designing The Caching In Large Scale Distributed System </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/odm/">eBay&#39;s Hyperscale Platforms </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/08/30/transfer-learning-from-rgb-to-multi-band-imagery/">Transfer Learning from RGB to Multi-band Imagery </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/developer-security-best-practices-protecting-against-timing-attacks/">Developer security best practices: protecting against timing attacks </a></li> 
+          
+            <li> <a href="https://blog.developer.atlassian.com/java-debugging-at-scale-when-rare-events-become-commonplace/">Java debugging at scale: when rare events become commonplace </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ai-7-steps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: 7 Steps to Design, Build, and Scale an AI Product </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 13 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 12 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +301,6 @@
         <pubDate>Fri, 30 Aug 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-08-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 29 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/podcasts/robotic-operating-system?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Louise Poubel on the Robotic Operating System </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2019/08/19/effective-ios-app-ui-testing-with-automationtools/">Effective iOS app UI testing with AutomationTools </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/reverse-image-search-with-machine-learning-92786a07c142?source=rss----d3d69d818e3d---4">Reverse Image Search with Machine Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/slam-intro-fd833ef29e4e?source=rss----7f60cf5620c9---4">Autonomous Driving: Intro into SLAM </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/dynamic-speed-optimization-bcd9810900a?source=rss----7f60cf5620c9---4">Dynamic Speed Optimization </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/faas-cloudflare-workers?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Real-World Examples of FaaS </a></li> 
-          
-            <li> <a href="https://hackernoon.com/database-testing-the-guide-wq30i300n?source=rss">The Big Bad Guide on Database Testing </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-we-manage-live-1m-graphql-websocket-subscriptions-697t3zki?source=rss">How we manage live 1M GraphQL Websocket Subscriptions </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 29 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-29.html</guid>
       </item>
       
   </channel>
