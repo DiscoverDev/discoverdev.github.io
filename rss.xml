@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 16 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/09/05/transfer-learning-from-the-ground-up.html">Transfer Learning - from the ground up </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ml-salesforce-einstein?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Metrics-driven Machine Learning Development at Salesforce Einstein </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db?source=rss----905ea2b3d4d1---4">Demand Forecasting Tech Stack @ Walmart </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/pintext-a-multitask-text-embedding-system-in-pinterest-b80ece364555?source=rss-ef81ef829bcb------2">PinText: A Multitask Text Embedding System in Pinterest </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/building-without-bundling/">Building without bundling: How to do more with less </a></li> 
+          
+            <li> <a href="https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a?source=rss----cfc9f21a543a---4">Design Decisions for the First Embedded Analytics Open-Source Framework </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/understanding-thread-dumps">Understanding Thread Dumps </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/09/varnish-request-restarts/">Achieving a tenfold increase in Varnish throughput by replacing libvmod&amp;#8209;curl with native request restarts </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 16 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 13 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,36 +299,6 @@
         <pubDate>Tue, 03 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 30 Aug 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/state-serverless-computing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The State of Serverless Computing </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/transactional-systems-with-apache-kafka">Building Transactional Systems Using Apache Kafka </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html">Turbo, An Improved Rainbow Colormap for Visualization </a></li> 
-          
-            <li> <a href="https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148?source=rss----5b301f10ddcd---4">CSS Architecture with SASS, SMACSS, and BEM. </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/building-a-fault-tolerant-data-pipeline-for-chatbots-47d74bc31f5b?source=rss----cfe1120185d3---4">Building a Fault-Tolerant Data Pipeline for Chatbots </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/08/real-time-multiplayer-virtual-reality-game-part-1/">How To Build A Real-Time Multiplayer Virtual Reality Game (Part 1) </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/docker-for-front-end-developers/">Docker for front-end developers </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html">On-Device, Real-Time Hand Tracking with MediaPipe </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/dl-tensorflow-2?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Getting Started in Deep Learning with TensorFlow 2.0 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 30 Aug 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-08-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-30.html</guid>
       </item>
       
   </channel>
