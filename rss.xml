@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 17 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/micro-frontend-941a5f1a3e72?source=rss----5b301f10ddcd---4">Micro-Frontend </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9?source=rss">RNG in Solidity for Ethereum? </a></li> 
+          
+            <li> <a href="https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/">The Power of Headless Chrome and PWA Automation Using Puppeteer </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/android-launch-performance-1d3c9fe4af62?source=rss----89d4108ce2a3---4">Android Launch Performance </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/how-map-matching-failures-can-be-used-for-map-making-1970c52f88a7?source=rss----25cd379abb8---4">How Map Matching Failures can be used for Map Making </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/event-sourcing-vs-derivative-event-sourcing-explained">Introducing Derivative Event Sourcing </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4?source=rss----37dc2a3034f2---4">Making Instagram.com faster: Part 2 </a></li> 
+          
+            <li> <a href="https://crystal-lang.org/2019/09/06/parallelism-in-crystal.html">Parallelism in Crystal </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 17 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 16 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +299,6 @@
         <pubDate>Wed, 04 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 03 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/">Building a distributed time-series database on PostgreSQL </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/">RunBMC: OCP hardware spec solves data center BMC pain points </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/08/webassembly-interface-types/">WebAssembly Interface Types: Interoperate with All the Things! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/autodesk-forge-viewer?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rendering Large Models in the Browser in Real Time </a></li> 
-          
-            <li> <a href="https://www.ably.io/blog/sqs-fifo-queues-message-ordering-and-exactly-once-processing-guaranteed/">SQS FIFO Queues: Message Ordering and Exactly-Once Processing Guaranteed? </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae?source=rss----7f60cf5620c9---4">Advanced Topics in Neural Networks </a></li> 
-          
-            <li> <a href="https://blog.sqreen.com/top-10-security-traps-to-avoid-when-migrating-from-a-monolith-to-microservices/">Top 10 security traps to avoid when migrating from a monolith to microservices </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/pytorch-torchscript-botorch?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Research to Production With PyTorch </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-03.html</guid>
       </item>
       
   </channel>
