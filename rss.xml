@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 19 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/articles/java-robot-swarms?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Using Java to Orchestrate Robot Swarms </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/09/11/Designing-with-accessibility-in-mind.html">Designing with accessibility in mind </a></li> 
+          
+            <li> <a href="https://www.opsian.com/blog/solve-cpu-time-problems-with-continuous-profiling/">How to solve CPU time problems with Continuous Profiling and Flame Graphs </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/reimagining-experimentation-analysis-at-netflix-71356393af21?source=rss----2615bd06b42e---4">Reimagining Experimentation Analysis at Netflix </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/">Moving Beyond Deterministic Optimization: Making a Decision in the Face of Uncertainty </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/generate-natural-sounding-speech-from-text-in-real-time/">Generate Natural Sounding Speech from Text in Real-Time </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/serverless-iascode-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Resilient Serverless Systems </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2019/09/10/doing-multivariate-time-series-forecasting-with-recurrent-neural-networks.html">Doing Multivariate Time Series Forecasting with Recurrent Neural Networks </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/cuda-graphs/">Getting Started with CUDA Graphs </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 19 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 18 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +307,6 @@
         <pubDate>Fri, 06 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 05 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://about.gitlab.com/2019/08/26/managing-your-snowflake-spend-with-periscope-and-dbt/">How to manage your Snowflake spend with Periscope and dbt </a></li> 
-          
-            <li> <a href="https://engineering.zomato.com/blog/sushi">Zomato’s new Sushi Design System </a></li> 
-          
-            <li> <a href="https://ai.facebook.com/blog/powered-by-ai-oculus-insight/">Powered by AI: Oculus Insight </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ai-ml-functional-programming?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Computer Mathematics, AI and Functional Programming </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/08/faster-image-loading-embedded-previews/">Faster Image Loading With Embedded Image Previews </a></li> 
-          
-            <li> <a href="https://www.memsql.com/blog/replicating-postgresql-into-memsqls-columnstore/">Replicating PostgreSQL into MemSQL’s Columnstore </a></li> 
-          
-            <li> <a href="https://blog.sqreen.com/kubernetes-security-best-practices/">Kubernetes security best practices </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/graal-jvm-jit?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Graal: How to Use the New JVM JIT Compiler in Real Life </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 05 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-05.html</guid>
       </item>
       
   </channel>
