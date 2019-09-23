@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 23 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://developer.okta.com/blog/2019/09/12/why-public-key-cryptography-matters">Why Public Key Cryptography Matters </a></li> 
+          
+            <li> <a href="https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit-8a2830484259?source=rss----58820b6d8904---4">The Gradual Design System: How We Built Slack Kit </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/understanding-deep-neural-networks">Understanding deep neural networks </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/machine-learning-powered-content-moderation-computer-vision-applications-at-expedia-1297cb32d78d?source=rss----7f60cf5620c9---4">Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/automated-software-dl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automating Software Development with Deep Learning </a></li> 
+          
+            <li> <a href="https://eng.uber.com/three-approaches-to-scaling-machine-learning-with-uber-seattle-engineering/">Three Approaches to Scaling Machine Learning with Uber Seattle Engineering </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e?source=rss----7f60cf5620c9---4">RecoTour II: neural recommendation algorithms </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/ebay-oauth-client-library-in-python-and-best-practices/">eBay OAuth Client Library in Python and Best Practices </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html">Learning Cross-Modal Temporal Representations from Unlabeled Videos </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 23 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 19 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,38 +305,6 @@
         <pubDate>Mon, 09 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 06 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/followfeed-features-auditing">Auditing Content Features in FollowFeed </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/cnn-architectures-a-deep-dive-a99441d18049?source=rss----7f60cf5620c9---4">CNN Architectures, a Deep-dive </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/08/27/tyranny-of-the-clock/">6 Lessons we learned when debugging a scaling problem on GitLab.com </a></li> 
-          
-            <li> <a href="https://itnext.io/designing-a-kotlin-memory-safe-mode-c76c06317c3e?source=rss----5b301f10ddcd---4">Designing a Kotlin memory safe mode </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/08/javascript-video-editor?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">High Performance Video Editing for the Mobile Web </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/flutter-cross-platform?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Build Cross Platform Apps with Flutter </a></li> 
-          
-            <li> <a href="https://blog.developer.atlassian.com/lessons-learned-bitbucket-unit-testing-migration-jest/">What Bitbucket learned from migrating its unit testing tool </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99?source=rss----905ea2b3d4d1---4">Delivering ReactJS applications at scale </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html">Bi-Tempered Logistic Loss for Training Neural Nets with Noisy Data </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/08/26/combat-side-channel-attacks-with-corb">Combat Side-Channel Attacks with Cross-Origin Read Blocking </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 06 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-06.html</guid>
       </item>
       
   </channel>
