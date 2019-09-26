@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 26 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/09/project-ihmehimmeli-temporal-coding-in.html">Project Ihmehimmeli: Temporal Coding in Spiking Neural Networks </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/09/enhancing-bandaid-load-balancing-at-dropbox-by-leveraging-real-time-backend-server-load-information/">Enhancing Bandaid load balancing at Dropbox by leveraging real-time backend server load information </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/datadog-metrics-db?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Datadog: A Real-time Metrics Database for One Quadrillion Points/Day </a></li> 
+          
+            <li> <a href="https://stackshare.io/sqreen/how-sqreen-handles-50000-requests-every-minute-in-a-write-heavy-environment">How Sqreen handles 50,000 requests every minute in a write-heavy environment </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-we-design-features-for-wrangler/">How We Design Features for Wrangler, the Cloudflare Workers CLI </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/09/how-google-adopted-beyondcorp-part-3.html">How Google adopted BeyondCorp: Part 3 (tiered access) </a></li> 
+          
+            <li> <a href="https://itnext.io/how-to-easily-reuse-components-across-projects-and-repositories-fa73f8ba2a83?source=rss----5b301f10ddcd---4">How to Easily Reuse Components Across Projects and Repositories </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/the-building-blocks-of-linkedin-skill-assessments">The building blocks of LinkedIn Skill Assessments </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 26 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 25 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -273,38 +301,6 @@
         <pubDate>Thu, 12 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 11 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/articles/chaos-engineering-security-networking?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: How to Use Chaos Engineering to Break Things Productively </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html">X3D: Declarative 3D for the Modern Web </a></li> 
-          
-            <li> <a href="https://allegro.tech/2019/09/page-visibility-and-performance-metrics.html">Page visibility and performance metrics </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ddd-functional-programming?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: (Dys)functional DDD </a></li> 
-          
-            <li> <a href="https://hackernoon.com/writing-shellcode-for-iot-a-password-protected-reverse-shell-for-arm-2hi1320h?source=rss">Developing Shellcode for IoT: A Password-Protected Reverse Shell for ARM Processors </a></li> 
-          
-            <li> <a href="https://www.memsql.com/blog/a-technical-introduction-to-memsql/">A Technical Introduction to MemSQL </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/automated-ml-dl-workflow?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automating Machine Learning and Deep Learning Workflows </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses">Gradle Remote Build Cache Misses </a></li> 
-          
-            <li> <a href="https://tech.transferwise.com/bringing-data-sources-together-with-pipelinewise/">Bringing Data Sources Together with PipelineWise </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/">The Baseline Interpreter: a faster JS interpreter in Firefox 70 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 11 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-11.html</guid>
       </item>
       
   </channel>
