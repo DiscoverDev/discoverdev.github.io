@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 27 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/data-visualization-jupyter-notebooks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Advanced Data Visualizations In Jupyter Notebooks </a></li> 
+          
+            <li> <a href="https://itnext.io/designing-solidjs-reactivity-75180a4c74b4?source=rss----5b301f10ddcd---4">Designing SolidJS: Reactivity </a></li> 
+          
+            <li> <a href="https://eng.uber.com/hypothesis-gu-funcs-unit-testing/">Introducing Hypothesis GU Funcs, an Open Source Python Package for Unit Testing </a></li> 
+          
+            <li> <a href="https://nordicapis.com/how-does-jsonapi-compare-to-rest-and-graphql/">How Does JSON:API Compare To REST and GraphQL? </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/09/an-inside-look-at-flood-forecasting.html">An Inside Look at Flood Forecasting </a></li> 
+          
+            <li> <a href="https://databricks.com/blog/2019/09/18/productionizing-machine-learning-from-deployment-to-drift-detection.html">Productionizing Machine Learning: From Deployment to Drift Detection </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/low-latency-and-high-throughput-cal-ingress/">Low Latency and High Throughput in CAL Ingress </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/scalability-zalando?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building and Running Applications at Scale in Zalando </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 27 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 26 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -273,34 +301,6 @@
         <pubDate>Fri, 13 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 12 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/giving-lens-new-reading-capabilities-in.html">Giving Lens New Reading Capabilities in Google Go </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser/">Debugging WebAssembly Outside of the Browser </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/09/04/securing-rest-apis">Securing REST APIs </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/uber-microservices-distributed-tracing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Conquering Microservices Complexity @Uber with Distributed Tracing </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/big-data-fast-data">BIG Data, Fast Data - Part I </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/how-to-solve-a-linear-optimization-problem-on-incentive-allocation-5a8fb5d04db1?source=rss----25cd379abb8---4">How to solve a linear optimization problem on incentive allocation? </a></li> 
-          
-            <li> <a href="https://itnext.io/verifying-service-mesh-tls-in-kubernetes-using-ksniff-and-wireshark-2e993b26bf95?source=rss----5b301f10ddcd---4">Verifying Service Mesh TLS in Kubernetes, Using ksniff and Wireshark </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-ddd-bounded-contexts?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: PracticalDDD: Bounded Contexts + Events =&amp;gt; Microservices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 12 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-12.html</guid>
       </item>
       
   </channel>
