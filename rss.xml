@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 30 Sep 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/monorepo-pains-9064db3b9882?source=rss----5b301f10ddcd---4">Monorepo pains </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/property-based-testing-lambda-days-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Introduction to Stateful Property-Based Testing </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/managing-videos-on-android-f59da9601d5f?source=rss-ef81ef829bcb------2">Managing Videos on Android </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/a-comprehensive-guide-to-deploying-a-website-in-kubernetes-c5829bfa4519?source=rss----42df4a1e8725---4">A Comprehensive Guide To Deploying A Website In Kubernetes </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/improve-ui-performance-understanding-your-user">Want to Improve UI Performance? Start by Understanding Your User </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/">When TCP sockets refuse to die </a></li> 
+          
+            <li> <a href="http://tech.gc.com/let-me-automate-that-for-you/">Let me automate that for you </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/09/evans-improve-language-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Eric Evans Wants to Improve the Language of DDD </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-09-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 27 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,38 +297,6 @@
         <pubDate>Mon, 16 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 13 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.scylladb.com/2019/09/05/time-based-anti-patterns-for-caching-time-series-data/">Time-Based Anti-Patterns for Caching Time-Series Data </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/">Our journey to type checking 4 million lines of Python </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/how-graph-algorithms-improve-machine-learning">How graph algorithms improve machine learning </a></li> 
-          
-            <li> <a href="https://nordicapis.com/the-present-and-future-of-api-design/">The Present And Future Of API Design </a></li> 
-          
-            <li> <a href="https://hackernoon.com/different-strategies-for-designing-the-caching-in-large-scale-distributed-system-fg87307f?source=rss">Three Strategies For Designing The Caching In Large Scale Distributed System </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/odm/">eBay&#39;s Hyperscale Platforms </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2019/08/30/transfer-learning-from-rgb-to-multi-band-imagery/">Transfer Learning from RGB to Multi-band Imagery </a></li> 
-          
-            <li> <a href="https://blog.sqreen.com/developer-security-best-practices-protecting-against-timing-attacks/">Developer security best practices: protecting against timing attacks </a></li> 
-          
-            <li> <a href="https://blog.developer.atlassian.com/java-debugging-at-scale-when-rare-events-become-commonplace/">Java debugging at scale: when rare events become commonplace </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ai-7-steps?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: 7 Steps to Design, Build, and Scale an AI Product </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 13 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-13.html</guid>
       </item>
       
   </channel>
