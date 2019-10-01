@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 01 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/upgrade-buttons-links.htm">How to upgrade hundreds of React components without breaking production </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/crafting-build-pipelines-with-docker/">Crafting build pipelines with Docker </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/jvm-60-memory?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Trouble with Memory </a></li> 
+          
+            <li> <a href="https://devblog.songkick.com/migrating-our-etl-pipeline-to-luigi-on-a-cloud-8fde921cec51?source=rss----e0e3c74f91b8---4">Migrating our ETL pipeline to Luigi on a Cloud </a></li> 
+          
+            <li> <a href="http://blog.arkency.com/10-lessons-learnt-from-the-ruby-refactoring-kata-tennis-game/">10 lessons learnt from the Ruby Refactoring Kata - Tennis Game </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/shared-transactional-tables-the-foundation-of-next-generation-big-data-warehousing/">Shared Transactional Tables: The Foundation of Next Generation Big Data Warehousing </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-data-compression-works-exploring-lz78-87f44b487d92?source=rss----7f60cf5620c9---4">How data compression works: exploring LZ78 </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-do-semantics-the-right-way/">How to do semantics the right way </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 01 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 30 Sep 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Tue, 17 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 16 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2019/09/05/transfer-learning-from-the-ground-up.html">Transfer Learning - from the ground up </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ml-salesforce-einstein?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Metrics-driven Machine Learning Development at Salesforce Einstein </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db?source=rss----905ea2b3d4d1---4">Demand Forecasting Tech Stack @ Walmart </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/pintext-a-multitask-text-embedding-system-in-pinterest-b80ece364555?source=rss-ef81ef829bcb------2">PinText: A Multitask Text Embedding System in Pinterest </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/building-without-bundling/">Building without bundling: How to do more with less </a></li> 
-          
-            <li> <a href="https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a?source=rss----cfc9f21a543a---4">Design Decisions for the First Embedded Analytics Open-Source Framework </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/understanding-thread-dumps">Understanding Thread Dumps </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/09/varnish-request-restarts/">Achieving a tenfold increase in Varnish throughput by replacing libvmod&amp;#8209;curl with native request restarts </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 16 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-16.html</guid>
       </item>
       
   </channel>
