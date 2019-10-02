@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 02 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/09/facebook-roberta-nlp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Facebook Open-Sources RoBERTa: an Improved Natural Language Processing  Model </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/browser-performance-api/">Inside the Web Browser’s Performance API </a></li> 
+          
+            <li> <a href="https://www.toptal.com/embedded/esp32-audio-sampling">Working with ESP32 Audio Sampling </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deeplabv3-c5c749322ffa?source=rss----7f60cf5620c9---4">DeepLabv3: Semantic Image Segmentation </a></li> 
+          
+            <li> <a href="https://snyk.io/blog/everything-you-wanted-to-know-about-addressing-security-vulnerabilities-in-linux-based-containers/">Everything you wanted to know about addressing security vulnerabilities in Linux-based containers </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/evolving-regional-evacuation-69e6cc1d24c6?source=rss----2615bd06b42e---4">Evolving Regional Evacuation </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/09/23/why-schema-optimization-matters/">Why Database Schema Optimization Matters </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/waf-scripting-techniques-autonomous-attacks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Modern WAF Bypass Scripting Techniques for Autonomous Attacks </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 02 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 01 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Wed, 18 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 17 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/micro-frontend-941a5f1a3e72?source=rss----5b301f10ddcd---4">Micro-Frontend </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9?source=rss">RNG in Solidity for Ethereum? </a></li> 
-          
-            <li> <a href="https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/">The Power of Headless Chrome and PWA Automation Using Puppeteer </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/android-launch-performance-1d3c9fe4af62?source=rss----89d4108ce2a3---4">Android Launch Performance </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/how-map-matching-failures-can-be-used-for-map-making-1970c52f88a7?source=rss----25cd379abb8---4">How Map Matching Failures can be used for Map Making </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/event-sourcing-vs-derivative-event-sourcing-explained">Introducing Derivative Event Sourcing </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4?source=rss----37dc2a3034f2---4">Making Instagram.com faster: Part 2 </a></li> 
-          
-            <li> <a href="https://crystal-lang.org/2019/09/06/parallelism-in-crystal.html">Parallelism in Crystal </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 17 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-17.html</guid>
       </item>
       
   </channel>
