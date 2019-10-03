@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 03 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/warp-technical-challenges/">The Technical Challenges of Building Cloudflare WARP </a></li> 
+          
+            <li> <a href="https://stackshare.io/bugsnag/server-side-rendering-how-to-serve-authenticated-content">Server-side rendering: how to serve authenticated content </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-to-serverless?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Not-So-Straightforward Road From Microservices to Serverless </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka">Incremental Cooperative Rebalancing in Apache Kafka: Why Stop the World When You Can Change It? </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866?source=rss----53c7c27702d5---4">Scaling a Mature Data Pipeline — Managing Overhead </a></li> 
+          
+            <li> <a href="https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f?source=rss----58820b6d8904---4">Building Dark Mode on Desktop </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/operating-apache-kafka-clusters-24-7-without-a-global-ops-team-417813a5ce70?source=rss----25cd379abb8---4">Operating Apache Kafka Clusters 24/7 Without A Global Ops Team </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/uber-peloton-scheduler?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Peloton - Uber&#39;s Webscale Unified Scheduler on Mesos &amp; Kubernetes </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/twelve-testing-techniques-microservices-tradeoffs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Testing Microservice: Examining the Tradeoffs of Twelve Techniques - Part 2 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 03 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 02 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,40 +293,6 @@
         <pubDate>Thu, 19 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 18 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.sqreen.com/building-a-dynamic-instrumentation-agent-for-java/">Building a dynamic instrumentation agent for Java </a></li> 
-          
-            <li> <a href="https://eng.uber.com/loss-change-allocation/">Introducing LCA: Loss Change Allocation for Neural Network Training </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/recursive-sketches-for-modular-deep.html">Recursive Sketches for Modular Deep Learning </a></li> 
-          
-            <li> <a href="https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-0/">GC Perf Infrastructure – Part 0 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/cockroachdb-distributed-sql?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CockroachDB: Architecture of a Geo-distributed SQL Database </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/frustrations-with-react-hooks/">Frustrations with React Hooks </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/">Introducing Harmonia: Context-Aware Product Recommendation  From Room Images </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/assessing-quality-of-long-form.html">Assessing the Quality of Long-Form Synthesized Speech </a></li> 
-          
-            <li> <a href="https://engineering.gusto.com/does-this-code-spark-joy/">Does this code spark joy? Tidying up your code bit by bit. </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/">Machine Learning For Front-End Developers With Tensorflow.js </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/kubernetes-a-simple-overview">Kubernetes: A simple overview </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 18 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-18.html</guid>
       </item>
       
   </channel>
