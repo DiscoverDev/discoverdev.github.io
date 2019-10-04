@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 04 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.opsian.com/blog/continuous-profiling-on-graalvm/">Bringing Opsian&#39;s Continuous Profiling to GraalVM </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/blog/seamless-kubernetes-adoption">Jason L. van Brackel on Seamless Kubernetes Adoption for Development Teams </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/http3-the-past-present-and-future/">HTTP/3: the past, the present, and the future </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/machine-learning-and-analytics-for-time-series-data">Machine learning and analytics for time series data </a></li> 
+          
+            <li> <a href="https://nordicapis.com/what-is-api-orchestration/">What is API Orchestration? </a></li> 
+          
+            <li> <a href="https://medium.com/myheritage-engineering/face-recognition-and-ocr-processing-of-300-million-records-from-us-yearbooks-a95d55c6ac58?source=rss----c98dcd6fa33c---4">Face recognition and OCR processing of 300 million records from US yearbooks </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2019/09/25/apotheosis-a-gcp-privilege-escalation-tool/">Apotheosis: A GCP Privilege Escalation Tool </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/09/25/isolating-workloads-with-systemd-slices/">Isolating workloads with Systemd slices </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/scalability-tuning-on-tess-io-cluster/">Scalability Tuning on a Tess.IO Cluster </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 04 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 03 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +293,6 @@
         <pubDate>Mon, 23 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 19 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/articles/java-robot-swarms?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Using Java to Orchestrate Robot Swarms </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/09/11/Designing-with-accessibility-in-mind.html">Designing with accessibility in mind </a></li> 
-          
-            <li> <a href="https://www.opsian.com/blog/solve-cpu-time-problems-with-continuous-profiling/">How to solve CPU time problems with Continuous Profiling and Flame Graphs </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/reimagining-experimentation-analysis-at-netflix-71356393af21?source=rss----2615bd06b42e---4">Reimagining Experimentation Analysis at Netflix </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/09/10/stochastic-optimization/">Moving Beyond Deterministic Optimization: Making a Decision in the Face of Uncertainty </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/generate-natural-sounding-speech-from-text-in-real-time/">Generate Natural Sounding Speech from Text in Real-Time </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/serverless-iascode-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Resilient Serverless Systems </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2019/09/10/doing-multivariate-time-series-forecasting-with-recurrent-neural-networks.html">Doing Multivariate Time Series Forecasting with Recurrent Neural Networks </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/cuda-graphs/">Getting Started with CUDA Graphs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 19 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-19.html</guid>
       </item>
       
   </channel>
