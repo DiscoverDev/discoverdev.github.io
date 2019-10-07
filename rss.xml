@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 07 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.sqreen.com/how-we-built-a-queryable-application-inventory/">How we built a queryable Application Inventory </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/how-to-build-a-waf-at-the-application-layer/">How to build a WAF at the application layer </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/how-shopify-scales-up-its-development-teams">How Shopify Scales Up Its Development Teams </a></li> 
+          
+            <li> <a href="https://itnext.io/load-balancing-strategies-in-kubernetes-6213a5becd66?source=rss----5b301f10ddcd---4">Load balancing strategies in Kubernetes </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/scala-practices-that-powered-streak-challenges-64a61f400397?source=rss----89d4108ce2a3---4">Scala Practices that Powered Streak Challenges </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/analytics-with-apache-kafka-and-rockset">Real-Time Analytics and Monitoring Dashboards with Apache Kafka and Rockset </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/building-kubernetes-apps-with-custom-scaling-a-gentle-introduction-a332d7ebc795?source=rss----5517fd7b58a6---4">Building Kubernetes Apps with Custom Scaling: A Gentle Introduction </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/pinalyticsdb-a-time-series-database-on-top-of-hbase-946f236bb29a?source=rss-ef81ef829bcb------2">PinalyticsDB: A Time Series Database on top of Hbase </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 07 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 04 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +291,6 @@
         <pubDate>Tue, 24 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 23 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://developer.okta.com/blog/2019/09/12/why-public-key-cryptography-matters">Why Public Key Cryptography Matters </a></li> 
-          
-            <li> <a href="https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit-8a2830484259?source=rss----58820b6d8904---4">The Gradual Design System: How We Built Slack Kit </a></li> 
-          
-            <li> <a href="https://www.oreilly.com/ideas/understanding-deep-neural-networks">Understanding deep neural networks </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/machine-learning-powered-content-moderation-computer-vision-applications-at-expedia-1297cb32d78d?source=rss----7f60cf5620c9---4">Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/automated-software-dl?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automating Software Development with Deep Learning </a></li> 
-          
-            <li> <a href="https://eng.uber.com/three-approaches-to-scaling-machine-learning-with-uber-seattle-engineering/">Three Approaches to Scaling Machine Learning with Uber Seattle Engineering </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e?source=rss----7f60cf5620c9---4">RecoTour II: neural recommendation algorithms </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/ebay-oauth-client-library-in-python-and-best-practices/">eBay OAuth Client Library in Python and Best Practices </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html">Learning Cross-Modal Temporal Representations from Unlabeled Videos </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 23 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-23.html</guid>
       </item>
       
   </channel>
