@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 08 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/09/global-cdn-netflix?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Managing Global CDN Operations at Netflix </a></li> 
+          
+            <li> <a href="https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8?source=rss">Avoiding Memory Leak in Golang API </a></li> 
+          
+            <li> <a href="https://engineering.indeedblog.com/blog/2019/09/normalizing-resume-text-in-the-age-of-ninjas-rockstars-and-wizards/">Normalizing Resume Text in the Age of Ninjas, Rockstars, and Wizards </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/09/27/multiplexing-mux-in-proxysql/">Multiplexing (Mux) in ProxySQL: Use Case </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/postgres-handles-more-than-you-think?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Postgres Handles More Than You Think </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/09/design-ddd-modular-monolith?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Design and Implementation of a DDD-Based Modular Monolith </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/">Frankenstein Migration: Framework-Agnostic Approach (Part 2) </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/android/unicode-font-converter/">Integrating autoconversion: Facebook’s path from Zawgyi to Unicode </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/bias-ml-sao-paulo-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Look at the Methods to Detect and Try to Remove Bias in Machine Learning Models </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 08 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 07 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +291,6 @@
         <pubDate>Wed, 25 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 24 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7?source=rss----37dc2a3034f2---4">Types for Python HTTP APIs: An Instagram Story </a></li> 
-          
-            <li> <a href="https://medium.com/@armenzg/a-web-performance-issue-d44093cb896c?source=rss-d4d8839a88ef------2">A web performance issue </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/">How JavaScript works: Optimizing the V8 compiler for efficiency </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/">A look inside Kafka Mirrormaker 2 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/bernd-rucker-orchestration-cqrs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Event Sourcing: Bernd Rücker on Architecting for Scale </a></li> 
-          
-            <li> <a href="https://kinvolk.io/blog/2019/09/a-shallow-dive-into-distributed-tracing/">A Shallow Dive Into Distributed Tracing </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/using-deep-learning-to-inform.html">Using Deep Learning to Inform Differential Diagnoses of Skin Diseases </a></li> 
-          
-            <li> <a href="https://benchling.engineering/jade-to-react-using-prod-validation-to-make-modernization-safe-fast-and-fun-766258ee8d35?source=rss----3d4aa8fb07ea---4">Jade to React: using prod validation to make modernization safe, fast, and fun </a></li> 
-          
-            <li> <a href="https://engineering.indeedblog.com/blog/2019/09/jobs-filter/">Jobs Filter: Improving the Job Seeker Experience </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 24 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-24.html</guid>
       </item>
       
   </channel>
