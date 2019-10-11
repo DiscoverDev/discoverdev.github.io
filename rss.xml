@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 11 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/productivity-at-scale--how-we-improved-build-time-with-gradle-bu">Productivity at scale: How we improved build time with Gradle build cache </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses-part-2">Solving Remote Build Cache Misses by Annoying Your Colleagues </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/inference-attacks-against-machine-learning-models-eb6d7db9357d?source=rss----7f60cf5620c9---4">Inference Attacks against Machine Learning models </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/https-medium-com-orian-sharoni-videothat-6849277c301b?source=rss----7f60cf5620c9---4">VideoThat! </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/adaptive-throttling-of-indexing-for-improved-query-responsiveness-b3ac949e76c9?source=rss----7484818e9f88---4">Adaptive Throttling of Indexing for Improved Query Responsiveness </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/shopify-manages-petabyte-scale-mysql-backup-restore">How Shopify Manages Petabyte Scale MySQL Backup and Restore </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/10/design-system-achieve-purpose-product/">How To Ensure Your Design System Helps To Achieve The Purpose Of Your Product </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/use-cases-for-node-workers/">Use cases for Node workers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 11 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 09 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Fri, 27 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 26 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/project-ihmehimmeli-temporal-coding-in.html">Project Ihmehimmeli: Temporal Coding in Spiking Neural Networks </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/09/enhancing-bandaid-load-balancing-at-dropbox-by-leveraging-real-time-backend-server-load-information/">Enhancing Bandaid load balancing at Dropbox by leveraging real-time backend server load information </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/datadog-metrics-db?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Datadog: A Real-time Metrics Database for One Quadrillion Points/Day </a></li> 
-          
-            <li> <a href="https://stackshare.io/sqreen/how-sqreen-handles-50000-requests-every-minute-in-a-write-heavy-environment">How Sqreen handles 50,000 requests every minute in a write-heavy environment </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-we-design-features-for-wrangler/">How We Design Features for Wrangler, the Cloudflare Workers CLI </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/09/how-google-adopted-beyondcorp-part-3.html">How Google adopted BeyondCorp: Part 3 (tiered access) </a></li> 
-          
-            <li> <a href="https://itnext.io/how-to-easily-reuse-components-across-projects-and-repositories-fa73f8ba2a83?source=rss----5b301f10ddcd---4">How to Easily Reuse Components Across Projects and Repositories </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/the-building-blocks-of-linkedin-skill-assessments">The building blocks of LinkedIn Skill Assessments </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 26 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-26.html</guid>
       </item>
       
   </channel>
