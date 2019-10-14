@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 14 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://android-developers.googleblog.com/2019/10/continuous-testing-with-new-android.html">Continuous testing with new Android emulator tools </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2019/09/27/automating-weak-supervision.html">Automating Weak Supervision </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/what-makes-apache-flink-scale-317f642fe6d5?source=rss----905ea2b3d4d1---4">What Makes Apache Flink Scale? </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/10/why-is-css-so-weird/">Why is CSS so Weird? </a></li> 
+          
+            <li> <a href="https://explosion.ai/blog/spacy-v2-2">Introducing spaCy v2.2 </a></li> 
+          
+            <li> <a href="https://www.ably.io/blog/google-polling-like-its-the-90s/">Google - polling like it&#39;s the 90s </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/10/using-machine-learning-to-predict-what-file-you-need-next-part-2/">Using machine learning to predict what file you need next, Part 2 </a></li> 
+          
+            <li> <a href="https://hackernoon.com/lessons-for-improving-training-performance-part-1-1i3g3yq9?source=rss">Lessons for Improving Training Performance — Part 1 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 14 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 11 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Mon, 30 Sep 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-09-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 27 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/data-visualization-jupyter-notebooks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Advanced Data Visualizations In Jupyter Notebooks </a></li> 
-          
-            <li> <a href="https://itnext.io/designing-solidjs-reactivity-75180a4c74b4?source=rss----5b301f10ddcd---4">Designing SolidJS: Reactivity </a></li> 
-          
-            <li> <a href="https://eng.uber.com/hypothesis-gu-funcs-unit-testing/">Introducing Hypothesis GU Funcs, an Open Source Python Package for Unit Testing </a></li> 
-          
-            <li> <a href="https://nordicapis.com/how-does-jsonapi-compare-to-rest-and-graphql/">How Does JSON:API Compare To REST and GraphQL? </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/an-inside-look-at-flood-forecasting.html">An Inside Look at Flood Forecasting </a></li> 
-          
-            <li> <a href="https://databricks.com/blog/2019/09/18/productionizing-machine-learning-from-deployment-to-drift-detection.html">Productionizing Machine Learning: From Deployment to Drift Detection </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/low-latency-and-high-throughput-cal-ingress/">Low Latency and High Throughput in CAL Ingress </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/scalability-zalando?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building and Running Applications at Scale in Zalando </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 27 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-27.html</guid>
       </item>
       
   </channel>
