@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 15 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/10/improving-quantum-computation-with.html">Improving Quantum Computation with Classical Machine Learning </a></li> 
+          
+            <li> <a href="https://engineering.prezi.com/https-engineering-prezi-com-a-kubernetes-crime-story-2e8d75a77630?source=rss----911e72786e31---4">A Kubernetes crime story </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/open-source/hydra/">Hydra: A framework that simplifies development of complex applications </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/transpiler-compiler-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Your Program as a Transpiler: Applying Compiler Design to Everyday Programming </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/alibaba-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Alibaba Container Platform Infrastructure - a Kubernetes Approach </a></li> 
+          
+            <li> <a href="https://itnext.io/algorithms-to-efficiently-solve-dynamic-connectivity-9ad1d6c9c3c9?source=rss----5b301f10ddcd---4">Algorithms to Efficiently Solve Dynamic Connectivity </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/10/03/how-to-make-3d-charts-for-the-web-using-d3-and-x3dom.html">How to Make 3D Charts for the Web Using D3 and X3DOM </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/elm-debugging-story">An Elm debugging story </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 15 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 14 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Tue, 01 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 30 Sep 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/monorepo-pains-9064db3b9882?source=rss----5b301f10ddcd---4">Monorepo pains </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/property-based-testing-lambda-days-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Introduction to Stateful Property-Based Testing </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/managing-videos-on-android-f59da9601d5f?source=rss-ef81ef829bcb------2">Managing Videos on Android </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/a-comprehensive-guide-to-deploying-a-website-in-kubernetes-c5829bfa4519?source=rss----42df4a1e8725---4">A Comprehensive Guide To Deploying A Website In Kubernetes </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/improve-ui-performance-understanding-your-user">Want to Improve UI Performance? Start by Understanding Your User </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/">When TCP sockets refuse to die </a></li> 
-          
-            <li> <a href="http://tech.gc.com/let-me-automate-that-for-you/">Let me automate that for you </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/09/evans-improve-language-ddd?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Eric Evans Wants to Improve the Language of DDD </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 30 Sep 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-09-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-09-30.html</guid>
       </item>
       
   </channel>
