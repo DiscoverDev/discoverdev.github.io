@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 16 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.fb.com/data-infrastructure/scribe/">Scribe: Transporting petabytes per hour via a distributed, buffered queueing system </a></li> 
+          
+            <li> <a href="https://itnext.io/microservices-architecture-an-implementation-of-saga-pattern-dbbe5d881c78?source=rss----5b301f10ddcd---4">Microservices architecture: an implementation of Saga pattern </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques">Images done right: Web graphics, good to the last byte </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/10/design-systems-relationships/">Design Systems Are About Relationships </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/10/event-thinking-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Sense and Nonsense in Event Thinking and Microservices </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/real-time-experiment-analytics-at-pinterest-using-apache-flink-841c8df98dc2?source=rss-ef81ef829bcb------2">Real-time experiment analytics at Pinterest using Apache Flink </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/10/04/compression-in-scylla-part-one/">Compression in Scylla, Part One </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/the-science-behind-consolidating-answer-bot-production-models-part-2-e4bb62233c0b?source=rss----a88376ea904a---4">The science behind consolidating Answer Bot production Models: Part 2 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 16 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 15 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Wed, 02 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 01 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/upgrade-buttons-links.htm">How to upgrade hundreds of React components without breaking production </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/crafting-build-pipelines-with-docker/">Crafting build pipelines with Docker </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/jvm-60-memory?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Trouble with Memory </a></li> 
-          
-            <li> <a href="https://devblog.songkick.com/migrating-our-etl-pipeline-to-luigi-on-a-cloud-8fde921cec51?source=rss----e0e3c74f91b8---4">Migrating our ETL pipeline to Luigi on a Cloud </a></li> 
-          
-            <li> <a href="http://blog.arkency.com/10-lessons-learnt-from-the-ruby-refactoring-kata-tennis-game/">10 lessons learnt from the Ruby Refactoring Kata - Tennis Game </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/shared-transactional-tables-the-foundation-of-next-generation-big-data-warehousing/">Shared Transactional Tables: The Foundation of Next Generation Big Data Warehousing </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-data-compression-works-exploring-lz78-87f44b487d92?source=rss----7f60cf5620c9---4">How data compression works: exploring LZ78 </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-do-semantics-the-right-way/">How to do semantics the right way </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 01 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-01.html</guid>
       </item>
       
   </channel>
