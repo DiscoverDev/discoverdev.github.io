@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 17 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/the-end-to-all-blurry-pictures-f27e49f23588?source=rss----7f60cf5620c9---4">The end to all blurry pictures </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/what-the-formula-managing-state-on-android-f5569ce09274?source=rss----587883b5d2ee---4">What the Formula? Managing state on Android </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages">How LinkedIn customizes Apache Kafka for 7 trillion messages per day </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails">How to Write Fast Code in Ruby on Rails </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/event-driven-benefits-pitfalls?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Opportunities and Pitfalls of Event-Driven Utopia </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2019/10/02/zero-trust-at-gitlab-implementation-challenges/">Zero Trust at GitLab: Implementation challenges (and a few solutions) </a></li> 
+          
+            <li> <a href="https://eng.uber.com/searchable-ground-truth-atg/">Searchable Ground Truth: Querying Uncommon Scenarios in Self-Driving Car Development </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/10/07/compression-in-scylla-part-two/">Compression in Scylla, Part Two </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 17 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 16 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,34 +293,6 @@
         <pubDate>Thu, 03 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 02 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/09/facebook-roberta-nlp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Facebook Open-Sources RoBERTa: an Improved Natural Language Processing  Model </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/browser-performance-api/">Inside the Web Browser’s Performance API </a></li> 
-          
-            <li> <a href="https://www.toptal.com/embedded/esp32-audio-sampling">Working with ESP32 Audio Sampling </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deeplabv3-c5c749322ffa?source=rss----7f60cf5620c9---4">DeepLabv3: Semantic Image Segmentation </a></li> 
-          
-            <li> <a href="https://snyk.io/blog/everything-you-wanted-to-know-about-addressing-security-vulnerabilities-in-linux-based-containers/">Everything you wanted to know about addressing security vulnerabilities in Linux-based containers </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/evolving-regional-evacuation-69e6cc1d24c6?source=rss----2615bd06b42e---4">Evolving Regional Evacuation </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/09/23/why-schema-optimization-matters/">Why Database Schema Optimization Matters </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/waf-scripting-techniques-autonomous-attacks?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Modern WAF Bypass Scripting Techniques for Autonomous Attacks </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 02 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-02.html</guid>
       </item>
       
   </channel>
