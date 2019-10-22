@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 22 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/understanding-fixup-initialization-6bf08d41b427?source=rss----7f60cf5620c9---4">Understanding Fixup initialization </a></li> 
+          
+            <li> <a href="https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/">C++ Creator Bjarne Stroustrup Answers Our Top Five C++ Questions </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/building-reusable-web-components-with-stencil-js/">Building reusable web components with Stencil.js </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2019/10/14/database-case-study-store-and-update-namespace-statistics/">Store and update namespace statistics in a performant manner </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/evolve-kubernetes-resource-manager?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Evolve Kubernetes Resource Management Model </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/10/prometheus-introduction/">Prometheus introduction - How we show new colleagues the power of fire </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/the-beauty-of-a-shared-nothing-sql-dbms-for-skewed-database-sizes/">The Beauty of a Shared-Nothing SQL DBMS for Skewed Database Sizes </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/the-case-of-the-missing-fields">GraphQL: The Case of the Missing Fields </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 22 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 21 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Tue, 08 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 07 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.sqreen.com/how-we-built-a-queryable-application-inventory/">How we built a queryable Application Inventory </a></li> 
-          
-            <li> <a href="https://blog.sqreen.com/how-to-build-a-waf-at-the-application-layer/">How to build a WAF at the application layer </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/how-shopify-scales-up-its-development-teams">How Shopify Scales Up Its Development Teams </a></li> 
-          
-            <li> <a href="https://itnext.io/load-balancing-strategies-in-kubernetes-6213a5becd66?source=rss----5b301f10ddcd---4">Load balancing strategies in Kubernetes </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/scala-practices-that-powered-streak-challenges-64a61f400397?source=rss----89d4108ce2a3---4">Scala Practices that Powered Streak Challenges </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/analytics-with-apache-kafka-and-rockset">Real-Time Analytics and Monitoring Dashboards with Apache Kafka and Rockset </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/building-kubernetes-apps-with-custom-scaling-a-gentle-introduction-a332d7ebc795?source=rss----5517fd7b58a6---4">Building Kubernetes Apps with Custom Scaling: A Gentle Introduction </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/pinalyticsdb-a-time-series-database-on-top-of-hbase-946f236bb29a?source=rss-ef81ef829bcb------2">PinalyticsDB: A Time Series Database on top of Hbase </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 07 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-07.html</guid>
       </item>
       
   </channel>
