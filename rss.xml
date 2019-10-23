@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 23 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/on-premise-ha-kubernetes-cluster-15e41f18bd12?source=rss----5b301f10ddcd---4">On-premise HA Kubernetes cluster </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/colin-jones/2019/10/15/escape-hatches-principles-vs-guarantees.html">Escape Hatches: Principles vs. Guarantees </a></li> 
+          
+            <li> <a href="https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/">Migration Complete – Amazon’s Consumer Business Just Turned off its Final Oracle Database </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee?source=rss----2615bd06b42e---4">Delta: A Data Synchronization and Enrichment Platform </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/">The perfect architecture flow for your next Node.js project </a></li> 
+          
+            <li> <a href="https://www.toptal.com/front-end/micro-frontends-strengths-benefits">The Strengths and Benefits of Micro Frontends </a></li> 
+          
+            <li> <a href="https://nordicapis.com/the-need-for-an-api-composition-layer/">The Need for an API Composition Layer </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/categorical-embedding-and-transfer-learning-dd3c4af6345d?source=rss----7f60cf5620c9---4">Categorical Embedding and Transfer Learning </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 23 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 22 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +287,6 @@
         <pubDate>Wed, 09 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 08 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/09/global-cdn-netflix?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Managing Global CDN Operations at Netflix </a></li> 
-          
-            <li> <a href="https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8?source=rss">Avoiding Memory Leak in Golang API </a></li> 
-          
-            <li> <a href="https://engineering.indeedblog.com/blog/2019/09/normalizing-resume-text-in-the-age-of-ninjas-rockstars-and-wizards/">Normalizing Resume Text in the Age of Ninjas, Rockstars, and Wizards </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/09/27/multiplexing-mux-in-proxysql/">Multiplexing (Mux) in ProxySQL: Use Case </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/postgres-handles-more-than-you-think?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Postgres Handles More Than You Think </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/09/design-ddd-modular-monolith?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Design and Implementation of a DDD-Based Modular Monolith </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/">Frankenstein Migration: Framework-Agnostic Approach (Part 2) </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/android/unicode-font-converter/">Integrating autoconversion: Facebook’s path from Zawgyi to Unicode </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/bias-ml-sao-paulo-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: A Look at the Methods to Detect and Try to Remove Bias in Machine Learning Models </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 08 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-08.html</guid>
       </item>
       
   </channel>
