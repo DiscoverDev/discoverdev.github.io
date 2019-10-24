@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 24 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.clever.com/2019/10/16/evolving-systems-for-new-products/">Evolving Systems for New Products </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a?source=rss----2615bd06b42e---4">How Netflix microservices tackle dataset pub-sub </a></li> 
+          
+            <li> <a href="https://eng.uber.com/michelangelo-model-representation/">Evolving Michelangelo Model Representation for Flexibility at Scale </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/10/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response/">How Dropbox Security builds tools for threat detection and incident response </a></li> 
+          
+            <li> <a href="https://www.ably.io/blog/webhooks-vs-websub/">Webhooks vs WebSub? Actually they&#39;re different beasts </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/depth-prediction-autonomous-driving-18d05ff25dd6?source=rss----7f60cf5620c9---4">Recognizing Depth in Autonomous Driving </a></li> 
+          
+            <li> <a href="https://stripe.com/blog/accessible-color-systems">Designing accessible color systems </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2019/10/15/zero-trust-at-gitlab-where-do-we-go-from-here/">Zero Trust at GitLab: Where do we go from here? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 24 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 23 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -255,38 +283,6 @@
         <pubDate>Fri, 11 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 09 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/stream-analysis-fp?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Real-time Stream Analysis in Functional Reactive Programming </a></li> 
-          
-            <li> <a href="https://distill.pub/2019/paths-perspective-on-value-learning">The Paths Perspective on Value Learning </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/09/large-scale-multilingual-speech.html">Large-Scale Multilingual Speech Recognition with a Streaming End-to-End Model </a></li> 
-          
-            <li> <a href="https://www.ably.io/blog/websockets-vs-sse/">WebSockets vs SSE </a></li> 
-          
-            <li> <a href="https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/">How to Make Good Code Reviews Better </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/ml-applications/mars/">MaRS: How Facebook keeps maps current and accurate </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/2019/09/30/why-we-chose-echarts/">Why we chose ECharts for data visualizations </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/building-service-mesh-envoy-0">Building a Service Mesh with Envoy </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/the-case-for-discriminated-union-types-with-typescript">The case for Discriminated Union Types with Typescript </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/evolutionary-architecture?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Evolutionary Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 09 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-09.html</guid>
       </item>
       
   </channel>
