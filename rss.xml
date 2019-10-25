@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 25 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://nordicapis.com/everything-you-need-to-know-about-api-pagination/">Everything You Need to Know About API Pagination </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rust&#39;s Journey to Async/await </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/serverless-data-pipeline?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building and Operating a Serverless Data Pipeline </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data">🚂 On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data </a></li> 
+          
+            <li> <a href="https://engblog.nextdoor.com/the-kindness-reminder-868252995140?source=rss----5e54f11cdfdf---4">The Kindness Reminder </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/security/partially-blind-signatures/">Fighting fraud using partially blind signatures </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/kubernetes-deep-dive-aeebfa1516c3?source=rss----905ea2b3d4d1---4">Kubernetes — Deep dive </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/10/the-lucas-critique-and-the-necessity-of-theory/">The Lucas Critique and the Necessity of Theory </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 25 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 24 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Mon, 14 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 11 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/productivity-at-scale--how-we-improved-build-time-with-gradle-bu">Productivity at scale: How we improved build time with Gradle build cache </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses-part-2">Solving Remote Build Cache Misses by Annoying Your Colleagues </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/inference-attacks-against-machine-learning-models-eb6d7db9357d?source=rss----7f60cf5620c9---4">Inference Attacks against Machine Learning models </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/https-medium-com-orian-sharoni-videothat-6849277c301b?source=rss----7f60cf5620c9---4">VideoThat! </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/adaptive-throttling-of-indexing-for-improved-query-responsiveness-b3ac949e76c9?source=rss----7484818e9f88---4">Adaptive Throttling of Indexing for Improved Query Responsiveness </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/shopify-manages-petabyte-scale-mysql-backup-restore">How Shopify Manages Petabyte Scale MySQL Backup and Restore </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/10/design-system-achieve-purpose-product/">How To Ensure Your Design System Helps To Achieve The Purpose Of Your Product </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/use-cases-for-node-workers/">Use cases for Node workers </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 11 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-11.html</guid>
       </item>
       
   </channel>
