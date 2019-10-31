@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 31 Oct 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/10/audio-and-visual-quality-measurement.html">Audio and Visual Quality Measurement using Fréchet Distance </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/automated-continuous-deployment-at-heroku">Automated Continuous Deployment at Heroku </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/using-grabs-trust-counter-service-to-detect-fraud-successfully">Using Grab’s Trust Counter Service to Detect Fraud Successfully </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/10/imagekit-guide-optimizing-images-mobile/">A Guide To Optimizing Images For Mobile </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/docker-application-packages-cnab?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Using Docker Application Packages  to Deliver Apps Across Teams </a></li> 
+          
+            <li> <a href="https://www.toptal.com/web/performance-working-with-http-3">Performance and Efficiency: Working with HTTP/3 </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/nvidia-gpu-operator-simplifying-gpu-management-in-kubernetes/">NVIDIA GPU Operator: Simplifying GPU Management in Kubernetes </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a?source=rss----2615bd06b42e---4">Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused… </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/interpretable-machine-learning-for-image-classification-with-lime-ea947e82ca13?source=rss----7f60cf5620c9---4">Interpretable Machine Learning for Image Classification with LIME </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 31 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 30 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +287,6 @@
         <pubDate>Fri, 18 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 17 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/the-end-to-all-blurry-pictures-f27e49f23588?source=rss----7f60cf5620c9---4">The end to all blurry pictures </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/what-the-formula-managing-state-on-android-f5569ce09274?source=rss----587883b5d2ee---4">What the Formula? Managing state on Android </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages">How LinkedIn customizes Apache Kafka for 7 trillion messages per day </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails">How to Write Fast Code in Ruby on Rails </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/event-driven-benefits-pitfalls?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Opportunities and Pitfalls of Event-Driven Utopia </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2019/10/02/zero-trust-at-gitlab-implementation-challenges/">Zero Trust at GitLab: Implementation challenges (and a few solutions) </a></li> 
-          
-            <li> <a href="https://eng.uber.com/searchable-ground-truth-atg/">Searchable Ground Truth: Querying Uncommon Scenarios in Self-Driving Car Development </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/10/07/compression-in-scylla-part-two/">Compression in Scylla, Part Two </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 17 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-17.html</guid>
       </item>
       
   </channel>
