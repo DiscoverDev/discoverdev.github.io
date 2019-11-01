@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 01 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447?source=rss----2615bd06b42e---4">Open-sourcing Polynote: an IDE-inspired polyglot notebook </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/adtech-fraud-detection?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: High Performance Cooperative Distributed Systems in Adtech </a></li> 
+          
+            <li> <a href="https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd?source=rss----58820b6d8904---4">Gantry: Slack’s Fast-booting Frontend Framework </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/10/23/when-in-rome-how-spotify-halved-build-times-with-just-one-script/">When in Rome: How Spotify halved build times with just one script </a></li> 
+          
+            <li> <a href="https://www.ably.io/blog/practical-strategies-for-dns-failure/">DNS issues? Five practical strategies to remove single points of failure </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-reinforcement-learning-for-drones-in-3d-realistic-environments-36821b6ee077?source=rss----7f60cf5620c9---4">Deep Reinforcement Learning for Drones in 3D realistic environments </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821?source=rss----25cd379abb8---4">Securing Apache Airflow UI With DAG Level Access </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/low-latency-cloud-oss?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Achieving Low-latency in the Cloud with OSS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 31 Oct 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 21 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 18 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/alternative-text-descriptions">Making LinkedIn Media More Inclusive with Alternative Text Descriptions </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/iot-with-kafka-connect-mqtt-and-rest-proxy">Internet of Things (IoT) and Event Streaming at Scale with Apache Kafka and MQTT </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/big-data-big-decisions-690a00fad88d?source=rss----cfe1120185d3---4">Presto for ad hoc interactive Big Data Analytics at Salesforce </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/federated-learning-3097547f8ca3?source=rss----7f60cf5620c9---4">Federated Learning </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/robel-robotics-benchmarks-for-learning.html">ROBEL: Robotics Benchmarks for Learning with Low-Cost Robots </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/incident-investigation-failure-prevention?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Did Things Go Right? Learning More From Incidents </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/10/breadcrumbs-pwa/">How To Use Breadcrumbs On A PWA </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/10/discovering-popular-dishes-with-deep-learning.html">Discovering Popular Dishes with Deep Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 18 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-18.html</guid>
       </item>
       
   </channel>
