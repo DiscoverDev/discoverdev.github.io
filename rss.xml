@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 04 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/">Public keys are not enough for SSH security </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/10/asynchronous-tasks-modern-javascript/">Writing Asynchronous Tasks In Modern JavaScript </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/the-case-of-the-mysterious-disappearing-bug-588b27675650?source=rss----51e1d1745b32---4">The Case of the Mysterious Disappearing Bug </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/">GRIT: a Protocol for Distributed Transactions across Microservices </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-elements-of-responsive-typography/">The elements of responsive typography </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/who-ddosd-austin/">Who DDoS&#39;d Austin? </a></li> 
+          
+            <li> <a href="https://engineering.zomato.com/blog/reviews-2-0-the-architecture-behind-tags">Reviews 2.0 – the architecture behind tags </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/creating-new-composite-biobricks-using-nlp-812126992a94?source=rss----7f60cf5620c9---4">Creating New Composite BioBricks using NLP </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 04 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 01 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 22 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 21 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/its-crowded-in-here/">It&#39;s crowded in here! </a></li> 
-          
-            <li> <a href="https://hackernoon.com/migrating-a-50k-sloc-flow-react-native-app-to-typescript-c91aj3ton?source=rss">Migrating a 50K SLOC Flow + React Native app to TypeScript </a></li> 
-          
-            <li> <a href="https://zulily-tech.com/2019/10/11/the-power-of-a-b-testing/">The “Power” of A/B Testing </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/exploring-massively-multilingual.html">Exploring Massively Multilingual, Massive Neural Machine Translation </a></li> 
-          
-            <li> <a href="https://stackshare.io/logrocket/rethinking-front-end-error-reporting">Rethinking Front-end Error Reporting </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/taxonomy-black-swans?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: What Breaks Our Systems: A Taxonomy of Black Swans </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/graceful-degradation-chaos-engineering?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Graceful Degradation as a Feature </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669?source=rss----37dc2a3034f2---4">Making instagram.com faster: Part 3 — cache first </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 21 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-21.html</guid>
       </item>
       
   </channel>
