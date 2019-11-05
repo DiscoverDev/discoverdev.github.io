@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 05 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/mouse-movement-modelling-to-predict-online-fraud-873d90b201e2?source=rss----7f60cf5620c9---4">MOUSE Movement modelling to predict online Fraud </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/ai-research/2019-scale-conference/">2019 @Scale Conference recap </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9?source=rss----7f60cf5620c9---4">Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store </a></li> 
+          
+            <li> <a href="https://www.bigeng.io/implementing-ios-13-dark-mode-in-the-new-bigcommerce-mobile-app/">Implementing iOS 13 Dark Mode in the new BigCommerce mobile app </a></li> 
+          
+            <li> <a href="https://johanlorenzo.github.io/blog/2019/10/24/taskgraph-is-now-deployed-to-the-biggest-mozilla-mobile-projects.html">Taskgraph is now deployed to the biggest mozilla-mobile projects </a></li> 
+          
+            <li> <a href="https://blog.jooq.org/2019/10/25/dogfooding-in-product-development/">Dogfooding in Product Development </a></li> 
+          
+            <li> <a href="http://tech.gc.com/when-you-deserve-better-systems/">When you deserve better (systems) </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/rabbitmq-mirrored-queues-gotchas.html">RabbitMQ Mirrored Queues Gotchas </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 05 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 04 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Wed, 23 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 22 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/understanding-fixup-initialization-6bf08d41b427?source=rss----7f60cf5620c9---4">Understanding Fixup initialization </a></li> 
-          
-            <li> <a href="https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/">C++ Creator Bjarne Stroustrup Answers Our Top Five C++ Questions </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/building-reusable-web-components-with-stencil-js/">Building reusable web components with Stencil.js </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2019/10/14/database-case-study-store-and-update-namespace-statistics/">Store and update namespace statistics in a performant manner </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/evolve-kubernetes-resource-manager?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How to Evolve Kubernetes Resource Management Model </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/10/prometheus-introduction/">Prometheus introduction - How we show new colleagues the power of fire </a></li> 
-          
-            <li> <a href="https://www.memsql.com/blog/the-beauty-of-a-shared-nothing-sql-dbms-for-skewed-database-sizes/">The Beauty of a Shared-Nothing SQL DBMS for Skewed Database Sizes </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/the-case-of-the-missing-fields">GraphQL: The Case of the Missing Fields </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 22 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-22.html</guid>
       </item>
       
   </channel>
