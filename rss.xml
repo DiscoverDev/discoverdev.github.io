@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 06 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.novoda.com/no-time-to-test/">Oh Sh*t : There is no time to test </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/50-years-of-the-internet-work-in-progress-to-a-better-internet/">50 Years of The Internet. Work in Progress to a Better Internet </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/animating-ganime-with-stylegan-part-1-4cf764578e?source=rss----7f60cf5620c9---4">Animating gAnime with StyleGAN: Part 1 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/go-crypto-library?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Maintaining the Go Crypto Libraries </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/multi-language-iascode?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Multi-language Infrastructure as Code </a></li> 
+          
+            <li> <a href="https://tech.findmypast.com/road-to-k8s-ha-part-4/">The Journey to Kubernetes High Availability - Part 4 </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-practically-use-performance-api-to-measure-performance/">How to practically use Performance API to measure performance </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2019/10/how-we-stopped-being-an-image-processing-company/">How We Stopped Being an Image Processing Company </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/">Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/modeling-currency-in-elm-using-phantom-types">Modeling Currency in Elm using Phantom Types </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 06 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 05 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +291,6 @@
         <pubDate>Thu, 24 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 23 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/on-premise-ha-kubernetes-cluster-15e41f18bd12?source=rss----5b301f10ddcd---4">On-premise HA Kubernetes cluster </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/colin-jones/2019/10/15/escape-hatches-principles-vs-guarantees.html">Escape Hatches: Principles vs. Guarantees </a></li> 
-          
-            <li> <a href="https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/">Migration Complete – Amazon’s Consumer Business Just Turned off its Final Oracle Database </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee?source=rss----2615bd06b42e---4">Delta: A Data Synchronization and Enrichment Platform </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/">The perfect architecture flow for your next Node.js project </a></li> 
-          
-            <li> <a href="https://www.toptal.com/front-end/micro-frontends-strengths-benefits">The Strengths and Benefits of Micro Frontends </a></li> 
-          
-            <li> <a href="https://nordicapis.com/the-need-for-an-api-composition-layer/">The Need for an API Composition Layer </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/categorical-embedding-and-transfer-learning-dd3c4af6345d?source=rss----7f60cf5620c9---4">Categorical Embedding and Transfer Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 23 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-23.html</guid>
       </item>
       
   </channel>
