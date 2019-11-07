@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 07 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/the-tls-post-quantum-experiment/">The TLS Post-Quantum Experiment </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/semantics-at-scale-bert-elasticsearch-be5bce877859?source=rss----7f60cf5620c9---4">Semantics at Scale: BERT + Elasticsearch </a></li> 
+          
+            <li> <a href="https://eng.uber.com/3d-tiles-loadersgl/">Taking City Visualization into the Third Dimension with Point Clouds, 3D Tiles, and deck.gl </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/javier-garc%C3%ADa/2019/10/29/functional-lessons.html">Functional lessons learnt </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/griffin">Griffin, an anti-fraud risk rule engine making billions of predictions daily </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/dns-encryption-explained/">DNS Encryption Explained </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/10/speed-up-your-website-webp/">Speed Up Your Website With WebP </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/10/auditing-for-accessibility-problems-with-firefox-developer-tools/">Auditing For Accessibility Problems With Firefox Developer Tools </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 07 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 06 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Fri, 25 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 24 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.clever.com/2019/10/16/evolving-systems-for-new-products/">Evolving Systems for New Products </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a?source=rss----2615bd06b42e---4">How Netflix microservices tackle dataset pub-sub </a></li> 
-          
-            <li> <a href="https://eng.uber.com/michelangelo-model-representation/">Evolving Michelangelo Model Representation for Flexibility at Scale </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/10/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response/">How Dropbox Security builds tools for threat detection and incident response </a></li> 
-          
-            <li> <a href="https://www.ably.io/blog/webhooks-vs-websub/">Webhooks vs WebSub? Actually they&#39;re different beasts </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/depth-prediction-autonomous-driving-18d05ff25dd6?source=rss----7f60cf5620c9---4">Recognizing Depth in Autonomous Driving </a></li> 
-          
-            <li> <a href="https://stripe.com/blog/accessible-color-systems">Designing accessible color systems </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2019/10/15/zero-trust-at-gitlab-where-do-we-go-from-here/">Zero Trust at GitLab: Where do we go from here? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 24 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-24.html</guid>
       </item>
       
   </channel>
