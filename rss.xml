@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 08 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-">An inside look at LinkedIn’s data pipeline monitoring system </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/requirements-for-managing-multicloud-kubernetes">Requirements for Managing Multicloud Kubernetes </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/announcing-cfnts/">Announcing cfnts: Cloudflare&#39;s implementation of NTS in Rust </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/zendesks-global-mesh-network-part-1-8f45414c5cb4?source=rss----a88376ea904a---4">Zendesk’s Global Mesh Network- Part 1 </a></li> 
+          
+            <li> <a href="https://engineering.prezi.com/evolution-of-data-ingestion-and-product-instrumentation-at-prezi-660e158bbfc0?source=rss----911e72786e31---4">Evolution of Data Ingestion and Product Instrumentation at Prezi </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/multi-cluster-security-firelens/">Multi-cluster security with Falco and AWS Firelens on EKS &amp; ECS </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/10/modernizing-our-android-build-system-part-i-the-planning/">Modernizing our Android build system: Part I, the planning </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234?source=rss----25cd379abb8---4">Open Sourcing Amundsen: A Data Discovery And Metadata Platform </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 08 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 07 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Mon, 28 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 25 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://nordicapis.com/everything-you-need-to-know-about-api-pagination/">Everything You Need to Know About API Pagination </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rust-2019?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rust&#39;s Journey to Async/await </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/serverless-data-pipeline?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building and Operating a Serverless Data Pipeline </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data">🚂 On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data </a></li> 
-          
-            <li> <a href="https://engblog.nextdoor.com/the-kindness-reminder-868252995140?source=rss----5e54f11cdfdf---4">The Kindness Reminder </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/security/partially-blind-signatures/">Fighting fraud using partially blind signatures </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/kubernetes-deep-dive-aeebfa1516c3?source=rss----905ea2b3d4d1---4">Kubernetes — Deep dive </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/10/the-lucas-critique-and-the-necessity-of-theory/">The Lucas Critique and the Necessity of Theory </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 25 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-25.html</guid>
       </item>
       
   </channel>
