@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 12 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/sentence-generation-with-n-gram-21a5eef36a1b?source=rss----7f60cf5620c9---4">The Concept behind Word Suggestion </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/receiving-messages-in-elixir-to-avoid-performance-issues.html">Receiving messages in Elixir to avoid performance issues </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/addressing-technical-debt">Addressing Technical Debt </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/tuning-neural-networks-2707fac5852b?source=rss----7f60cf5620c9---4">Tuning Neural Networks </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/rebuilding-raspberry-pi-systems-in-elixir.html">Rebuilding Raspberry Pi systems in Elixir </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/grcuda-a-polyglot-language-binding-for-cuda-in-graalvm/">grCUDA: A Polyglot Language Binding for CUDA in GraalVM </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8?source=rss----37dc2a3034f2---4">Making instagram.com faster: Code size and execution optimizations (Part 4) </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/going-keyless-everywhere/">Going Keyless Everywhere </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 12 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 11 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Wed, 30 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 29 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/attention-for-time-series-classification-and-forecasting-261723e0006d?source=rss----7f60cf5620c9---4">Attention for time series classification and forecasting </a></li> 
-          
-            <li> <a href="https://slack.engineering/client-consistency-at-slack-beyond-libslack-c9cfbe778fb7?source=rss----58820b6d8904---4">Client Consistency at Slack: Beyond Libslack </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/learnings-from-the-journey-to-continuous-deployment">Learnings from the journey to continuous deployment </a></li> 
-          
-            <li> <a href="https://hackernoon.com/load-balancer-and-when-to-use-it-5n1032b4?source=rss">Load Balancers - Whats, Hows, and Whens </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/ml-platform-meetup-infra-for-contextual-bandits-and-reinforcement-learning-4a90305948ef?source=rss----2615bd06b42e---4">ML Platform Meetup: Infra for Contextual Bandits and Reinforcement Learning </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5?source=rss----7f60cf5620c9---4">UNet Line by Line Explanation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/say-hello-to-asynchronous-search-for-pyspark-64c692a05595?source=rss----7f60cf5620c9---4">Say Hello to Asynchronous Search for PySpark </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/speeding-up-deep-clustering">Speeding up Deep Clustering with Concrete GMVAEs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 29 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-29.html</guid>
       </item>
       
   </channel>
