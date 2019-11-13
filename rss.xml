@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 13 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://snyk.io/blog/javascript-frameworks-security-report-2019/">JavaScript frameworks security report 2019 </a></li> 
+          
+            <li> <a href="https://distill.pub/2019/computing-receptive-fields">Computing Receptive Fields of Convolutional Neural Networks </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/datadog-app-analytics-logs-from-one-to-n-537119b9671c?source=rss----a88376ea904a---4">Datadog App Analytics/Logs from One to N </a></li> 
+          
+            <li> <a href="https://www.elastic.co/blog/interpretability-in-ml-identifying-anomalies-influencers-root-causes">Interpretability in ML: Identifying anomalies, influencers, and root causes </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/graphql-search-indexing-334c92e0d8d5?source=rss----2615bd06b42e---4">GraphQL Search Indexing </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/anomaly-detection-with-sql-7700c7516d1d?source=rss----7f60cf5620c9---4">Anomaly Detection With SQL </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/11/online-environments-older-users/">Creating Online Environments That Work Well For Older Users </a></li> 
+          
+            <li> <a href="https://stackshare.io/launchdarkly/nine-experimentation-best-practices">Nine Experimentation Best Practices </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 13 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 12 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Thu, 31 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 30 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/building-a-conversational-assistant-platform-for-voice-enabled-shopping-6d174cdc4131?source=rss----905ea2b3d4d1---4">Building a conversational assistant platform for voice-enabled shopping </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ing-sre-teams-practices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Making a Lion Bulletproof: SRE in Banking </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/10/redesigning-yelp-for-apple-watch-with-swiftui.html">Redesigning Yelp for Apple Watch with SwiftUI </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/fintech-adtech-performance-distributed-systems?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building a High-performance Networking Protocol for Microservices </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2019/10/18/kubernetes-and-hokusai/">Kubernetes and Hokusai </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/the-notebook-anti-pattern-b1b55910929e?source=rss----7f60cf5620c9---4">The notebook anti-pattern </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/10/how-ruby-can-surprise-you/">How Ruby Can Surprise You </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/10/21/3-steps-toward-improving-container-security/">3 steps toward improving container security </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/plotting-with-python-c2561b8c0f1f?source=rss----7f60cf5620c9---4">Learn how to create beautiful and insightful charts with Python — the Quick, the Pretty, and the… </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 30 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-30.html</guid>
       </item>
       
   </channel>
