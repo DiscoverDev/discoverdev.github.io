@@ -6,6 +6,42 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 15 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.lyft.com/detecting-stop-signs-and-traffic-signals-deep-learning-at-lyft-mapping-75bac609c231?source=rss----25cd379abb8---4">Detecting Stop Signs and Traffic Signals: Deep Learning at Lyft Mapping </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/mike-knepper/2019/11/05/polyglot-influence-in-python.html">Polyglot Influences in Python </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/deep-prognosis-predicting-mortality-in-the-icu-900ffc8790a6?source=rss----d02e65779d7b---4">Deep Prognosis: Predicting Mortality in the ICU </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/building-expanded-targeting-for-pinterest-ads-27975ff0da18?source=rss-ef81ef829bcb------2">Building Expanded Targeting for Pinterest Ads </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/sam-saffron-performance-monitoring-ama">Sam Saffron AMA: Performance and Monitoring with Ruby </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/">The introductory guide to AssemblyScript </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/implementation-strategies-multicloud-kubernetes">Implementation Strategies for Multicloud Kubernetes </a></li> 
+          
+            <li> <a href="https://lambda.grofers.com/how-we-sustain-dns-outages-at-grofers-800731e5280c?source=rss----42df4a1e8725---4">How We Sustain DNS Outages at Grofers </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/persisted-queries-in-graphql-slim-down-apollo-requests-to-your-ruby-application">Persisted queries in GraphQL: Slim down Apollo requests to your Ruby application </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/">A Story of a React Re-Rendering Bug </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/efficiency-better-software-faster?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Everyday Efficiencies </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/optimizing-search-index-generation-using-secondary-cache-172c085a636a?source=rss----905ea2b3d4d1---4">Optimizing Search Index Generation using secondary cache </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 15 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 13 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +295,6 @@
         <pubDate>Fri, 01 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 31 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/audio-and-visual-quality-measurement.html">Audio and Visual Quality Measurement using Fréchet Distance </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/automated-continuous-deployment-at-heroku">Automated Continuous Deployment at Heroku </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/using-grabs-trust-counter-service-to-detect-fraud-successfully">Using Grab’s Trust Counter Service to Detect Fraud Successfully </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/10/imagekit-guide-optimizing-images-mobile/">A Guide To Optimizing Images For Mobile </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/docker-application-packages-cnab?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Using Docker Application Packages  to Deliver Apps Across Teams </a></li> 
-          
-            <li> <a href="https://www.toptal.com/web/performance-working-with-http-3">Performance and Efficiency: Working with HTTP/3 </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/nvidia-gpu-operator-simplifying-gpu-management-in-kubernetes/">NVIDIA GPU Operator: Simplifying GPU Management in Kubernetes </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a?source=rss----2615bd06b42e---4">Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused… </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/interpretable-machine-learning-for-image-classification-with-lime-ea947e82ca13?source=rss----7f60cf5620c9---4">Interpretable Machine Learning for Image Classification with LIME </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 31 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-31.html</guid>
       </item>
       
   </channel>
