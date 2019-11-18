@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 18 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502?source=rss----cb96a1f03649---4">How Discord achieves native iOS performance with React Native </a></li> 
+          
+            <li> <a href="https://www.toptal.com/web/website-performance-critical-rendering-path">Optimizing Website Performance and Critical Rendering Path </a></li> 
+          
+            <li> <a href="https://www.semantics3.com/blog/ai-for-automated-web-crawling/">Using AI to Automate Web Crawling </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/identifying-gaps-in-openstreetmap-coverage-through-machine-learning-257545c04330?source=rss----7f60cf5620c9---4">Identifying gaps in OpenStreetMap coverage through machine learning </a></li> 
+          
+            <li> <a href="https://eng.uber.com/beacon-improving-pickups-with-better-location-accuracy/">Improving Pickups with Better Location Accuracy </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/testing-techniques-microservices-use-cases?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Testing Microservices: 6 Case Studies With a Combination of Testing Techniques - Part 3 </a></li> 
+          
+            <li> <a href="https://blog.timescale.com/blog/achieving-optimal-query-performance-with-a-distributed-time-series-database-on-postgresql/">Achieving optimal query performance with a distributed time-series database on PostgreSQL </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/implementing-a-batch-size-finder-in-fastai-how-to-get-a-4x-speedup-with-better-generalization-813d686f6bdf?source=rss----7f60cf5620c9---4">Implementing a batch size finder in Fastai : how to get a 4x speedup with better generalization ! </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 18 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 15 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Mon, 04 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 01 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447?source=rss----2615bd06b42e---4">Open-sourcing Polynote: an IDE-inspired polyglot notebook </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/adtech-fraud-detection?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: High Performance Cooperative Distributed Systems in Adtech </a></li> 
-          
-            <li> <a href="https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd?source=rss----58820b6d8904---4">Gantry: Slack’s Fast-booting Frontend Framework </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/10/23/when-in-rome-how-spotify-halved-build-times-with-just-one-script/">When in Rome: How Spotify halved build times with just one script </a></li> 
-          
-            <li> <a href="https://www.ably.io/blog/practical-strategies-for-dns-failure/">DNS issues? Five practical strategies to remove single points of failure </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-reinforcement-learning-for-drones-in-3d-realistic-environments-36821b6ee077?source=rss----7f60cf5620c9---4">Deep Reinforcement Learning for Drones in 3D realistic environments </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821?source=rss----25cd379abb8---4">Securing Apache Airflow UI With DAG Level Access </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/low-latency-cloud-oss?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Achieving Low-latency in the Cloud with OSS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 01 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-01.html</guid>
       </item>
       
   </channel>
