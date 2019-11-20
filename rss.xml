@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 20 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/11/the-visual-task-adaptation-benchmark.html">The Visual Task Adaptation Benchmark </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/asynchronous-programming-with-thread-pools-e42d6bacd171?source=rss----5517fd7b58a6---4">Asynchronous Programming with Thread Pools </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/11/dropbox-ml-pipelines?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Dropbox Predicts What File You Need Next With Content-Specific ML Pipelines </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/protect-your-deep-neural-network-by-embedding-watermarks-ed4898ec4ad7?source=rss----7f60cf5620c9---4">Protect your Deep Neural Network by Embedding Watermarks! </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/11/heroku-automated-deployment?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Heroku&#39;s Journey to Automated Continuous Deployment </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/how-we-built-personalization-and-natural-language-into-crm-search-9f4204395bc1?source=rss----cfe1120185d3---4">How We Built Personalization and Natural Language into CRM Search </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/deep-dive-into-react-fiber-internals/">A deep dive into React Fiber internals </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-neural-machine-translation-encoder-decoder-architecture-80f205643ba4?source=rss----7f60cf5620c9---4">Understanding Neural Machine Translation: Encoder-Decoder Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 20 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 19 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -269,34 +297,6 @@
         <pubDate>Wed, 06 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 05 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/mouse-movement-modelling-to-predict-online-fraud-873d90b201e2?source=rss----7f60cf5620c9---4">MOUSE Movement modelling to predict online Fraud </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/ai-research/2019-scale-conference/">2019 @Scale Conference recap </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9?source=rss----7f60cf5620c9---4">Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store </a></li> 
-          
-            <li> <a href="https://www.bigeng.io/implementing-ios-13-dark-mode-in-the-new-bigcommerce-mobile-app/">Implementing iOS 13 Dark Mode in the new BigCommerce mobile app </a></li> 
-          
-            <li> <a href="https://johanlorenzo.github.io/blog/2019/10/24/taskgraph-is-now-deployed-to-the-biggest-mozilla-mobile-projects.html">Taskgraph is now deployed to the biggest mozilla-mobile projects </a></li> 
-          
-            <li> <a href="https://blog.jooq.org/2019/10/25/dogfooding-in-product-development/">Dogfooding in Product Development </a></li> 
-          
-            <li> <a href="http://tech.gc.com/when-you-deserve-better-systems/">When you deserve better (systems) </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/rabbitmq-mirrored-queues-gotchas.html">RabbitMQ Mirrored Queues Gotchas </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 05 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-05.html</guid>
       </item>
       
   </channel>
