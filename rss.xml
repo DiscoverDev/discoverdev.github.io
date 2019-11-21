@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 21 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html">Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/four-steps-creating-effective-game-day-tests">Four Steps to Creating Effective Game Day Tests </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/10/learning-to-assemble-and-to-generalize.html">Learning to Assemble and to Generalize from Self-Supervised Disassembly </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/page-simulator-fa02069fb269?source=rss----2615bd06b42e---4">Page Simulator </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/10/on-device-captioning-with-live-caption.html">On-Device Captioning with Live Caption </a></li> 
+          
+            <li> <a href="https://eng.uber.com/open-source-orchestration-tool-cadence-overview/">Conducting Better Business with Uber’s Open Source Orchestration Tool, Cadence </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html">Quantum Supremacy Using a Programmable Superconducting Processor </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/10/protecting-against-code-reuse-in-linux_30.html">Protecting against code reuse in the Linux kernel with Shadow Call Stack </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2019/10/one-biometric-api-over-all-android.html">One Biometric API Over all Android </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 21 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 20 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +295,6 @@
         <pubDate>Thu, 07 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 06 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.novoda.com/no-time-to-test/">Oh Sh*t : There is no time to test </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/50-years-of-the-internet-work-in-progress-to-a-better-internet/">50 Years of The Internet. Work in Progress to a Better Internet </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/animating-ganime-with-stylegan-part-1-4cf764578e?source=rss----7f60cf5620c9---4">Animating gAnime with StyleGAN: Part 1 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/go-crypto-library?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Maintaining the Go Crypto Libraries </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/multi-language-iascode?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Multi-language Infrastructure as Code </a></li> 
-          
-            <li> <a href="https://tech.findmypast.com/road-to-k8s-ha-part-4/">The Journey to Kubernetes High Availability - Part 4 </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-practically-use-performance-api-to-measure-performance/">How to practically use Performance API to measure performance </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2019/10/how-we-stopped-being-an-image-processing-company/">How We Stopped Being an Image Processing Company </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/">Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/modeling-currency-in-elm-using-phantom-types">Modeling Currency in Elm using Phantom Types </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 06 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-06.html</guid>
       </item>
       
   </channel>
