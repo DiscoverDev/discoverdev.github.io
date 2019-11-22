@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 22 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://thoughtbot.com/blog/intro-to-accessibility">Intro to Accessibility </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/11/introducing-next-generation-on-device.html">Introducing the Next Generation of On-Device Vision Models: MobileNetV3 and MobileNetEdgeTPU </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/11/12/spotifys-event-delivery-life-in-the-cloud/">Spotify’s Event Delivery – Life in the Cloud </a></li> 
+          
+            <li> <a href="https://www.toptal.com/virtual-reality/webvr-and-edge-computing">WebVR and the Browser Edge Computing Revolution </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/11/13/pod-lifecycle-event-generator-understanding-the-pleg-is-not-healthy-issue-in-kubernetes/">Pod Lifecycle Event Generator: Understanding the “PLEG is not healthy” issue in Kubernetes </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/11/new-insights-into-human-mobility-with.html">New Insights into Human Mobility with Privacy Preserving Aggregation </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2019/10/android-dev-summit-2019-keynote.html">A modern approach to Android development, with Jetpack Compose and more! </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/understanding-product-attributes-for-shoppers-77268c746c87?source=rss-ef81ef829bcb------2">Understanding product attributes for shoppers </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 22 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 21 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Fri, 08 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/the-tls-post-quantum-experiment/">The TLS Post-Quantum Experiment </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/semantics-at-scale-bert-elasticsearch-be5bce877859?source=rss----7f60cf5620c9---4">Semantics at Scale: BERT + Elasticsearch </a></li> 
-          
-            <li> <a href="https://eng.uber.com/3d-tiles-loadersgl/">Taking City Visualization into the Third Dimension with Point Clouds, 3D Tiles, and deck.gl </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/javier-garc%C3%ADa/2019/10/29/functional-lessons.html">Functional lessons learnt </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/griffin">Griffin, an anti-fraud risk rule engine making billions of predictions daily </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/dns-encryption-explained/">DNS Encryption Explained </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/10/speed-up-your-website-webp/">Speed Up Your Website With WebP </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/10/auditing-for-accessibility-problems-with-firefox-developer-tools/">Auditing For Accessibility Problems With Firefox Developer Tools </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-07.html</guid>
       </item>
       
   </channel>
