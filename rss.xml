@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 25 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://levelup.gitconnected.com/graphql-observability-with-go-using-open-source-tools-4caaf8f13237?source=rss----5517fd7b58a6---4">GraphQL Observability with Go Using Open-source Tools </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/11/open-source-clusterman.html">Remember Clusterman? Now It&#39;s Open-Source, and Supports Kubernetes Too! </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers">Successfully Merging the Work of 1000+ Developers </a></li> 
+          
+            <li> <a href="https://itnext.io/the-two-most-important-challenges-with-an-api-gateway-when-adopting-kubernetes-cf2d63bab7e7?source=rss----5b301f10ddcd---4">The Two Most Important Challenges with an API Gateway when Adopting Kubernetes </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/11/monitoring-server-applications-with-vortex/">Monitoring server applications with Vortex </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/11/spice-self-supervised-pitch-estimation.html">SPICE: Self-Supervised Pitch Estimation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/less-core-design-principles?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chicken Breeding &amp; The Core Design Principles </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/a-new-beginning-for-react-native-at-walmartlabs-online-grocery-c30b27db57d3?source=rss----905ea2b3d4d1---4">A new beginning for React Native at WalmartLabs Online Grocery </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 25 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 22 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Mon, 11 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 08 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-">An inside look at LinkedIn’s data pipeline monitoring system </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/requirements-for-managing-multicloud-kubernetes">Requirements for Managing Multicloud Kubernetes </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/announcing-cfnts/">Announcing cfnts: Cloudflare&#39;s implementation of NTS in Rust </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/zendesks-global-mesh-network-part-1-8f45414c5cb4?source=rss----a88376ea904a---4">Zendesk’s Global Mesh Network- Part 1 </a></li> 
-          
-            <li> <a href="https://engineering.prezi.com/evolution-of-data-ingestion-and-product-instrumentation-at-prezi-660e158bbfc0?source=rss----911e72786e31---4">Evolution of Data Ingestion and Product Instrumentation at Prezi </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/multi-cluster-security-firelens/">Multi-cluster security with Falco and AWS Firelens on EKS &amp; ECS </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/10/modernizing-our-android-build-system-part-i-the-planning/">Modernizing our Android build system: Part I, the planning </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234?source=rss----25cd379abb8---4">Open Sourcing Amundsen: A Data Discovery And Metadata Platform </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 08 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-08.html</guid>
       </item>
       
   </channel>
