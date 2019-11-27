@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/7-ways-we-put-kubernetes-to-work-at-salesforce-e658de98ef2d?source=rss----cfe1120185d3---4">7 Ways We Put Kubernetes to Work at Salesforce </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705?source=rss----7f60cf5620c9---4">How to Train StyleGAN to Generate Realistic Faces </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/11/18/drawing-lines-with-webgl.html">Drawing Lines with WebGL </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/11/18/talking-to-devs-about-testing.html">Why I&#39;m talking to developers about Exploratory Testing </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2019/11/18/how-quarkus-brings-imperative-and-reactive-programming-together/">How Quarkus brings imperative and reactive programming together </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a?source=rss----7f60cf5620c9---4">Illustrated: Self-Attention </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/large-graph-visualization-tools-and-approaches-2b8758a1cd59?source=rss----7f60cf5620c9---4">Large Graph Visualization Tools and Approaches </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/research/ebays-new-approach-to-managing-a-vast-service-architecture/">eBay’s New Approach to Managing a Vast Service Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 27 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 25 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Tue, 12 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 11 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/keyless-delegation/">Delegated Credentials for TLS </a></li> 
-          
-            <li> <a href="https://itnext.io/prototyping-micro-frontends-d03397c5f770?source=rss----5b301f10ddcd---4">Prototyping Micro Frontends </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/securing-kubernetes-cluster?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing a Multi-tenant Kubernetes Cluster </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/business-continuity-disaster-recovery-in-the-microservices-world-ef2adca363df?source=rss----905ea2b3d4d1---4">Business Continuity &amp; Disaster Recovery in the Microservices world </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/10/eBay-grit-multidb-transactions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">GRIT Protocol Enables Distributed Transactions across Multi-Database Microservices </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/how-we-built-a-vectorized-sql-engine/">How We Built a Vectorized SQL Engine </a></li> 
-          
-            <li> <a href="https://blog.timescale.com/blog/building-columnar-compression-in-a-row-oriented-database/">Building columnar compression in a row-oriented database </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/static-typing-ruby-with-sorbet">Static Typing in Ruby with a Side of Sorbet </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 11 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-11.html</guid>
       </item>
       
   </channel>
