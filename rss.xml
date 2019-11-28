@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 28 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/how-salesforce-protects-you-from-credential-stuffers-e45f0fe7e9f9?source=rss----cfe1120185d3---4">How Salesforce Protects You From Credential Stuffers </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/">Handling GraphQL errors like a champ with unions and interfaces </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/privacy-power-up-upgrading-pin-links-from-http-to-https-9f3cd32a132c?source=rss-ef81ef829bcb------2">Privacy Power-Up: Upgrading Pin Links from HTTP to HTTPS </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/economics-architecture-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: NUDGE – Role of Economics in Architecture and Design </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/">Test Flakiness – Methods for identifying and dealing with flaky tests </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/automated-testing-is-not-working/">Automated testing is not working </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/push-notification-based-2-step-verification/">Push Notifications-based 2-step Verification </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2019/11/18/g-scout-enterprise-and-cloud-security-at-etsy/">G-Scout Enterprise and Cloud Security at Etsy </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 28 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 27 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +295,6 @@
         <pubDate>Wed, 13 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 12 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/sentence-generation-with-n-gram-21a5eef36a1b?source=rss----7f60cf5620c9---4">The Concept behind Word Suggestion </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/receiving-messages-in-elixir-to-avoid-performance-issues.html">Receiving messages in Elixir to avoid performance issues </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/addressing-technical-debt">Addressing Technical Debt </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/tuning-neural-networks-2707fac5852b?source=rss----7f60cf5620c9---4">Tuning Neural Networks </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/rebuilding-raspberry-pi-systems-in-elixir.html">Rebuilding Raspberry Pi systems in Elixir </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/grcuda-a-polyglot-language-binding-for-cuda-in-graalvm/">grCUDA: A Polyglot Language Binding for CUDA in GraalVM </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8?source=rss----37dc2a3034f2---4">Making instagram.com faster: Code size and execution optimizations (Part 4) </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/going-keyless-everywhere/">Going Keyless Everywhere </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 12 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-12.html</guid>
       </item>
       
   </channel>
