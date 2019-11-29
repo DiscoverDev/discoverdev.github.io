@@ -6,6 +6,38 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 29 Nov 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/deep-learning-algorithms-and-brain-computer-interfaces-7608d0a6f01?source=rss----7f60cf5620c9---4">Deep Learning Algorithms and Brain-Computer Interfaces </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/conde-nast-chaos-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Chaos Engineering: In Pursuit of the Unknown Unknowns </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/css-at-an-intersection">CSS at an Intersection </a></li> 
+          
+            <li> <a href="https://zulily-tech.com/2019/11/19/evolution-of-zulilys-airflow-infrastructure/">Evolution of Zulily’s Airflow Infrastructure </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/nuage-sdk">Empowering our developers with the Nuage SDK </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/11/recsim-configurable-simulation-platform.html">RecSim: A Configurable Simulation Platform for Recommender Systems </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/unpacking-competitive-benchmarks/">Unpacking Competitive Benchmark Claims </a></li> 
+          
+            <li> <a href="https://eng.uber.com/introducing-menu-maker/">Introducing Menu Maker: Uber Eats’ New Menu Management Tool </a></li> 
+          
+            <li> <a href="https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579?source=rss----58820b6d8904---4">Introducing Nebula, the open source global overlay network from Slack </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/building-hpc-containers-demystified/">Building HPC Containers Demystified </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 29 Nov 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-11-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 28 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +299,6 @@
         <pubDate>Fri, 15 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 13 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://snyk.io/blog/javascript-frameworks-security-report-2019/">JavaScript frameworks security report 2019 </a></li> 
-          
-            <li> <a href="https://distill.pub/2019/computing-receptive-fields">Computing Receptive Fields of Convolutional Neural Networks </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/datadog-app-analytics-logs-from-one-to-n-537119b9671c?source=rss----a88376ea904a---4">Datadog App Analytics/Logs from One to N </a></li> 
-          
-            <li> <a href="https://www.elastic.co/blog/interpretability-in-ml-identifying-anomalies-influencers-root-causes">Interpretability in ML: Identifying anomalies, influencers, and root causes </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/graphql-search-indexing-334c92e0d8d5?source=rss----2615bd06b42e---4">GraphQL Search Indexing </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/anomaly-detection-with-sql-7700c7516d1d?source=rss----7f60cf5620c9---4">Anomaly Detection With SQL </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/11/online-environments-older-users/">Creating Online Environments That Work Well For Older Users </a></li> 
-          
-            <li> <a href="https://stackshare.io/launchdarkly/nine-experimentation-best-practices">Nine Experimentation Best Practices </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 13 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-13.html</guid>
       </item>
       
   </channel>
