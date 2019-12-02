@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 02 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/semantic-search-fuck-yeah-e371c0f639d?source=rss----7f60cf5620c9---4">On Semantic Search </a></li> 
+          
+            <li> <a href="https://engineering.squarespace.com/blog/2019/checkout-surveys-a-data-science-approach">Checkout Surveys: A Data Science Approach </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/">Even faster connection establishment with QUIC 0-RTT resumption </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2019/11/20/maximizing-performance-via-concurrency-while-minimizing-timeouts-in-distributed-databases/">Maximizing Performance via Concurrency While Minimizing Timeouts in Distributed Databases </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/erlang-and-elixir-for-blockchain-4-key-advantages.html">Erlang and Elixir for Blockchain - 4 key advantages </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/uber-eats-time-predictions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Predicting Time to Cook, Arrive, and Deliver in Uber Eats </a></li> 
+          
+            <li> <a href="https://nordicapis.com/4-ways-your-api-specification-can-fall-short-and-what-to-do-about-it/">4 Ways Your API Specification Can Fall Short (And What to Do About It) </a></li> 
+          
+            <li> <a href="https://stackshare.io/onesignal/rust-at-onesignal">Rust at OneSignal </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 02 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 29 Nov 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,42 +291,6 @@
         <pubDate>Mon, 18 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 15 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.lyft.com/detecting-stop-signs-and-traffic-signals-deep-learning-at-lyft-mapping-75bac609c231?source=rss----25cd379abb8---4">Detecting Stop Signs and Traffic Signals: Deep Learning at Lyft Mapping </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/mike-knepper/2019/11/05/polyglot-influence-in-python.html">Polyglot Influences in Python </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/deep-prognosis-predicting-mortality-in-the-icu-900ffc8790a6?source=rss----d02e65779d7b---4">Deep Prognosis: Predicting Mortality in the ICU </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/building-expanded-targeting-for-pinterest-ads-27975ff0da18?source=rss-ef81ef829bcb------2">Building Expanded Targeting for Pinterest Ads </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/sam-saffron-performance-monitoring-ama">Sam Saffron AMA: Performance and Monitoring with Ruby </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/">The introductory guide to AssemblyScript </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/implementation-strategies-multicloud-kubernetes">Implementation Strategies for Multicloud Kubernetes </a></li> 
-          
-            <li> <a href="https://lambda.grofers.com/how-we-sustain-dns-outages-at-grofers-800731e5280c?source=rss----42df4a1e8725---4">How We Sustain DNS Outages at Grofers </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/persisted-queries-in-graphql-slim-down-apollo-requests-to-your-ruby-application">Persisted queries in GraphQL: Slim down Apollo requests to your Ruby application </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/">A Story of a React Re-Rendering Bug </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/efficiency-better-software-faster?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Everyday Efficiencies </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/optimizing-search-index-generation-using-secondary-cache-172c085a636a?source=rss----905ea2b3d4d1---4">Optimizing Search Index Generation using secondary cache </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 15 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-15.html</guid>
       </item>
       
   </channel>
