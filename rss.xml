@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 04 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/preparing-tiff-images-for-image-translation-with-pix2pix-f56fa1e937cb?source=rss----7f60cf5620c9---4">Preparing TIFF images for image translation with Pix2Pix </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/domain-driven-development-in-golang">How we implemented domain-driven development in Golang </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/11/21/newsvendor-model/">Newsvendor Problem &amp;#150; The Tale of the First Formula in the Textbook </a></li> 
+          
+            <li> <a href="https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1?source=rss">Lessons Learned Building Distributed Systems with CQRS and Event Sourcing </a></li> 
+          
+            <li> <a href="https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/">Debugging network stalls on Kubernetes </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/quantum-qubit-algorithm?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Untangling the Mysteries of Qubits </a></li> 
+          
+            <li> <a href="https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201?source=rss----51e1d1745b32---4">How We Implemented a Baseline Grid Using CSS </a></li> 
+          
+            <li> <a href="https://itnext.io/deep-in-the-weeds-with-reactime-concurrent-react-fiberroot-and-browser-history-caching-7ce9d7300abb?source=rss----5b301f10ddcd---4">Deep in the Weeds with Reactime, Concurrent React _fiberRoot, and Browser History Caching </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 04 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 03 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Wed, 20 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 19 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://thoughtbot.com/blog/finding-the-time-to-refactor">Finding the Time to Refactor </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/credit-card-fraud-detection-using-self-organizing-featuremaps-f6e8bca707bd?source=rss----7f60cf5620c9---4">Credit Card Fraud Detection using Self Organizing FeatureMaps </a></li> 
-          
-            <li> <a href="https://hackernoon.com/untouched-posix-5k202dwk?source=rss">POSIX: An Untold Story </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/wasm-game-editor-port?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Porting a Desktop Game Editor to the Browser with WebAssembly </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/developer-tools/fast-dimensional-analysis/">Fast dimensional analysis for root cause analysis at scale </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/dark-mode-observer-pattern">Implementing Dark Mode Using the Observer Pattern </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2019/11/08/the-consul-outage-that-never-happened/">The Consul outage that never happened </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/11/newspapers-teach-web-design/">What Newspapers Can Teach Us About Web Design </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/parallel-commits/">Parallel Commits: An Atomic Commit Protocol For Globally Distributed Transactions </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 19 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-19.html</guid>
       </item>
       
   </channel>
