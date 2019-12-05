@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 05 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://itnext.io/developing-web-apps-using-qml-and-qt-for-webassembly-aa84453f2f61?source=rss----5b301f10ddcd---4">Developing Web apps using QML and Qt for WebAssembly </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/writing-end-to-end-tests-for-graphql-servers-using-jest/">Writing end-to-end tests for GraphQL servers using Jest </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-clustering-for-financial-market-segmentation-2a41573618cf?source=rss----7f60cf5620c9---4">Deep Clustering for Financial Market Segmentation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/lessons-learned-performance-testing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Lessons Learned in Performance Testing </a></li> 
+          
+            <li> <a href="https://blog.octo.com/en/time-series-features-extraction-using-fourier-and-wavelet-transforms-on-ecg-data/">Time series features extraction using Fourier and Wavelet transforms on ECG data </a></li> 
+          
+            <li> <a href="https://nodesource.com/blog/understanding-streams-in-nodejs">Understanding Streams in Node.js </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/getting-started-with-rust-and-kafka">Getting Started with Rust and Apache Kafka </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 05 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 04 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Thu, 21 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 20 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/11/the-visual-task-adaptation-benchmark.html">The Visual Task Adaptation Benchmark </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/asynchronous-programming-with-thread-pools-e42d6bacd171?source=rss----5517fd7b58a6---4">Asynchronous Programming with Thread Pools </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/11/dropbox-ml-pipelines?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Dropbox Predicts What File You Need Next With Content-Specific ML Pipelines </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/protect-your-deep-neural-network-by-embedding-watermarks-ed4898ec4ad7?source=rss----7f60cf5620c9---4">Protect your Deep Neural Network by Embedding Watermarks! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/11/heroku-automated-deployment?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Heroku&#39;s Journey to Automated Continuous Deployment </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/how-we-built-personalization-and-natural-language-into-crm-search-9f4204395bc1?source=rss----cfe1120185d3---4">How We Built Personalization and Natural Language into CRM Search </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/deep-dive-into-react-fiber-internals/">A deep dive into React Fiber internals </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-neural-machine-translation-encoder-decoder-architecture-80f205643ba4?source=rss----7f60cf5620c9---4">Understanding Neural Machine Translation: Encoder-Decoder Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 20 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-20.html</guid>
       </item>
       
   </channel>
