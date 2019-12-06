@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 06 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.scottlogic.com/2019/11/26/webassembly-on-the-blockchain.html">WebAssembly on the Blockchain and JavaScript Smart Contracts </a></li> 
+          
+            <li> <a href="https://americanexpress.io/choosing-go/">Choosing Go at American Express </a></li> 
+          
+            <li> <a href="https://engineering.thumbtack.com/detecting-leaky-view-controllers/">Detecting Leaky View Controllers </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/using-kafka-to-throttle-qps-on-mysql-shards-in-bulk-write-apis-a326ae0f1ac1?source=rss-ef81ef829bcb------2">Using Kafka to throttle QPS on MySQL shards in bulk write APIs </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/stepping-up-to-the-graphql-buffet-c9011a92b4c0?source=rss----cfe1120185d3---4">Stepping Up to the GraphQL Buffet </a></li> 
+          
+            <li> <a href="http://highscalability.com/blog/2019/11/25/egnyte-architecture-lessons-learned-in-building-and-scaling.html">Egnyte Architecture: Lessons learned in building and scaling a multi petabyte content platform </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/discovering-continuous-automation-with-request-mirroring/">Discovering Continuous Automation With Request Mirroring </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/a-practical-guide-to-accessibility-for-forms/">A practical guide to accessibility for forms </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/11/mobile-share-code-costs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Hidden Costs of iOS/Android Shared Development, at Dropbox and Slack </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 06 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 05 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +289,6 @@
         <pubDate>Fri, 22 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 21 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html">Learning to Smell: Using Deep Learning to Predict the Olfactory Properties of Molecules </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/four-steps-creating-effective-game-day-tests">Four Steps to Creating Effective Game Day Tests </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/learning-to-assemble-and-to-generalize.html">Learning to Assemble and to Generalize from Self-Supervised Disassembly </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/page-simulator-fa02069fb269?source=rss----2615bd06b42e---4">Page Simulator </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/on-device-captioning-with-live-caption.html">On-Device Captioning with Live Caption </a></li> 
-          
-            <li> <a href="https://eng.uber.com/open-source-orchestration-tool-cadence-overview/">Conducting Better Business with Uber’s Open Source Orchestration Tool, Cadence </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html">Quantum Supremacy Using a Programmable Superconducting Processor </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/10/protecting-against-code-reuse-in-linux_30.html">Protecting against code reuse in the Linux kernel with Shadow Call Stack </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2019/10/one-biometric-api-over-all-android.html">One Biometric API Over all Android </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 21 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-21.html</guid>
       </item>
       
   </channel>
