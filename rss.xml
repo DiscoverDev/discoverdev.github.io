@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 09 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/joint-consensus-raft/">Availability and Region Failure: Joint Consensus in CockroachDB </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/bringing-features-life-legends-runeterra">Bringing Features to Life in Legends of Runeterra </a></li> 
+          
+            <li> <a href="https://eng.uber.com/optimizing-observability/">Optimizing Observability with Jaeger, M3, and XYS at Uber </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/developer-tools/ccsm/">CCSM: Scalable statistical anomaly detection to resolve app crashes faster </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/iohk-plutus-haskell-agda?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rethinking Blockchain Contract Development </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882?source=rss----37dc2a3034f2---4">Powered by AI: Instagram’s Explore recommender system </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/cloud-native-architecture-adoption-part1?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/11/programmatically-discovering-sharing-code-oembed/">Programmatically Discovering Sharing Code With oEmbed </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2019/11/26/a-smart-feature-flagging-system-for-ios/">A Smart Feature Flagging System for iOS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 09 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 06 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Mon, 25 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 22 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://thoughtbot.com/blog/intro-to-accessibility">Intro to Accessibility </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/11/introducing-next-generation-on-device.html">Introducing the Next Generation of On-Device Vision Models: MobileNetV3 and MobileNetEdgeTPU </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/11/12/spotifys-event-delivery-life-in-the-cloud/">Spotify’s Event Delivery – Life in the Cloud </a></li> 
-          
-            <li> <a href="https://www.toptal.com/virtual-reality/webvr-and-edge-computing">WebVR and the Browser Edge Computing Revolution </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/11/13/pod-lifecycle-event-generator-understanding-the-pleg-is-not-healthy-issue-in-kubernetes/">Pod Lifecycle Event Generator: Understanding the “PLEG is not healthy” issue in Kubernetes </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/11/new-insights-into-human-mobility-with.html">New Insights into Human Mobility with Privacy Preserving Aggregation </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2019/10/android-dev-summit-2019-keynote.html">A modern approach to Android development, with Jetpack Compose and more! </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/understanding-product-attributes-for-shoppers-77268c746c87?source=rss-ef81ef829bcb------2">Understanding product attributes for shoppers </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 22 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-22.html</guid>
       </item>
       
   </channel>
