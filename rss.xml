@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 10 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/efficientdet-scalable-and-efficient-object-detection-review-4472ffc34fd9?source=rss----7f60cf5620c9---4">EfficientDet: Scalable and Efficient Object Detection Review </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/html-parsing-1/">A History of HTML Parsing at Cloudflare: Part 1 </a></li> 
+          
+            <li> <a href="https://engineering.thumbtack.com/machine-learning-search-ranking/">Our Transition to Machine Learning in Search Ranking to Match Customers and Professionals </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/11/27/graalvm-java-binaries">Watch GraalVM Turn Your Java Into Binaries </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/autonomous-vehicle-radar-perception-in-360-degrees/">Autonomous Vehicle Radar Perception in 360 Degrees </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/11/27/drawing-area-polygons-with-webgl.html">Drawing Area Polygons with WebGL </a></li> 
+          
+            <li> <a href="https://nordicapis.com/the-differences-between-gateway-microgateway-and-service-mesh/">The Differences Between Gateway, Microgateway, and Service Mesh </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/11/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair/">BERT Does Business: Implementing the BERT Model for Natural Language Processing at Wayfair </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/solving-real-problems-with-design">Solving Real Problems With Design </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 10 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 09 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +293,6 @@
         <pubDate>Wed, 27 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 25 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://levelup.gitconnected.com/graphql-observability-with-go-using-open-source-tools-4caaf8f13237?source=rss----5517fd7b58a6---4">GraphQL Observability with Go Using Open-source Tools </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/11/open-source-clusterman.html">Remember Clusterman? Now It&#39;s Open-Source, and Supports Kubernetes Too! </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers">Successfully Merging the Work of 1000+ Developers </a></li> 
-          
-            <li> <a href="https://itnext.io/the-two-most-important-challenges-with-an-api-gateway-when-adopting-kubernetes-cf2d63bab7e7?source=rss----5b301f10ddcd---4">The Two Most Important Challenges with an API Gateway when Adopting Kubernetes </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/11/monitoring-server-applications-with-vortex/">Monitoring server applications with Vortex </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/11/spice-self-supervised-pitch-estimation.html">SPICE: Self-Supervised Pitch Estimation </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/less-core-design-principles?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chicken Breeding &amp; The Core Design Principles </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/a-new-beginning-for-react-native-at-walmartlabs-online-grocery-c30b27db57d3?source=rss----905ea2b3d4d1---4">A new beginning for React Native at WalmartLabs Online Grocery </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 25 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-25.html</guid>
       </item>
       
   </channel>
