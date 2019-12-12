@@ -6,6 +6,66 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 12 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/building-large-kubernetes-clusters/">Building Large Kubernetes Clusters </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/wingify-towards-docker-kubernetes/">Wingify towards Docker and Kubernetes </a></li> 
+          
+            <li> <a href="https://medium.com/carousell-insider/assembling-robust-web-chat-applications-with-javascript-an-in-depth-guide-9f36685fc1bc?source=rss----6c35dc0cba4d---4">Assembling Robust Web Chat Applications with JavaScript: An In-depth Guide </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce?source=rss----2615bd06b42e---4">Data Compression for Large-Scale Streaming Experimentation </a></li> 
+          
+            <li> <a href="https://engineering.thumbtack.com/targeted-code-coverage-for-android/">Targeted Code Coverage Reports for Android Continuous Builds </a></li> 
+          
+            <li> <a href="https://itnext.io/infrastructure-resilience-handling-invalid-configuration-in-the-envoy-proxy-f20883eba8a7?source=rss----5b301f10ddcd---4">Infrastructure Resilience: Handling Invalid Configuration in the Envoy Proxy </a></li> 
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/02/faster-postgresql-connection-recovery">Faster PostgreSQL connection recovery </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/12/git-hooks-team-development-workflow/">How To Ease Your Team’s Development Workflow With Git Hooks </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/esp32-fatal-fury?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">ESP32 IoT Devices Vulnerable to Forever-Hack </a></li> 
+          
+            <li> <a href="https://engineering.zomato.com/blog/all-new-search-and-discovery-on-zomato">All new Search and Discovery on Zomato </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 12 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-12.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 11 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://devblogs.nvidia.com/federated-learning-clara/">Federated Learning powered by NVIDIA Clara </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a77ac9531cab?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/">Shopping for an admin account via path traversal </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/html-parsing-2/">A History of HTML Parsing at Cloudflare: Part 2 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/11/shopify-custom-autoscaler-k8s?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How Shopify Implements Custom Autoscaling Rules in Kubernetes </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/approach-reactive-programming-in-modern-web-application-b20f59b7699d?source=rss----5517fd7b58a6---4">Reactive Programming in a Modern Web Application </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/11/28/email-digests-with-elasticsearch-via-a-serverless-architecture.html">Email Digests with Elasticsearch via a Serverless Architecture </a></li> 
+          
+            <li> <a href="https://www.toptal.com/virtual-reality/assemblyscript-and-webassembly-tutorial">WebVR Part 3: Unlocking the Potential of WebAssembly and AssemblyScript </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 11 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 10 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -237,62 +297,6 @@
         <pubDate>Fri, 29 Nov 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-11-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 28 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.salesforce.com/how-salesforce-protects-you-from-credential-stuffers-e45f0fe7e9f9?source=rss----cfe1120185d3---4">How Salesforce Protects You From Credential Stuffers </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/">Handling GraphQL errors like a champ with unions and interfaces </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/privacy-power-up-upgrading-pin-links-from-http-to-https-9f3cd32a132c?source=rss-ef81ef829bcb------2">Privacy Power-Up: Upgrading Pin Links from HTTP to HTTPS </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/economics-architecture-design?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: NUDGE – Role of Economics in Architecture and Design </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/11/18/test-flakiness-methods-for-identifying-and-dealing-with-flaky-tests/">Test Flakiness – Methods for identifying and dealing with flaky tests </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/automated-testing-is-not-working/">Automated testing is not working </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/push-notification-based-2-step-verification/">Push Notifications-based 2-step Verification </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2019/11/18/g-scout-enterprise-and-cloud-security-at-etsy/">G-Scout Enterprise and Cloud Security at Etsy </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 28 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 27 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.salesforce.com/7-ways-we-put-kubernetes-to-work-at-salesforce-e658de98ef2d?source=rss----cfe1120185d3---4">7 Ways We Put Kubernetes to Work at Salesforce </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-to-train-stylegan-to-generate-realistic-faces-d4afca48e705?source=rss----7f60cf5620c9---4">How to Train StyleGAN to Generate Realistic Faces </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/11/18/drawing-lines-with-webgl.html">Drawing Lines with WebGL </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/11/18/talking-to-devs-about-testing.html">Why I&#39;m talking to developers about Exploratory Testing </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2019/11/18/how-quarkus-brings-imperative-and-reactive-programming-together/">How Quarkus brings imperative and reactive programming together </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a?source=rss----7f60cf5620c9---4">Illustrated: Self-Attention </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/large-graph-visualization-tools-and-approaches-2b8758a1cd59?source=rss----7f60cf5620c9---4">Large Graph Visualization Tools and Approaches </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/research/ebays-new-approach-to-managing-a-vast-service-architecture/">eBay’s New Approach to Managing a Vast Service Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 27 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-27.html</guid>
       </item>
       
   </channel>
