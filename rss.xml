@@ -6,6 +6,40 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 13 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/serverless-workflows-actors?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Stateful Programming Models in Serverless Functions </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/ebay-architecture-knowledgegraph?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Managing eBay Vast Service Architecture Using Knowledge Graphs </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/autofill-deep-dive/">Autofill on Browsers: A Deep Dive </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9?source=rss----2615bd06b42e---4">Open-Sourcing Metaflow, a Human-Centric Framework for Data Science </a></li> 
+          
+            <li> <a href="https://engineering.tumblr.com/post/189455858864">How Reblogs Work </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/follower-reads/">Reducing Multi-Region Latency with Follower Reads </a></li> 
+          
+            <li> <a href="https://eng.uber.com/rxcentral-bluetooth-connection-library/">RxCentral: Uber’s Open Source Library for Seamless Bluetooth Integrations </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/developing-deep-learning-models-for.html">Developing Deep Learning Models for Chest X-rays with Adjudicated Image Labels </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/categories-associations-and-navigation-design">Categories, Associations, and Navigation Design </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/airbnb-graphql-migration?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Migrating to GraphQL at Airbnb </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/exploring-images-in-jetpack-compose-c8ba87089c92?source=rss----587883b5d2ee---4">Exploring Images in Jetpack Compose </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 13 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 12 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,38 +299,6 @@
         <pubDate>Mon, 02 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 29 Nov 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-algorithms-and-brain-computer-interfaces-7608d0a6f01?source=rss----7f60cf5620c9---4">Deep Learning Algorithms and Brain-Computer Interfaces </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/conde-nast-chaos-resilience?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Chaos Engineering: In Pursuit of the Unknown Unknowns </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/css-at-an-intersection">CSS at an Intersection </a></li> 
-          
-            <li> <a href="https://zulily-tech.com/2019/11/19/evolution-of-zulilys-airflow-infrastructure/">Evolution of Zulily’s Airflow Infrastructure </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/nuage-sdk">Empowering our developers with the Nuage SDK </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/11/recsim-configurable-simulation-platform.html">RecSim: A Configurable Simulation Platform for Recommender Systems </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/unpacking-competitive-benchmarks/">Unpacking Competitive Benchmark Claims </a></li> 
-          
-            <li> <a href="https://eng.uber.com/introducing-menu-maker/">Introducing Menu Maker: Uber Eats’ New Menu Management Tool </a></li> 
-          
-            <li> <a href="https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579?source=rss----58820b6d8904---4">Introducing Nebula, the open source global overlay network from Slack </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/building-hpc-containers-demystified/">Building HPC Containers Demystified </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 29 Nov 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-11-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-11-29.html</guid>
       </item>
       
   </channel>
