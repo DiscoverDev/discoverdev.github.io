@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 16 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/uber-eats-graph-learning/">Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations </a></li> 
+          
+            <li> <a href="https://stackshare.io/pinterest/building-a-kubernetes-platform-at-pinterest">Building a Kubernetes Platform at Pinterest </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/data-engineering-pipelines-warehouses?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Future of Data Engineering </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/kubernetes-log-aggregation/">Kubernetes log aggregation </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2019/12/using-webassembly-from-dotnet-with-wasmtime/">Using WebAssembly from .NET with Wasmtime </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/automated-testing-terraform-docker-packer?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automated Testing for Terraform, Docker, Packer, Kubernetes, and More </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2019/12/04/lessons-learned-from-handling-jwt-on-mobile/">Lessons learned from handling JWT on mobile </a></li> 
+          
+            <li> <a href="https://nordicapis.com/understanding-the-hidden-powers-of-curl/">Understanding the Hidden Powers of curl </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 16 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 13 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,34 +299,6 @@
         <pubDate>Tue, 03 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 02 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/semantic-search-fuck-yeah-e371c0f639d?source=rss----7f60cf5620c9---4">On Semantic Search </a></li> 
-          
-            <li> <a href="https://engineering.squarespace.com/blog/2019/checkout-surveys-a-data-science-approach">Checkout Surveys: A Data Science Approach </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/">Even faster connection establishment with QUIC 0-RTT resumption </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2019/11/20/maximizing-performance-via-concurrency-while-minimizing-timeouts-in-distributed-databases/">Maximizing Performance via Concurrency While Minimizing Timeouts in Distributed Databases </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/erlang-and-elixir-for-blockchain-4-key-advantages.html">Erlang and Elixir for Blockchain - 4 key advantages </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/uber-eats-time-predictions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Predicting Time to Cook, Arrive, and Deliver in Uber Eats </a></li> 
-          
-            <li> <a href="https://nordicapis.com/4-ways-your-api-specification-can-fall-short-and-what-to-do-about-it/">4 Ways Your API Specification Can Fall Short (And What to Do About It) </a></li> 
-          
-            <li> <a href="https://stackshare.io/onesignal/rust-at-onesignal">Rust at OneSignal </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 02 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-02.html</guid>
       </item>
       
   </channel>
