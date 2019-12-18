@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 18 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/06/software-quality-in-a-world-of-microservices-and-continuous-deployment">Software quality in a world of microservices and continuous deployment </a></li> 
+          
+            <li> <a href="https://alistapart.com/article/semantics-to-screen-readers/">Semantics to Screen Readers </a></li> 
+          
+            <li> <a href="https://alistapart.com/article/paint-the-picture-not-the-frame/">Paint the Picture, Not the Frame: How Browsers Provide Everything Users Need </a></li> 
+          
+            <li> <a href="https://itnext.io/eks-fargate-extensibility-of-kubernetes-serverless-benefits-77599ac1763?source=rss----5b301f10ddcd---4">EKS + Fargate = Extensibility of Kubernetes + Serverless Benefits </a></li> 
+          
+            <li> <a href="https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/">Unthrottled: Fixing CPU Limits in the Cloud </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/spring-reactor-kotlin-javafx-mongodb?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fully Reactive: Spring, Kotlin, and JavaFX Playing Together </a></li> 
+          
+            <li> <a href="https://rapidapi.com/blog/how-rapidapi-uses-graphql-internally/">How RapidAPI Uses GraphQL Internally </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/12/cassandra-source-connector-part-1.html">Streaming Cassandra into Kafka in (Near) Real-Time: Part 1 </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2019/12/android-game-sdk.html">Android Game SDK </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 18 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 17 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,34 +305,6 @@
         <pubDate>Thu, 05 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-05.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-05.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 04 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/preparing-tiff-images-for-image-translation-with-pix2pix-f56fa1e937cb?source=rss----7f60cf5620c9---4">Preparing TIFF images for image translation with Pix2Pix </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/domain-driven-development-in-golang">How we implemented domain-driven development in Golang </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/11/21/newsvendor-model/">Newsvendor Problem &amp;#150; The Tale of the First Formula in the Textbook </a></li> 
-          
-            <li> <a href="https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1?source=rss">Lessons Learned Building Distributed Systems with CQRS and Event Sourcing </a></li> 
-          
-            <li> <a href="https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/">Debugging network stalls on Kubernetes </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/quantum-qubit-algorithm?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Untangling the Mysteries of Qubits </a></li> 
-          
-            <li> <a href="https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201?source=rss----51e1d1745b32---4">How We Implemented a Baseline Grid Using CSS </a></li> 
-          
-            <li> <a href="https://itnext.io/deep-in-the-weeds-with-reactime-concurrent-react-fiberroot-and-browser-history-caching-7ce9d7300abb?source=rss----5b301f10ddcd---4">Deep in the Weeds with Reactime, Concurrent React _fiberRoot, and Browser History Caching </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 04 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-04.html</guid>
       </item>
       
   </channel>
