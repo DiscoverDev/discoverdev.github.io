@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 19 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/08/migrating-the-guardian-website-to-react">Migrating the Guardian website to React </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/network-isolation-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How Monzo Isolated Their Microservices Using Kubernetes Network Policies </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html">Understanding Transfer Learning for Medical Imaging </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/eliminating-toil-with-fully-automated-load-testing">Eliminating toil with fully automated load testing </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/batch-lifecycle?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Batch Processing in 2019 </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/react-native-memory-profiling-jsc-vs-v8-vs-hermes-1626949a653b?source=rss----905ea2b3d4d1---4">React Native Memory profiling (JSC vs V8 vs Hermes) </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-1d1e91e489b4?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/ai-in-browsers-comparing-tensorflow-onnx-and-webdnn-for-image-classification/">AI in browsers: Comparing TensorFlow, ONNX, and WebDNN for image classification </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/webassembly-execution-architecture?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: WebAssembly: Revolution, Not Evolution </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 19 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-19.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 18 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -277,34 +307,6 @@
         <pubDate>Fri, 06 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 05 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/developing-web-apps-using-qml-and-qt-for-webassembly-aa84453f2f61?source=rss----5b301f10ddcd---4">Developing Web apps using QML and Qt for WebAssembly </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/writing-end-to-end-tests-for-graphql-servers-using-jest/">Writing end-to-end tests for GraphQL servers using Jest </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-clustering-for-financial-market-segmentation-2a41573618cf?source=rss----7f60cf5620c9---4">Deep Clustering for Financial Market Segmentation </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/lessons-learned-performance-testing?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Lessons Learned in Performance Testing </a></li> 
-          
-            <li> <a href="https://blog.octo.com/en/time-series-features-extraction-using-fourier-and-wavelet-transforms-on-ecg-data/">Time series features extraction using Fourier and Wavelet transforms on ECG data </a></li> 
-          
-            <li> <a href="https://nodesource.com/blog/understanding-streams-in-nodejs">Understanding Streams in Node.js </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/getting-started-with-rust-and-kafka">Getting Started with Rust and Apache Kafka </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 05 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-05.html</guid>
       </item>
       
   </channel>
