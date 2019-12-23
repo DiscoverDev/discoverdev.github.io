@@ -6,6 +6,62 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 23 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/productionizing-distributed-xgboost/">Productionizing Distributed XGBoost to Train Deep Tree Models with Large Data Sets at Uber </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-javascript-works-optimizing-for-parsing-efficiency/">How JavaScript works: Optimizing for parsing efficiency </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/12/better-password-protections-in-chrome.html">Better password protections in Chrome - How it works </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/develop-smaller-speech-recognition-models-with-nvidias-nemo-framework/">Develop Smaller Speech Recognition Models with NVIDIA’s NeMo Framework </a></li> 
+          
+            <li> <a href="https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2?source=rss----5b301f10ddcd---4">Parsing 18 billion lines JSON with Go </a></li> 
+          
+            <li> <a href="https://stackshare.io/hashicorp/transforming-the-management-of-application-configurations-and-secrets-at-24-hour-fitness">Transforming the Management of Application Configurations &amp; Secrets at 24 Hour Fitness </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/12/struggling-handle-traffic-surges/">Struggling To Get A Handle On Traffic Surges </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/the-case-for-wet-tests">The Case for WET Tests </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 23 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-23.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 20 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/github-security-open-source?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing Software from the Supply Side </a></li> 
+          
+            <li> <a href="https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-1/">GC Perf Infrastructure – Part 1 </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2019/12/09/mysql-encryption-talking-about-keyrings/">MySQL Encryption: Talking About Keyrings </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/12/09/views-from-the-cloud-a-history-of-spotifys-journey-to-the-cloud-part-1/">Views From The Cloud: A History of Spotify’s Journey to the Cloud, Part 1 </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rust-async-await?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Talk You&#39;ve Been Await-ing For </a></li> 
+          
+            <li> <a href="http://engineering.vinted.com//2019/12/09/vinted-event-ingestion-pipeline-from-client-to-kafka/">Scalable and non-blocking event ingestion pipeline? Here&amp;rsquo;s how </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/slack-building-resilient-data-engineering?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/how-tell-secrets-test">How to tell secrets </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 20 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 19 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -247,66 +303,6 @@
         <pubDate>Tue, 10 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 09 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/joint-consensus-raft/">Availability and Region Failure: Joint Consensus in CockroachDB </a></li> 
-          
-            <li> <a href="https://technology.riotgames.com/news/bringing-features-life-legends-runeterra">Bringing Features to Life in Legends of Runeterra </a></li> 
-          
-            <li> <a href="https://eng.uber.com/optimizing-observability/">Optimizing Observability with Jaeger, M3, and XYS at Uber </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/developer-tools/ccsm/">CCSM: Scalable statistical anomaly detection to resolve app crashes faster </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/iohk-plutus-haskell-agda?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Rethinking Blockchain Contract Development </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882?source=rss----37dc2a3034f2---4">Powered by AI: Instagram’s Explore recommender system </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/cloud-native-architecture-adoption-part1?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/11/programmatically-discovering-sharing-code-oembed/">Programmatically Discovering Sharing Code With oEmbed </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2019/11/26/a-smart-feature-flagging-system-for-ios/">A Smart Feature Flagging System for iOS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 09 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 06 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.scottlogic.com/2019/11/26/webassembly-on-the-blockchain.html">WebAssembly on the Blockchain and JavaScript Smart Contracts </a></li> 
-          
-            <li> <a href="https://americanexpress.io/choosing-go/">Choosing Go at American Express </a></li> 
-          
-            <li> <a href="https://engineering.thumbtack.com/detecting-leaky-view-controllers/">Detecting Leaky View Controllers </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/using-kafka-to-throttle-qps-on-mysql-shards-in-bulk-write-apis-a326ae0f1ac1?source=rss-ef81ef829bcb------2">Using Kafka to throttle QPS on MySQL shards in bulk write APIs </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/stepping-up-to-the-graphql-buffet-c9011a92b4c0?source=rss----cfe1120185d3---4">Stepping Up to the GraphQL Buffet </a></li> 
-          
-            <li> <a href="http://highscalability.com/blog/2019/11/25/egnyte-architecture-lessons-learned-in-building-and-scaling.html">Egnyte Architecture: Lessons learned in building and scaling a multi petabyte content platform </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/discovering-continuous-automation-with-request-mirroring/">Discovering Continuous Automation With Request Mirroring </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/a-practical-guide-to-accessibility-for-forms/">A practical guide to accessibility for forms </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/11/mobile-share-code-costs?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Hidden Costs of iOS/Android Shared Development, at Dropbox and Slack </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 06 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-06.html</guid>
       </item>
       
   </channel>
