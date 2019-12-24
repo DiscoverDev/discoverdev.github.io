@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 24 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/spring-reactor-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Reactive Pipelines: How to Go from Scalable Apps to (Ridiculously) Scalable Systems </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/joint-intent-classification-and-entity-recognition-for-conversational-commerce-35bf69195176?source=rss----905ea2b3d4d1---4">Joint Intent Classification and Entity Recognition for Conversational Commerce </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/fairness-indicators-scalable.html">Fairness Indicators: Scalable Infrastructure for Fair ML Systems </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/">Continuous integration and deployment with Bazel </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4?source=rss----25cd379abb8---4">Announcing omnibot: a Slack proxy and Slack bot framework </a></li> 
+          
+            <li> <a href="https://getaround.tech/migrating-a-live-iot-telemetry-backend/">Migrating a Live IoT Telemetry Backend </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/electron-app?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Make Your Electron App Feel at Home Everywhere </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/lessons-learned-from-developing-ml-for.html">Lessons Learned from Developing ML for Healthcare </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99?source=rss----53c7c27702d5---4">Dynein: Building a Distributed Delayed Job Queueing System </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 24 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 23 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -273,36 +303,6 @@
         <pubDate>Wed, 11 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 10 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/efficientdet-scalable-and-efficient-object-detection-review-4472ffc34fd9?source=rss----7f60cf5620c9---4">EfficientDet: Scalable and Efficient Object Detection Review </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/html-parsing-1/">A History of HTML Parsing at Cloudflare: Part 1 </a></li> 
-          
-            <li> <a href="https://engineering.thumbtack.com/machine-learning-search-ranking/">Our Transition to Machine Learning in Search Ranking to Match Customers and Professionals </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/11/27/graalvm-java-binaries">Watch GraalVM Turn Your Java Into Binaries </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/autonomous-vehicle-radar-perception-in-360-degrees/">Autonomous Vehicle Radar Perception in 360 Degrees </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/11/27/drawing-area-polygons-with-webgl.html">Drawing Area Polygons with WebGL </a></li> 
-          
-            <li> <a href="https://nordicapis.com/the-differences-between-gateway-microgateway-and-service-mesh/">The Differences Between Gateway, Microgateway, and Service Mesh </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/11/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair/">BERT Does Business: Implementing the BERT Model for Natural Language Processing at Wayfair </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/solving-real-problems-with-design">Solving Real Problems With Design </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 10 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-10.html</guid>
       </item>
       
   </channel>
