@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 26 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.scylladb.com/2019/12/12/how-scylla-scaled-to-one-billion-rows-a-second/">How Scylla Scaled to One Billion Rows a Second </a></li> 
+          
+            <li> <a href="https://www.elastic.co/blog/bkd-backed-geo-shapes-in-elasticsearch-precision-efficiency-speed">BKD-backed geo_shapes in Elasticsearch: precision + efficiency + speed </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/gokul-extending-time-series-data-storage-to-serve-beyond-one-day-52264307364d?source=rss-ef81ef829bcb------2">GokuL: Extending time series data storage to serve beyond one day </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/how-we-used-our-new-graphql-api-to-build-firewall-analytics/">How we used our new GraphQL Analytics API to build Firewall Analytics </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/what-is-phoenix-liveview/">What is Phoenix LiveView </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/under-the-hood-of-ebay-motors-new-app-powered-by-advanced-technology-like-flutter-ml-and-bff/">Under the Hood of eBay Motors: New App Powered By Advanced Technology Like Flutter, ML and BFF </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/">ReCNet: Deep Learning based Cross-class Recommendations at Wayfair </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/building-microservices-events-functions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Monoliths, Microservices, Events, Functions: What It Takes to Go Through the Transformation </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 26 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 24 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -275,34 +303,6 @@
         <pubDate>Thu, 12 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 11 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://devblogs.nvidia.com/federated-learning-clara/">Federated Learning powered by NVIDIA Clara </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a77ac9531cab?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/">Shopping for an admin account via path traversal </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/html-parsing-2/">A History of HTML Parsing at Cloudflare: Part 2 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/11/shopify-custom-autoscaler-k8s?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How Shopify Implements Custom Autoscaling Rules in Kubernetes </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/approach-reactive-programming-in-modern-web-application-b20f59b7699d?source=rss----5517fd7b58a6---4">Reactive Programming in a Modern Web Application </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/11/28/email-digests-with-elasticsearch-via-a-serverless-architecture.html">Email Digests with Elasticsearch via a Serverless Architecture </a></li> 
-          
-            <li> <a href="https://www.toptal.com/virtual-reality/assemblyscript-and-webassembly-tutorial">WebVR Part 3: Unlocking the Potential of WebAssembly and AssemblyScript </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 11 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-11.html</guid>
       </item>
       
   </channel>
