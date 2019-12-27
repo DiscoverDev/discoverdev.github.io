@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 27 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/undo-live-recorder?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Live Recorder: Debugging C++, Rust, and Go with Capture and Replay of Nondeterministic Data </a></li> 
+          
+            <li> <a href="https://stackshare.io/cloudsponge/how-cloudsponge-protects-trillions-of-email-addresses-from-hackers-and-scammers-every-year">How CloudSponge Protects Trillions Of Email Addresses From Hackers And Scammers Every Year </a></li> 
+          
+            <li> <a href="https://instagram-engineering.com/instagram-data-saver-mode-ffb01fd5a6bd?source=rss----37dc2a3034f2---4">Instagram Data Saver Mode </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-part-4-testing-viewmodels-550d929126c8?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/">The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2019/12/javascript-tests-you-can-trust/">JavaScript Tests You Can Trust </a></li> 
+          
+            <li> <a href="https://medium.com/strava-engineering/striving-for-ios-app-performance-ac2e1d4c29a2?source=rss----89d4108ce2a3---4">Striving for iOS App Performance </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/12/architecting-wait-time-estimations.html">Architecting Restaurant Wait Time Predictions </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 27 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 26 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -271,38 +299,6 @@
         <pubDate>Fri, 13 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 12 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/building-large-kubernetes-clusters/">Building Large Kubernetes Clusters </a></li> 
-          
-            <li> <a href="http://engineering.wingify.com/posts/wingify-towards-docker-kubernetes/">Wingify towards Docker and Kubernetes </a></li> 
-          
-            <li> <a href="https://medium.com/carousell-insider/assembling-robust-web-chat-applications-with-javascript-an-in-depth-guide-9f36685fc1bc?source=rss----6c35dc0cba4d---4">Assembling Robust Web Chat Applications with JavaScript: An In-depth Guide </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce?source=rss----2615bd06b42e---4">Data Compression for Large-Scale Streaming Experimentation </a></li> 
-          
-            <li> <a href="https://engineering.thumbtack.com/targeted-code-coverage-for-android/">Targeted Code Coverage Reports for Android Continuous Builds </a></li> 
-          
-            <li> <a href="https://itnext.io/infrastructure-resilience-handling-invalid-configuration-in-the-envoy-proxy-f20883eba8a7?source=rss----5b301f10ddcd---4">Infrastructure Resilience: Handling Invalid Configuration in the Envoy Proxy </a></li> 
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/02/faster-postgresql-connection-recovery">Faster PostgreSQL connection recovery </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/12/git-hooks-team-development-workflow/">How To Ease Your Team’s Development Workflow With Git Hooks </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/esp32-fatal-fury?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">ESP32 IoT Devices Vulnerable to Forever-Hack </a></li> 
-          
-            <li> <a href="https://engineering.zomato.com/blog/all-new-search-and-discovery-on-zomato">All new Search and Discovery on Zomato </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 12 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-12.html</guid>
       </item>
       
   </channel>
