@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 30 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/netflix-edge-scalability-patterns?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Patterns for Netflix&#39;s Edge </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/improvements-to-portrait-mode-on-google.html">Improvements to Portrait Mode on the Google Pixel 4 and Pixel 4 XL </a></li> 
+          
+            <li> <a href="https://www.azavea.com/blog/2019/12/13/three-ways-to-get-into-the-mind-of-a-supervised-machine-learning-model/">Three Ways to Get Into the “Mind” of a Supervised Machine Learning Model </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/frontend-platform">Making hundreds of developers more efficient by creating a Frontend Platform team </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/building-performant-web-applications-slow-networks/">How to build performant web applications for slow networks </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/12/16/regular-expressions-as-icebergs.html">Regular Expressions As Icebergs </a></li> 
+          
+            <li> <a href="https://www.docker.com/blog/deep-dive-into-new-docker-desktop-filesharing-implementation/">Deep Dive Into the New Docker Desktop filesharing Implementation Using FUSE </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2019/12/16/semantic-versioning">Semantic Versioning Sucks! Long Live Semantic Versioning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/embracing-chaos-engineering-gamedays?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Embracing Chaos! </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 30 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 27 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -265,40 +295,6 @@
         <pubDate>Mon, 16 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 13 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/serverless-workflows-actors?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Stateful Programming Models in Serverless Functions </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/ebay-architecture-knowledgegraph?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Managing eBay Vast Service Architecture Using Knowledge Graphs </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/autofill-deep-dive/">Autofill on Browsers: A Deep Dive </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9?source=rss----2615bd06b42e---4">Open-Sourcing Metaflow, a Human-Centric Framework for Data Science </a></li> 
-          
-            <li> <a href="https://engineering.tumblr.com/post/189455858864">How Reblogs Work </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/follower-reads/">Reducing Multi-Region Latency with Follower Reads </a></li> 
-          
-            <li> <a href="https://eng.uber.com/rxcentral-bluetooth-connection-library/">RxCentral: Uber’s Open Source Library for Seamless Bluetooth Integrations </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/developing-deep-learning-models-for.html">Developing Deep Learning Models for Chest X-rays with Adjudicated Image Labels </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/categories-associations-and-navigation-design">Categories, Associations, and Navigation Design </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/airbnb-graphql-migration?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Migrating to GraphQL at Airbnb </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/exploring-images-in-jetpack-compose-c8ba87089c92?source=rss----587883b5d2ee---4">Exploring Images in Jetpack Compose </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 13 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-13.html</guid>
       </item>
       
   </channel>
