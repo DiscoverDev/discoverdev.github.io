@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 31 Dec 2019</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/uber-data-platform-2019/">Uber’s Data Platform in 2019: Transforming Information to Intelligence </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2019/12/protecting-programmatic-access-to-user.html">Protecting programmatic access to user data with Binary Authorization for Borg </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/ebays-transformation-to-a-modern-ai-platform/">eBay’s Transformation to a Modern AI Platform </a></li> 
+          
+            <li> <a href="https://blog.overops.com/how-we-built-overops-for-enterprise-scale-environments/">How We Built OverOps for Enterprise-Scale Environments </a></li> 
+          
+            <li> <a href="https://medium.com/netflix-techblog/dblog-a-generic-change-data-capture-framework-69351fb9099b?source=rss----2615bd06b42e---4">DBLog: A Generic Change-Data-Capture Framework </a></li> 
+          
+            <li> <a href="https://hackernoon.com/video-transcoding-and-optimization-for-web-with-ffmpeg-made-easy-ikbg2g0w?source=rss">Video Transcoding And Optimization For Web With ffmpeg Made Easy </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/12/17/performant-large-scale-web-applications.html">Building performant large scale web applications </a></li> 
+          
+            <li> <a href="https://www.hostinger.com/blog/presenting-ux-ideas-to-designers/">Presenting UX Ideas to Designers in Their Language </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/netflix-user-identity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: User &amp; Device Identity for Microservices @ Netflix Scale </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 31 Dec 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-12-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 30 Dec 2019</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +297,6 @@
         <pubDate>Tue, 17 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 16 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/uber-eats-graph-learning/">Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations </a></li> 
-          
-            <li> <a href="https://stackshare.io/pinterest/building-a-kubernetes-platform-at-pinterest">Building a Kubernetes Platform at Pinterest </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/data-engineering-pipelines-warehouses?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Future of Data Engineering </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/kubernetes-log-aggregation/">Kubernetes log aggregation </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2019/12/using-webassembly-from-dotnet-with-wasmtime/">Using WebAssembly from .NET with Wasmtime </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/automated-testing-terraform-docker-packer?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Automated Testing for Terraform, Docker, Packer, Kubernetes, and More </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2019/12/04/lessons-learned-from-handling-jwt-on-mobile/">Lessons learned from handling JWT on mobile </a></li> 
-          
-            <li> <a href="https://nordicapis.com/understanding-the-hidden-powers-of-curl/">Understanding the Hidden Powers of curl </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 16 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-16.html</guid>
       </item>
       
   </channel>
