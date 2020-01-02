@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 02 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/18/shrinking-the-download-size-of-the-guardians-live-app-on-android">Shrinking the download size of the Guardian’s Live app on Android </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2019/12/18/modular-ios-architecture-just-eat/">Modular iOS Architecture @ Just Eat </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/interactions-servers-databases-transactions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Concurrency, Scalability and Transactions -- Myths and Surprises </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/what-is-skiplist-why-skiplist-index-for-memsql/">The Story Behind MemSQL’s Skiplist Indexes </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/accelerating-wide-deep-recommender-inference-on-gpus/">Accelerating Wide &amp; Deep Recommender Inference on GPUs </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/simdjson-parser?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Parsing JSON Really Quickly: Lessons Learned </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/">How to Build Domain Specific Automatic Speech Recognition Models on GPUs </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/coding-without-complexity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Coding without Complexity </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 02 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 01 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -263,36 +291,6 @@
         <pubDate>Thu, 19 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 18 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/06/software-quality-in-a-world-of-microservices-and-continuous-deployment">Software quality in a world of microservices and continuous deployment </a></li> 
-          
-            <li> <a href="https://alistapart.com/article/semantics-to-screen-readers/">Semantics to Screen Readers </a></li> 
-          
-            <li> <a href="https://alistapart.com/article/paint-the-picture-not-the-frame/">Paint the Picture, Not the Frame: How Browsers Provide Everything Users Need </a></li> 
-          
-            <li> <a href="https://itnext.io/eks-fargate-extensibility-of-kubernetes-serverless-benefits-77599ac1763?source=rss----5b301f10ddcd---4">EKS + Fargate = Extensibility of Kubernetes + Serverless Benefits </a></li> 
-          
-            <li> <a href="https://engineering.indeedblog.com/blog/2019/12/unthrottled-fixing-cpu-limits-in-the-cloud/">Unthrottled: Fixing CPU Limits in the Cloud </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/spring-reactor-kotlin-javafx-mongodb?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fully Reactive: Spring, Kotlin, and JavaFX Playing Together </a></li> 
-          
-            <li> <a href="https://rapidapi.com/blog/how-rapidapi-uses-graphql-internally/">How RapidAPI Uses GraphQL Internally </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/12/cassandra-source-connector-part-1.html">Streaming Cassandra into Kafka in (Near) Real-Time: Part 1 </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2019/12/android-game-sdk.html">Android Game SDK </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 18 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-18.html</guid>
       </item>
       
   </channel>
