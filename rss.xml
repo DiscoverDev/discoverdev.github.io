@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 03 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://engineering.remind.com/hypothesis-testing-in-production/">Hypothesis Testing in Production </a></li> 
+          
+            <li> <a href="https://engineering.indeedblog.com/blog/2019/12/cpu-throttling-regression-fix/">Unthrottled: How a Valid Fix Becomes a Regression </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2019/12/cassandra-source-connector-part-2.html">Streaming Cassandra into Kafka in (Near) Real-Time: Part 2 </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/apache-kafka-producer-improvements-sticky-partitioner">Apache Kafka Producer Improvements with the Sticky Partitioner </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/curious-case-table-locking-update-query">The Curious Case of the Table-Locking UPDATE Query </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/the-on-device-machine-learning-behind.html">The On-Device Machine Learning Behind Recorder </a></li> 
+          
+            <li> <a href="https://eng.uber.com/generative-teaching-networks/">Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data </a></li> 
+          
+            <li> <a href="https://hackernoon.com/cqrs-command-query-responsibility-segregation-8vb32x3?source=rss">CQRS: Command Query Responsibility Segregation In Depth </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 03 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 02 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Fri, 20 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 19 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/08/migrating-the-guardian-website-to-react">Migrating the Guardian website to React </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/network-isolation-kubernetes?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How Monzo Isolated Their Microservices Using Kubernetes Network Policies </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html">Understanding Transfer Learning for Medical Imaging </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/eliminating-toil-with-fully-automated-load-testing">Eliminating toil with fully automated load testing </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/batch-lifecycle?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Batch Processing in 2019 </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/react-native-memory-profiling-jsc-vs-v8-vs-hermes-1626949a653b?source=rss----905ea2b3d4d1---4">React Native Memory profiling (JSC vs V8 vs Hermes) </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-1d1e91e489b4?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/ai-in-browsers-comparing-tensorflow-onnx-and-webdnn-for-image-classification/">AI in browsers: Comparing TensorFlow, ONNX, and WebDNN for image classification </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/webassembly-execution-architecture?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: WebAssembly: Revolution, Not Evolution </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 19 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-19.html</guid>
       </item>
       
   </channel>
