@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 06 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/pinterest-engineering/how-ads-indexing-works-at-pinterest-99b4796f289f?source=rss-ef81ef829bcb------2">How ads indexing works at Pinterest </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/rabbitmq-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: RabbitMQ and Kafka </a></li> 
+          
+            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html">Deterministic Aperture: A distributed, load balancing algorithm </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/multicloud-microservicecs/">How Microservices Enable Multi-Cloud at the Expense of Developers </a></li> 
+          
+            <li> <a href="https://eng.uber.com/uber-infrastructure-2019/">Uber Infrastructure in 2019: Improving Reliability, Driving Customer Satisfaction </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2019/12/19/how-gitlab-handles-retrospectives/">How GitLab handles retrospectives </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/bias-variance-tradeoff-explained-fa2bc28174c4?source=rss----d02e65779d7b---4">Bias-Variance Tradeoff Explained </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/provisioning-infrastructure-for-stateful-services-in-public-cloud-an-hbase-use-case-part-i-231b53964755?source=rss----cfe1120185d3---4">Provisioning Infrastructure for Stateful Services in Public Cloud: An HBase Use Case (Part I) </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/mastercard-distributed-gemfire/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Beyond a Billion Transactions Per Day with Sub-second Responses </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 06 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 03 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +291,6 @@
         <pubDate>Mon, 23 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 20 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/github-security-open-source?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing Software from the Supply Side </a></li> 
-          
-            <li> <a href="https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-1/">GC Perf Infrastructure – Part 1 </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2019/12/09/mysql-encryption-talking-about-keyrings/">MySQL Encryption: Talking About Keyrings </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/12/09/views-from-the-cloud-a-history-of-spotifys-journey-to-the-cloud-part-1/">Views From The Cloud: A History of Spotify’s Journey to the Cloud, Part 1 </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rust-async-await?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Talk You&#39;ve Been Await-ing For </a></li> 
-          
-            <li> <a href="http://engineering.vinted.com//2019/12/09/vinted-event-ingestion-pipeline-from-client-to-kafka/">Scalable and non-blocking event ingestion pipeline? Here&amp;rsquo;s how </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/slack-building-resilient-data-engineering?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/how-tell-secrets-test">How to tell secrets </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 20 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-20.html</guid>
       </item>
       
   </channel>
