@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 07 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://giamir.com/evolutionary-ui">Evolutionary UI </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html">ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations </a></li> 
+          
+            <li> <a href="http://engineering.khanacademy.org/posts/goliath.htm">Go + Services = One Goliath Project </a></li> 
+          
+            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/">Want to make good business decisions? Learn causality </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/node-worker-threads-shared-array-buffers-rust-webassembly/">Node worker threads with shared array buffers and Rust WebAssembly </a></li> 
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/20/securing-and-centrally-monitoring-accounts-in-amazon-web-services">Securing and centrally monitoring accounts in Amazon Web Services </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/litr-a-lightweight-video-audio-transcoder-for-android">LiTr: A lightweight video/audio transcoder for Android </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/the-story-behind-an-instacart-order-part-3-predicting-the-shop-d1a3bb9f5d98?source=rss----587883b5d2ee---4">The story behind an Instacart order, part 3: predicting the shop </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 07 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 06 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -263,34 +291,6 @@
         <pubDate>Tue, 24 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 23 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/productionizing-distributed-xgboost/">Productionizing Distributed XGBoost to Train Deep Tree Models with Large Data Sets at Uber </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-javascript-works-optimizing-for-parsing-efficiency/">How JavaScript works: Optimizing for parsing efficiency </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/12/better-password-protections-in-chrome.html">Better password protections in Chrome - How it works </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/develop-smaller-speech-recognition-models-with-nvidias-nemo-framework/">Develop Smaller Speech Recognition Models with NVIDIA’s NeMo Framework </a></li> 
-          
-            <li> <a href="https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2?source=rss----5b301f10ddcd---4">Parsing 18 billion lines JSON with Go </a></li> 
-          
-            <li> <a href="https://stackshare.io/hashicorp/transforming-the-management-of-application-configurations-and-secrets-at-24-hour-fitness">Transforming the Management of Application Configurations &amp; Secrets at 24 Hour Fitness </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/12/struggling-handle-traffic-surges/">Struggling To Get A Handle On Traffic Surges </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/the-case-for-wet-tests">The Case for WET Tests </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 23 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-23.html</guid>
       </item>
       
   </channel>
