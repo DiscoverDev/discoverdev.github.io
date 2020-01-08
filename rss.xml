@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 08 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2019/building-a-blazingly-fast-android-app-part-1">Building a blazingly fast Android app, Part 1 </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/beyond-l2-loss-how-we-experiment-with-loss-functions-at-lyft-51f9303f5d2d?source=rss----25cd379abb8---4">Beyond L2 Loss — How we experiment with loss functions at Lyft </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-661a554a8c8b?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/spotify-event-delivery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Experience Running Spotify’s Event Delivery System in the Cloud </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/idea-behind-lime-and-shap-b603d35d34eb?source=rss----7f60cf5620c9---4">Idea Behind LIME and SHAP </a></li> 
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/22/async-failure-handling-in-typescript">Async Failure handling in Typescript </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/self-managed-kubernetes-ha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">High Availability for Self-Managed Kubernetes Clusters at DT One </a></li> 
+          
+            <li> <a href="https://itnext.io/creating-a-zero-downtime-cluster-in-nodejs-ad879ee3160?source=rss----5b301f10ddcd---4">Creating a Zero-downtime cluster in NodeJS </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 08 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 07 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -261,36 +289,6 @@
         <pubDate>Thu, 26 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 24 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/spring-reactor-microservices?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Reactive Pipelines: How to Go from Scalable Apps to (Ridiculously) Scalable Systems </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/joint-intent-classification-and-entity-recognition-for-conversational-commerce-35bf69195176?source=rss----905ea2b3d4d1---4">Joint Intent Classification and Entity Recognition for Conversational Commerce </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/fairness-indicators-scalable.html">Fairness Indicators: Scalable Infrastructure for Fair ML Systems </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/">Continuous integration and deployment with Bazel </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4?source=rss----25cd379abb8---4">Announcing omnibot: a Slack proxy and Slack bot framework </a></li> 
-          
-            <li> <a href="https://getaround.tech/migrating-a-live-iot-telemetry-backend/">Migrating a Live IoT Telemetry Backend </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/electron-app?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Make Your Electron App Feel at Home Everywhere </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/lessons-learned-from-developing-ml-for.html">Lessons Learned from Developing ML for Healthcare </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99?source=rss----53c7c27702d5---4">Dynein: Building a Distributed Delayed Job Queueing System </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 24 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-24.html</guid>
       </item>
       
   </channel>
