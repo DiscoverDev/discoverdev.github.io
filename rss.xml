@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 09 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/provisioning-infrastructure-for-stateful-services-in-public-cloud-an-hbase-use-case-part-ii-f2d90721be8?source=rss----cfe1120185d3---4">Provisioning Infrastructure for Stateful Services in Public Cloud: An HBase Use Case (Part II) </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps">How to Implement a Secure Central Authentication Service in Six Steps </a></li> 
+          
+            <li> <a href="https://hackernoon.com/how-im-engineering-a-temporal-database-storage-engine-for-byte-addressable-non-volatile-memory-af1728kl?source=rss">How I&#39;m Engineering a Versioned Database Storage Engine for Byte-Addressable NVM </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/marionette-enabling-e2e-user-scenario-simulation">Marionette - Enabling E2E user-scenario simulation </a></li> 
+          
+            <li> <a href="https://www.theguardian.com/info/2019/dec/26/how-the-guardians-engineering-team-supports-the-24-hour-news-cycle">How the Guardian’s engineering team supports the 24 hour news cycle </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/webassembly-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Build Your Own WebAssembly Compiler </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-streams-state-scalability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Beyond Microservices: Streams, State and Scalability </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/comlink-web-workers-match-made-in-heaven/">Comlink and web workers: A match made in heaven </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 09 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 08 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Fri, 27 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 26 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.scylladb.com/2019/12/12/how-scylla-scaled-to-one-billion-rows-a-second/">How Scylla Scaled to One Billion Rows a Second </a></li> 
-          
-            <li> <a href="https://www.elastic.co/blog/bkd-backed-geo-shapes-in-elasticsearch-precision-efficiency-speed">BKD-backed geo_shapes in Elasticsearch: precision + efficiency + speed </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/gokul-extending-time-series-data-storage-to-serve-beyond-one-day-52264307364d?source=rss-ef81ef829bcb------2">GokuL: Extending time series data storage to serve beyond one day </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/how-we-used-our-new-graphql-api-to-build-firewall-analytics/">How we used our new GraphQL Analytics API to build Firewall Analytics </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/what-is-phoenix-liveview/">What is Phoenix LiveView </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/under-the-hood-of-ebay-motors-new-app-powered-by-advanced-technology-like-flutter-ml-and-bff/">Under the Hood of eBay Motors: New App Powered By Advanced Technology Like Flutter, ML and BFF </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/">ReCNet: Deep Learning based Cross-class Recommendations at Wayfair </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/building-microservices-events-functions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Monoliths, Microservices, Events, Functions: What It Takes to Go Through the Transformation </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 26 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-26.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-26.html</guid>
       </item>
       
   </channel>
