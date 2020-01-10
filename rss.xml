@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 10 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/graphql-apollo-azure-functions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: GraphQL + Apollo Server + Azure Functions = Magic </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/micro-front-end/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Micro-front-ends: The Golden Circle </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/simulating-quantum-circuits-with-tensor-networks-77e079919823?source=rss----7f60cf5620c9---4">Simulating Quantum Circuits with Tensor Networks </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/simplicity-spring-cloud-services/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Idea to Dev to Ops </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/">Helping Browsers Optimize With The CSS Contain Property </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a11f6832773f?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/journey-to-a-faster-everyday-super-app">Journey to a Faster Everyday Super App Where Every Millisecond Counts </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/safer-code-with-container-types-either-and-maybe/">Safer code with container types (Either and Maybe) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 10 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 09 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +289,6 @@
         <pubDate>Mon, 30 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 27 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/undo-live-recorder?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Live Recorder: Debugging C++, Rust, and Go with Capture and Replay of Nondeterministic Data </a></li> 
-          
-            <li> <a href="https://stackshare.io/cloudsponge/how-cloudsponge-protects-trillions-of-email-addresses-from-hackers-and-scammers-every-year">How CloudSponge Protects Trillions Of Email Addresses From Hackers And Scammers Every Year </a></li> 
-          
-            <li> <a href="https://instagram-engineering.com/instagram-data-saver-mode-ffb01fd5a6bd?source=rss----37dc2a3034f2---4">Instagram Data Saver Mode </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-part-4-testing-viewmodels-550d929126c8?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/">The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/2019/12/javascript-tests-you-can-trust/">JavaScript Tests You Can Trust </a></li> 
-          
-            <li> <a href="https://medium.com/strava-engineering/striving-for-ios-app-performance-ac2e1d4c29a2?source=rss----89d4108ce2a3---4">Striving for iOS App Performance </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/12/architecting-wait-time-estimations.html">Architecting Restaurant Wait Time Predictions </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 27 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-27.html</guid>
       </item>
       
   </channel>
