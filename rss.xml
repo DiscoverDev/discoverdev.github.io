@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 13 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/making-python-programs-blazingly-fast-c1cd79bd1b32?source=rss----7f60cf5620c9---4">Making Python Programs Blazingly Fast </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2020/01/01/skupper-io-let-your-services-communicate-across-kubernetes-clusters/">Skupper.io: Let your services communicate across Kubernetes clusters </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2019/12/dynein-job-queue-airbnb/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Dynein – an Asynchronous Background Job Service from Airbnb </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051?source=rss----5517fd7b58a6---4">Micro-frontend Architecture: Import chunks from another Webpack bundle at runtime </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/adopting-a-new-approach-to-http-prioritization/">Adopting a new approach to HTTP prioritization </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/automate-problems-away-with-token-jobs/">Automate Problems Away with Token Jobs </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2019/12/30/sustainability-in-software-development.html">Sustainability in Software Development </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/candy-crush-QA-AI-saga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Candy Crush QA AI Saga </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 13 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 10 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,36 +287,6 @@
         <pubDate>Tue, 31 Dec 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-12-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 30 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-edge-scalability-patterns?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Patterns for Netflix&#39;s Edge </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/improvements-to-portrait-mode-on-google.html">Improvements to Portrait Mode on the Google Pixel 4 and Pixel 4 XL </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2019/12/13/three-ways-to-get-into-the-mind-of-a-supervised-machine-learning-model/">Three Ways to Get Into the “Mind” of a Supervised Machine Learning Model </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/frontend-platform">Making hundreds of developers more efficient by creating a Frontend Platform team </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/building-performant-web-applications-slow-networks/">How to build performant web applications for slow networks </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/12/16/regular-expressions-as-icebergs.html">Regular Expressions As Icebergs </a></li> 
-          
-            <li> <a href="https://www.docker.com/blog/deep-dive-into-new-docker-desktop-filesharing-implementation/">Deep Dive Into the New Docker Desktop filesharing Implementation Using FUSE </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2019/12/16/semantic-versioning">Semantic Versioning Sucks! Long Live Semantic Versioning </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/embracing-chaos-engineering-gamedays?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Embracing Chaos! </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 30 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-30.html</guid>
       </item>
       
   </channel>
