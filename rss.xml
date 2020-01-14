@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 14 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/walmartlabs/routing-engine-central-work-dispenser-850567a0535d?source=rss----905ea2b3d4d1---4">Routing Engine — Central Work Dispenser </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/01/03/rethinking-the-java-dto.html">Rethinking the Java DTO </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/processing-mongodb-oplog-4884f702ec5?source=rss----7f60cf5620c9---4">Processing MongoDB Oplog </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html">A WebAssembly Powered Augmented Reality Sudoku Solver </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/monoliths-modules/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Better Monoliths: Implementing Modulithic Applications with Spring </a></li> 
+          
+            <li> <a href="https://medium.com/engineering-housing/digilite-housings-new-visualization-product-9502c2a06cb1?source=rss----3a69e32e2594---4">Digilite — Housing’s new visualization product </a></li> 
+          
+            <li> <a href="http://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html">CloudFormation To Terraform </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/data-streaming-kafka-debezium/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Practical Change Data Streaming Use Cases with Apache Kafka &amp; Debezium </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 14 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 13 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,36 +285,6 @@
         <pubDate>Wed, 01 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 31 Dec 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/uber-data-platform-2019/">Uber’s Data Platform in 2019: Transforming Information to Intelligence </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2019/12/protecting-programmatic-access-to-user.html">Protecting programmatic access to user data with Binary Authorization for Borg </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/ebays-transformation-to-a-modern-ai-platform/">eBay’s Transformation to a Modern AI Platform </a></li> 
-          
-            <li> <a href="https://blog.overops.com/how-we-built-overops-for-enterprise-scale-environments/">How We Built OverOps for Enterprise-Scale Environments </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/dblog-a-generic-change-data-capture-framework-69351fb9099b?source=rss----2615bd06b42e---4">DBLog: A Generic Change-Data-Capture Framework </a></li> 
-          
-            <li> <a href="https://hackernoon.com/video-transcoding-and-optimization-for-web-with-ffmpeg-made-easy-ikbg2g0w?source=rss">Video Transcoding And Optimization For Web With ffmpeg Made Easy </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/12/17/performant-large-scale-web-applications.html">Building performant large scale web applications </a></li> 
-          
-            <li> <a href="https://www.hostinger.com/blog/presenting-ux-ideas-to-designers/">Presenting UX Ideas to Designers in Their Language </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-user-identity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: User &amp; Device Identity for Microservices @ Netflix Scale </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 31 Dec 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-12-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-12-31.html</guid>
       </item>
       
   </channel>
