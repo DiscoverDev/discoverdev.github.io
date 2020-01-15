@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 15 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.prezi.com/prometheus-at-prezi-replacing-10-years-of-anti-patterns-e3c2317e6ca?source=rss----911e72786e31---4">Prometheus at Prezi: replacing 10 years of anti-patterns </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/how-to-deploy-real-time-text-to-speech-applications-on-gpus-using-tensorrt/">How to Deploy Real-Time Text-to-Speech Applications on GPUs Using TensorRT </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ml-browser-tensorflow-js/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: ML in the Browser: Interactive Experiences with Tensorflow.js </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/can-we-build-trustable-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Can We Build Trustable Hardware? </a></li> 
+          
+            <li> <a href="https://itnext.io/biometrics-fingerprint-auth-in-your-web-apps-d5599522d0b3?source=rss----5b301f10ddcd---4">Biometrics (fingerprint) auth in your web apps </a></li> 
+          
+            <li> <a href="https://itnext.io/debugging-blazor-web-assembly-apps-c47ef25bcb5f?source=rss----5b301f10ddcd---4">Debugging Blazor Web Assembly Apps </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/gitlab-monolith-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Gitlab Scaled Git Access With Go and What We Gained From It </a></li> 
+          
+            <li> <a href="https://engineering.indeedblog.com/blog/2020/01/defining-churn/">D-Curve: An Improved Method for Defining Non-Contractual Churn with Type I and Type II Errors </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/making-the-linkedin-experimentation-engine-20x-faster">Making the LinkedIn experimentation engine 20x faster </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 15 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 14 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +287,6 @@
         <pubDate>Thu, 02 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 01 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-edge-gateway?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Evolution of Edge @Netflix </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html">Improving Out-of-Distribution Detection in Machine Learning Models </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2019/12/evaluating-bbrv2-on-the-dropbox-edge-network/">Evaluating BBRv2 on the Dropbox Edge Network </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/shopify-manages-api-versioning-breaking-changes">How Shopify Manages API Versioning and Breaking Changes </a></li> 
-          
-            <li> <a href="https://technology.riotgames.com/news/controlled-chaos-fault-injection-testing">Controlled Chaos with Fault Injection Testing </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/best-practices-nodejs-errors">Let It Crash: Best Practices for Handling Node.js Errors on Shutdown </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/open-sourcing-the-jenkins-config-driven-pipelines-plugin-9c0becaa5f79?source=rss----cfe1120185d3---4">Open Sourcing the Jenkins Config-Driven Pipelines Plugin </a></li> 
-          
-            <li> <a href="https://hackernoon.com/the-critical-request-90bb47da5769?source=rss">The critical request </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-01.html</guid>
       </item>
       
   </channel>
