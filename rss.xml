@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 16 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59?source=rss----25cd379abb8---4">Introducing Flyte: Cloud Native Machine Learning and Data Processing Platform </a></li> 
+          
+            <li> <a href="https://www.weave.works/blog/how-kubernetes-helps-solve-cloud-complexity">How Kubernetes Helps Solve Cloud Complexity </a></li> 
+          
+            <li> <a href="https://eng.uber.com/manifold-open-source/">Open Sourcing Manifold, a Visual Debugging Tool for Machine Learning </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/cloudflare-and-remote-browser-isolation/">Cloudflare + Remote Browser Isolation </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/plumbing-at-scale">Plumbing At Scale </a></li> 
+          
+            <li> <a href="https://allegro.tech/2020/01/design-for-failure.html">Design for failure - multiple layers of processing to protect against failures. </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/taxonomy-cluster-distributed-storage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Mind Your State for Your State of Mind </a></li> 
+          
+            <li> <a href="https://itnext.io/high-performance-web-apps-2a469cfd3550?source=rss----5b301f10ddcd---4">High Performance Web Apps </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 16 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 15 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Fri, 03 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 02 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/18/shrinking-the-download-size-of-the-guardians-live-app-on-android">Shrinking the download size of the Guardian’s Live app on Android </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2019/12/18/modular-ios-architecture-just-eat/">Modular iOS Architecture @ Just Eat </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/interactions-servers-databases-transactions?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Concurrency, Scalability and Transactions -- Myths and Surprises </a></li> 
-          
-            <li> <a href="https://www.memsql.com/blog/what-is-skiplist-why-skiplist-index-for-memsql/">The Story Behind MemSQL’s Skiplist Indexes </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/accelerating-wide-deep-recommender-inference-on-gpus/">Accelerating Wide &amp; Deep Recommender Inference on GPUs </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/simdjson-parser?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Parsing JSON Really Quickly: Lessons Learned </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/">How to Build Domain Specific Automatic Speech Recognition Models on GPUs </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/coding-without-complexity?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Coding without Complexity </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 02 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-02.html</guid>
       </item>
       
   </channel>
