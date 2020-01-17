@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 17 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/workers-and-webpagetest/">Prototyping optimizations with Cloudflare Workers and WebPageTest </a></li> 
+          
+            <li> <a href="http://engineering.wingify.com/posts/performance-improvements-in-vwo-smart-code/">Performance improvements in VWO Smartcode </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microservices-failure-modes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Managing Failure Modes in Microservice Architectures </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/blog/inside-wetransfer-testing-process">Inside WeTransfer’s App Testing Process with Antoine van der Lee </a></li> 
+          
+            <li> <a href="https://nodesource.com/blog/memory-leaks-demystified">Memory Leaks Demystified </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/automation-via-the-accessibility-ruleset-runner/">Automation via the Accessibility Ruleset Runner </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/building-a-blazingly-fast-android-app-part-2">Building a blazingly fast Android app, Part 2 </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/demystifying-black-box-methods-of-text-feature-extraction-from-rx-data-b9f2aaf291c3?source=rss----905ea2b3d4d1---4">Demystifying ‘black box’ methods of text feature extraction from Rx Data </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 17 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 16 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 06 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 03 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://engineering.remind.com/hypothesis-testing-in-production/">Hypothesis Testing in Production </a></li> 
-          
-            <li> <a href="https://engineering.indeedblog.com/blog/2019/12/cpu-throttling-regression-fix/">Unthrottled: How a Valid Fix Becomes a Regression </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2019/12/cassandra-source-connector-part-2.html">Streaming Cassandra into Kafka in (Near) Real-Time: Part 2 </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/apache-kafka-producer-improvements-sticky-partitioner">Apache Kafka Producer Improvements with the Sticky Partitioner </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/curious-case-table-locking-update-query">The Curious Case of the Table-Locking UPDATE Query </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/the-on-device-machine-learning-behind.html">The On-Device Machine Learning Behind Recorder </a></li> 
-          
-            <li> <a href="https://eng.uber.com/generative-teaching-networks/">Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data </a></li> 
-          
-            <li> <a href="https://hackernoon.com/cqrs-command-query-responsibility-segregation-8vb32x3?source=rss">CQRS: Command Query Responsibility Segregation In Depth </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 03 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-03.html</guid>
       </item>
       
   </channel>
