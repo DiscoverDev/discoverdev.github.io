@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 20 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/salesforce-cloud-security-automating-least-privilege-in-aws-iam-with-policy-sentry-b04fe457b8dc?source=rss----cfe1120185d3---4">Salesforce Cloud Security: Automating Least Privilege in AWS IAM with Policy Sentry </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/preventing-app-performance-degradation-due-to-sudden-ride-demand-spikes">Preventing App Performance Degradation Due to Sudden Ride Demand Spikes </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/finding-optimal-data-centers-part-1-64f872d57374?source=rss----905ea2b3d4d1---4">Finding Optimal Data Centers (Part 1) </a></li> 
+          
+            <li> <a href="https://engineering.indeedblog.com/blog/2020/01/improving-incident-retrospectives/">Improving Incident Retrospectives </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/how-to-migrate-a-database-schema-at-scale/">How to migrate a database schema at scale </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/">Intelligent DNS based load balancing at Dropbox </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/cloud-analytics-for-on-premises-data-streams-with-kafka">Pipeline to the Cloud – Streaming On-Premises Data for Cloud Analytics </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/finding-evil-on-the-network-using-ja3-s-and-hassh-11431a8606e4?source=rss----cfe1120185d3---4">Finding Evil on the Network Using JA3/S and HASSH </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 20 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 17 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,36 +285,6 @@
         <pubDate>Tue, 07 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-07.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-07.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 06 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/pinterest-engineering/how-ads-indexing-works-at-pinterest-99b4796f289f?source=rss-ef81ef829bcb------2">How ads indexing works at Pinterest </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/rabbitmq-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: RabbitMQ and Kafka </a></li> 
-          
-            <li> <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html">Deterministic Aperture: A distributed, load balancing algorithm </a></li> 
-          
-            <li> <a href="https://www.cockroachlabs.com/blog/multicloud-microservicecs/">How Microservices Enable Multi-Cloud at the Expense of Developers </a></li> 
-          
-            <li> <a href="https://eng.uber.com/uber-infrastructure-2019/">Uber Infrastructure in 2019: Improving Reliability, Driving Customer Satisfaction </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2019/12/19/how-gitlab-handles-retrospectives/">How GitLab handles retrospectives </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/bias-variance-tradeoff-explained-fa2bc28174c4?source=rss----d02e65779d7b---4">Bias-Variance Tradeoff Explained </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/provisioning-infrastructure-for-stateful-services-in-public-cloud-an-hbase-use-case-part-i-231b53964755?source=rss----cfe1120185d3---4">Provisioning Infrastructure for Stateful Services in Public Cloud: An HBase Use Case (Part I) </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/mastercard-distributed-gemfire/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scaling Beyond a Billion Transactions Per Day with Sub-second Responses </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 06 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-06.html</guid>
       </item>
       
   </channel>
