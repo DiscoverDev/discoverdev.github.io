@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 21 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/articles/kotlin-coroutines-bottom-up/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: A Bottom-Up View of Kotlin Coroutines </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/nvidia-vrss-a-zero-effort-way-to-improve-your-vr-image-quality/">NVIDIA VRSS, a Zero-Effort Way to Improve Your VR Image Quality </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb?source=rss----5517fd7b58a6---4">JWT Architecture for Modern Apps </a></li> 
+          
+            <li> <a href="https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd?source=rss-ef81ef829bcb------2">Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/java-deployment-features/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Keeping Up with Java: Look at All These New Features! </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/css-cssinjs-performance-cost/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">CSS-in-JS Performance Cost -  Mitigating Strategies </a></li> 
+          
+            <li> <a href="http://security.googleblog.com/2020/01/pha-family-highlights-bread-and-friends.html">PHA Family Highlights: Bread (and Friends) </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/accelerating-udp-packet-transmission-for-quic/">Accelerating UDP packet transmission for QUIC </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 21 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-21.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-21.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 20 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Wed, 08 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-08.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-08.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 07 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://giamir.com/evolutionary-ui">Evolutionary UI </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html">ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations </a></li> 
-          
-            <li> <a href="http://engineering.khanacademy.org/posts/goliath.htm">Go + Services = One Goliath Project </a></li> 
-          
-            <li> <a href="https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/">Want to make good business decisions? Learn causality </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/node-worker-threads-shared-array-buffers-rust-webassembly/">Node worker threads with shared array buffers and Rust WebAssembly </a></li> 
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/20/securing-and-centrally-monitoring-accounts-in-amazon-web-services">Securing and centrally monitoring accounts in Amazon Web Services </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/litr-a-lightweight-video-audio-transcoder-for-android">LiTr: A lightweight video/audio transcoder for Android </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/the-story-behind-an-instacart-order-part-3-predicting-the-shop-d1a3bb9f5d98?source=rss----587883b5d2ee---4">The story behind an Instacart order, part 3: predicting the shop </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 07 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-07.html</guid>
       </item>
       
   </channel>
