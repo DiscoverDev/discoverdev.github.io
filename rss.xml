@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 22 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">BLAKE3 Is an Extremely Fast, Parallel, Cryptographic Hash </a></li> 
+          
+            <li> <a href="https://nordicapis.com/api-taxonomy-explained-the-many-types-of-apis/">API Taxonomy Explained: The Many Types of APIs </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming">Streams and Tables in Apache Kafka: A Primer </a></li> 
+          
+            <li> <a href="https://itnext.io/mini-video-encoder-implementation-part-1-1fce5fb081c1?source=rss----5b301f10ddcd---4">Mini Video Encoder implementation part 1 </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/how-docker-authentication-works-by-documentation-mitm-and-implementation-e62cd7a31178?source=rss----5517fd7b58a6---4">How Docker Authentication Works: By Documentation, MITM, and Implementation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/redefining-software-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Taking Back Software Engineering </a></li> 
+          
+            <li> <a href="https://hackernoon.com/very-basic-intro-to-aes-256-cipher-qxr32yk?source=rss">A Very Basic Introduction to AES-256 Cipher </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-eacec3a8a72f?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 22 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 21 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Thu, 09 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 08 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2019/building-a-blazingly-fast-android-app-part-1">Building a blazingly fast Android app, Part 1 </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/beyond-l2-loss-how-we-experiment-with-loss-functions-at-lyft-51f9303f5d2d?source=rss----25cd379abb8---4">Beyond L2 Loss — How we experiment with loss functions at Lyft </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-661a554a8c8b?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/spotify-event-delivery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Experience Running Spotify’s Event Delivery System in the Cloud </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/idea-behind-lime-and-shap-b603d35d34eb?source=rss----7f60cf5620c9---4">Idea Behind LIME and SHAP </a></li> 
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/22/async-failure-handling-in-typescript">Async Failure handling in Typescript </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/self-managed-kubernetes-ha/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">High Availability for Self-Managed Kubernetes Clusters at DT One </a></li> 
-          
-            <li> <a href="https://itnext.io/creating-a-zero-downtime-cluster-in-nodejs-ad879ee3160?source=rss----5b301f10ddcd---4">Creating a Zero-downtime cluster in NodeJS </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 08 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-08.html</guid>
       </item>
       
   </channel>
