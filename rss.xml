@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 23 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://medium.com/walmartlabs/leveraging-api-blueprint-to-scale-application-development-ba69be715f90?source=rss----905ea2b3d4d1---4">Leveraging API Blueprint to Scale Application Development </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/terrier-open-source-identifying-analyzing-containers">Terrier: An Open-Source Tool for Identifying and Analyzing Container and Image Components </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-streams-tables-part-2-topics-partitions-and-storage-fundamentals">Streams and Tables in Apache Kafka: Topics, Partitions, and Storage Fundamentals </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/hitting-the-gym-with-neural-networks-implementing-a-cnn-to-classify-gym-equipment-36492c39dcf0?source=rss----d02e65779d7b---4">Hitting the Gym With Neural Networks: Implementing a CNN to Classify Gym Equipment </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/building-instacart-pickup-705a406b6350?source=rss----587883b5d2ee---4">Building Instacart Pickup </a></li> 
+          
+            <li> <a href="https://semaphoreci.com/community/tutorials/stubbing-and-mocking-in-java-with-the-spock-testing-framework">Stubbing and Mocking in Java with the Spock Testing Framework </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/a-cost-effective-and-extensible-testbed-for-transport-protocol-development/">A cost-effective and extensible testbed for transport protocol development </a></li> 
+          
+            <li> <a href="http://erlang-solutions.com/blog/the-best-code-beam-sf-talks-from-the-2010s.html">The Best Code BEAM SF talks from the 2010s </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 23 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 22 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +285,6 @@
         <pubDate>Fri, 10 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 09 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.salesforce.com/provisioning-infrastructure-for-stateful-services-in-public-cloud-an-hbase-use-case-part-ii-f2d90721be8?source=rss----cfe1120185d3---4">Provisioning Infrastructure for Stateful Services in Public Cloud: An HBase Use Case (Part II) </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps">How to Implement a Secure Central Authentication Service in Six Steps </a></li> 
-          
-            <li> <a href="https://hackernoon.com/how-im-engineering-a-temporal-database-storage-engine-for-byte-addressable-non-volatile-memory-af1728kl?source=rss">How I&#39;m Engineering a Versioned Database Storage Engine for Byte-Addressable NVM </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/marionette-enabling-e2e-user-scenario-simulation">Marionette - Enabling E2E user-scenario simulation </a></li> 
-          
-            <li> <a href="https://www.theguardian.com/info/2019/dec/26/how-the-guardians-engineering-team-supports-the-24-hour-news-cycle">How the Guardian’s engineering team supports the 24 hour news cycle </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/webassembly-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Build Your Own WebAssembly Compiler </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-streams-state-scalability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Beyond Microservices: Streams, State and Scalability </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/comlink-web-workers-match-made-in-heaven/">Comlink and web workers: A match made in heaven </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 09 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-09.html</guid>
       </item>
       
   </channel>
