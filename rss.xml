@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 24 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.scylladb.com/2020/01/15/comcast-sprinting-from-cassandra-to-scylla/">Comcast: Sprinting from Cassandra to Scylla </a></li> 
+          
+            <li> <a href="https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/">How we built Picture-in-Picture in Firefox Desktop with more control over video </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/safe-acl-change-through-model-based-analysis/">Safe ACL Change through Model-based Analysis </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/functional-UI-introduction-no-framework/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Functional UI (Framework-Free at Last) </a></li> 
+          
+            <li> <a href="https://slack.engineering/reliably-upgrading-apache-airflow-at-slacks-scale-2a31f3d03a06?source=rss----58820b6d8904---4">Reliably Upgrading Apache Airflow at Slack’s Scale </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/high-availability-google-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Secrets at Planet-scale: Engineering the Internal Google KMS </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/ctr-optimization-via-thompson-sampling-83df19fa577f?source=rss----905ea2b3d4d1---4">CTR Optimization via Thompson Sampling </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 24 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 23 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +283,6 @@
         <pubDate>Mon, 13 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 10 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/graphql-apollo-azure-functions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: GraphQL + Apollo Server + Azure Functions = Magic </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/micro-front-end/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Micro-front-ends: The Golden Circle </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/simulating-quantum-circuits-with-tensor-networks-77e079919823?source=rss----7f60cf5620c9---4">Simulating Quantum Circuits with Tensor Networks </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/simplicity-spring-cloud-services/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Idea to Dev to Ops </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/">Helping Browsers Optimize With The CSS Contain Property </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a11f6832773f?source=rss----53c7c27702d5---4">Better Android Testing at Airbnb </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/journey-to-a-faster-everyday-super-app">Journey to a Faster Everyday Super App Where Every Millisecond Counts </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/safer-code-with-container-types-either-and-maybe/">Safer code with container types (Either and Maybe) </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 10 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-10.html</guid>
       </item>
       
   </channel>
