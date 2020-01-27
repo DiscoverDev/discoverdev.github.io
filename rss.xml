@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 27 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/spinnaker-jpmorgan-chase/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Reality of Managing Microservice Deployments at Scale: You Need a Spinnaker </a></li> 
+          
+            <li> <a href="https://blogs.dropbox.com/tech/2020/01/store-grand-re-opening-loading-android-data-with-coroutines/">Store grand re-opening: loading Android data with coroutines </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2020/01/a-scientific-approach-to-capacity-planning/">A Scientific Approach to Capacity Planning </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals">Streams and Tables in Apache Kafka: Processing Fundamentals </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/01/can-you-trust-your-models-uncertainty.html">Can You Trust Your Model’s Uncertainty? </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/01/13/selenium-vs-puppeteer.html">Selenium vs Puppeteer: testing the testing tools </a></li> 
+          
+            <li> <a href="https://distill.pub/2020/attribution-baselines">Visualizing the Impact of Feature Attribution Baselines </a></li> 
+          
+            <li> <a href="https://eng.uber.com/engineering-sql-support-on-apache-pinot/">Engineering SQL Support on Apache Pinot at Uber </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 27 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 24 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Tue, 14 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 13 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/making-python-programs-blazingly-fast-c1cd79bd1b32?source=rss----7f60cf5620c9---4">Making Python Programs Blazingly Fast </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2020/01/01/skupper-io-let-your-services-communicate-across-kubernetes-clusters/">Skupper.io: Let your services communicate across Kubernetes clusters </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2019/12/dynein-job-queue-airbnb/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Dynein – an Asynchronous Background Job Service from Airbnb </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051?source=rss----5517fd7b58a6---4">Micro-frontend Architecture: Import chunks from another Webpack bundle at runtime </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/adopting-a-new-approach-to-http-prioritization/">Adopting a new approach to HTTP prioritization </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/automate-problems-away-with-token-jobs/">Automate Problems Away with Token Jobs </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2019/12/30/sustainability-in-software-development.html">Sustainability in Software Development </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/candy-crush-QA-AI-saga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Candy Crush QA AI Saga </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 13 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-13.html</guid>
       </item>
       
   </channel>
