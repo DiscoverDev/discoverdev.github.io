@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 28 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts">Streams and Tables in Apache Kafka: Elasticity, Fault Tolerance, and Other Advanced Concepts </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/01/16/performance-of-a-d3fc-webgl-chart.html">Analysing and improving the performance of a D3FC-WebGL chart </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/powering-pinterest-ads-analytics-with-apache-druid-51aa6ffb97c1?source=rss-ef81ef829bcb------2">Powering Pinterest ads analytics with Apache Druid </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/01/reformer-efficient-transformer.html">Reformer: The Efficient Transformer </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2020/01/16/maximizing-disk-utilization-with-incremental-compaction/">Maximizing Disk Utilization with Incremental Compaction </a></li> 
+          
+            <li> <a href="https://medium.com/myntra-engineering/asynchronous-programming-a-cautionary-tale-1dcb2c6c1875?source=rss----7484818e9f88---4">Asynchronous Programming : A Cautionary tale </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/01/14/planning-56-sprints-per-second-with-sat4j.html">Planning 56 sprints per second with SAT4J </a></li> 
+          
+            <li> <a href="https://spin.atomicobject.com/2020/01/07/understanding-ruby-dsls/">Pay No Attention: Behind the Magic of Ruby DSLs </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 28 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 27 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Wed, 15 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-15.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-15.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 14 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/routing-engine-central-work-dispenser-850567a0535d?source=rss----905ea2b3d4d1---4">Routing Engine — Central Work Dispenser </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/01/03/rethinking-the-java-dto.html">Rethinking the Java DTO </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/processing-mongodb-oplog-4884f702ec5?source=rss----7f60cf5620c9---4">Processing MongoDB Oplog </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html">A WebAssembly Powered Augmented Reality Sudoku Solver </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/monoliths-modules/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Better Monoliths: Implementing Modulithic Applications with Spring </a></li> 
-          
-            <li> <a href="https://medium.com/engineering-housing/digilite-housings-new-visualization-product-9502c2a06cb1?source=rss----3a69e32e2594---4">Digilite — Housing’s new visualization product </a></li> 
-          
-            <li> <a href="http://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html">CloudFormation To Terraform </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/data-streaming-kafka-debezium/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Practical Change Data Streaming Use Cases with Apache Kafka &amp; Debezium </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 14 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-14.html</guid>
       </item>
       
   </channel>
