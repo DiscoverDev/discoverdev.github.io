@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 29 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://levelup.gitconnected.com/kotlin-multiplatform-android-ios-testing-492a485926fc?source=rss----5517fd7b58a6---4">Kotlin Multiplatform Android/iOS: Testing </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2020/01/17/operating-load-testing-infrastructure-at-scale/">Operating Load Testing Infrastructure at Scale </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/project-reactor-demo/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Avoiding Reactor Meltdown </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2020/01/automated-idor-discovery-through-stateful-swagger-fuzzing.html">Automated IDOR Discovery through Stateful Swagger Fuzzing </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/scaling-mobile-development-by-treating-apps-as-services">Scaling Mobile Development by Treating Apps as Services </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/">For Your Ears Only: Personalizing Spotify Home with Machine Learning </a></li> 
+          
+            <li> <a href="https://itnext.io/react-native-performance-optimization-and-profiling-5b586e9018f8?source=rss----5b301f10ddcd---4">React Native Performance Optimization and Profiling </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/keeping-linkedin-professional">Keeping LinkedIn professional by detecting and removing inappropriate profiles </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 29 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 28 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,36 +281,6 @@
         <pubDate>Thu, 16 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 15 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.prezi.com/prometheus-at-prezi-replacing-10-years-of-anti-patterns-e3c2317e6ca?source=rss----911e72786e31---4">Prometheus at Prezi: replacing 10 years of anti-patterns </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/how-to-deploy-real-time-text-to-speech-applications-on-gpus-using-tensorrt/">How to Deploy Real-Time Text-to-Speech Applications on GPUs Using TensorRT </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ml-browser-tensorflow-js/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: ML in the Browser: Interactive Experiences with Tensorflow.js </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/01/can-we-build-trustable-hardware/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Can We Build Trustable Hardware? </a></li> 
-          
-            <li> <a href="https://itnext.io/biometrics-fingerprint-auth-in-your-web-apps-d5599522d0b3?source=rss----5b301f10ddcd---4">Biometrics (fingerprint) auth in your web apps </a></li> 
-          
-            <li> <a href="https://itnext.io/debugging-blazor-web-assembly-apps-c47ef25bcb5f?source=rss----5b301f10ddcd---4">Debugging Blazor Web Assembly Apps </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/gitlab-monolith-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How Gitlab Scaled Git Access With Go and What We Gained From It </a></li> 
-          
-            <li> <a href="https://engineering.indeedblog.com/blog/2020/01/defining-churn/">D-Curve: An Improved Method for Defining Non-Contractual Churn with Type I and Type II Errors </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/making-the-linkedin-experimentation-engine-20x-faster">Making the LinkedIn experimentation engine 20x faster </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 15 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-15.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-15.html</guid>
       </item>
       
   </channel>
