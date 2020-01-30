@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 30 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/aeron-cluster-raft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fault Tolerance at Speed </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/">MIR: A lightweight JIT compiler project </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/power-of-types-for-errors">The Power of Types for Errors </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2020/01/20/introduction-to-jubako/">Introduction to Jubako </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/circleci-evolutionary-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Evolutionary Architecture as Product @ CircleCI </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/modern-android-app-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Modern Android App Architecture with JetPack and Dropbox Store </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/">Bayesian Product Ranking at Wayfair </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/successfully-porting-complex-data-driven-frontends-to-react-w-graphql-83a011da5a2a?source=rss----5517fd7b58a6---4">Successfully porting complex data-driven frontends to React with GraphQL </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 30 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 29 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +281,6 @@
         <pubDate>Fri, 17 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 16 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59?source=rss----25cd379abb8---4">Introducing Flyte: Cloud Native Machine Learning and Data Processing Platform </a></li> 
-          
-            <li> <a href="https://www.weave.works/blog/how-kubernetes-helps-solve-cloud-complexity">How Kubernetes Helps Solve Cloud Complexity </a></li> 
-          
-            <li> <a href="https://eng.uber.com/manifold-open-source/">Open Sourcing Manifold, a Visual Debugging Tool for Machine Learning </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/cloudflare-and-remote-browser-isolation/">Cloudflare + Remote Browser Isolation </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/plumbing-at-scale">Plumbing At Scale </a></li> 
-          
-            <li> <a href="https://allegro.tech/2020/01/design-for-failure.html">Design for failure - multiple layers of processing to protect against failures. </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/taxonomy-cluster-distributed-storage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Mind Your State for Your State of Mind </a></li> 
-          
-            <li> <a href="https://itnext.io/high-performance-web-apps-2a469cfd3550?source=rss----5b301f10ddcd---4">High Performance Web Apps </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 16 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-16.html</guid>
       </item>
       
   </channel>
