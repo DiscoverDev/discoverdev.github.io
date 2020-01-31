@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 31 Jan 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2020/01/releasing-drosophila-hemibrain.html">Releasing the Drosophila Hemibrain Connectome — The Largest Synapse-Resolution Map of Brain Connectivity </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/treating-frontend-performance-as-a-feature">How We Started Treating Frontend Performance as a Feature </a></li> 
+          
+            <li> <a href="https://www.memsql.com/blog/stop-the-insanity-eliminating-data-infrastructure-sprawl/">Stop the Insanity: Eliminating Data Infrastructure Sprawl </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/linux-kernel-tuning-for-high-performance-networking-high-volume-incoming-connections-196e863d458a?source=rss----5517fd7b58a6---4">Linux Kernel Tuning for High Performance Networking: High Volume Incoming Connections </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166?source=rss----25cd379abb8---4">Lyft’s Journey through Mobile Networking </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/how-to-continuously-profile-tens-of-thousands-of-production-servers-a5714bab4dc0?source=rss----cfe1120185d3---4">How to Continuously Profile Tens of Thousands of Production Servers </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/speeding-up-select-queries-with-parquet-page-indexes/">Speeding Up SELECT Queries with Parquet Page Indexes </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 31 Jan 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-01-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 30 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +279,6 @@
         <pubDate>Mon, 20 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 17 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/workers-and-webpagetest/">Prototyping optimizations with Cloudflare Workers and WebPageTest </a></li> 
-          
-            <li> <a href="http://engineering.wingify.com/posts/performance-improvements-in-vwo-smart-code/">Performance improvements in VWO Smartcode </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/microservices-failure-modes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Managing Failure Modes in Microservice Architectures </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/blog/inside-wetransfer-testing-process">Inside WeTransfer’s App Testing Process with Antoine van der Lee </a></li> 
-          
-            <li> <a href="https://nodesource.com/blog/memory-leaks-demystified">Memory Leaks Demystified </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/automation-via-the-accessibility-ruleset-runner/">Automation via the Accessibility Ruleset Runner </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/building-a-blazingly-fast-android-app-part-2">Building a blazingly fast Android app, Part 2 </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/demystifying-black-box-methods-of-text-feature-extraction-from-rx-data-b9f2aaf291c3?source=rss----905ea2b3d4d1---4">Demystifying ‘black box’ methods of text feature extraction from Rx Data </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 17 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-17.html</guid>
       </item>
       
   </channel>
