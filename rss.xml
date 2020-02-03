@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 03 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/kappa-architecture-data-stream-processing/">Designing a Production-Ready Kappa Architecture for Timely Data Stream Processing </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/using-graph-algorithms-to-optimize-kafka-operations-part-1-abbabd606a25?source=rss-ef81ef829bcb------2">Using graph algorithms to optimize Kafka operations, Part 1 </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/">Speed By A Thousand Cuts </a></li> 
+          
+            <li> <a href="https://devblog.songkick.com/how-we-migrated-to-google-cloud-8f0b352fdde4?source=rss----e0e3c74f91b8---4">How we migrated to Google Cloud </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/visual-ai-web-app-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Why Visual AI Beats Pixel and DOM Diffs for Web App Testing </a></li> 
+          
+            <li> <a href="https://www.semantics3.com/blog/predicting-the-demand-of-products-sold-online/">Predicting the Demand of Products Sold Online </a></li> 
+          
+            <li> <a href="https://eng.wealthfront.com/2020/01/22/android-app-modularization-at-wealthfront-part-2/">Android App Modularization at Wealthfront (Part 2) </a></li> 
+          
+            <li> <a href="https://snyk.io/blog/understanding-filesystem-takeover-vulnerabilities-in-npm-javascript-package-manager/">Understanding filesystem takeover vulnerabilities in npm JavaScript package manager </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html">Streams and Monk – How Yelp is Approaching Kafka in 2020 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 03 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 31 Jan 2020</title>
         <description><![CDATA[
           <ul>
@@ -251,34 +281,6 @@
         <pubDate>Tue, 21 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 20 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.salesforce.com/salesforce-cloud-security-automating-least-privilege-in-aws-iam-with-policy-sentry-b04fe457b8dc?source=rss----cfe1120185d3---4">Salesforce Cloud Security: Automating Least Privilege in AWS IAM with Policy Sentry </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/preventing-app-performance-degradation-due-to-sudden-ride-demand-spikes">Preventing App Performance Degradation Due to Sudden Ride Demand Spikes </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/finding-optimal-data-centers-part-1-64f872d57374?source=rss----905ea2b3d4d1---4">Finding Optimal Data Centers (Part 1) </a></li> 
-          
-            <li> <a href="https://engineering.indeedblog.com/blog/2020/01/improving-incident-retrospectives/">Improving Incident Retrospectives </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/how-to-migrate-a-database-schema-at-scale/">How to migrate a database schema at scale </a></li> 
-          
-            <li> <a href="https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/">Intelligent DNS based load balancing at Dropbox </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/cloud-analytics-for-on-premises-data-streams-with-kafka">Pipeline to the Cloud – Streaming On-Premises Data for Cloud Analytics </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/finding-evil-on-the-network-using-ja3-s-and-hassh-11431a8606e4?source=rss----cfe1120185d3---4">Finding Evil on the Network Using JA3/S and HASSH </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 20 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-20.html</guid>
       </item>
       
   </channel>
