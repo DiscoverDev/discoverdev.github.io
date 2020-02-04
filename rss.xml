@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 04 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/modelling-tabular-data-with-googles-tabnet-ba7315897bfb?source=rss----7f60cf5620c9---4">Modelling tabular data with Google’s TabNet </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/template-reactive-system/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Value of Reactive Systems </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2020/12/24/privacypreserving-machine-learning-a-primer.html">Privacy-Preserving Machine Learning: A Primer </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/building-products-across-multiple-teams">Building Products Across Multiple Teams </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/infinite-kafka-storage-in-confluent-platform">Infinite Storage in Confluent Platform </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2020/01/23/iteration-on-error-tracking/">Why we scoped down to build up error tracking </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2020/01/23/fanatics-using-scylla-for-online-order-capture/">Fanatics: Using Scylla for Online Order Capture </a></li> 
+          
+            <li> <a href="https://blogs.windows.com/msedgedev/2020/01/23/debug-z-index-3d-view-edge-devtools/">Debug z-index stacking content with 3D View in the Microsoft Edge DevTools </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 04 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 03 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +281,6 @@
         <pubDate>Wed, 22 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-22.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-22.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 21 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/articles/kotlin-coroutines-bottom-up/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: A Bottom-Up View of Kotlin Coroutines </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/nvidia-vrss-a-zero-effort-way-to-improve-your-vr-image-quality/">NVIDIA VRSS, a Zero-Effort Way to Improve Your VR Image Quality </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb?source=rss----5517fd7b58a6---4">JWT Architecture for Modern Apps </a></li> 
-          
-            <li> <a href="https://medium.com/@Pinterest_Engineering/interest-taxonomy-a-knowledge-graph-management-system-for-content-understanding-at-pinterest-a6ae75c203fd?source=rss-ef81ef829bcb------2">Interest Taxonomy: A knowledge graph management system for content understanding at Pinterest </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/java-deployment-features/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Keeping Up with Java: Look at All These New Features! </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/01/css-cssinjs-performance-cost/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">CSS-in-JS Performance Cost -  Mitigating Strategies </a></li> 
-          
-            <li> <a href="http://security.googleblog.com/2020/01/pha-family-highlights-bread-and-friends.html">PHA Family Highlights: Bread (and Friends) </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/accelerating-udp-packet-transmission-for-quic/">Accelerating UDP packet transmission for QUIC </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 21 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-21.html</guid>
       </item>
       
   </channel>
