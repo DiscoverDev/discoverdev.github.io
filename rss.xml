@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 06 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/cloud-infrastructure-solutions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Programming the Cloud: Empowering Developers to Do Infrastructure </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/01/29/typescript-pick-n-mix.html">TypeScript Pick &#39;n Mix </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/linux-kernel-tuning-for-high-performance-networking-5999a13b3fb4?source=rss----5517fd7b58a6---4">Linux Kernel Tuning for High Performance Networking: TCP/IP Connection Primer </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/01/28/wrapping-up-the-decade-a-data-story/">Spotify Unwrapped: How we brought you a decade of data </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/deep-learning-for-anomaly-detection/">Deep Learning for Anomaly Detection </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/tekton-ci-cd/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Shifting Left with Cloud Native CI/CD </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html">Towards a Conversational Agent that Can Chat About…Anything </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage">Streaming Machine Learning with Tiered Storage and Without a Data Lake </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 06 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 05 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +281,6 @@
         <pubDate>Fri, 24 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 23 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://medium.com/walmartlabs/leveraging-api-blueprint-to-scale-application-development-ba69be715f90?source=rss----905ea2b3d4d1---4">Leveraging API Blueprint to Scale Application Development </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/terrier-open-source-identifying-analyzing-containers">Terrier: An Open-Source Tool for Identifying and Analyzing Container and Image Components </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/kafka-streams-tables-part-2-topics-partitions-and-storage-fundamentals">Streams and Tables in Apache Kafka: Topics, Partitions, and Storage Fundamentals </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/hitting-the-gym-with-neural-networks-implementing-a-cnn-to-classify-gym-equipment-36492c39dcf0?source=rss----d02e65779d7b---4">Hitting the Gym With Neural Networks: Implementing a CNN to Classify Gym Equipment </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/building-instacart-pickup-705a406b6350?source=rss----587883b5d2ee---4">Building Instacart Pickup </a></li> 
-          
-            <li> <a href="https://semaphoreci.com/community/tutorials/stubbing-and-mocking-in-java-with-the-spock-testing-framework">Stubbing and Mocking in Java with the Spock Testing Framework </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/a-cost-effective-and-extensible-testbed-for-transport-protocol-development/">A cost-effective and extensible testbed for transport protocol development </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/the-best-code-beam-sf-talks-from-the-2010s.html">The Best Code BEAM SF talks from the 2010s </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 23 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-23.html</guid>
       </item>
       
   </channel>
