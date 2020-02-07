@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 07 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/scotiabank-chassis-appfactory/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chassis and AppFactory: Accelerate Development of Cloud-Native Microservices for Enterprises </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/rust-analyser-ide-support/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Rust Moving Towards an IDE-Friendly Compiler With Rust Analyzer </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/troubleshoot-kubernetes-oom/">How to troubleshoot Kubernetes OOM and CPU Throttle </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/dagger-reflect">Speeding Up Builds with Dagger Reflect </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/paypal-reactor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reactor: The New Power Source for PayPal&#39;s JVM Framework </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/ultron-ml-inferencing-platform-walmart-labs-7e01c5be9da2?source=rss----905ea2b3d4d1---4">Ultron: ML Inferencing Platform @Walmart Labs </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness">How we retired Python 2 and improved developer happiness </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify">React Native is the Future of Mobile at Shopify </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 07 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 06 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,32 +283,6 @@
         <pubDate>Mon, 27 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 24 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.scylladb.com/2020/01/15/comcast-sprinting-from-cassandra-to-scylla/">Comcast: Sprinting from Cassandra to Scylla </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/">How we built Picture-in-Picture in Firefox Desktop with more control over video </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/safe-acl-change-through-model-based-analysis/">Safe ACL Change through Model-based Analysis </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/functional-UI-introduction-no-framework/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Functional UI (Framework-Free at Last) </a></li> 
-          
-            <li> <a href="https://slack.engineering/reliably-upgrading-apache-airflow-at-slacks-scale-2a31f3d03a06?source=rss----58820b6d8904---4">Reliably Upgrading Apache Airflow at Slack’s Scale </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/high-availability-google-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Secrets at Planet-scale: Engineering the Internal Google KMS </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/ctr-optimization-via-thompson-sampling-83df19fa577f?source=rss----905ea2b3d4d1---4">CTR Optimization via Thompson Sampling </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 24 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-24.html</guid>
       </item>
       
   </channel>
