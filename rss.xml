@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 11 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/twitter-deterministic-aperture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How Twitter Improves Resource Usage With a Deterministic Load Balancing Algorithm </a></li> 
+          
+            <li> <a href="https://hackernoon.com/interview-with-yukihiro-matsumoto-ruby-is-designed-for-humans-not-machines-1fee3610?source=rss">Interview with Yukihiro Matsumoto: Ruby is Designed for Humans, not Machines </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/debugging-record-replay-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Greg Law on Debugging, Record &amp; Replay of Data, and Hyper-Observability </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/sre-as-a-team-sport">SRE as a team sport </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/diving-deeper-into-unity-ml-agents-e1667f869dc3?source=rss----7f60cf5620c9---4">Diving deeper into Unity-ML Agents </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/pykrylov-accelerating-machine-learning-research-at-ebay/">PyKrylov: Accelerating Machine Learning Research at eBay </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/data-driven-privacy-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Privacy Architecture for Data-Driven Innovation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/01/distributed-data-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">The Distributed Data Mesh as a Solution to Centralized Data Monoliths </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 11 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-11.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-11.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 10 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Wed, 29 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-29.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-29.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 28 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts">Streams and Tables in Apache Kafka: Elasticity, Fault Tolerance, and Other Advanced Concepts </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/01/16/performance-of-a-d3fc-webgl-chart.html">Analysing and improving the performance of a D3FC-WebGL chart </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/powering-pinterest-ads-analytics-with-apache-druid-51aa6ffb97c1?source=rss-ef81ef829bcb------2">Powering Pinterest ads analytics with Apache Druid </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/01/reformer-efficient-transformer.html">Reformer: The Efficient Transformer </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2020/01/16/maximizing-disk-utilization-with-incremental-compaction/">Maximizing Disk Utilization with Incremental Compaction </a></li> 
-          
-            <li> <a href="https://medium.com/myntra-engineering/asynchronous-programming-a-cautionary-tale-1dcb2c6c1875?source=rss----7484818e9f88---4">Asynchronous Programming : A Cautionary tale </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/01/14/planning-56-sprints-per-second-with-sat4j.html">Planning 56 sprints per second with SAT4J </a></li> 
-          
-            <li> <a href="https://spin.atomicobject.com/2020/01/07/understanding-ruby-dsls/">Pay No Attention: Behind the Magic of Ruby DSLs </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 28 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-28.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-28.html</guid>
       </item>
       
   </channel>
