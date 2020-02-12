@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 12 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.theguardian.com/info/2020/feb/04/taming-data-transfer-costs-with-elasticsearch">Taming data transfer costs with Elasticsearch </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/the-what-when-why-and-how-of-federated-graphql/">The what, when, why, and how of federated GraphQL </a></li> 
+          
+            <li> <a href="https://engineering.zomato.com/blog/food-preparation-time">The Deep Tech Behind Estimating Food Preparation Time </a></li> 
+          
+            <li> <a href="https://www.eventbrite.com/engineering/leveraging-spot-instances-to-drive-down-costs/">Leveraging “spot” instances to drive down costs </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/honeycomb-build-ssc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Observability in the SSC: Seeing Into Your Build System </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2020/02/03/production-webpack-builds/">The journey to fast production asset builds with Webpack </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/network-pneumatic-tubes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: It Really is a Series of Tubes </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 12 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 11 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +281,6 @@
         <pubDate>Thu, 30 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 29 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://levelup.gitconnected.com/kotlin-multiplatform-android-ios-testing-492a485926fc?source=rss----5517fd7b58a6---4">Kotlin Multiplatform Android/iOS: Testing </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2020/01/17/operating-load-testing-infrastructure-at-scale/">Operating Load Testing Infrastructure at Scale </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/project-reactor-demo/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Avoiding Reactor Meltdown </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2020/01/automated-idor-discovery-through-stateful-swagger-fuzzing.html">Automated IDOR Discovery through Stateful Swagger Fuzzing </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/scaling-mobile-development-by-treating-apps-as-services">Scaling Mobile Development by Treating Apps as Services </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/">For Your Ears Only: Personalizing Spotify Home with Machine Learning </a></li> 
-          
-            <li> <a href="https://itnext.io/react-native-performance-optimization-and-profiling-5b586e9018f8?source=rss----5b301f10ddcd---4">React Native Performance Optimization and Profiling </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/keeping-linkedin-professional">Keeping LinkedIn professional by detecting and removing inappropriate profiles </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 29 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-29.html</guid>
       </item>
       
   </channel>
