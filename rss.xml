@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 13 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/ml-hidden-tasks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: ML&#39;s Hidden Tasks: A Checklist for Developers When Building ML Systems </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2020/02/magic-flip-cards-common-sizing-problem/">Magic Flip Cards: Solving A Common Sizing Problem </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/snowflake-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Snowflake Architecture: Building a Data Warehouse for the Cloud </a></li> 
+          
+            <li> <a href="https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd?source=rss----53c7c27702d5---4">Building an Effective Test Pipeline in a Service Oriented World </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2020/02/05/deep-learning-for-anomaly-detection.html">Deep Learning for Anomaly Detection </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/envoy-mobile-v0-2-deep-dive-7ed262cfdf93?source=rss----25cd379abb8---4">Envoy Mobile v0.2 deep dive </a></li> 
+          
+            <li> <a href="https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f?source=rss----cb96a1f03649---4">Why Discord is switching from Go to Rust </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2020/02/04/fireeye-providing-real-time-threat-analysis-using-a-graph-database/">FireEye: Providing Real-Time Threat Analysis using a Graph Database </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 13 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 12 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +281,6 @@
         <pubDate>Fri, 31 Jan 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-01-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 30 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/aeron-cluster-raft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fault Tolerance at Speed </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/">MIR: A lightweight JIT compiler project </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/power-of-types-for-errors">The Power of Types for Errors </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2020/01/20/introduction-to-jubako/">Introduction to Jubako </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/circleci-evolutionary-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Evolutionary Architecture as Product @ CircleCI </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/01/modern-android-app-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Modern Android App Architecture with JetPack and Dropbox Store </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/">Bayesian Product Ranking at Wayfair </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/successfully-porting-complex-data-driven-frontends-to-react-w-graphql-83a011da5a2a?source=rss----5517fd7b58a6---4">Successfully porting complex data-driven frontends to React with GraphQL </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 30 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-30.html</guid>
       </item>
       
   </channel>
