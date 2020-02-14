@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 14 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/how-artificial-neural-networks-are-helping-stroke-victims-80690b55778c?source=rss----7f60cf5620c9---4">How Artificial Neural Networks are Helping Stroke Victims </a></li> 
+          
+            <li> <a href="https://hackernoon.com/model-paradigm-for-engineering-f17g36rg?source=rss">Model Paradigm for Engineering </a></li> 
+          
+            <li> <a href="https://www.toptal.com/c-plus-plus/creating-programming-language-in-c-">Stork: How to Make a Programming Language in C++ </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/mutation-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Mutation Testing: Case Studies on Spring Boot APIs </a></li> 
+          
+            <li> <a href="http://product.hubspot.com/blog/treating-frontend-performance-as-a-feature">How We Started Treating Frontend Performance as a Feature </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html">ML-fairness-gym: A Tool for Exploring Long-Term Impacts of Machine Learning Systems </a></li> 
+          
+            <li> <a href="https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343?source=rss----587883b5d2ee---4">Creating a Logical Replica from a Snapshot in RDS Postgres </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2020/02/05/kubernetes-and-multicloud/">What does Kubernetes have to do with it? </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 14 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-14.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 13 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,32 +283,6 @@
         <pubDate>Mon, 03 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 31 Jan 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2020/01/releasing-drosophila-hemibrain.html">Releasing the Drosophila Hemibrain Connectome — The Largest Synapse-Resolution Map of Brain Connectivity </a></li> 
-          
-            <li> <a href="https://product.hubspot.com/blog/treating-frontend-performance-as-a-feature">How We Started Treating Frontend Performance as a Feature </a></li> 
-          
-            <li> <a href="https://www.memsql.com/blog/stop-the-insanity-eliminating-data-infrastructure-sprawl/">Stop the Insanity: Eliminating Data Infrastructure Sprawl </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/linux-kernel-tuning-for-high-performance-networking-high-volume-incoming-connections-196e863d458a?source=rss----5517fd7b58a6---4">Linux Kernel Tuning for High Performance Networking: High Volume Incoming Connections </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166?source=rss----25cd379abb8---4">Lyft’s Journey through Mobile Networking </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/how-to-continuously-profile-tens-of-thousands-of-production-servers-a5714bab4dc0?source=rss----cfe1120185d3---4">How to Continuously Profile Tens of Thousands of Production Servers </a></li> 
-          
-            <li> <a href="https://blog.cloudera.com/speeding-up-select-queries-with-parquet-page-indexes/">Speeding Up SELECT Queries with Parquet Page Indexes </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 31 Jan 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-01-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-01-31.html</guid>
       </item>
       
   </channel>
