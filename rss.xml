@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 18 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hackernoon.com/a-performance-optimization-of-flutter-webview-8f5336wa?source=rss">A Performance Optimization of Flutter WebView </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/auto-generated-knowledge-graphs-92ca99a81121?source=rss----7f60cf5620c9---4">Auto-Generated Knowledge Graphs </a></li> 
+          
+            <li> <a href="https://hackernoon.com/observability-on-heroku-how-to-monitor-apps-on-a-managed-infrastructure-7x3o331b?source=rss">Observability on Heroku: How to Monitor Apps on a Managed Infrastructure </a></li> 
+          
+            <li> <a href="https://developer.okta.com/blog/2020/02/07/transactional-mfa">Never Build MFA Again: A Developer&#39;s Guide to Transactional MFA </a></li> 
+          
+            <li> <a href="https://www.infoq.com/podcasts/cloud-native-scaling-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Anurag Goel on Cloud Native Platforms, Developer Experience, and Scaling Kubernetes </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2020/02/open-sourcing-varanus-and-rusty-jetpack.html">Open-Sourcing Varanus and Rusty Jetpack </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/build-materialized-cache-with-ksqldb">Building a Materialized Cache with ksqlDB </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/02/tydi-qa-multilingual-question-answering.html">TyDi QA: A Multilingual Question Answering Benchmark </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 18 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 14 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,36 +281,6 @@
         <pubDate>Tue, 04 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-04.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-04.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 03 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/kappa-architecture-data-stream-processing/">Designing a Production-Ready Kappa Architecture for Timely Data Stream Processing </a></li> 
-          
-            <li> <a href="https://medium.com/pinterest-engineering/using-graph-algorithms-to-optimize-kafka-operations-part-1-abbabd606a25?source=rss-ef81ef829bcb------2">Using graph algorithms to optimize Kafka operations, Part 1 </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/">Speed By A Thousand Cuts </a></li> 
-          
-            <li> <a href="https://devblog.songkick.com/how-we-migrated-to-google-cloud-8f0b352fdde4?source=rss----e0e3c74f91b8---4">How we migrated to Google Cloud </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/visual-ai-web-app-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Why Visual AI Beats Pixel and DOM Diffs for Web App Testing </a></li> 
-          
-            <li> <a href="https://www.semantics3.com/blog/predicting-the-demand-of-products-sold-online/">Predicting the Demand of Products Sold Online </a></li> 
-          
-            <li> <a href="https://eng.wealthfront.com/2020/01/22/android-app-modularization-at-wealthfront-part-2/">Android App Modularization at Wealthfront (Part 2) </a></li> 
-          
-            <li> <a href="https://snyk.io/blog/understanding-filesystem-takeover-vulnerabilities-in-npm-javascript-package-manager/">Understanding filesystem takeover vulnerabilities in npm JavaScript package manager </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html">Streams and Monk – How Yelp is Approaching Kafka in 2020 </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 03 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-03.html</guid>
       </item>
       
   </channel>
