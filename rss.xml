@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 20 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/anomaly-detection/">Anomaly Detection — Product of Data Refinery </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/designing-graphql-server-optimal-performance/">Designing a GraphQL server for optimal performance </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/application-log-intelligence-performance-insights-at-salesforce-using-flink-92955f30573f?source=rss----cfe1120185d3---4">Application Log Intelligence &amp; Performance Insights at Salesforce using Flink </a></li> 
+          
+            <li> <a href="https://www.thoughtworks.com/insights/blog/automating-semantic-versioning-model-mobile-releases">Automating semantic versioning model in mobile releases </a></li> 
+          
+            <li> <a href="https://www.honeybadger.io/blog/ruby-concurrency-parallelism/">Opening The Ruby Concurrency Toolbox </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2020/02/how-to-enable-data-scientists-to-stop-managing-etl-pipelines-and-get-back-to-doing-data-science-part-i/">How to enable data scientists to stop managing ETL pipelines and get back to doing data science: Part I </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/governance-framework-privacy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Managing Privacy &amp; Data Governance for Next Generation Architecture </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/machine-learning-driven-sales-and-marketing-for-everyone-with-einstein-behavior-scoring-part-1-afdb76a5a480?source=rss----cfe1120185d3---4">Machine Learning Driven Sales and Marketing for Everyone with Einstein Behavior Scoring (Part 1) </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 20 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 19 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +281,6 @@
         <pubDate>Thu, 06 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 05 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/designing-the-shortening-url-system-like-bit-ly-loading-6-billion-clicks-a-month-78b3e48eee8c?source=rss----5b301f10ddcd---4">Designing the Shortening URL system like Bit.ly, loading 6 billion clicks a month </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2020/01/migration-from-wordpress-to-jamstack/">How Smashing Magazine Manages Content: Migration From WordPress To JAMStack </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/ci-cd-ml/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: CI/CD for Machine Learning </a></li> 
-          
-            <li> <a href="https://hackernoon.com/configuring-sql-server-for-high-availability-in-the-cloud-rs4b36ns?source=rss">Configuring SQL Server for High Availability in the Cloud </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/kronos-android-easy-ntp-d44fd6ece9c5?source=rss----25cd379abb8---4">Kronos-Android: Easy NTP </a></li> 
-          
-            <li> <a href="https://engblog.nextdoor.com/data-migrations-dont-have-to-come-with-downtime-eabc15893700?source=rss----5e54f11cdfdf---4">Data Migrations Don’t Have to Come with Downtime </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/incident-management-devops-sre/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Incident Management in the Age of DevOps &amp; SRE </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/optimizing-experimentation-resources-with-shared-control-6a2677e6e513?source=rss----905ea2b3d4d1---4">Optimizing Experimentation Resources with Shared Control </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 05 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-05.html</guid>
       </item>
       
   </channel>
