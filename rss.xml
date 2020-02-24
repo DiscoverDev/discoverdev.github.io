@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 24 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://eng.uber.com/backtesting-at-scale/">Building a Backtesting Service to Measure Model Performance at Uber-scale </a></li> 
+          
+            <li> <a href="https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b?source=rss----58820b6d8904---4">How Big Technical Changes Happen at Slack </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/data-imports-nodelocal/">Improving Data Imports in CockroachDB with `nodelocal` </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4?source=rss----2615bd06b42e---4">AVIF for Next-Generation Image Coding </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2020/02/detecting-memory-corruption-bugs-with-hwasan.html">Detecting Memory Corruption Bugs With HWASan </a></li> 
+          
+            <li> <a href="https://www.elastic.co/blog/playing-defense-against-gamaredon-group">Playing defense against Gamaredon Group </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/">Overcoming single-threaded limitations in React Native </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/02/autoflip-open-source-framework-for.html">AutoFlip: An Open Source Framework for Intelligent Video Reframing </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 24 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 21 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,34 +281,6 @@
         <pubDate>Mon, 10 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 07 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/scotiabank-chassis-appfactory/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Chassis and AppFactory: Accelerate Development of Cloud-Native Microservices for Enterprises </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/01/rust-analyser-ide-support/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Rust Moving Towards an IDE-Friendly Compiler With Rust Analyzer </a></li> 
-          
-            <li> <a href="https://sysdig.com/blog/troubleshoot-kubernetes-oom/">How to troubleshoot Kubernetes OOM and CPU Throttle </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/dagger-reflect">Speeding Up Builds with Dagger Reflect </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/paypal-reactor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Reactor: The New Power Source for PayPal&#39;s JVM Framework </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/ultron-ml-inferencing-platform-walmart-labs-7e01c5be9da2?source=rss----905ea2b3d4d1---4">Ultron: ML Inferencing Platform @Walmart Labs </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness">How we retired Python 2 and improved developer happiness </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify">React Native is the Future of Mobile at Shopify </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 07 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-07.html</guid>
       </item>
       
   </channel>
