@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 27 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.logrocket.com/simplifying-the-graphql-data-model/">Simplifying the GraphQL data model </a></li> 
+          
+            <li> <a href="https://tech.showmax.com/2020/02/ab-testing-part1/">The mechanics behind A/B testing </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/circuit-breaker-misconfigured">Your Circuit Breaker is Misconfigured </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/first-order-motion-model-ab3908407208?source=rss----7f60cf5620c9---4">First Order Motion Model </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p">Open sourcing DataHub: LinkedIn’s metadata search and discovery platform </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/design-for-failure-distributed-transaction-in-microservices-f026b25ba847?source=rss----5517fd7b58a6---4">Design  for Failure — Distributed Transaction in Microservices </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/debugging-performance-problems-in-react/">Debugging performance problems in React </a></li> 
+          
+            <li> <a href="https://www.smashingmagazine.com/2020/02/cross-browser-testing-efficient-lambdatest/">How To Make Cross-Browser Testing More Efficient With LambdaTest </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 27 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 26 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,32 +285,6 @@
         <pubDate>Thu, 13 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 12 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.theguardian.com/info/2020/feb/04/taming-data-transfer-costs-with-elasticsearch">Taming data transfer costs with Elasticsearch </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-what-when-why-and-how-of-federated-graphql/">The what, when, why, and how of federated GraphQL </a></li> 
-          
-            <li> <a href="https://engineering.zomato.com/blog/food-preparation-time">The Deep Tech Behind Estimating Food Preparation Time </a></li> 
-          
-            <li> <a href="https://www.eventbrite.com/engineering/leveraging-spot-instances-to-drive-down-costs/">Leveraging “spot” instances to drive down costs </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/honeycomb-build-ssc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Observability in the SSC: Seeing Into Your Build System </a></li> 
-          
-            <li> <a href="https://codeascraft.com/2020/02/03/production-webpack-builds/">The journey to fast production asset builds with Webpack </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/network-pneumatic-tubes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: It Really is a Series of Tubes </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 12 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-12.html</guid>
       </item>
       
   </channel>
