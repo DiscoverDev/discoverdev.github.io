@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 28 Feb 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://erlang-solutions.com/blog/rabbitmq-quorum-queues-explained-what-you-need-to-know.html">RabbitMQ Quorum Queues explained - what you need to know. </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/anatomy-cascading-failure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Anatomy of Cascading Failure </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/cerner-resiliency/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Building Confidence in Healthcare Systems Through Chaos Engineering </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/02/generating-diverse-synthetic-medical.html">Generating Diverse Synthetic Medical Image Data for Training Machine Learning Models </a></li> 
+          
+            <li> <a href="https://blog.overops.com/debugging-distributed-systems-3-common-distributed-tracing-challenges-how-to-overcome-them/">Debugging Distributed Systems: 3 Common Distributed Tracing Challenges &amp; How to Overcome Them </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/building-an-adaptive-multi-tenant-stream-bus-with-kafka-and-golang-5f1410bf2b40?source=rss----25cd379abb8---4">Building an Adaptive, Multi-Tenant Stream Bus with Kafka and Golang </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-guide-to-collaborative-topic-modeling-recommender-systems-49fd576cc871?source=rss----7f60cf5620c9---4">A guide to Collaborative Topic Modeling recommender systems </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-28.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-28.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 27 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +283,6 @@
         <pubDate>Fri, 14 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-14.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-14.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 13 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/ml-hidden-tasks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: ML&#39;s Hidden Tasks: A Checklist for Developers When Building ML Systems </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2020/02/magic-flip-cards-common-sizing-problem/">Magic Flip Cards: Solving A Common Sizing Problem </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/snowflake-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Snowflake Architecture: Building a Data Warehouse for the Cloud </a></li> 
-          
-            <li> <a href="https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd?source=rss----53c7c27702d5---4">Building an Effective Test Pipeline in a Service Oriented World </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2020/02/05/deep-learning-for-anomaly-detection.html">Deep Learning for Anomaly Detection </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/envoy-mobile-v0-2-deep-dive-7ed262cfdf93?source=rss----25cd379abb8---4">Envoy Mobile v0.2 deep dive </a></li> 
-          
-            <li> <a href="https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f?source=rss----cb96a1f03649---4">Why Discord is switching from Go to Rust </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2020/02/04/fireeye-providing-real-time-threat-analysis-using-a-graph-database/">FireEye: Providing Real-Time Threat Analysis using a Graph Database </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 13 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-13.html</guid>
       </item>
       
   </channel>
