@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 02 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineeringblog.yelp.com/2020/02/accelerating-retention-experiments-with-partially-observed-data.html">Accelerating Retention Experiments with Partially Observed Data </a></li> 
+          
+            <li> <a href="http://blog.fastforwardlabs.com/2020/02/20/building-blip-behind-the-scenes-of-our-anomaly-detection-prototype.html">Building Blip: behind the scenes of our anomaly detection prototype </a></li> 
+          
+            <li> <a href="https://stripe.com/blog/similarity-clustering">Similarity clustering to catch fraud rings </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2020/02/20/nauto-achieving-consistency-in-an-eventually-consistent-environment/">Nauto: Achieving Consistency in an Eventually Consistent Environment </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/there-is-no-noise-only-bias-f68f8b8e423a?source=rss----d02e65779d7b---4">There is No Noise — Only Bias </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/browser-to-browser-communication-with-vert-x-and-hazelcast-cluster-450b16903a55?source=rss----5517fd7b58a6---4">Browser to Browser Communication with Vert.x and Hazelcast cluster </a></li> 
+          
+            <li> <a href="http://engineering.remind.com/99-uptime-busiest-season/">How we reached 99.9% uptime during our busiest season </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/hooking-your-audience-using-drag-drop-in-react-6ba1118dab84?source=rss----cfe1120185d3---4">‘Hooking’ Your Audience Using Drag &amp; Drop in React </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 02 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-02.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-02.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 28 Feb 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Tue, 18 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 14 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/how-artificial-neural-networks-are-helping-stroke-victims-80690b55778c?source=rss----7f60cf5620c9---4">How Artificial Neural Networks are Helping Stroke Victims </a></li> 
-          
-            <li> <a href="https://hackernoon.com/model-paradigm-for-engineering-f17g36rg?source=rss">Model Paradigm for Engineering </a></li> 
-          
-            <li> <a href="https://www.toptal.com/c-plus-plus/creating-programming-language-in-c-">Stork: How to Make a Programming Language in C++ </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/mutation-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Mutation Testing: Case Studies on Spring Boot APIs </a></li> 
-          
-            <li> <a href="http://product.hubspot.com/blog/treating-frontend-performance-as-a-feature">How We Started Treating Frontend Performance as a Feature </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html">ML-fairness-gym: A Tool for Exploring Long-Term Impacts of Machine Learning Systems </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343?source=rss----587883b5d2ee---4">Creating a Logical Replica from a Snapshot in RDS Postgres </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2020/02/05/kubernetes-and-multicloud/">What does Kubernetes have to do with it? </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 14 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-14.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-14.html</guid>
       </item>
       
   </channel>
