@@ -6,6 +6,35 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 03 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/cloudflares-gen-x-servers-for-an-accelerated-future/">Cloudflare’s Gen X: 
+Servers for an Accelerated Future </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/">The Causal Analysis of Cannibalization in Online Products </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/functional-ui-model-driven-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Functional UI - a Model-Based Approach </a></li> 
+          
+            <li> <a href="https://tech.pic-collage.com/performance-speedup-customizing-graphql-tracing-on-newrelic-7973457673b9?source=rss----3819a69148cb---4">[Performance Speedup] Customizing GraphQL Tracing on NewRelic </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/analyzing-anomalies-with-thirdeye">Analyzing anomalies with ThirdEye </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/02/setting-fairness-goals-with-tensorflow.html">Setting Fairness Goals with the TensorFlow Constrained Optimization Library </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/using-your-devices-as-the-key-to-your-apps/">Using your devices as the key to your apps </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/security-attack-surface/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Small Is Beautiful: How to Improve Security by Maintaining Less Code </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 03 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-03.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-03.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 02 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +284,6 @@
         <pubDate>Wed, 19 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-19.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-19.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 18 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hackernoon.com/a-performance-optimization-of-flutter-webview-8f5336wa?source=rss">A Performance Optimization of Flutter WebView </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/auto-generated-knowledge-graphs-92ca99a81121?source=rss----7f60cf5620c9---4">Auto-Generated Knowledge Graphs </a></li> 
-          
-            <li> <a href="https://hackernoon.com/observability-on-heroku-how-to-monitor-apps-on-a-managed-infrastructure-7x3o331b?source=rss">Observability on Heroku: How to Monitor Apps on a Managed Infrastructure </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2020/02/07/transactional-mfa">Never Build MFA Again: A Developer&#39;s Guide to Transactional MFA </a></li> 
-          
-            <li> <a href="https://www.infoq.com/podcasts/cloud-native-scaling-kubernetes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Podcast: Anurag Goel on Cloud Native Platforms, Developer Experience, and Scaling Kubernetes </a></li> 
-          
-            <li> <a href="https://engineeringblog.yelp.com/2020/02/open-sourcing-varanus-and-rusty-jetpack.html">Open-Sourcing Varanus and Rusty Jetpack </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/build-materialized-cache-with-ksqldb">Building a Materialized Cache with ksqlDB </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/02/tydi-qa-multilingual-question-answering.html">TyDi QA: A Multilingual Question Answering Benchmark </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 18 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-18.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-18.html</guid>
       </item>
       
   </channel>
