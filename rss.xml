@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 04 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://hacks.mozilla.org/2020/02/securing-firefox-with-webassembly/">Securing Firefox with WebAssembly </a></li> 
+          
+            <li> <a href="https://www.viget.com/articles/concurrency-multithreading-in-ios/">Concurrency &amp; Multithreading in iOS </a></li> 
+          
+            <li> <a href="https://nordicapis.com/introducing-the-api-security-maturity-model/">Introducing The API Security Maturity Model </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html">Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/scaling-driver-compliance-across-lyft-b9ac69724f6e?source=rss----25cd379abb8---4">Scaling Driver Compliance across Lyft </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/02/24/how-spotify-aligned-cdn-services-for-a-lightning-fast-streaming-experience/">How Spotify Aligned CDN Services for a Lightning Fast Streaming Experience </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/prefetch-caching-of-ebay-items/">Prefetch Caching of eBay Items </a></li> 
+          
+            <li> <a href="https://tech.just-eat.com/2020/02/24/modularisation-in-the-just-eat-android-consumer-application/">Modularisation in the Just Eat Android Consumer Application </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 04 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-04.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 03 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -256,34 +284,6 @@ Servers for an Accelerated Future </a></li>
         <pubDate>Thu, 20 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-20.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-20.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 19 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://techblog.commercetools.com/how-we-transformed-the-product-search-for-the-better-7f8ac75dbeba?source=rss----d3d69d818e3d---4">How we transformed the product search for the better </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/css-animations-for-dom-observation/">CSS animations for DOM observation </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">WKSctl: A Tool for Kubernetes Cluster Management Using GitOps </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/uber-atg/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Self-Driving Cars as Edge Computing Devices </a></li> 
-          
-            <li> <a href="https://allegro.tech/2020/02/webflux-and-coroutines.html">Making Webflux code readable with Kotlin coroutines </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/02/10/continuous-testing.html">Continuous Testing – Creating a testable CI/CD pipeline. </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/great-code-reviews">Great Code Reviews—The Superpower Your Team Needs </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/rebasing-your-branch-with-git-rebase-onto">Adventures with git Rebasing </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 19 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-19.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-19.html</guid>
       </item>
       
   </channel>
