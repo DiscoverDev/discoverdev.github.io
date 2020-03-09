@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 09 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/impact-of-cache-locality/">Impact of Cache Locality </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/developing-the-antman-project/">Developing the Antman Project </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/returning-storage-space-back-to-our-users">Returning 575 Terabytes of storage space back to our users </a></li> 
+          
+            <li> <a href="http://android-developers.googleblog.com/2020/02/data-encryption-on-android-with-jetpack.html">Data Encryption on Android with Jetpack Security </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/configure-kafka-to-minimize-latency">99th Percentile Latency at Scale with Apache Kafka </a></li> 
+          
+            <li> <a href="https://technology.riotgames.com/news/running-online-services-riot-part-vi">Running Online Services at Riot: Part VI </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/creating-native-components-accept-react-native-subviews">Creating Native Components That Accept React Native Subviews </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/rate-limiting-node-js/">Understanding and implementing rate limiting in Node.js </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 09 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 04 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -256,34 +284,6 @@ Servers for an Accelerated Future </a></li>
         <pubDate>Fri, 21 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-21.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-21.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 20 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/anomaly-detection/">Anomaly Detection — Product of Data Refinery </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/designing-graphql-server-optimal-performance/">Designing a GraphQL server for optimal performance </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/application-log-intelligence-performance-insights-at-salesforce-using-flink-92955f30573f?source=rss----cfe1120185d3---4">Application Log Intelligence &amp; Performance Insights at Salesforce using Flink </a></li> 
-          
-            <li> <a href="https://www.thoughtworks.com/insights/blog/automating-semantic-versioning-model-mobile-releases">Automating semantic versioning model in mobile releases </a></li> 
-          
-            <li> <a href="https://www.honeybadger.io/blog/ruby-concurrency-parallelism/">Opening The Ruby Concurrency Toolbox </a></li> 
-          
-            <li> <a href="https://tech.wayfair.com/data-science/2020/02/how-to-enable-data-scientists-to-stop-managing-etl-pipelines-and-get-back-to-doing-data-science-part-i/">How to enable data scientists to stop managing ETL pipelines and get back to doing data science: Part I </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/governance-framework-privacy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Managing Privacy &amp; Data Governance for Next Generation Architecture </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/machine-learning-driven-sales-and-marketing-for-everyone-with-einstein-behavior-scoring-part-1-afdb76a5a480?source=rss----cfe1120185d3---4">Machine Learning Driven Sales and Marketing for Everyone with Einstein Behavior Scoring (Part 1) </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-20.html</guid>
       </item>
       
   </channel>
