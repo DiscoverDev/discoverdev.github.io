@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 10 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2020/02/airbnb-design-system-react-conf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Building (And Re-Building) the Airbnb Design System - React Conf 2019 </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/">How We Improved Data Discovery for Data Scientists at Spotify </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/gen-x-performance-tuning/">Gen X Performance Tuning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/multi-runtime-microservice-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Multi-Runtime Microservices Architecture </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58?source=rss----5517fd7b58a6---4">Handling 350k Requests for $3 using Lambda </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/cloud-foundry-kubernetes-project-eirini-kative/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Platforms Demystified: Cloud Foundry, Kubernetes, Eirini, and Knative </a></li> 
+          
+            <li> <a href="https://eng.uber.com/jvm-tuning-garbage-collection/">Tricks of the Trade: Tuning JVM Memory for Large-scale Services </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/product/ebay-uses-computer-vision-to-enable-sellers-to-create-cleaner-images/">eBay Uses Computer Vision to Enable Sellers to Create Cleaner Images </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 10 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-10.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-10.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 09 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -256,34 +284,6 @@ Servers for an Accelerated Future </a></li>
         <pubDate>Mon, 24 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 21 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://eng.uber.com/uber-eats-com-web-app-rewrite/">Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/observability-for-the-missing-hop-6688c6f3911a?source=rss----25cd379abb8---4">Observability for the Missing Hop </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/02/learning-to-see-transparent-objects.html">Learning to See Transparent Objects </a></li> 
-          
-            <li> <a href="http://blog.mallow-tech.com/2020/02/on-device-text-recognition-in-ios-using-vision/">On device text recognition in iOS using vision </a></li> 
-          
-            <li> <a href="https://itnext.io/k8s-vertical-pod-autoscaling-fd9e602cbf81?source=rss----5b301f10ddcd---4">K8s Vertical Pod Autoscaling </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/spring-boot-graalvm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Running Spring Boot Applications as GraalVM Native Images </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2020/02/clickhaton/">External Testing with Tesena </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/elasticsearch-ksqldb-integration-for-data-enrichment-and-analytics">Integrating Elasticsearch and ksqlDB for Powerful Data Enrichment and Analytics </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 21 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-21.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-21.html</guid>
       </item>
       
   </channel>
