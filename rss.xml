@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 12 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineeringblog.yelp.com/2020/03/spark-on-paasta.html">Supporting Spark as a First-Class Citizen in Yelp’s Computing Platform </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/atom-editor-react-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Declarative APIs in an Imperative World </a></li> 
+          
+            <li> <a href="http://artsy.github.io/blog/2020/03/02/ios-deploys-super-weird-totally-normal/">iOS Deploys: Super Weird And Totally Normal </a></li> 
+          
+            <li> <a href="https://evilmartians.com/chronicles/beyond-fashion-deep-learning-with-catalyst">Beyond fashion: Deep Learning with Catalyst </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/data-infrastructure/messenger/">Project LightSpeed: Rewriting the Messenger codebase for a faster, smaller, and simpler messaging app </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/we-migrated-terapeak-research-into-ebay-seller-hub-and-survived/">New &amp; Improved Terapeak Research 2.0 in eBay Seller Hub </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/understanding-micro-mobility-patterns-using-geospatial-data-1116a4550337?source=rss----7f60cf5620c9---4">Understanding Micro-Mobility Patterns using Geospatial Data </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/when-bloom-filters-dont-bloom/">When Bloom filters don&#39;t bloom </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 12 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-12.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-12.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 11 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -254,36 +282,6 @@ Servers for an Accelerated Future </a></li>
         <pubDate>Wed, 26 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 25 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/netvlad-cnn-architecture-for-weakly-supervised-place-recognition-ce64b08bebaf?source=rss----7f60cf5620c9---4">NetVLAD: CNN Architecture for Weakly Supervised Place Recognition </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/how-worker-threads-boosted-my-node-application-9ff23abb8927?source=rss----5517fd7b58a6---4">How worker threads boosted my Node application </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/spring-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Deploy on Friday! </a></li> 
-          
-            <li> <a href="https://itnext.io/v8-function-optimization-2a9c0ececf5e?source=rss----5b301f10ddcd---4">How V8 optimizes functions in JavaScript? </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/building-scalable-iot-application-with-apache-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: The Kongo Problem: Building a Scalable IoT Application with Apache Kafka </a></li> 
-          
-            <li> <a href="https://github.blog/2020-02-14-automating-mysql-schema-migrations-with-github-actions-and-more/">Automating MySQL schema migrations with GitHub Actions and more </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2020/02/handling-device-orientation-efficiently.html">Handling Device Orientation Efficiently in Vulkan With Pre-Rotation </a></li> 
-          
-            <li> <a href="https://netflixtechblog.com/essential-suite-artwork-producer-assistant-8f2a760bc150?source=rss----2615bd06b42e---4">Essential Suite — Artwork Producer Assistant </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-to-build-a-real-time-fraud-detection-pipeline-using-faust-and-mlflow-24e787dd51fa?source=rss----7f60cf5620c9---4">How to build a real-time fraud detection pipeline using Faust and MLFlow </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 25 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-25.html</guid>
       </item>
       
   </channel>
