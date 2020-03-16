@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 16 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.insightdatascience.com/contextual-topic-identification-4291d256a032?source=rss----d02e65779d7b---4">Contextual Topic Identification </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/kafka-zookeeper/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Kafka Needs No Keeper </a></li> 
+          
+            <li> <a href="https://blog.heroku.com/building-with-web-components">Building with Web Components </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/evolution-kit-automating-marketing-machine-learning">The Evolution of Kit: Automating Marketing Using Machine Learning </a></li> 
+          
+            <li> <a href="https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669?source=rss----5b301f10ddcd---4">Webpack 5 Federation: A game changer in JavaScript architecture </a></li> 
+          
+            <li> <a href="https://medium.com/carousell-insider/building-our-in-house-virtual-device-lab-caroufarm-e72911e4593b?source=rss----6c35dc0cba4d---4">Building our in-house virtual device lab “Caroufarm” </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5?source=rss----7f60cf5620c9---4">Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/helm-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Helm 3: A Mariner&#39;s Delight </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 16 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 13 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -254,34 +282,6 @@ Servers for an Accelerated Future </a></li>
         <pubDate>Fri, 28 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-28.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-28.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 27 Feb 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.logrocket.com/simplifying-the-graphql-data-model/">Simplifying the GraphQL data model </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2020/02/ab-testing-part1/">The mechanics behind A/B testing </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/circuit-breaker-misconfigured">Your Circuit Breaker is Misconfigured </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/first-order-motion-model-ab3908407208?source=rss----7f60cf5620c9---4">First Order Motion Model </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p">Open sourcing DataHub: LinkedIn’s metadata search and discovery platform </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/design-for-failure-distributed-transaction-in-microservices-f026b25ba847?source=rss----5517fd7b58a6---4">Design  for Failure — Distributed Transaction in Microservices </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/debugging-performance-problems-in-react/">Debugging performance problems in React </a></li> 
-          
-            <li> <a href="https://www.smashingmagazine.com/2020/02/cross-browser-testing-efficient-lambdatest/">How To Make Cross-Browser Testing More Efficient With LambdaTest </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 27 Feb 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-02-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-27.html</guid>
       </item>
       
   </channel>
