@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 18 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968?source=rss----2615bd06b42e---4">Open-Sourcing riskquant, a library for quantifying risk </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/measuring-compositional-generalization.html">Measuring Compositional Generalization </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ai-test-automation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: How AI Is Transforming Test Automation </a></li> 
+          
+            <li> <a href="https://intent.com/machine-learning-plus-more-machine-learning-for-travel-marketers/">Machine learning plus more machine learning for travel marketers </a></li> 
+          
+            <li> <a href="https://hackernoon.com/rethinking-programming-the-network-in-the-language-kn3z3y55?source=rss">Rethinking Programming: The Network in the Language </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/introducing-dispatch-da4b8a2a8072?source=rss----2615bd06b42e---4">Introducing Dispatch </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/">The problem with Git flow </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/how-we-improved-latency-through-projection-in-espresso">How we improved latency through projection in Espresso </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 18 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-18.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-18.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 17 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -258,34 +286,6 @@ Servers for an Accelerated Future </a></li>
         <pubDate>Tue, 03 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 02 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineeringblog.yelp.com/2020/02/accelerating-retention-experiments-with-partially-observed-data.html">Accelerating Retention Experiments with Partially Observed Data </a></li> 
-          
-            <li> <a href="http://blog.fastforwardlabs.com/2020/02/20/building-blip-behind-the-scenes-of-our-anomaly-detection-prototype.html">Building Blip: behind the scenes of our anomaly detection prototype </a></li> 
-          
-            <li> <a href="https://stripe.com/blog/similarity-clustering">Similarity clustering to catch fraud rings </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2020/02/20/nauto-achieving-consistency-in-an-eventually-consistent-environment/">Nauto: Achieving Consistency in an Eventually Consistent Environment </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/there-is-no-noise-only-bias-f68f8b8e423a?source=rss----d02e65779d7b---4">There is No Noise — Only Bias </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/browser-to-browser-communication-with-vert-x-and-hazelcast-cluster-450b16903a55?source=rss----5517fd7b58a6---4">Browser to Browser Communication with Vert.x and Hazelcast cluster </a></li> 
-          
-            <li> <a href="http://engineering.remind.com/99-uptime-busiest-season/">How we reached 99.9% uptime during our busiest season </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/hooking-your-audience-using-drag-drop-in-react-6ba1118dab84?source=rss----cfe1120185d3---4">‘Hooking’ Your Audience Using Drag &amp; Drop in React </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 02 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-02.html</guid>
       </item>
       
   </channel>
