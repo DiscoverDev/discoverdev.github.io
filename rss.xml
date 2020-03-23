@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 23 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/data-sentinel-automating-data-validation">Data Sentinel: Automating data validation </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/a-scalable-prediction-engine-for-automating-structured-data-prep-dc95154109d8?source=rss----7f60cf5620c9---4">A Scalable Prediction Engine for Automating Structured Data Prep </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html">More Efficient NLP Model Pre-training with ELECTRA </a></li> 
+          
+            <li> <a href="https://stackshare.io/pinterest/using-kafka-to-throttle-qps-on-mysql-shards-in-bulk-write-apis">Using Kafka to Throttle QPS on MySQL Shards in Bulk Write APIs </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/building-a-design-systems-library-with-figma-scripter-c046df0a895c?source=rss----25cd379abb8---4">Building a Design Systems Library with Figma &amp; Scripter </a></li> 
+          
+            <li> <a href="https://distill.pub/2020/circuits/zoom-in">Zoom In: An Introduction to Circuits </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html">How to Write a Ray Tracer Intuitively </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/kubernetes-autoscaling-101-cluster-autoscaler-horizontal-pod-autoscaler-and-vertical-pod-2a441d9ad231?source=rss----5517fd7b58a6---4">Kubernetes Autoscaling 101: Cluster Autoscaler, Horizontal Pod Autoscaler, and Vertical Pod… </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/swift-tensorflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Swift for Tensorflow </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 23 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-23.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 19 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,34 +287,6 @@
         <pubDate>Mon, 09 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-09.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 04 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://hacks.mozilla.org/2020/02/securing-firefox-with-webassembly/">Securing Firefox with WebAssembly </a></li> 
-          
-            <li> <a href="https://www.viget.com/articles/concurrency-multithreading-in-ios/">Concurrency &amp; Multithreading in iOS </a></li> 
-          
-            <li> <a href="https://nordicapis.com/introducing-the-api-security-maturity-model/">Introducing The API Security Maturity Model </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html">Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/scaling-driver-compliance-across-lyft-b9ac69724f6e?source=rss----25cd379abb8---4">Scaling Driver Compliance across Lyft </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2020/02/24/how-spotify-aligned-cdn-services-for-a-lightning-fast-streaming-experience/">How Spotify Aligned CDN Services for a Lightning Fast Streaming Experience </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/prefetch-caching-of-ebay-items/">Prefetch Caching of eBay Items </a></li> 
-          
-            <li> <a href="https://tech.just-eat.com/2020/02/24/modularisation-in-the-just-eat-android-consumer-application/">Modularisation in the Just Eat Android Consumer Application </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 04 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-04.html</guid>
       </item>
       
   </channel>
