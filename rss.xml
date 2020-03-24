@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 24 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern">Refactoring Legacy Code with the Strangler Fig Pattern </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/micrometer-prometheus-grafana/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Performance Monitoring Back-end and Front-end Using Micrometer </a></li> 
+          
+            <li> <a href="https://eng.uber.com/multitenancy-microservice-architecture/">Why We Leverage Multi-tenancy in Uber’s Microservice Architecture </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html">Real-Time 3D Object Detection on Mobile Devices with MediaPipe </a></li> 
+          
+            <li> <a href="https://deezer.io/a-better-way-to-search-for-music-through-query-suggestion-4bca10918c27?source=rss----2ab7e077175a---4">A better way to search for music through query suggestion </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/lstm-fcn-for-cardiology-22af6bbfc27b?source=rss----7f60cf5620c9---4">LSTM-FCN for cardiology </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/iac-terraform-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: InfraCoding with Terraform: Writing Tests for Infrastructure-as-Code </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749?source=rss----2615bd06b42e---4">Ready for changes with Hexagonal Architecture </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 24 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 23 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 10 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 09 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.cloudflare.com/impact-of-cache-locality/">Impact of Cache Locality </a></li> 
-          
-            <li> <a href="https://engineering.linecorp.com/en/blog/developing-the-antman-project/">Developing the Antman Project </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/returning-storage-space-back-to-our-users">Returning 575 Terabytes of storage space back to our users </a></li> 
-          
-            <li> <a href="http://android-developers.googleblog.com/2020/02/data-encryption-on-android-with-jetpack.html">Data Encryption on Android with Jetpack Security </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/configure-kafka-to-minimize-latency">99th Percentile Latency at Scale with Apache Kafka </a></li> 
-          
-            <li> <a href="https://technology.riotgames.com/news/running-online-services-riot-part-vi">Running Online Services at Riot: Part VI </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/creating-native-components-accept-react-native-subviews">Creating Native Components That Accept React Native Subviews </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/rate-limiting-node-js/">Understanding and implementing rate limiting in Node.js </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 09 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-09.html</guid>
       </item>
       
   </channel>
