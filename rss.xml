@@ -6,6 +6,36 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 25 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html">Fast and Easy Infinitely Wide Networks with Neural Tangents </a></li> 
+          
+            <li> <a href="https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533?source=rss----5b301f10ddcd---4">MLOps: not as Boring as it Sounds </a></li> 
+          
+            <li> <a href="https://thoughtbot.com/blog/best-practices-while-developing-a-react-native-app">Best practices while developing a React Native App </a></li> 
+          
+            <li> <a href="https://blog.insightdatascience.com/the-aigent-using-googles-bert-language-model-to-connect-writers-representation-42ac6388da7c?source=rss----d02e65779d7b---4">The AIgent: Using Google&amp;rsquo;s BERT Language Model to Connect Writers &amp; Representation </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2020/03/12/augury-insights-into-industrial-iot-time-series-data/">Augury: Insights into Industrial IoT Time-Series Data </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/soli-radar-based-perception-and.html">Soli Radar-Based Perception and Interaction in Pixel 4 </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/ebay-motors-screenshot-testing-with-flutter/">eBay Motors: Screenshot Testing with Flutter </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/automated-visual-regression-testing-with-jest/">Automated visual regression testing with Jest </a></li> 
+          
+            <li> <a href="https://tech.findmypast.com/k8s-dns-lookup/">Solving DNS lookup failures in Kubernetes </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 25 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-25.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-25.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 24 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +289,6 @@
         <pubDate>Wed, 11 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-11.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-11.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 10 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/news/2020/02/airbnb-design-system-react-conf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Building (And Re-Building) the Airbnb Design System - React Conf 2019 </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/">How We Improved Data Discovery for Data Scientists at Spotify </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/gen-x-performance-tuning/">Gen X Performance Tuning </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/multi-runtime-microservice-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Multi-Runtime Microservices Architecture </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58?source=rss----5517fd7b58a6---4">Handling 350k Requests for $3 using Lambda </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/cloud-foundry-kubernetes-project-eirini-kative/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Platforms Demystified: Cloud Foundry, Kubernetes, Eirini, and Knative </a></li> 
-          
-            <li> <a href="https://eng.uber.com/jvm-tuning-garbage-collection/">Tricks of the Trade: Tuning JVM Memory for Large-scale Services </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/product/ebay-uses-computer-vision-to-enable-sellers-to-create-cleaner-images/">eBay Uses Computer Vision to Enable Sellers to Create Cleaner Images </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 10 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-10.html</guid>
       </item>
       
   </channel>
