@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 26 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/ci-cd-security-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Securing Your CI/CD Pipeline </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/knowing-pyspark-and-kafka-a-100-million-events-use-case-5910159d08d7?source=rss----7f60cf5620c9---4">Knowing PySpark and Kafka: A 100 Million Events Use-Case </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2?source=rss----2615bd06b42e---4">SVT-AV1: an open-source AV1 encoder and decoder </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/data-science/2020/03/the-visual-complements-model-vics-complementary-product-recommendations-from-visual-cues/">The Visual Complements Model (ViCs): Complementary Product Recommendations From Visual Cues </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/content-recommendation-model/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Spark to Elasticsearch and Back - Learning Large-scale Models for Content Recommendation </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/03/opensilver-silverlight-wasm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">OpenSilver: Open-source Silverlight via WebAssembly </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/hash-sharded-indexes-unlock-linear-scaling-for-sequential-workloads/">Hash Sharded Indexes Unlock Linear Scaling for Sequential Workloads </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 26 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-26.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-26.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 25 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +287,6 @@
         <pubDate>Thu, 12 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-12.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-12.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 11 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/high-resolution-telemetry/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: High Resolution Performance Telemetry at Scale </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/functional-programming-in-go/">Functional programming in Go </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/technical-details-of-why-cloudflare-chose-amd-epyc-for-gen-x-servers/">Why Cloudflare Chose AMD EPYC for Gen X Servers </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/sorbet-type-checker-ruby/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Sorbet: Why and How We Built a Typechecker for Ruby </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-transfer-learning-for-image-classification-f3c7e0ec1a14?source=rss----7f60cf5620c9---4">Deep Transfer Learning for Image Classification </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/02/ultra-high-resolution-image-analysis.html">Ultra-High Resolution Image Analysis with Mesh-TensorFlow </a></li> 
-          
-            <li> <a href="https://engineering.thumbtack.com/building-a-native-design-system-for-ios/">Building a native design system for iOS </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/data-mesh-paradigm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Data Mesh Paradigm Shift in Data Platform Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 11 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-11.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-11.html</guid>
       </item>
       
   </channel>
