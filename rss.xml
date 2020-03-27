@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 27 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://getaround.tech/double-entry-bookkeeping/">Bookkeeping </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/snowpack-vs-webpack/">Snowpack vs. webpack </a></li> 
+          
+            <li> <a href="https://engineering.mongodb.com/post/getting-storage-engines-ready-for-fast-storage-devices">Getting storage engines ready for fast storage devices </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/enabling-hdfs-federation-having-1b-file-system-objects/">Enabling HDFS Federation Having 1B File System Objects </a></li> 
+          
+            <li> <a href="https://developers.soundcloud.com/blog/periskop-exception-monitoring-service">Periskop: Exception Monitoring Service </a></li> 
+          
+            <li> <a href="https://www.infoq.com/articles/making-code-faster-taming-branches/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Making Your Code Faster by Taming Branches </a></li> 
+          
+            <li> <a href="https://engineering.grab.com/tackling-ui-test-execution-time-imbalance-for-xcode-parallel-testing">Tackling UI test execution time imbalance for Xcode parallel testing </a></li> 
+          
+            <li> <a href="https://distill.pub/2020/grand-tour">Visualizing Neural Networks with the Grand Tour </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 27 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-27.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 26 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Fri, 13 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 12 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineeringblog.yelp.com/2020/03/spark-on-paasta.html">Supporting Spark as a First-Class Citizen in Yelp’s Computing Platform </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/atom-editor-react-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Declarative APIs in an Imperative World </a></li> 
-          
-            <li> <a href="http://artsy.github.io/blog/2020/03/02/ios-deploys-super-weird-totally-normal/">iOS Deploys: Super Weird And Totally Normal </a></li> 
-          
-            <li> <a href="https://evilmartians.com/chronicles/beyond-fashion-deep-learning-with-catalyst">Beyond fashion: Deep Learning with Catalyst </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/data-infrastructure/messenger/">Project LightSpeed: Rewriting the Messenger codebase for a faster, smaller, and simpler messaging app </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/we-migrated-terapeak-research-into-ebay-seller-hub-and-survived/">New &amp; Improved Terapeak Research 2.0 in eBay Seller Hub </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/understanding-micro-mobility-patterns-using-geospatial-data-1116a4550337?source=rss----7f60cf5620c9---4">Understanding Micro-Mobility Patterns using Geospatial Data </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/when-bloom-filters-dont-bloom/">When Bloom filters don&#39;t bloom </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 12 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-12.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-12.html</guid>
       </item>
       
   </channel>
