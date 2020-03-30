@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 30 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://tech.wayfair.com/2020/03/the-importance-of-covariates-in-causal-inference/">The Importance of Covariates in Causal Inference: Shown in a Comparison of Two Methods </a></li> 
+          
+            <li> <a href="https://engineering.fb.com/production-engineering/ntp-service/">Building a more accurate time service at Facebook scale </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/the-problem-with-event-loops/">The problem with thread^W event loops </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/">What the heck is Backstage anyway? </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/introducing-insearch">InSearch: LinkedIn’s new message search platform </a></li> 
+          
+            <li> <a href="https://eng.uber.com/piranha/">Introducing Piranha: An Open Source Tool to Automatically Delete Stale Code </a></li> 
+          
+            <li> <a href="https://engineering.salesforce.com/mulesofts-online-migration-on-dynamodb-25e438c146c?source=rss----cfe1120185d3---4">MuleSoft’s Online Migration on DynamoDB </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/on-the-shoulders-of-giants-recent-changes-in-internet-traffic/">On the shoulders of giants: recent changes in Internet traffic </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 30 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-30.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 27 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Mon, 16 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-16.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-16.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 13 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06?source=rss----2615bd06b42e---4">How Netflix uses Druid for Real-time Insights to Ensure a High-Quality Experience </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/program-synthesis-in-ai-991590b4ba7f?source=rss----7f60cf5620c9---4">Program Synthesis in AI </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/toward-human-centered-design-for-ml.html">Toward Human-Centered Design for ML Frameworks </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/bucketisation-using-cassandra-for-time-series-data-scans-2865993f9c00?source=rss----905ea2b3d4d1---4">Bucketisation: Using cassandra for time series data scans. </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2020/03/03/tubi-scaling-up-machine-experimentation-with-scylla-and-scala/">Tubi: Scaling Up Machine Experimentation with Scylla and Scala </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/how-not-to-build-datasets-and-consume-data-at-your-company">How (Not) to Build Datasets and Consume Data at Your Company </a></li> 
-          
-            <li> <a href="https://www.ably.io/blog/pubsub-a-conceptual-deep-dive/">PubSub: A conceptual deep-dive </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/03/03/microbit-raytracer.html">3D Rendering on a Children&#39;s Toy </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 13 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-13.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-13.html</guid>
       </item>
       
   </channel>
