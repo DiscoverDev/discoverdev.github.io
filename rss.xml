@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 31 Mar 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/building-a-coronavirus-research-literature-search-engine-3fae767b41ba?source=rss----7f60cf5620c9---4">Building a Coronavirus Research Literature Search Engine </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/03/apative-loading-faster-web/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Adaptive Loading for a Faster Web </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/keepalives-considered-harmful/">Keepalives considered harmful </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/">How Container Networking Affects Database Performance </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/introducing-dreamer-scalable.html">Introducing Dreamer: Scalable Reinforcement Learning Using World Models </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/03/18/Investigating-Multi-Windowed-Apps.html">Investigating Multi-Window Browser Applications </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/03/tesla-vpp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Edge to Cloud: Building the Tesla Virtual Power Plant </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/deep-learning-based-super-resolution-with-opencv-4fd736678066?source=rss----7f60cf5620c9---4">Deep Learning based Super Resolution with OpenCV </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 31 Mar 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-03-31.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-31.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 30 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -259,34 +287,6 @@
         <pubDate>Tue, 17 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-17.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-17.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 16 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.insightdatascience.com/contextual-topic-identification-4291d256a032?source=rss----d02e65779d7b---4">Contextual Topic Identification </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/kafka-zookeeper/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Kafka Needs No Keeper </a></li> 
-          
-            <li> <a href="https://blog.heroku.com/building-with-web-components">Building with Web Components </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/evolution-kit-automating-marketing-machine-learning">The Evolution of Kit: Automating Marketing Using Machine Learning </a></li> 
-          
-            <li> <a href="https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669?source=rss----5b301f10ddcd---4">Webpack 5 Federation: A game changer in JavaScript architecture </a></li> 
-          
-            <li> <a href="https://medium.com/carousell-insider/building-our-in-house-virtual-device-lab-caroufarm-e72911e4593b?source=rss----6c35dc0cba4d---4">Building our in-house virtual device lab “Caroufarm” </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5?source=rss----7f60cf5620c9---4">Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/helm-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Helm 3: A Mariner&#39;s Delight </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 16 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-16.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-16.html</guid>
       </item>
       
   </channel>
