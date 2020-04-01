@@ -6,6 +6,32 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 01 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/netflix-streaming-data-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Monitoring and Tracing @Netflix Streaming Data Infrastructure </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/03/visual-transfer-learning-for-robotic.html">Visual Transfer Learning for Robotic Manipulation </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/reducing-the-carbon-foot-prints-of-cnns-at-the-cost-of-interactions-depthwise-pointwise-conv-5df850ea33a4?source=rss----7f60cf5620c9---4">Reducing the Carbon Foot Prints of CNNs at the cost of interactions-Depthwise &amp; Pointwise Conv.. </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/blue-green-refactoring/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Safe Refactoring! </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/accelerating-python-for-exotic-option-pricing/">Accelerating Python for Exotic Option Pricing </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/how-we-reduced-our-app-size-by-50-with-split-apks-c71196bbdde5?source=rss----5517fd7b58a6---4">How We Reduced Our App Size By 50% With Split APKs </a></li> 
+          
+            <li> <a href="https://blog.scottlogic.com/2020/03/19/offscreen-canvas.html">Rendering charts with OffscreenCanvas </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 01 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-01.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-01.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 31 Mar 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,36 +283,6 @@
         <pubDate>Wed, 18 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-18.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-18.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 17 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://open.nytimes.com/connecting-the-dots-on-game-development-a28214b513bf?source=rss----51e1d1745b32---4">How The New York Times Games Team Designed and Built Vertex </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/developer-tools/incident-tracker/">Preventing performance regressions with Health Compass and Incident Tracker </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/multi-gpu-training-in-pytorch-dbdb3389fd4a?source=rss----7f60cf5620c9---4">Multi-GPU Training in Pytorch </a></li> 
-          
-            <li> <a href="https://www.toptal.com/aws/ab-testing-with-aws-lambda-at-edge">Flexible A/B Testing with AWS Lambda@Edge </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-history-of-the-url/">The History of the URL </a></li> 
-          
-            <li> <a href="https://tech.instacart.com/terraforming-rds-part-1-7cc78f92b24d?source=rss----587883b5d2ee---4">Terraforming RDS — Part 1 </a></li> 
-          
-            <li> <a href="https://hacks.mozilla.org/2020/03/future-proofing-firefoxs-javascript-debugger-implementation/">Future-proofing Firefox’s JavaScript Debugger Implementation </a></li> 
-          
-            <li> <a href="https://benchling.engineering/sqlalchemy-batch-inserts-a-module-for-when-youre-inserting-thousands-of-rows-and-it-s-slow-16ece0ef5bf7?source=rss----3d4aa8fb07ea---4">sqlalchemy_batch_inserts: a module for when you’re inserting thousands of rows and it’s slow </a></li> 
-          
-            <li> <a href="https://eng.uber.com/machine-learning-model-life-cycle-version-control/">Under the Hood of Uber ATG’s Machine Learning Infrastructure and Versioning Control Platform for Self-Driving Vehicles </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 17 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-17.html</guid>
       </item>
       
   </channel>
