@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 06 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt </a></li> 
+          
+            <li> <a href="https://sysdig.com/blog/challenges-scale-prometheus/">Challenges using Prometheus at scale </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/migrating-to-react-land-gatsby/">Migrating to React land: Gatsby </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/api-envoy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Next Generation Client APIs in Envoy Mobile </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/covid-19-bert-literature-search-engine-4d06cdac08bd?source=rss----7f60cf5620c9---4">COVID-19 Bert Literature Search Engine </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/microarchitecture-modern-cpu/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Understanding CPU Microarchitecture to Increase Performance </a></li> 
+          
+            <li> <a href="https://itnext.io/faster-lower-better-with-quarkus-in-k8s-83185af46f36?source=rss----5b301f10ddcd---4">Faster, Lower, Better with Quarkus in k8s </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/advanced-schema-management-for-spark">Advanced schema management for Spark applications at scale </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 06 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-06.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-06.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 03 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,36 +283,6 @@
         <pubDate>Tue, 24 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-24.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-24.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 23 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/data-sentinel-automating-data-validation">Data Sentinel: Automating data validation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/a-scalable-prediction-engine-for-automating-structured-data-prep-dc95154109d8?source=rss----7f60cf5620c9---4">A Scalable Prediction Engine for Automating Structured Data Prep </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html">More Efficient NLP Model Pre-training with ELECTRA </a></li> 
-          
-            <li> <a href="https://stackshare.io/pinterest/using-kafka-to-throttle-qps-on-mysql-shards-in-bulk-write-apis">Using Kafka to Throttle QPS on MySQL Shards in Bulk Write APIs </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/building-a-design-systems-library-with-figma-scripter-c046df0a895c?source=rss----25cd379abb8---4">Building a Design Systems Library with Figma &amp; Scripter </a></li> 
-          
-            <li> <a href="https://distill.pub/2020/circuits/zoom-in">Zoom In: An Introduction to Circuits </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html">How to Write a Ray Tracer Intuitively </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/kubernetes-autoscaling-101-cluster-autoscaler-horizontal-pod-autoscaler-and-vertical-pod-2a441d9ad231?source=rss----5517fd7b58a6---4">Kubernetes Autoscaling 101: Cluster Autoscaler, Horizontal Pod Autoscaler, and Vertical Pod… </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/swift-tensorflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Swift for Tensorflow </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 23 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-23.html</guid>
       </item>
       
   </channel>
