@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 08 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.smashingmagazine.com/2020/03/visual-design-language-building-blocks/">Visual Design Language: The Building Blocks Of Design </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/introducing-quicksilver-configuration-distribution-at-internet-scale/">Introducing Quicksilver: Configuration Distribution at Internet Scale </a></li> 
+          
+            <li> <a href="https://developers.redhat.com/blog/2020/03/30/distribute-your-microservices-data-with-events-cqrs-and-event-sourcing/">Distribute your microservices data with events, CQRS, and event sourcing </a></li> 
+          
+            <li> <a href="https://allegro.tech/2020/03/understanding-accessibility.html">Understanding accessibility </a></li> 
+          
+            <li> <a href="https://slack.engineering/deploys-at-slack-cd0d28c61701?source=rss----58820b6d8904---4">Deploys at Slack </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/03/google-mediapipe-webassembly/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Google&#39;s MediaPipe Machine Learning Framework Web-Enabled with WebAssembly </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/quantum-computing-algorithms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Quantum Computing Deep Dive </a></li> 
+          
+            <li> <a href="https://github.blog/2020-03-26-february-service-disruptions-post-incident-analysis/">February service disruptions post-incident analysis </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 08 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-08.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-08.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 06 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Wed, 25 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-25.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-25.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 24 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern">Refactoring Legacy Code with the Strangler Fig Pattern </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/micrometer-prometheus-grafana/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Performance Monitoring Back-end and Front-end Using Micrometer </a></li> 
-          
-            <li> <a href="https://eng.uber.com/multitenancy-microservice-architecture/">Why We Leverage Multi-tenancy in Uber’s Microservice Architecture </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html">Real-Time 3D Object Detection on Mobile Devices with MediaPipe </a></li> 
-          
-            <li> <a href="https://deezer.io/a-better-way-to-search-for-music-through-query-suggestion-4bca10918c27?source=rss----2ab7e077175a---4">A better way to search for music through query suggestion </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/lstm-fcn-for-cardiology-22af6bbfc27b?source=rss----7f60cf5620c9---4">LSTM-FCN for cardiology </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/iac-terraform-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: InfraCoding with Terraform: Writing Tests for Infrastructure-as-Code </a></li> 
-          
-            <li> <a href="https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749?source=rss----2615bd06b42e---4">Ready for changes with Hexagonal Architecture </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 24 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-24.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-24.html</guid>
       </item>
       
   </channel>
