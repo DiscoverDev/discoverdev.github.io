@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 09 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://towardsdatascience.com/scaling-machine-learning-fc5e0a36f220?source=rss----7f60cf5620c9---4">Scaling Machine Learning </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/optimizing-ruby-lazy-initialization-in-truffleruby-with-deoptimization">Optimizing Ruby Lazy Initialization in TruffleRuby with Deoptimization </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/chaos-engineering-comes-to-ruby-8273333eff6c?source=rss----a88376ea904a---4">Chaos Engineering comes to Ruby </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/linkedin-play-akka-distributed-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Streaming a Million likes/second: Real-time Interactions on Live Video </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/how-we-scaled-graphite-to-100-000-writes-per-second-84d195e7000a?source=rss----905ea2b3d4d1---4">How we scaled Graphite to 100,000 writes per second. </a></li> 
+          
+            <li> <a href="https://about.gitlab.com/blog/2020/03/30/how-to-exploit-parser-differentials/">How to exploit parser differentials </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/doing-aes-gcm-in-android-adventures-in-the-field-72617401269d?source=rss----5517fd7b58a6---4">Doing AES/GCM in Android: adventures in the field </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/how-instacart-uses-data-science-to-tackle-complex-business-problems-774a826b6ed5?source=rss----7f60cf5620c9---4">How Instacart Uses Data Science to Tackle Complex Business Problems </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 09 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-09.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 08 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -253,36 +281,6 @@
         <pubDate>Thu, 26 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-26.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-26.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 25 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html">Fast and Easy Infinitely Wide Networks with Neural Tangents </a></li> 
-          
-            <li> <a href="https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533?source=rss----5b301f10ddcd---4">MLOps: not as Boring as it Sounds </a></li> 
-          
-            <li> <a href="https://thoughtbot.com/blog/best-practices-while-developing-a-react-native-app">Best practices while developing a React Native App </a></li> 
-          
-            <li> <a href="https://blog.insightdatascience.com/the-aigent-using-googles-bert-language-model-to-connect-writers-representation-42ac6388da7c?source=rss----d02e65779d7b---4">The AIgent: Using Google&amp;rsquo;s BERT Language Model to Connect Writers &amp; Representation </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2020/03/12/augury-insights-into-industrial-iot-time-series-data/">Augury: Insights into Industrial IoT Time-Series Data </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/soli-radar-based-perception-and.html">Soli Radar-Based Perception and Interaction in Pixel 4 </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/ebay-motors-screenshot-testing-with-flutter/">eBay Motors: Screenshot Testing with Flutter </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/automated-visual-regression-testing-with-jest/">Automated visual regression testing with Jest </a></li> 
-          
-            <li> <a href="https://tech.findmypast.com/k8s-dns-lookup/">Solving DNS lookup failures in Kubernetes </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 25 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-25.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-25.html</guid>
       </item>
       
   </channel>
