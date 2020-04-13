@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 13 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="http://ai.googleblog.com/2020/04/exploring-nature-inspired-robot-agility.html">Exploring Nature-Inspired Robot Agility </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/classifying-4m-reddit-posts-in-4k-subreddits-an-end-to-end-machine-learning-pipeline-ee511d26b362?source=rss----7f60cf5620c9---4">Classifying 4M Reddit posts in 4k subreddits: an end-to-end machine learning pipeline </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/building-a-platform-for-leverage">Building a platform: Learnings from our pursuit for leverage </a></li> 
+          
+            <li> <a href="https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/">18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One) </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/homepage-speed-improvements-on-ebay-android/">Homepage Speed Improvements on eBay Android </a></li> 
+          
+            <li> <a href="https://sbg.technology/2020/04/02/whats-the-worst-that-can-happen/">&amp;ldquo;What&#39;s the worst that could happen?&amp;rdquo;: A worked example of how we deal with live incidents. </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/bringing-4k-and-hdr-to-anime-at-netflix-with-sol-levante-fa68105067cd?source=rss----2615bd06b42e---4">Bringing 4K and HDR to Anime at Netflix with Sol Levante </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/test-android-apk/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Break Your App Before Someone Else Does </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 13 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-13.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-13.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 10 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Mon, 30 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-30.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-30.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 27 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://getaround.tech/double-entry-bookkeeping/">Bookkeeping </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/snowpack-vs-webpack/">Snowpack vs. webpack </a></li> 
-          
-            <li> <a href="https://engineering.mongodb.com/post/getting-storage-engines-ready-for-fast-storage-devices">Getting storage engines ready for fast storage devices </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/engineering/enabling-hdfs-federation-having-1b-file-system-objects/">Enabling HDFS Federation Having 1B File System Objects </a></li> 
-          
-            <li> <a href="https://developers.soundcloud.com/blog/periskop-exception-monitoring-service">Periskop: Exception Monitoring Service </a></li> 
-          
-            <li> <a href="https://www.infoq.com/articles/making-code-faster-taming-branches/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Making Your Code Faster by Taming Branches </a></li> 
-          
-            <li> <a href="https://engineering.grab.com/tackling-ui-test-execution-time-imbalance-for-xcode-parallel-testing">Tackling UI test execution time imbalance for Xcode parallel testing </a></li> 
-          
-            <li> <a href="https://distill.pub/2020/grand-tour">Visualizing Neural Networks with the Grand Tour </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 27 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-27.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-27.html</guid>
       </item>
       
   </channel>
