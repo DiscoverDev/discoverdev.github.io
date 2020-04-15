@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 15 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/project-crossbow-lessons-from-refactoring-a-large-scale-internal-tool/">Project Crossbow: Lessons from Refactoring a Large-Scale Internal Tool </a></li> 
+          
+            <li> <a href="https://hackernoon.com/a-deep-dive-into-aws-firecracker-ry9w3yc3?source=rss">A Deep Dive into AWS Firecracker </a></li> 
+          
+            <li> <a href="https://codeascraft.com/2020/04/06/developing-in-a-monorepo-while-still-using-webpack/">Developing in a Monorepo While Still Using Webpack </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows/">Conntrack tales - one thousand and one flows </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/riff-functions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: From Monolith to riff Functions </a></li> 
+          
+            <li> <a href="https://hackernoon.com/rethinking-programming-network-aware-type-system-8o7x3yh6?source=rss">Rethinking Programming: Network-Aware Type System </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/exploiting-ios-vulnerabilities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Exploiting Common iOS Apps’ Vulnerabilities </a></li> 
+          
+            <li> <a href="https://medium.com/walmartlabs/building-secure-docker-images-101-3769b760ebfa?source=rss----905ea2b3d4d1---4">Building Secure Docker Images - 101 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 15 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-15.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-15.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 13 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Tue, 31 Mar 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-03-31.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-31.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 30 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://tech.wayfair.com/2020/03/the-importance-of-covariates-in-causal-inference/">The Importance of Covariates in Causal Inference: Shown in a Comparison of Two Methods </a></li> 
-          
-            <li> <a href="https://engineering.fb.com/production-engineering/ntp-service/">Building a more accurate time service at Facebook scale </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/the-problem-with-event-loops/">The problem with thread^W event loops </a></li> 
-          
-            <li> <a href="https://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/">What the heck is Backstage anyway? </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/introducing-insearch">InSearch: LinkedIn’s new message search platform </a></li> 
-          
-            <li> <a href="https://eng.uber.com/piranha/">Introducing Piranha: An Open Source Tool to Automatically Delete Stale Code </a></li> 
-          
-            <li> <a href="https://engineering.salesforce.com/mulesofts-online-migration-on-dynamodb-25e438c146c?source=rss----cfe1120185d3---4">MuleSoft’s Online Migration on DynamoDB </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/on-the-shoulders-of-giants-recent-changes-in-internet-traffic/">On the shoulders of giants: recent changes in Internet traffic </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Mon, 30 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-30.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-30.html</guid>
       </item>
       
   </channel>
