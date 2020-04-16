@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Thu, 16 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/automating-complex-end-to-end-tests-b0a5fc003592?source=rss----cfe1120185d3---4">Automating Complex End-to-End Tests </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/zookeeper-to-kubernetes-migration">Embrace and Replace: Migrating ZooKeeper into Kubernetes </a></li> 
+          
+            <li> <a href="https://itnext.io/how-we-do-gitops-mettle-4cc771a6c029?source=rss----5b301f10ddcd---4">How we do GitOps @ Mettle </a></li> 
+          
+            <li> <a href="https://medium.com/zendesk-engineering/an-investigation-into-kafka-log-compaction-5e520f4291f0?source=rss----a88376ea904a---4">An investigation into Kafka Log Compaction </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/synthesis-wave">Riding the Synthesis Wave: How to Avoid Drowning in Your Qualitative Data </a></li> 
+          
+            <li> <a href="https://product.hubspot.com/blog/making-hundreds-of-apps-fast">Making Hundreds of Apps Fast and Reliable </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/building-arrives-confetti-in-react-native-with-reanimated">Building Arrive&#39;s Confetti in React Native with Reanimated </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/front-end-debugging-tips-on-resolving-issues-quickly-so-you-can-move-on-to-better-things/">Front End Debugging — Tips on Resolving Issues Quickly so You Can Move on to Better Things </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Thu, 16 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-16.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-16.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Wed, 15 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Wed, 01 Apr 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-04-01.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-01.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 31 Mar 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/building-a-coronavirus-research-literature-search-engine-3fae767b41ba?source=rss----7f60cf5620c9---4">Building a Coronavirus Research Literature Search Engine </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/03/apative-loading-faster-web/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Adaptive Loading for a Faster Web </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/keepalives-considered-harmful/">Keepalives considered harmful </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/">How Container Networking Affects Database Performance </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/introducing-dreamer-scalable.html">Introducing Dreamer: Scalable Reinforcement Learning Using World Models </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/03/18/Investigating-Multi-Windowed-Apps.html">Investigating Multi-Window Browser Applications </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/03/tesla-vpp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Edge to Cloud: Building the Tesla Virtual Power Plant </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/deep-learning-based-super-resolution-with-opencv-4fd736678066?source=rss----7f60cf5620c9---4">Deep Learning based Super Resolution with OpenCV </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Tue, 31 Mar 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-03-31.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-03-31.html</guid>
       </item>
       
   </channel>
