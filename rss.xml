@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 17 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: eBPF - Rethinking the Linux Kernel </a></li> 
+          
+            <li> <a href="https://stackoverflow.blog/2020/04/09/the-unfriendly-robot-automatically-flagging-unwelcoming-comments/">The Unfriendly Robot: Automatically flagging unwelcoming comments </a></li> 
+          
+            <li> <a href="https://distill.pub/2020/circuits">Thread: Circuits </a></li> 
+          
+            <li> <a href="https://engineeringblog.yelp.com/2020/04/open-sourcing-dataloader-codegen.html">dataloader-codegen: Autogenerate DataLoaders for your GraphQL Server! </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html">Advancing Self-Supervised and Semi-Supervised Learning with SimCLR </a></li> 
+          
+            <li> <a href="https://stackshare.io/pinterest/powering-pinterest-ads-analytics-with-apache-druid">Powering Pinterest Ads Analytics with Apache Druid </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/api-gateways-history/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Cloud Native API Gateways </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/react-hooks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: React’s Future - Under the Hook </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 17 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-17.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-17.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 16 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -257,32 +285,6 @@
         <pubDate>Thu, 02 Apr 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-04-02.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-02.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 01 Apr 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/netflix-streaming-data-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Monitoring and Tracing @Netflix Streaming Data Infrastructure </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/visual-transfer-learning-for-robotic.html">Visual Transfer Learning for Robotic Manipulation </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/reducing-the-carbon-foot-prints-of-cnns-at-the-cost-of-interactions-depthwise-pointwise-conv-5df850ea33a4?source=rss----7f60cf5620c9---4">Reducing the Carbon Foot Prints of CNNs at the cost of interactions-Depthwise &amp; Pointwise Conv.. </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/blue-green-refactoring/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Safe Refactoring! </a></li> 
-          
-            <li> <a href="https://devblogs.nvidia.com/accelerating-python-for-exotic-option-pricing/">Accelerating Python for Exotic Option Pricing </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/how-we-reduced-our-app-size-by-50-with-split-apks-c71196bbdde5?source=rss----5517fd7b58a6---4">How We Reduced Our App Size By 50% With Split APKs </a></li> 
-          
-            <li> <a href="https://blog.scottlogic.com/2020/03/19/offscreen-canvas.html">Rendering charts with OffscreenCanvas </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 01 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-01.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-01.html</guid>
       </item>
       
   </channel>
