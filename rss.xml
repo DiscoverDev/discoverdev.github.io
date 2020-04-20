@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 20 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://open.nytimes.com/we-built-a-plugin-but-its-not-a-secret-dfdf68b0e44f?source=rss----51e1d1745b32---4">We Built a Plugin, but It’s Not a Secret </a></li> 
+          
+            <li> <a href="https://tech.wayfair.com/2020/04/multi-zone-cluster-management-at-wayfair-with-kubernetes/">Multi-zone Cluster Management at Wayfair with Kubernetes </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/rolling-with-the-punches-shifting-attack-tactics-dropping-packets-faster-cheaper-at-the-edge/">Rolling With The Punches: Shifting Attack Tactics &amp; Dropping Packets Faster &amp; Cheaper At The Edge </a></li> 
+          
+            <li> <a href="https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/">From 48k lines of code to 10&amp;mdash;the story of GitHub&amp;rsquo;s JavaScript SDK </a></li> 
+          
+            <li> <a href="https://www.confluent.io/blog/fraud-prevention-and-threat-detection-with-kafka-streams">Preventing Fraud and Fighting Account Takeovers with Kafka Streams </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/analysis-of-computer-vision-techniques-in-malware-classification-50b387479a62?source=rss----7f60cf5620c9---4">Analysis of Computer Vision Techniques in Malware Classification </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/learning-multi-dimensional-indices-a7aaa2044d8e?source=rss----7f60cf5620c9---4">Learning Multi-dimensional indices: The next big thing in OLAP DBs </a></li> 
+          
+            <li> <a href="https://medium.com/pinterest-engineering/contextual-relevance-in-ads-ranking-63c2ff215aa2?source=rss-ef81ef829bcb------2">Contextual relevance in ads ranking </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 20 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-20.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Fri, 17 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,36 +283,6 @@
         <pubDate>Fri, 03 Apr 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-04-03.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-03.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 02 Apr 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.infoq.com/presentations/history-comments-git/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Git Best-Practice - Keeping a Diary </a></li> 
-          
-            <li> <a href="https://techblog.commercetools.com/migrating-commerce-apple-watch-app-to-graphql-cc76ffa64eac?source=rss----d3d69d818e3d---4">Migrating commerce Apple Watch App to GraphQL </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/webrtc-the-ice-framework-stun-and-turn-servers-10b2972483bb?source=rss----5517fd7b58a6---4">WebRTC: the ICE Framework, STUN and TURN Servers </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/massively-scaling-reinforcement.html">Massively Scaling Reinforcement Learning with SEED RL </a></li> 
-          
-            <li> <a href="https://developer.okta.com/blog/2020/03/23/microservice-security-patterns">Security Patterns for Microservice Architectures </a></li> 
-          
-            <li> <a href="https://tech.ebayinc.com/research/a-human-centric-approach-for-evaluating-visual-search-modelsnew-blog-post/">A Human-centric Approach for Evaluating Visual Search Models </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/state-driven-interfaces-with-xstate/">State-driven interfaces with XState </a></li> 
-          
-            <li> <a href="https://tech.showmax.com/2020/03/cost-effective-encoding-noises/">Cost Effective Encoding Noises </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/mobile-offline-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Testing Offline-First Mobile Applications </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 02 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-02.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-02.html</guid>
       </item>
       
   </channel>
