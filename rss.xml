@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 22 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://blog.cloudflare.com/http-3-vs-http-2/">Comparing HTTP/3 vs. HTTP/2 Performance </a></li> 
+          
+            <li> <a href="https://nordicapis.com/api-archaeology-using-accidental-apis-to-inform-the-api-journey/">API Archaeology: Using Accidental APIs to Inform the API Journey </a></li> 
+          
+            <li> <a href="https://engineering.linecorp.com/en/blog/how-line-messaging-servers-prepare-for-new-years-traffic/">How LINE messaging servers prepare for New Year’s traffic </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/04/xtreme-massively-multilingual-multi.html">XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization </a></li> 
+          
+            <li> <a href="https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-1/">Work flow of diagnosing memory performance issues – Part 1 </a></li> 
+          
+            <li> <a href="https://medium.com/engineering-housing/a-case-study-on-the-migration-of-housings-application-servers-fb898252c940?source=rss----3a69e32e2594---4">A case study on the migration of Housings’ application servers </a></li> 
+          
+            <li> <a href="https://blog.cloudflare.com/remote-work-regional-lockdowns-and-migration-of-internet-usage/">Remote work, regional lockdowns and migration of Internet usage </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/04/udepth-real-time-3d-depth-sensing-on.html">uDepth: Real-time 3D Depth Sensing on the Pixel 4 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 22 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-22.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-22.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 20 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Mon, 06 Apr 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-04-06.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-06.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 03 Apr 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://blog.insightdatascience.com/building-a-scalable-online-product-recommender-with-keras-docker-gcp-and-gke-52a5ab2c7688?source=rss----d02e65779d7b---4">Building a scalable online product recommender with Keras, Docker, GCP, and GKE </a></li> 
-          
-            <li> <a href="http://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html">A Neural Weather Model for Eight-Hour Precipitation Forecasting </a></li> 
-          
-            <li> <a href="https://www.percona.com/blog/2020/03/25/migrating-a-postgresql-database-between-dbaas-providers/">A Tale About Migrating a PostgreSQL Database Between Different DBaaS Providers </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/speeding-up-linux-disk-encryption/">Speeding up Linux disk encryption </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/resilient-web-application-in-the-real-world-2a2d2ca0922a?source=rss----905ea2b3d4d1---4">Resilient Web Application in the real world </a></li> 
-          
-            <li> <a href="https://eng.lyft.com/providing-user-privacy-rights-through-the-california-consumer-protection-act-5d71fe81e7a1?source=rss----25cd379abb8---4">Providing User Privacy Rights through the California Consumer Protection Act </a></li> 
-          
-            <li> <a href="https://www.azavea.com/blog/2020/03/24/labeling-satellite-imagery-for-machine-learning/">Labeling Satellite Imagery for Machine Learning </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/">Why We Started Putting Unpopular Assets in Memory </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 03 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-03.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-03.html</guid>
       </item>
       
   </channel>
