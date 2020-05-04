@@ -6,6 +6,62 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Mon, 04 May 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://about.gitlab.com/blog/2020/04/16/geo-is-available-on-staging-for-gitlab-com/">Why we enabled Geo on the staging environment for GitLab.com </a></li> 
+          
+            <li> <a href="https://www.scylladb.com/2020/04/16/ifood-relies-on-scylla-to-deliver-over-100-million-events-a-month-to-restaurants/">iFood Relies on Scylla to Deliver Over 100 Million Events a Month to Restaurants </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/04/15/reach-for-the-top-how-spotify-built-shortcuts-in-just-six-months/">Reach for the Top: How Spotify Built Shortcuts in Just Six Months </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/cnn-for-reverse-engineering-an-approach-for-function-identification-1c6af88bca43?source=rss----7f60cf5620c9---4">CNN for Reverse Engineering: an Approach for Function Identification </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/evaluating-the-accuracy-of-my-video-search-engine-1235f375bd5?source=rss----7f60cf5620c9---4">Evaluating the Accuracy of My Video Search Engine </a></li> 
+          
+            <li> <a href="https://devblogs.nvidia.com/introducing-low-level-gpu-virtual-memory-management/">Introducing Low-Level GPU Virtual Memory Management </a></li> 
+          
+            <li> <a href="https://blog.logrocket.com/deploying-state-machines-with-frontend-frameworks/">Deploying state machines with frontend frameworks </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html">EfficientDet: Towards Scalable and Efficient Object Detection </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Mon, 04 May 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-05-04.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-04.html</guid>
+      </item>
+      
+      <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 29 Apr 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/kubernetes-interfaces-networking-storage-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Interoperability of Open-source Tools: The Emergence of Interfaces </a></li> 
+          
+            <li> <a href="https://engineering.linkedin.com/blog/2020/feed-typed-ai-features">Rapid experimentation through standardization: Typed AI features for LinkedIn’s feed </a></li> 
+          
+            <li> <a href="https://tech.ebayinc.com/engineering/auto-effect-pattern-with-redux-and-react-hooks/">Auto Effect Pattern with Redux and React Hooks </a></li> 
+          
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/software-release-culture-shopify">Software Release Culture at Shopify </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/iot-edge-ml-privacy-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Internet of Things Might Have Less Internet Than We Thought? </a></li> 
+          
+            <li> <a href="https://www.cockroachlabs.com/blog/improving-application-performance-with-duplicate-indexes/">Improving Application Performance with Duplicate Indexes </a></li> 
+          
+            <li> <a href="https://labs.spotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/">When should I write an Architecture Decision Record? </a></li> 
+          
+            <li> <a href="https://blog.sqreen.com/dynamic-instrumentation-go/">Behind the scenes: building a dynamic instrumentation agent for Go </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 29 Apr 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-04-29.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-29.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Thu, 23 Apr 2020</title>
         <description><![CDATA[
           <ul>
@@ -227,62 +283,6 @@
         <pubDate>Fri, 10 Apr 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-04-10.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-10.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 09 Apr 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/scaling-machine-learning-fc5e0a36f220?source=rss----7f60cf5620c9---4">Scaling Machine Learning </a></li> 
-          
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/optimizing-ruby-lazy-initialization-in-truffleruby-with-deoptimization">Optimizing Ruby Lazy Initialization in TruffleRuby with Deoptimization </a></li> 
-          
-            <li> <a href="https://medium.com/zendesk-engineering/chaos-engineering-comes-to-ruby-8273333eff6c?source=rss----a88376ea904a---4">Chaos Engineering comes to Ruby </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/linkedin-play-akka-distributed-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Streaming a Million likes/second: Real-time Interactions on Live Video </a></li> 
-          
-            <li> <a href="https://medium.com/walmartlabs/how-we-scaled-graphite-to-100-000-writes-per-second-84d195e7000a?source=rss----905ea2b3d4d1---4">How we scaled Graphite to 100,000 writes per second. </a></li> 
-          
-            <li> <a href="https://about.gitlab.com/blog/2020/03/30/how-to-exploit-parser-differentials/">How to exploit parser differentials </a></li> 
-          
-            <li> <a href="https://levelup.gitconnected.com/doing-aes-gcm-in-android-adventures-in-the-field-72617401269d?source=rss----5517fd7b58a6---4">Doing AES/GCM in Android: adventures in the field </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/how-instacart-uses-data-science-to-tackle-complex-business-problems-774a826b6ed5?source=rss----7f60cf5620c9---4">How Instacart Uses Data Science to Tackle Complex Business Problems </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Thu, 09 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-09.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 08 Apr 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://www.smashingmagazine.com/2020/03/visual-design-language-building-blocks/">Visual Design Language: The Building Blocks Of Design </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/introducing-quicksilver-configuration-distribution-at-internet-scale/">Introducing Quicksilver: Configuration Distribution at Internet Scale </a></li> 
-          
-            <li> <a href="https://developers.redhat.com/blog/2020/03/30/distribute-your-microservices-data-with-events-cqrs-and-event-sourcing/">Distribute your microservices data with events, CQRS, and event sourcing </a></li> 
-          
-            <li> <a href="https://allegro.tech/2020/03/understanding-accessibility.html">Understanding accessibility </a></li> 
-          
-            <li> <a href="https://slack.engineering/deploys-at-slack-cd0d28c61701?source=rss----58820b6d8904---4">Deploys at Slack </a></li> 
-          
-            <li> <a href="https://www.infoq.com/news/2020/03/google-mediapipe-webassembly/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Google&#39;s MediaPipe Machine Learning Framework Web-Enabled with WebAssembly </a></li> 
-          
-            <li> <a href="https://www.infoq.com/presentations/quantum-computing-algorithms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Quantum Computing Deep Dive </a></li> 
-          
-            <li> <a href="https://github.blog/2020-03-26-february-service-disruptions-post-incident-analysis/">February service disruptions post-incident analysis </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 08 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-08.html</guid>
       </item>
       
   </channel>
