@@ -6,6 +6,34 @@
     <link>http://discoverdev.io</link>
      
       <item>
+        <title>DiscoverDev - curated engineering articles for Tue, 05 May 2020</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://www.infoq.com/presentations/kubernetes-adoption-foundation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Kubernetes is Not Your Platform, It&#39;s Just the Foundation </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c?source=rss----2615bd06b42e---4">How Netflix brings safer and faster streaming experience to the living room on crowded networks… </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/cloud-native-geode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scalable, Cloud-native Data Applications by Example </a></li> 
+          
+            <li> <a href="https://levelup.gitconnected.com/the-art-of-debugging-gpus-fd6866b06532?source=rss----5517fd7b58a6---4">The Art of Debugging GPUs </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2020/04/off-policy-estimation-for-infinite.html">Off-Policy Estimation for Infinite-Horizon Reinforcement Learning </a></li> 
+          
+            <li> <a href="https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh </a></li> 
+          
+            <li> <a href="https://blog.cloudera.com/an-architecture-for-secure-covid-19-contact-tracing/">An Architecture for Secure COVID-19 Contact Tracing </a></li> 
+          
+            <li> <a href="https://engineering.hexacta.com/finding-the-optimal-parameters-in-a-rf-model-using-pipes-for-code-reuse-b30d94b353e2?source=rss----a41470515491---4">Finding the optimal parameters in a RF model using pipes for code reuse </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Tue, 05 May 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-05-05.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-05.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Mon, 04 May 2020</title>
         <description><![CDATA[
           <ul>
@@ -255,34 +283,6 @@
         <pubDate>Mon, 13 Apr 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-04-13.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-13.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 10 Apr 2020</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="http://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html">Improving Audio Quality in Duo with WaveNetEQ </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/cross-validation-and-performance-measures-in-machine-learning-9dabdbed5459?source=rss----7f60cf5620c9---4">Cross Validation and Performance Measures in Machine Learning </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/hucssley-utility-classes/">How Hucssley utility classes can improve frontend development </a></li> 
-          
-            <li> <a href="http://erlang-solutions.com/blog/optimizing-graphql-with-dataloader.html">Optimizing GraphQL with Dataloader. </a></li> 
-          
-            <li> <a href="https://www.scylladb.com/2020/03/31/observing-data-changes-with-change-data-capture-cdc/">Observing data changes with Change Data Capture (CDC) </a></li> 
-          
-            <li> <a href="https://www.confluent.io/blog/real-time-data-replication-with-ksqldb">Real-Time Data Replication with ksqlDB </a></li> 
-          
-            <li> <a href="https://engineering.linkedin.com/blog/2020/building-inclusive-products-through-a-b-testing">Building inclusive products through A/B testing </a></li> 
-          
-            <li> <a href="https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/">Building dark mode on Stack Overflow </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Fri, 10 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-10.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-10.html</guid>
       </item>
       
   </channel>
