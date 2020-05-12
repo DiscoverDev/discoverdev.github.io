@@ -6,283 +6,295 @@
     <link>http://discoverdev.io</link>
      
       <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 08 May 2020</title>
+        <title>DiscoverDev - curated engineering articles for Tue, 30 Oct 2018</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="http://ai.googleblog.com/2020/04/optimizing-multiple-loss-functions-with.html">Optimizing Multiple Loss Functions with Loss-Conditional Training </a></li> 
+            <li> <a href="https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/">Splicing HTML’s DNA With CSS Attribute Selectors </a></li> 
           
-            <li> <a href="http://android-developers.googleblog.com/2020/04/high-refresh-rate-rendering-on-android.html">High refresh rate rendering on Android </a></li> 
+            <li> <a href="https://www.infoq.com/presentations/packet-challenges?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Programming in Hostile Environments </a></li> 
           
-            <li> <a href="https://levelup.gitconnected.com/how-to-write-a-code-that-solves-logical-constraints-instead-of-testing-them-57d7575e8070?source=rss----5517fd7b58a6---4">How to write code that solves logical constraints instead of testing them </a></li> 
+            <li> <a href="https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827?source=rss----3650599ae4e2---4">Open Sourcing Subzero </a></li> 
           
-            <li> <a href="https://levelup.gitconnected.com/css-at-scale-public-private-styles-b5e693080d8d?source=rss----5517fd7b58a6---4">CSS at Scale — Public &amp; Private Styles </a></li> 
+            <li> <a href="https://www.infoq.com/presentations/the--economist-go?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Digital Publishing for Scale: The Economist and Go </a></li> 
           
-            <li> <a href="https://thoughtbot.com/blog/android-architecture-comparison-mvp-vs-mvvm">Android Architecture Comparison: MVP vs MVVM </a></li> 
+            <li> <a href="https://developer.okta.com/blog/2018/10/22/stolen-access-tokens">Stolen Access Tokens and You </a></li> 
           
-            <li> <a href="https://medium.com/pinterest-engineering/user-state-based-notification-volume-optimization-7764118f73ff?source=rss-ef81ef829bcb------2">User state-based notification volume optimization </a></li> 
+            <li> <a href="https://towardsdatascience.com/learning-neural-network-architectures-6109cb133caf?source=rss----7f60cf5620c9---4">Learning neural network architectures </a></li> 
           
-            <li> <a href="https://blog.cloudera.com/one-billion-files-in-ozone/">One billion files in Ozone </a></li> 
+            <li> <a href="https://convox.com/blog/twelve-factor-revisited/">12 factor apps revisited </a></li> 
           
-            <li> <a href="https://devblogs.nvidia.com/cuda-refresher-reviewing-the-origins-of-gpu-computing/">CUDA Refresher: Reviewing the Origins of GPU Computing </a></li> 
+            <li> <a href="https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/">Introduction to Linux interfaces for virtual networking </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Fri, 08 May 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-05-08.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-08.html</guid>
+        <pubDate>Tue, 30 Oct 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-10-30.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-10-30.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 07 May 2020</title>
+        <title>DiscoverDev - curated engineering articles for Wed, 14 Aug 2019</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/">Cloud Jewels: Estimating kWh in the Cloud </a></li> 
+            <li> <a href="https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams">Building Shared State Microservices for Distributed Systems Using Kafka Streams </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/chip-design-with-deep-reinforcement.html">Chip Design with Deep Reinforcement Learning </a></li> 
+            <li> <a href="https://blog.logrocket.com/how-to-use-subjects-to-multicast-observers-in-rxjs/">How to use subjects to multicast observers in RxJS </a></li> 
           
-            <li> <a href="https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/">A Taste of WebGPU in Firefox </a></li> 
+            <li> <a href="https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538?source=rss----37dc2a3034f2---4">Making Instagram.com faster: Part 1 </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/npm-install/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Making Npm Install Safe </a></li> 
+            <li> <a href="https://blog.golang.org/experiment">Experiment, Simplify, Ship </a></li> 
           
-            <li> <a href="https://www.smashingmagazine.com/2020/04/nodejs-internals/">Exploring Node.js Internals </a></li> 
+            <li> <a href="https://engineering.salesforce.com/our-journey-to-optimal-job-sizes-for-apache-spark-e787501e63ef?source=rss----cfe1120185d3---4">Our Journey to Optimal Job Sizes for Apache Spark </a></li> 
           
-            <li> <a href="https://engineering.linkedin.com/blog/2020/reducing-latency-and-cost-for-identity-services">How we reduced latency and cost-to-serve by merging two systems </a></li> 
+            <li> <a href="https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/">Extending Hive Replication: Transactional Tables, External Tables, and Statistics </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/a-scalable-approach-to-reducing-gender.html">A Scalable Approach to Reducing Gender Bias in Google Translate </a></li> 
+            <li> <a href="https://blog.sqreen.com/top-10-security-best-practices-for-mongodb/">Top 10 Security Best Practices for MongoDB </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/cypress-end-to-end-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Functional and Visual Testing for Web Applications </a></li> 
+            <li> <a href="https://towardsdatascience.com/real-time-recommendation-system-rolling-feature-matrix-f5ca701439df?source=rss----7f60cf5620c9---4">Real-time Recommendation System: Rolling Feature Matrix </a></li> 
+          
+            <li> <a href="https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering-3434422afb54?source=rss----58820b6d8904---4">Disasterpiece Theater: Slack’s process for approachable Chaos Engineering </a></li> 
+          
+            <li> <a href="https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident">Taming chaos: Preparing for your next incident </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Thu, 07 May 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-05-07.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-07.html</guid>
+        <pubDate>Wed, 14 Aug 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-08-14.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-08-14.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 06 May 2020</title>
+        <title>DiscoverDev - curated engineering articles for Tue, 20 Mar 2018</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://www.infoq.com/presentations/image-delivery-techniques/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Fast and Beautiful: Modern Image Delivery Techniques </a></li> 
+            <li> <a href="http://blog.klipse.tech//ocaml/2018/03/16/ocaml-polymorphic-types.html">Polymorphic vs. ordinary variants in ocaml </a></li> 
           
-            <li> <a href="https://levelup.gitconnected.com/patterns-for-resilient-distributed-systems-750063996ee3?source=rss----5517fd7b58a6---4">Patterns for resilient distributed systems </a></li> 
+            <li> <a href="https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641?source=rss----7f60cf5620c9---4">Common Patterns for Analyzing Data </a></li> 
           
-            <li> <a href="https://towardsdatascience.com/recommender-systems-using-linucb-a-contextual-multi-armed-bandit-approach-35a6f0eb6c4?source=rss----7f60cf5620c9---4">Recommender Systems using LinUCB: A Contextual Multi-Armed Bandit Approach </a></li> 
+            <li> <a href="https://www.cockroachlabs.com/blog/geo-partitioning-one/">Geo-Partitioning: What Global Data Actually Looks Like </a></li> 
           
-            <li> <a href="https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/">Engineering code quality in the Firefox browser: A look at our tools and challenges </a></li> 
+            <li> <a href="https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc?source=rss----3a8144eabfe3---4">Reliable Event Processing in Azure Functions </a></li> 
           
-            <li> <a href="https://devblogs.nvidia.com/merging-telemetry-and-logs-from-microservices-at-scale-with-apache-spark/">Merging Telemetry and Logs from Microservices at Scale with Apache Spark </a></li> 
+            <li> <a href="http://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html">Using Evolutionary AutoML to Discover Neural Network Architectures </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Beyond the Distributed Monolith: Rearchitecting the Big Data Platform </a></li> 
+            <li> <a href="https://hackernoon.com/cameras-as-traffic-cops-99a85513e1e0?source=rss----3a8144eabfe3---4">Cameras as Traffic Cops </a></li> 
           
-            <li> <a href="https://engineering.fb.com/data-infrastructure/turbine/">Turbine: Facebook’s service management platform for stream processing </a></li> 
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda?source=rss----12d1b859d4e4---4">How JavaScript works: the rendering engine and tips to optimize its performance </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/exploring-evolutionary-meta-learning-in.html">Exploring Evolutionary Meta-Learning in Robotics </a></li> 
+            <li> <a href="https://medium.com/walmartlabs/tuning-the-kafka-connect-cassandra-source-part-2-53f98ae163ea?source=rss----905ea2b3d4d1---4">Tuning the Kafka Connect Cassandra Source (part 2) </a></li> 
+          
+            <li> <a href="https://www.digitalocean.com/community/tutorials/solution-deep-dive-building-a-highly-available-web-application-with-web-processing-and-storing-capabilities-using-mongodb-and-elk-stack">Solution Deep Dive: Building a Highly Available Web Application with Web Processing and Storing Capabilities Using MongoDB and Elk Stack </a></li> 
+          
+            <li> <a href="https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa?source=rss----d3d69d818e3d---4">CSS Grid Application Layout in Production </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Wed, 06 May 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-05-06.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-06.html</guid>
+        <pubDate>Tue, 20 Mar 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-03-20.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-03-20.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Tue, 05 May 2020</title>
+        <title>DiscoverDev - curated engineering articles for Tue, 19 Jun 2018</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://www.infoq.com/presentations/kubernetes-adoption-foundation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Kubernetes is Not Your Platform, It&#39;s Just the Foundation </a></li> 
+            <li> <a href="https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca?source=rss----f5105b08f43a---4">Async Generators as an alternative to State Management </a></li> 
           
-            <li> <a href="https://netflixtechblog.com/how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c?source=rss----2615bd06b42e---4">How Netflix brings safer and faster streaming experience to the living room on crowded networks… </a></li> 
+            <li> <a href="http://www.infoq.com/presentations/gimel-paypal?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Gimel: PayPal’s Analytics Data Platform </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/cloud-native-geode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Scalable, Cloud-native Data Applications by Example </a></li> 
+            <li> <a href="http://www.infoq.com/presentations/ml-time-series?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Understanding Software System Behavior With ML and Time Series Data </a></li> 
           
-            <li> <a href="https://levelup.gitconnected.com/the-art-of-debugging-gpus-fd6866b06532?source=rss----5517fd7b58a6---4">The Art of Debugging GPUs </a></li> 
+            <li> <a href="https://stackshare.io/heap/how-heap-built-an-analytics-platform-that-auto-tracks-every-user-event">How Heap Built an Analytics Platform that Auto-Tracks Every User Event </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/off-policy-estimation-for-infinite.html">Off-Policy Estimation for Infinite-Horizon Reinforcement Learning </a></li> 
+            <li> <a href="https://medium.com/square-corner-blog/caviars-food-recommendation-platform-8f1751e82db7?source=rss----3650599ae4e2---4">Caviar’s Food Recommendation Platform </a></li> 
           
-            <li> <a href="https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh </a></li> 
+            <li> <a href="https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews">Scaling Collective Code Ownership with Code Reviews </a></li> 
           
-            <li> <a href="https://blog.cloudera.com/an-architecture-for-secure-covid-19-contact-tracing/">An Architecture for Secure COVID-19 Contact Tracing </a></li> 
+            <li> <a href="https://medium.com/netflix-techblog/the-end-of-video-coding-40cf10e711a2?source=rss----2615bd06b42e---4">The End of Video Coding? </a></li> 
           
-            <li> <a href="https://engineering.hexacta.com/finding-the-optimal-parameters-in-a-rf-model-using-pipes-for-code-reuse-b30d94b353e2?source=rss----a41470515491---4">Finding the optimal parameters in a RF model using pipes for code reuse </a></li> 
+            <li> <a href="https://tech.wayfair.com/2018/06/to-shard-or-not-to-shard-the-holiday-2017-question/">To Shard, or Not To Shard: That Was The Holiday 2017 Question </a></li> 
+          
+            <li> <a href="https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51?source=rss----5b301f10ddcd---4">GraphQL made easy by AWS AppSync </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Tue, 05 May 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-05-05.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-05.html</guid>
+        <pubDate>Tue, 19 Jun 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-06-19.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-06-19.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 04 May 2020</title>
+        <title>DiscoverDev - curated engineering articles for Tue, 24 Apr 2018</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://about.gitlab.com/blog/2020/04/16/geo-is-available-on-staging-for-gitlab-com/">Why we enabled Geo on the staging environment for GitLab.com </a></li> 
+            <li> <a href="https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/">Adventures with cgo: Part 1- The Pointering </a></li> 
           
-            <li> <a href="https://www.scylladb.com/2020/04/16/ifood-relies-on-scylla-to-deliver-over-100-million-events-a-month-to-restaurants/">iFood Relies on Scylla to Deliver Over 100 Million Events a Month to Restaurants </a></li> 
+            <li> <a href="https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216?source=rss----12d1b859d4e4---4">How JavaScript works: Under the hood of CSS and JS animations + how to optimize their performance </a></li> 
           
-            <li> <a href="https://labs.spotify.com/2020/04/15/reach-for-the-top-how-spotify-built-shortcuts-in-just-six-months/">Reach for the Top: How Spotify Built Shortcuts in Just Six Months </a></li> 
+            <li> <a href="https://towardsdatascience.com/tensorflow-for-manufacturing-quality-control-bc1bc6740558?source=rss----7f60cf5620c9---4">Tensorflow for Manufacturing Quality Control </a></li> 
           
-            <li> <a href="https://towardsdatascience.com/cnn-for-reverse-engineering-an-approach-for-function-identification-1c6af88bca43?source=rss----7f60cf5620c9---4">CNN for Reverse Engineering: an Approach for Function Identification </a></li> 
+            <li> <a href="https://deezer.io/visualize-your-music-dna-with-data-b1f1b6631b98?source=rss----2ab7e077175a---4">Visualize your music DNA with Data </a></li> 
           
-            <li> <a href="https://towardsdatascience.com/evaluating-the-accuracy-of-my-video-search-engine-1235f375bd5?source=rss----7f60cf5620c9---4">Evaluating the Accuracy of My Video Search Engine </a></li> 
+            <li> <a href="https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/index.html">Distributed Cache </a></li> 
           
-            <li> <a href="https://devblogs.nvidia.com/introducing-low-level-gpu-virtual-memory-management/">Introducing Low-Level GPU Virtual Memory Management </a></li> 
+            <li> <a href="https://www.paypal-engineering.com/2018/04/17/gimel/">Gimel: PayPal’s Analytics Data Processing Platform </a></li> 
           
-            <li> <a href="https://blog.logrocket.com/deploying-state-machines-with-frontend-frameworks/">Deploying state machines with frontend frameworks </a></li> 
+            <li> <a href="https://eng.uber.com/mediation-modeling/#utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mediation-modeling">Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work) </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html">EfficientDet: Towards Scalable and Efficient Object Detection </a></li> 
+            <li> <a href="https://yahooeng.tumblr.com/post/173062946866">Achieving Major Stability and Performance Improvements in Yahoo Mail with a Novel Redux Architecture </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Mon, 04 May 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-05-04.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-05-04.html</guid>
+        <pubDate>Tue, 24 Apr 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-04-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-04-24.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 29 Apr 2020</title>
+        <title>DiscoverDev - curated engineering articles for Wed, 27 Dec 2017</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://www.infoq.com/presentations/kubernetes-interfaces-networking-storage-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: Interoperability of Open-source Tools: The Emergence of Interfaces </a></li> 
+            <li> <a href="https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e?source=rss----7f60cf5620c9---4">One-Shot Learning: Face Recognition using Siamese Neural Network </a></li> 
           
-            <li> <a href="https://engineering.linkedin.com/blog/2020/feed-typed-ai-features">Rapid experimentation through standardization: Typed AI features for LinkedIn’s feed </a></li> 
+            <li> <a href="https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds">Introduction to Deep Learning Trading in Hedge Funds </a></li> 
           
-            <li> <a href="https://tech.ebayinc.com/engineering/auto-effect-pattern-with-redux-and-react-hooks/">Auto Effect Pattern with Redux and React Hooks </a></li> 
+            <li> <a href="https://www.wix.engineering/single-post/2017/12/27/How-to-Test-Your-Redux-App">How to Test Your Redux App </a></li> 
           
-            <li> <a href="https://engineering.shopify.com/blogs/engineering/software-release-culture-shopify">Software Release Culture at Shopify </a></li> 
+            <li> <a href="https://airbrake.io/blog/devops/techniques-for-preventing-software-bugs">Techniques for Preventing Software Bugs </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/iot-edge-ml-privacy-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Internet of Things Might Have Less Internet Than We Thought? </a></li> 
+            <li> <a href="https://towardsdatascience.com/the-promise-of-ai-in-audio-processing-a7e4996eb2ca?source=rss----7f60cf5620c9---4">The promise of AI in audio processing </a></li> 
           
-            <li> <a href="https://www.cockroachlabs.com/blog/improving-application-performance-with-duplicate-indexes/">Improving Application Performance with Duplicate Indexes </a></li> 
+            <li> <a href="https://blog.codeship.com/mixing-ruby-and-rust-on-heroku/">Mixing Ruby and Rust on Heroku </a></li> 
           
-            <li> <a href="https://labs.spotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/">When should I write an Architecture Decision Record? </a></li> 
+            <li> <a href="https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications">Gathering Metrics from Your Infrastructure and Applications </a></li> 
           
-            <li> <a href="https://blog.sqreen.com/dynamic-instrumentation-go/">Behind the scenes: building a dynamic instrumentation agent for Go </a></li> 
+            <li> <a href="https://hackernoon.com/what-i-learned-while-building-my-own-keyboard-8b3bbc7ac3c3?source=rss----3a8144eabfe3---4">How I Built My Own Keyboard </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Wed, 29 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-29.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-29.html</guid>
+        <pubDate>Wed, 27 Dec 2017 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2017-12-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2017-12-27.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Thu, 23 Apr 2020</title>
+        <title>DiscoverDev - curated engineering articles for Tue, 07 Aug 2018</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://shift.infinite.red/better-react-native-debugging-with-reactotron-in-flipper-6b823af29220?source=rss----fb597d020d1c---4">Better React Native Debugging with Reactotron in Flipper </a></li> 
+            <li> <a href="https://engineering.linkedin.com/blog/2018/07/combining-linkedins-content-filtering-and-microsoft-cognitive-se">Combining LinkedIn’s Content Filtering and Microsoft Cognitive Services to Keep Inappropriate Content Off Our Sites </a></li> 
           
-            <li> <a href="https://www.confluent.io/blog/real-time-business-intelligence-using-ksqldb">Real-Time Small Business Intelligence with ksqlDB </a></li> 
+            <li> <a href="https://intoli.com/blog/f5bot/">How F5Bot Slurps All of Reddit </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html">An Optimistic Perspective on Offline Reinforcement Learning </a></li> 
+            <li> <a href="https://robots.thoughtbot.com/recommending-blog-posts">Recommending blog posts with machine learning </a></li> 
           
-            <li> <a href="https://technology.riotgames.com/news/demolishing-wallhacks-valorants-fog-war">Demolishing Wallhacks with VALORANT&#39;s Fog of War </a></li> 
+            <li> <a href="https://itnext.io/detecting-and-outlining-lakes-with-python3-and-opencv-3-9156bdeacbf0?source=rss----5b301f10ddcd---4">Detecting and Outlining Lakes with Python3 and OpenCV 3 </a></li> 
           
-            <li> <a href="https://product.hubspot.com/blog/overhauling-the-index-page">Why We Overhauled the Most-Used Screen in Our Product </a></li> 
+            <li> <a href="http://www.infoq.com/news/2018/07/sendgrid-email-scaling?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">How SendGrid Scales Its Email Delivery Systems </a></li> 
           
-            <li> <a href="https://slack.engineering/hacklang-at-slack-a-better-php-65f239cbc9e9?source=rss----58820b6d8904---4">Hacklang at Slack: A Better PHP </a></li> 
+            <li> <a href="https://towardsdatascience.com/graphs-and-paths-pagerank-54f180a1aa0a?source=rss----7f60cf5620c9---4">Graphs and paths: PageRank. </a></li> 
           
-            <li> <a href="https://towardsdatascience.com/debugging-your-neural-nets-and-checking-your-gradients-f4d7f55da167?source=rss----7f60cf5620c9---4">Debugging your Neural Nets and checking your Gradients </a></li> 
+            <li> <a href="https://engineering.invisionapp.com/post/go-health-scalable-checks-for-kubernetes/">Introducing go-health </a></li> 
           
-            <li> <a href="https://www.infoq.com/articles/graph-knowledge-base-cloud-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Article: Graph Knowledge Base for Stateful Cloud-Native Applications </a></li> 
+            <li> <a href="https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1?source=rss----905ea2b3d4d1---4">Primer on Front End Automation </a></li> 
+          
+            <li> <a href="https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1?source=rss----7f60cf5620c9---4">What Does A Face Detection Neural Network Look Like? </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Thu, 23 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-23.html</guid>
+        <pubDate>Tue, 07 Aug 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-08-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-08-07.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 22 Apr 2020</title>
+        <title>DiscoverDev - curated engineering articles for Thu, 27 Feb 2020</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://blog.cloudflare.com/http-3-vs-http-2/">Comparing HTTP/3 vs. HTTP/2 Performance </a></li> 
+            <li> <a href="https://blog.logrocket.com/simplifying-the-graphql-data-model/">Simplifying the GraphQL data model </a></li> 
           
-            <li> <a href="https://nordicapis.com/api-archaeology-using-accidental-apis-to-inform-the-api-journey/">API Archaeology: Using Accidental APIs to Inform the API Journey </a></li> 
+            <li> <a href="https://tech.showmax.com/2020/02/ab-testing-part1/">The mechanics behind A/B testing </a></li> 
           
-            <li> <a href="https://engineering.linecorp.com/en/blog/how-line-messaging-servers-prepare-for-new-years-traffic/">How LINE messaging servers prepare for New Year’s traffic </a></li> 
+            <li> <a href="https://engineering.shopify.com/blogs/engineering/circuit-breaker-misconfigured">Your Circuit Breaker is Misconfigured </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/xtreme-massively-multilingual-multi.html">XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization </a></li> 
+            <li> <a href="https://towardsdatascience.com/first-order-motion-model-ab3908407208?source=rss----7f60cf5620c9---4">First Order Motion Model </a></li> 
           
-            <li> <a href="https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-1/">Work flow of diagnosing memory performance issues – Part 1 </a></li> 
+            <li> <a href="https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p">Open sourcing DataHub: LinkedIn’s metadata search and discovery platform </a></li> 
           
-            <li> <a href="https://medium.com/engineering-housing/a-case-study-on-the-migration-of-housings-application-servers-fb898252c940?source=rss----3a69e32e2594---4">A case study on the migration of Housings’ application servers </a></li> 
+            <li> <a href="https://levelup.gitconnected.com/design-for-failure-distributed-transaction-in-microservices-f026b25ba847?source=rss----5517fd7b58a6---4">Design  for Failure — Distributed Transaction in Microservices </a></li> 
           
-            <li> <a href="https://blog.cloudflare.com/remote-work-regional-lockdowns-and-migration-of-internet-usage/">Remote work, regional lockdowns and migration of Internet usage </a></li> 
+            <li> <a href="https://blog.logrocket.com/debugging-performance-problems-in-react/">Debugging performance problems in React </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/udepth-real-time-3d-depth-sensing-on.html">uDepth: Real-time 3D Depth Sensing on the Pixel 4 </a></li> 
+            <li> <a href="https://www.smashingmagazine.com/2020/02/cross-browser-testing-efficient-lambdatest/">How To Make Cross-Browser Testing More Efficient With LambdaTest </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Wed, 22 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-22.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-22.html</guid>
+        <pubDate>Thu, 27 Feb 2020 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2020-02-27.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-27.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Mon, 20 Apr 2020</title>
+        <title>DiscoverDev - curated engineering articles for Wed, 23 Oct 2019</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://open.nytimes.com/we-built-a-plugin-but-its-not-a-secret-dfdf68b0e44f?source=rss----51e1d1745b32---4">We Built a Plugin, but It’s Not a Secret </a></li> 
+            <li> <a href="https://itnext.io/on-premise-ha-kubernetes-cluster-15e41f18bd12?source=rss----5b301f10ddcd---4">On-premise HA Kubernetes cluster </a></li> 
           
-            <li> <a href="https://tech.wayfair.com/2020/04/multi-zone-cluster-management-at-wayfair-with-kubernetes/">Multi-zone Cluster Management at Wayfair with Kubernetes </a></li> 
+            <li> <a href="https://8thlight.com/blog/colin-jones/2019/10/15/escape-hatches-principles-vs-guarantees.html">Escape Hatches: Principles vs. Guarantees </a></li> 
           
-            <li> <a href="https://blog.cloudflare.com/rolling-with-the-punches-shifting-attack-tactics-dropping-packets-faster-cheaper-at-the-edge/">Rolling With The Punches: Shifting Attack Tactics &amp; Dropping Packets Faster &amp; Cheaper At The Edge </a></li> 
+            <li> <a href="https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/">Migration Complete – Amazon’s Consumer Business Just Turned off its Final Oracle Database </a></li> 
           
-            <li> <a href="https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/">From 48k lines of code to 10&amp;mdash;the story of GitHub&amp;rsquo;s JavaScript SDK </a></li> 
+            <li> <a href="https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee?source=rss----2615bd06b42e---4">Delta: A Data Synchronization and Enrichment Platform </a></li> 
           
-            <li> <a href="https://www.confluent.io/blog/fraud-prevention-and-threat-detection-with-kafka-streams">Preventing Fraud and Fighting Account Takeovers with Kafka Streams </a></li> 
+            <li> <a href="https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/">The perfect architecture flow for your next Node.js project </a></li> 
           
-            <li> <a href="https://towardsdatascience.com/analysis-of-computer-vision-techniques-in-malware-classification-50b387479a62?source=rss----7f60cf5620c9---4">Analysis of Computer Vision Techniques in Malware Classification </a></li> 
+            <li> <a href="https://www.toptal.com/front-end/micro-frontends-strengths-benefits">The Strengths and Benefits of Micro Frontends </a></li> 
           
-            <li> <a href="https://towardsdatascience.com/learning-multi-dimensional-indices-a7aaa2044d8e?source=rss----7f60cf5620c9---4">Learning Multi-dimensional indices: The next big thing in OLAP DBs </a></li> 
+            <li> <a href="https://nordicapis.com/the-need-for-an-api-composition-layer/">The Need for an API Composition Layer </a></li> 
           
-            <li> <a href="https://medium.com/pinterest-engineering/contextual-relevance-in-ads-ranking-63c2ff215aa2?source=rss-ef81ef829bcb------2">Contextual relevance in ads ranking </a></li> 
+            <li> <a href="https://towardsdatascience.com/categorical-embedding-and-transfer-learning-dd3c4af6345d?source=rss----7f60cf5620c9---4">Categorical Embedding and Transfer Learning </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Mon, 20 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-20.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-20.html</guid>
+        <pubDate>Wed, 23 Oct 2019 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2019-10-23.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-23.html</guid>
       </item>
       
       <item>
-        <title>DiscoverDev - curated engineering articles for Fri, 17 Apr 2020</title>
+        <title>DiscoverDev - curated engineering articles for Wed, 09 May 2018</title>
         <description><![CDATA[
           <ul>
           
-            <li> <a href="https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: eBPF - Rethinking the Linux Kernel </a></li> 
+            <li> <a href="https://towardsdatascience.com/b-tree-balanced-and-multi-branched-52ef308d67a?source=rss----7f60cf5620c9---4">B-tree: balanced and multi-branched. </a></li> 
           
-            <li> <a href="https://stackoverflow.blog/2020/04/09/the-unfriendly-robot-automatically-flagging-unwelcoming-comments/">The Unfriendly Robot: Automatically flagging unwelcoming comments </a></li> 
+            <li> <a href="http://research.googleblog.com/2018/05/the-question-of-quantum-supremacy.html">The Question of Quantum Supremacy </a></li> 
           
-            <li> <a href="https://distill.pub/2020/circuits">Thread: Circuits </a></li> 
+            <li> <a href="https://blog.cloudflare.com/dogfooding-edge-workers/">Dogfooding Cloudflare Workers </a></li> 
           
-            <li> <a href="https://engineeringblog.yelp.com/2020/04/open-sourcing-dataloader-codegen.html">dataloader-codegen: Autogenerate DataLoaders for your GraphQL Server! </a></li> 
+            <li> <a href="https://www.toptal.com/devops/effective-ci-cd-deployment-pipeline">How to Build an Effective Initial Deployment Pipeline </a></li> 
           
-            <li> <a href="http://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html">Advancing Self-Supervised and Semi-Supervised Learning with SimCLR </a></li> 
+            <li> <a href="https://hackernoon.com/consensus-mechanisms-as-detailed-and-concise-as-possible-b3da79f85f66?source=rss----3a8144eabfe3---4">Consensus Mechanisms — As Detailed and Concise as possible! </a></li> 
           
-            <li> <a href="https://stackshare.io/pinterest/powering-pinterest-ads-analytics-with-apache-druid">Powering Pinterest Ads Analytics with Apache Druid </a></li> 
+            <li> <a href="https://capgemini.github.io/react/how-fast-are-your-react-ions/">How fast are your React&amp;#8209;ions </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/api-gateways-history/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: The Future of Cloud Native API Gateways </a></li> 
+            <li> <a href="https://www.elastic.co/blog/improving-response-latency-in-elasticsearch-with-adaptive-replica-selection">Improving Response Latency in Elasticsearch with Adaptive Replica Selection </a></li> 
           
-            <li> <a href="https://www.infoq.com/presentations/react-hooks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: React’s Future - Under the Hook </a></li> 
+            <li> <a href="https://hackernoon.com/graphql-3-years-in-and-lessons-learned-34e8cd3fcfdd?source=rss----3a8144eabfe3---4">GraphQL: 3 Years in, and lessons learned </a></li> 
           
           </ul>
         ]]></description>
-        <pubDate>Fri, 17 Apr 2020 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2020-04-17.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2020-04-17.html</guid>
+        <pubDate>Wed, 09 May 2018 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2018-05-09.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-09.html</guid>
       </item>
       
   </channel>
