@@ -63,7 +63,7 @@ body > header {
     margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 2%;
-    /*what about when the screen is too big? 
+    /*what about when the screen is too big?
     % wise padding will work?*/
     height: 60px;
 }
@@ -148,6 +148,13 @@ main > .intro {
     display: block;
     padding: 15px 0;
 }
+
+.highlight-text{
+    background: #ff0;
+    padding: 2px;
+    font-weight: bold;
+}
+
 
 .intro > .sub-highlight {
     color: blue;
@@ -325,7 +332,7 @@ aside.col {
 .twitter-box {
     border: 2px solid black;
     padding: 10px;
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
     overflow: auto;
 }
 
