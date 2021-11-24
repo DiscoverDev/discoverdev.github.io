@@ -98,6 +98,28 @@
       </item>
       
       <item>
+        <title>DiscoverDev - curated engineering articles for Wed, 24 Nov 2021</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://engineering.salesforce.com/carbonj-a-high-performance-high-scale-drop-in-replacement-for-carbon-cache-and-carbon-relay-d9599371c51a?source=rss----cfe1120185d3---4">CarbonJ: A high performance, high-scale, drop-in replacement for carbon-cache and carbon-relay </a></li> 
+          
+            <li> <a href="https://eng.lyft.com/mobile-performance-lyft-68d0e5185024?source=rss----25cd379abb8---4">Mobile Performance @ Lyft </a></li> 
+          
+            <li> <a href="https://www.infoq.com/presentations/ebpf-cloud-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global">Presentation: eBPF - Superpowers for Cloud Native Operations </a></li> 
+          
+            <li> <a href="https://ably.com/blog/crdts-distributed-data-consistency-challenges/">How do CRDTs solve distributed data consistency challenges? </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2021/10/grammar-correction-as-you-type-on-pixel.html">Grammar Correction as You Type, on Pixel 6 </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Wed, 24 Nov 2021 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2021-11-24.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2021-11-24.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 19 Jun 2018</title>
         <description><![CDATA[
           <ul>
@@ -267,34 +289,6 @@
         <pubDate>Wed, 23 Oct 2019 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2019-10-23.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-23.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 09 May 2018</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://towardsdatascience.com/b-tree-balanced-and-multi-branched-52ef308d67a?source=rss----7f60cf5620c9---4">B-tree: balanced and multi-branched. </a></li> 
-          
-            <li> <a href="http://research.googleblog.com/2018/05/the-question-of-quantum-supremacy.html">The Question of Quantum Supremacy </a></li> 
-          
-            <li> <a href="https://blog.cloudflare.com/dogfooding-edge-workers/">Dogfooding Cloudflare Workers </a></li> 
-          
-            <li> <a href="https://www.toptal.com/devops/effective-ci-cd-deployment-pipeline">How to Build an Effective Initial Deployment Pipeline </a></li> 
-          
-            <li> <a href="https://hackernoon.com/consensus-mechanisms-as-detailed-and-concise-as-possible-b3da79f85f66?source=rss----3a8144eabfe3---4">Consensus Mechanisms — As Detailed and Concise as possible! </a></li> 
-          
-            <li> <a href="https://capgemini.github.io/react/how-fast-are-your-react-ions/">How fast are your React&amp;#8209;ions </a></li> 
-          
-            <li> <a href="https://www.elastic.co/blog/improving-response-latency-in-elasticsearch-with-adaptive-replica-selection">Improving Response Latency in Elasticsearch with Adaptive Replica Selection </a></li> 
-          
-            <li> <a href="https://hackernoon.com/graphql-3-years-in-and-lessons-learned-34e8cd3fcfdd?source=rss----3a8144eabfe3---4">GraphQL: 3 Years in, and lessons learned </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 09 May 2018 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2018-05-09.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2018-05-09.html</guid>
       </item>
       
   </channel>
