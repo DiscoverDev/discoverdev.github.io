@@ -66,6 +66,28 @@
       </item>
       
       <item>
+        <title>DiscoverDev - curated engineering articles for Fri, 07 Jan 2022</title>
+        <description><![CDATA[
+          <ul>
+          
+            <li> <a href="https://research.fb.com/blog/2021/12/shops-on-facebook-and-instagram-understanding-relationships-between-products-to-improve-buyer-and-seller-experience/">Shops on Facebook and Instagram: Understanding relationships between products to improve buyer and seller experience </a></li> 
+          
+            <li> <a href="http://ai.googleblog.com/2021/12/general-and-scalable-parallelization.html">General and Scalable Parallelization for Neural Networks </a></li> 
+          
+            <li> <a href="https://8thlight.com/blog/8th-light/2021/12/08/8lu-queuing-theory-software-performance.html">Video: Understanding Queuing Theory and Software Performance </a></li> 
+          
+            <li> <a href="https://netflixtechblog.com/snaring-the-bad-folks-66726a1f4c80?source=rss----2615bd06b42e---4">Snaring the Bad Folks </a></li> 
+          
+            <li> <a href="https://developer.nvidia.com/blog/deep-learning-vs-machine-learning-challenger-models-for-default-risk-with-explainability/">Deep Learning vs Machine Learning Challenger Models for Default Risk with Explainability </a></li> 
+          
+          </ul>
+        ]]></description>
+        <pubDate>Fri, 07 Jan 2022 00:00:00</pubDate>
+        <link>http://discoverdev.io/archive/2022-01-07.html</link>
+        <guid isPermaLink="true">http://discoverdev.io/archive/2022-01-07.html</guid>
+      </item>
+      
+      <item>
         <title>DiscoverDev - curated engineering articles for Tue, 20 Mar 2018</title>
         <description><![CDATA[
           <ul>
@@ -261,34 +283,6 @@
         <pubDate>Thu, 27 Feb 2020 00:00:00</pubDate>
         <link>http://discoverdev.io/archive/2020-02-27.html</link>
         <guid isPermaLink="true">http://discoverdev.io/archive/2020-02-27.html</guid>
-      </item>
-      
-      <item>
-        <title>DiscoverDev - curated engineering articles for Wed, 23 Oct 2019</title>
-        <description><![CDATA[
-          <ul>
-          
-            <li> <a href="https://itnext.io/on-premise-ha-kubernetes-cluster-15e41f18bd12?source=rss----5b301f10ddcd---4">On-premise HA Kubernetes cluster </a></li> 
-          
-            <li> <a href="https://8thlight.com/blog/colin-jones/2019/10/15/escape-hatches-principles-vs-guarantees.html">Escape Hatches: Principles vs. Guarantees </a></li> 
-          
-            <li> <a href="https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/">Migration Complete – Amazon’s Consumer Business Just Turned off its Final Oracle Database </a></li> 
-          
-            <li> <a href="https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee?source=rss----2615bd06b42e---4">Delta: A Data Synchronization and Enrichment Platform </a></li> 
-          
-            <li> <a href="https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/">The perfect architecture flow for your next Node.js project </a></li> 
-          
-            <li> <a href="https://www.toptal.com/front-end/micro-frontends-strengths-benefits">The Strengths and Benefits of Micro Frontends </a></li> 
-          
-            <li> <a href="https://nordicapis.com/the-need-for-an-api-composition-layer/">The Need for an API Composition Layer </a></li> 
-          
-            <li> <a href="https://towardsdatascience.com/categorical-embedding-and-transfer-learning-dd3c4af6345d?source=rss----7f60cf5620c9---4">Categorical Embedding and Transfer Learning </a></li> 
-          
-          </ul>
-        ]]></description>
-        <pubDate>Wed, 23 Oct 2019 00:00:00</pubDate>
-        <link>http://discoverdev.io/archive/2019-10-23.html</link>
-        <guid isPermaLink="true">http://discoverdev.io/archive/2019-10-23.html</guid>
       </item>
       
   </channel>
